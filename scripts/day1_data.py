@@ -9,10 +9,22 @@ DAY_1 = [
             "hi": "राष्ट्रीय हिंदी दिवस किस तारीख को मनाया जाता है?"
         },
         "options": [
-            {"en": "14 September", "hi": "14 सितंबर"},
-            {"en": "10 January", "hi": "10 जनवरी"},
-            {"en": "14 November", "hi": "14 नवंबर"},
-            {"en": "28 February", "hi": "28 फरवरी"}
+            {
+                "en": "14 September",
+                "hi": "14 सितंबर"
+            },
+            {
+                "en": "10 January",
+                "hi": "10 जनवरी"
+            },
+            {
+                "en": "14 November",
+                "hi": "14 नवंबर"
+            },
+            {
+                "en": "28 February",
+                "hi": "28 फरवरी"
+            }
         ],
         "answerIndex": 0,
         "hint": {
@@ -32,10 +44,22 @@ DAY_1 = [
             "hi": "भारत का मंगलयान (Mars Orbiter Mission) कहाँ से प्रक्षेपित किया गया था?"
         },
         "options": [
-            {"en": "Thumba, Thiruvananthapuram", "hi": "थुंबा, तिरुवनंतपुरम"},
-            {"en": "Sriharikota", "hi": "श्रीहरिकोटा"},
-            {"en": "Chandipur, Odisha", "hi": "चांदीपुर, ओडिशा"},
-            {"en": "Dr. APJ Abdul Kalam Island", "hi": "डॉ. एपीजे अब्दुल कलाम द्वीप"}
+            {
+                "en": "Thumba, Thiruvananthapuram",
+                "hi": "थुंबा, तिरुवनंतपुरम"
+            },
+            {
+                "en": "Sriharikota",
+                "hi": "श्रीहरिकोटा"
+            },
+            {
+                "en": "Chandipur, Odisha",
+                "hi": "चांदीपुर, ओडिशा"
+            },
+            {
+                "en": "Dr. APJ Abdul Kalam Island",
+                "hi": "डॉ. एपीजे अब्दुल कलाम द्वीप"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -55,10 +79,22 @@ DAY_1 = [
             "hi": "भारत के पहले राष्ट्रीय रक्षा विश्वविद्यालय की आधारशिला कहाँ रखी गई थी?"
         },
         "options": [
-            {"en": "Khadakwasla, Pune", "hi": "खड़कवासला, पुणे"},
-            {"en": "Dehradun, Uttarakhand", "hi": "देहरादून, उत्तराखंड"},
-            {"en": "Binola, Gurgaon", "hi": "बिनोला, गुड़गाँव"},
-            {"en": "Mhow, Madhya Pradesh", "hi": "महू, मध्य प्रदेश"}
+            {
+                "en": "Khadakwasla, Pune",
+                "hi": "खड़कवासला, पुणे"
+            },
+            {
+                "en": "Dehradun, Uttarakhand",
+                "hi": "देहरादून, उत्तराखंड"
+            },
+            {
+                "en": "Binola, Gurgaon",
+                "hi": "बिनोला, गुड़गाँव"
+            },
+            {
+                "en": "Mhow, Madhya Pradesh",
+                "hi": "महू, मध्य प्रदेश"
+            }
         ],
         "answerIndex": 2,
         "hint": {
@@ -78,10 +114,22 @@ DAY_1 = [
             "hi": "स्वच्छ भारत मिशन किस वर्ष शुरू किया गया था?"
         },
         "options": [
-            {"en": "2014", "hi": "2014"},
-            {"en": "2015", "hi": "2015"},
-            {"en": "2016", "hi": "2016"},
-            {"en": "2019", "hi": "2019"}
+            {
+                "en": "2014",
+                "hi": "2014"
+            },
+            {
+                "en": "2015",
+                "hi": "2015"
+            },
+            {
+                "en": "2016",
+                "hi": "2016"
+            },
+            {
+                "en": "2019",
+                "hi": "2019"
+            }
         ],
         "answerIndex": 0,
         "hint": {
@@ -101,10 +149,22 @@ DAY_1 = [
             "hi": "दादासाहेब फाल्के पुरस्कार किस क्षेत्र में दिया जाता है?"
         },
         "options": [
-            {"en": "Literature", "hi": "साहित्य"},
-            {"en": "Cinema", "hi": "सिनेमा"},
-            {"en": "Classical Music", "hi": "शास्त्रीय संगीत"},
-            {"en": "Journalism", "hi": "पत्रकारिता"}
+            {
+                "en": "Literature",
+                "hi": "साहित्य"
+            },
+            {
+                "en": "Cinema",
+                "hi": "सिनेमा"
+            },
+            {
+                "en": "Classical Music",
+                "hi": "शास्त्रीय संगीत"
+            },
+            {
+                "en": "Journalism",
+                "hi": "पत्रकारिता"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -124,10 +184,22 @@ DAY_1 = [
             "hi": "दादासाहेब फाल्के पुरस्कार की स्थापना किस वर्ष हुई थी?"
         },
         "options": [
-            {"en": "1954", "hi": "1954"},
-            {"en": "1961", "hi": "1961"},
-            {"en": "1969", "hi": "1969"},
-            {"en": "1972", "hi": "1972"}
+            {
+                "en": "1954",
+                "hi": "1954"
+            },
+            {
+                "en": "1961",
+                "hi": "1961"
+            },
+            {
+                "en": "1969",
+                "hi": "1969"
+            },
+            {
+                "en": "1972",
+                "hi": "1972"
+            }
         ],
         "answerIndex": 2,
         "hint": {
@@ -147,10 +219,22 @@ DAY_1 = [
             "hi": "संविधान का कौन-सा अनुच्छेद ग्राम पंचायत से संबंधित है?"
         },
         "options": [
-            {"en": "Article 36", "hi": "अनुच्छेद 36"},
-            {"en": "Article 40", "hi": "अनुच्छेद 40"},
-            {"en": "Article 44", "hi": "अनुच्छेद 44"},
-            {"en": "Article 48", "hi": "अनुच्छेद 48"}
+            {
+                "en": "Article 36",
+                "hi": "अनुच्छेद 36"
+            },
+            {
+                "en": "Article 40",
+                "hi": "अनुच्छेद 40"
+            },
+            {
+                "en": "Article 44",
+                "hi": "अनुच्छेद 44"
+            },
+            {
+                "en": "Article 48",
+                "hi": "अनुच्छेद 48"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -170,10 +254,22 @@ DAY_1 = [
             "hi": "ग्लोबल हंगर इंडेक्स (Global Hunger Index) किस संगठन द्वारा प्रकाशित किया जाता है?"
         },
         "options": [
-            {"en": "IFPRI (Welthungerhilfe & Concern Worldwide)", "hi": "IFPRI (वेल्थुंगरहिल्फ़े और कंसर्न वर्ल्डवाइड)"},
-            {"en": "Food and Agriculture Organization (FAO)", "hi": "खाद्य एवं कृषि संगठन (FAO)"},
-            {"en": "United Nations Development Programme (UNDP)", "hi": "संयुक्त राष्ट्र विकास कार्यक्रम (UNDP)"},
-            {"en": "World Health Organization (WHO)", "hi": "विश्व स्वास्थ्य संगठन (WHO)"}
+            {
+                "en": "IFPRI (Welthungerhilfe & Concern Worldwide)",
+                "hi": "IFPRI (वेल्थुंगरहिल्फ़े और कंसर्न वर्ल्डवाइड)"
+            },
+            {
+                "en": "Food and Agriculture Organization (FAO)",
+                "hi": "खाद्य एवं कृषि संगठन (FAO)"
+            },
+            {
+                "en": "United Nations Development Programme (UNDP)",
+                "hi": "संयुक्त राष्ट्र विकास कार्यक्रम (UNDP)"
+            },
+            {
+                "en": "World Health Organization (WHO)",
+                "hi": "विश्व स्वास्थ्य संगठन (WHO)"
+            }
         ],
         "answerIndex": 0,
         "hint": {
@@ -193,10 +289,22 @@ DAY_1 = [
             "hi": "जनरल मोटर्स (General Motors) किस देश की प्रसिद्ध कार कंपनी है?"
         },
         "options": [
-            {"en": "Germany", "hi": "जर्मनी"},
-            {"en": "Japan", "hi": "जापान"},
-            {"en": "America (USA)", "hi": "अमेरिका (USA)"},
-            {"en": "United Kingdom", "hi": "यूनाइटेड किंगडम"}
+            {
+                "en": "Germany",
+                "hi": "जर्मनी"
+            },
+            {
+                "en": "Japan",
+                "hi": "जापान"
+            },
+            {
+                "en": "America (USA)",
+                "hi": "अमेरिका"
+            },
+            {
+                "en": "United Kingdom",
+                "hi": "यूनाइटेड किंगडम"
+            }
         ],
         "answerIndex": 2,
         "hint": {
@@ -216,10 +324,22 @@ DAY_1 = [
             "hi": "LIC की स्थापना किस वर्ष हुई थी?"
         },
         "options": [
-            {"en": "1948", "hi": "1948"},
-            {"en": "1951", "hi": "1951"},
-            {"en": "1956", "hi": "1956"},
-            {"en": "1964", "hi": "1964"}
+            {
+                "en": "1948",
+                "hi": "1948"
+            },
+            {
+                "en": "1951",
+                "hi": "1951"
+            },
+            {
+                "en": "1956",
+                "hi": "1956"
+            },
+            {
+                "en": "1964",
+                "hi": "1964"
+            }
         ],
         "answerIndex": 2,
         "hint": {
@@ -239,10 +359,22 @@ DAY_1 = [
             "hi": "संविधान का कौन-सा अनुच्छेद संघ की राजभाषा से संबंधित है?"
         },
         "options": [
-            {"en": "Article 324", "hi": "अनुच्छेद 324"},
-            {"en": "Article 343", "hi": "अनुच्छेद 343"},
-            {"en": "Article 352", "hi": "अनुच्छेद 352"},
-            {"en": "Article 368", "hi": "अनुच्छेद 368"}
+            {
+                "en": "Article 324",
+                "hi": "अनुच्छेद 324"
+            },
+            {
+                "en": "Article 343",
+                "hi": "अनुच्छेद 343"
+            },
+            {
+                "en": "Article 352",
+                "hi": "अनुच्छेद 352"
+            },
+            {
+                "en": "Article 368",
+                "hi": "अनुच्छेद 368"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -262,10 +394,22 @@ DAY_1 = [
             "hi": "दिल्ली समझौता (गांधी-इरविन समझौता) किस वर्ष हुआ था?"
         },
         "options": [
-            {"en": "1928", "hi": "1928"},
-            {"en": "1930", "hi": "1930"},
-            {"en": "1931", "hi": "1931"},
-            {"en": "1932", "hi": "1932"}
+            {
+                "en": "1928",
+                "hi": "1928"
+            },
+            {
+                "en": "1930",
+                "hi": "1930"
+            },
+            {
+                "en": "1931",
+                "hi": "1931"
+            },
+            {
+                "en": "1932",
+                "hi": "1932"
+            }
         ],
         "answerIndex": 2,
         "hint": {
@@ -285,10 +429,22 @@ DAY_1 = [
             "hi": "बास्केटबॉल की एक टीम में कोर्ट पर कितने खिलाड़ी खेलते हैं?"
         },
         "options": [
-            {"en": "4 players", "hi": "4 खिलाड़ी"},
-            {"en": "5 players", "hi": "5 खिलाड़ी"},
-            {"en": "6 players", "hi": "6 खिलाड़ी"},
-            {"en": "7 players", "hi": "7 खिलाड़ी"}
+            {
+                "en": "4 players",
+                "hi": "4 खिलाड़ी"
+            },
+            {
+                "en": "5 players",
+                "hi": "5 खिलाड़ी"
+            },
+            {
+                "en": "6 players",
+                "hi": "6 खिलाड़ी"
+            },
+            {
+                "en": "7 players",
+                "hi": "7 खिलाड़ी"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -308,10 +464,22 @@ DAY_1 = [
             "hi": "1930 में पहला फुटबॉल विश्व कप किसने जीता था?"
         },
         "options": [
-            {"en": "Argentina", "hi": "अर्जेंटीना"},
-            {"en": "Brazil", "hi": "ब्राज़ील"},
-            {"en": "Uruguay", "hi": "उरुग्वे"},
-            {"en": "Italy", "hi": "इटली"}
+            {
+                "en": "Argentina",
+                "hi": "अर्जेंटीना"
+            },
+            {
+                "en": "Brazil",
+                "hi": "ब्राज़ील"
+            },
+            {
+                "en": "Uruguay",
+                "hi": "उरुग्वे"
+            },
+            {
+                "en": "Italy",
+                "hi": "इटली"
+            }
         ],
         "answerIndex": 2,
         "hint": {
@@ -331,10 +499,22 @@ DAY_1 = [
             "hi": "दो बिंदुओं के बीच विभवांतर (Potential Difference) मापने के लिए किस उपकरण का प्रयोग किया जाता है?"
         },
         "options": [
-            {"en": "Ammeter", "hi": "एमीटर"},
-            {"en": "Voltmeter", "hi": "वोल्टमीटर"},
-            {"en": "Galvanometer", "hi": "गैल्वेनोमीटर"},
-            {"en": "Potentiometer", "hi": "पोटेंशियोमीटर"}
+            {
+                "en": "Ammeter",
+                "hi": "एमीटर"
+            },
+            {
+                "en": "Voltmeter",
+                "hi": "वोल्टमीटर"
+            },
+            {
+                "en": "Galvanometer",
+                "hi": "गैल्वेनोमीटर"
+            },
+            {
+                "en": "Potentiometer",
+                "hi": "पोटेंशियोमीटर"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -354,10 +534,22 @@ DAY_1 = [
             "hi": "प्राथमिक इंद्रधनुष (Primary Rainbow) में अंदर की ओर कौन-सा रंग होता है?"
         },
         "options": [
-            {"en": "Red", "hi": "लाल"},
-            {"en": "Violet", "hi": "बैंगनी (Violet)"},
-            {"en": "Green", "hi": "हरा"},
-            {"en": "Yellow", "hi": "पीला"}
+            {
+                "en": "Red",
+                "hi": "लाल"
+            },
+            {
+                "en": "Violet",
+                "hi": "बैंगनी"
+            },
+            {
+                "en": "Green",
+                "hi": "हरा"
+            },
+            {
+                "en": "Yellow",
+                "hi": "पीला"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -377,10 +569,22 @@ DAY_1 = [
             "hi": "भारत की पहली SpaceTech Unicorn कंपनी कौन-सी है?"
         },
         "options": [
-            {"en": "Agnikul Cosmos", "hi": "अग्निकुल कॉसमॉस"},
-            {"en": "Pixxel", "hi": "पिक्सेल"},
-            {"en": "Skyroot Aerospace", "hi": "स्काईरूट एयरोस्पेस"},
-            {"en": "Bellatrix Aerospace", "hi": "बेलाट्रिक्स एयरोस्पेस"}
+            {
+                "en": "Agnikul Cosmos",
+                "hi": "अग्निकुल कॉसमॉस"
+            },
+            {
+                "en": "Pixxel",
+                "hi": "पिक्सेल"
+            },
+            {
+                "en": "Skyroot Aerospace",
+                "hi": "स्काईरूट एयरोस्पेस"
+            },
+            {
+                "en": "Bellatrix Aerospace",
+                "hi": "बेलाट्रिक्स एयरोस्पेस"
+            }
         ],
         "answerIndex": 2,
         "hint": {
@@ -400,10 +604,22 @@ DAY_1 = [
             "hi": "'कबूलियत' और 'पट्टा' प्रणाली किसने शुरू की थी?"
         },
         "options": [
-            {"en": "Alauddin Khilji", "hi": "अलाउद्दीन खिलजी"},
-            {"en": "Sher Shah Suri", "hi": "शेरशाह सूरी"},
-            {"en": "Akbar", "hi": "अकबर"},
-            {"en": "Firoz Shah Tughlaq", "hi": "फिरोज़ शाह तुगलक"}
+            {
+                "en": "Alauddin Khilji",
+                "hi": "अलाउद्दीन खिलजी"
+            },
+            {
+                "en": "Sher Shah Suri",
+                "hi": "शेरशाह सूरी"
+            },
+            {
+                "en": "Akbar",
+                "hi": "अकबर"
+            },
+            {
+                "en": "Firoz Shah Tughlaq",
+                "hi": "फिरोज़ शाह तुगलक"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -423,10 +639,22 @@ DAY_1 = [
             "hi": "केंचुए (Earthworms) और जोंक (Leeches) किस संघ (Phylum) से संबंधित हैं?"
         },
         "options": [
-            {"en": "Arthropoda", "hi": "आर्थ्रोपोडा"},
-            {"en": "Nematoda", "hi": "नेमाटोडा"},
-            {"en": "Annelida", "hi": "एनेलिडा (Annelida)"},
-            {"en": "Platyhelminthes", "hi": "प्लैटिहेल्मिन्थीस"}
+            {
+                "en": "Arthropoda",
+                "hi": "आर्थ्रोपोडा"
+            },
+            {
+                "en": "Nematoda",
+                "hi": "नेमाटोडा"
+            },
+            {
+                "en": "Annelida",
+                "hi": "एनेलिडा"
+            },
+            {
+                "en": "Platyhelminthes",
+                "hi": "प्लैटिहेल्मिन्थीस"
+            }
         ],
         "answerIndex": 2,
         "hint": {
@@ -446,10 +674,22 @@ DAY_1 = [
             "hi": "'गोपुरम' (प्रवेश द्वार) किस मंदिर वास्तुकला शैली में पाया जाता है?"
         },
         "options": [
-            {"en": "Nagara Style", "hi": "नागर शैली"},
-            {"en": "Dravidian Style", "hi": "द्रविड़ शैली"},
-            {"en": "Vesara Style", "hi": "वेसर शैली"},
-            {"en": "Kalinga Style", "hi": "कलिंग शैली"}
+            {
+                "en": "Nagara Style",
+                "hi": "नागर शैली"
+            },
+            {
+                "en": "Dravidian Style",
+                "hi": "द्रविड़ शैली"
+            },
+            {
+                "en": "Vesara Style",
+                "hi": "वेसर शैली"
+            },
+            {
+                "en": "Kalinga Style",
+                "hi": "कलिंग शैली"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -469,10 +709,22 @@ DAY_1 = [
             "hi": "विस्थापन (Displacement) की SI इकाई क्या है?"
         },
         "options": [
-            {"en": "Centimeter", "hi": "सेंटीमीटर"},
-            {"en": "Meter", "hi": "मीटर"},
-            {"en": "Kilometer", "hi": "किलोमीटर"},
-            {"en": "Meter per second", "hi": "मीटर प्रति सेकंड"}
+            {
+                "en": "Centimeter",
+                "hi": "सेंटीमीटर"
+            },
+            {
+                "en": "Meter",
+                "hi": "मीटर"
+            },
+            {
+                "en": "Kilometer",
+                "hi": "किलोमीटर"
+            },
+            {
+                "en": "Meter per second",
+                "hi": "मीटर प्रति सेकंड"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -492,10 +744,22 @@ DAY_1 = [
             "hi": "मोपालाह विद्रोह (1920–22) का नेतृत्व किसने किया था?"
         },
         "options": [
-            {"en": "Ali Musliyar", "hi": "अली मुसलियार"},
-            {"en": "Sayyid Ahmad Khan", "hi": "सैयद अहमद खान"},
-            {"en": "Maulana Abul Kalam Azad", "hi": "मौलाना अबुल कलाम आज़ाद"},
-            {"en": "Shaukat Ali", "hi": "शौकत अली"}
+            {
+                "en": "Ali Musliyar",
+                "hi": "अली मुसलियार"
+            },
+            {
+                "en": "Sayyid Ahmad Khan",
+                "hi": "सैयद अहमद खान"
+            },
+            {
+                "en": "Maulana Abul Kalam Azad",
+                "hi": "मौलाना अबुल कलाम आज़ाद"
+            },
+            {
+                "en": "Shaukat Ali",
+                "hi": "शौकत अली"
+            }
         ],
         "answerIndex": 0,
         "hint": {
@@ -515,10 +779,22 @@ DAY_1 = [
             "hi": "संघ संविधान समिति (Union Constitution Committee) के अध्यक्ष कौन थे?"
         },
         "options": [
-            {"en": "Dr. B. R. Ambedkar", "hi": "डॉ. बी. आर. अंबेडकर"},
-            {"en": "Sardar Vallabhbhai Patel", "hi": "सरदार वल्लभभाई पटेल"},
-            {"en": "Jawaharlal Nehru", "hi": "जवाहरलाल नेहरू"},
-            {"en": "Dr. Rajendra Prasad", "hi": "डॉ. राजेन्द्र प्रसाद"}
+            {
+                "en": "Dr. B. R. Ambedkar",
+                "hi": "डॉ. बी. आर. अंबेडकर"
+            },
+            {
+                "en": "Sardar Vallabhbhai Patel",
+                "hi": "सरदार वल्लभभाई पटेल"
+            },
+            {
+                "en": "Jawaharlal Nehru",
+                "hi": "जवाहरलाल नेहरू"
+            },
+            {
+                "en": "Dr. Rajendra Prasad",
+                "hi": "डॉ. राजेन्द्र प्रसाद"
+            }
         ],
         "answerIndex": 2,
         "hint": {
@@ -538,10 +814,22 @@ DAY_1 = [
             "hi": "टोड़ा (Toda) जनजाति किस राज्य में पाई जाती है?"
         },
         "options": [
-            {"en": "Kerala", "hi": "केरल"},
-            {"en": "Tamil Nadu", "hi": "तमिलनाडु"},
-            {"en": "Karnataka", "hi": "कर्नाटक"},
-            {"en": "Odisha", "hi": "ओडिशा"}
+            {
+                "en": "Kerala",
+                "hi": "केरल"
+            },
+            {
+                "en": "Tamil Nadu",
+                "hi": "तमिलनाडु"
+            },
+            {
+                "en": "Karnataka",
+                "hi": "कर्नाटक"
+            },
+            {
+                "en": "Odisha",
+                "hi": "ओडिशा"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -561,10 +849,22 @@ DAY_1 = [
             "hi": "कोलडैम (Koldam) परियोजना किस नदी पर स्थित है?"
         },
         "options": [
-            {"en": "Beas River", "hi": "ब्यास नदी"},
-            {"en": "Chenab River", "hi": "चिनाब नदी"},
-            {"en": "Sutlej River", "hi": "सतलुज नदी"},
-            {"en": "Ravi River", "hi": "रावी नदी"}
+            {
+                "en": "Beas River",
+                "hi": "ब्यास नदी"
+            },
+            {
+                "en": "Chenab River",
+                "hi": "चिनाब नदी"
+            },
+            {
+                "en": "Sutlej River",
+                "hi": "सतलुज नदी"
+            },
+            {
+                "en": "Ravi River",
+                "hi": "रावी नदी"
+            }
         ],
         "answerIndex": 2,
         "hint": {
@@ -584,10 +884,22 @@ DAY_1 = [
             "hi": "ऋग्वेद के मंत्रों/ऋचाओं का पाठ करने वाले ऋषि को क्या कहा जाता है?"
         },
         "options": [
-            {"en": "Hotri", "hi": "होतृ (Hotri)"},
-            {"en": "Udgatri", "hi": "उद्गातृ (Udgatri)"},
-            {"en": "Adhvaryu", "hi": "अध्वर्यु (Adhvaryu)"},
-            {"en": "Brahma", "hi": "ब्रह्मा (Brahma)"},
+            {
+                "en": "Hotri",
+                "hi": "होतृ"
+            },
+            {
+                "en": "Udgatri",
+                "hi": "उद्गातृ"
+            },
+            {
+                "en": "Adhvaryu",
+                "hi": "अध्वर्यु"
+            },
+            {
+                "en": "Brahma",
+                "hi": "ब्रह्मा"
+            }
         ],
         "answerIndex": 0,
         "hint": {
@@ -607,10 +919,22 @@ DAY_1 = [
             "hi": "प्रथम विश्व युद्ध के दौरान निम्न में से कौन-सा देश 'Central Powers' का सदस्य नहीं था?"
         },
         "options": [
-            {"en": "Germany", "hi": "जर्मनी"},
-            {"en": "Austria-Hungary", "hi": "ऑस्ट्रिया-हंगरी"},
-            {"en": "Ottoman Empire", "hi": "ओटोमन साम्राज्य"},
-            {"en": "Italy", "hi": "इटली"}
+            {
+                "en": "Germany",
+                "hi": "जर्मनी"
+            },
+            {
+                "en": "Austria-Hungary",
+                "hi": "ऑस्ट्रिया-हंगरी"
+            },
+            {
+                "en": "Ottoman Empire",
+                "hi": "ओटोमन साम्राज्य"
+            },
+            {
+                "en": "Italy",
+                "hi": "इटली"
+            }
         ],
         "answerIndex": 3,
         "hint": {
@@ -630,10 +954,22 @@ DAY_1 = [
             "hi": "किस ब्रिटिश व्यक्ति को 'Harbinger of the Future' कहा जाता था?"
         },
         "options": [
-            {"en": "Warren Hastings", "hi": "वॉरेन हेस्टिंग्स"},
-            {"en": "Robert Clive", "hi": "रॉबर्ट क्लाइव"},
-            {"en": "Lord Dalhousie", "hi": "लॉर्ड डलहौजी"},
-            {"en": "Lord Wellesley", "hi": "लॉर्ड वेलेजली"}
+            {
+                "en": "Warren Hastings",
+                "hi": "वॉरेन हेस्टिंग्स"
+            },
+            {
+                "en": "Robert Clive",
+                "hi": "रॉबर्ट क्लाइव"
+            },
+            {
+                "en": "Lord Dalhousie",
+                "hi": "लॉर्ड डलहौजी"
+            },
+            {
+                "en": "Lord Wellesley",
+                "hi": "लॉर्ड वेलेजली"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -653,10 +989,22 @@ DAY_1 = [
             "hi": "'Rise of the Maratha Power' पुस्तक किसने लिखी थी?"
         },
         "options": [
-            {"en": "Bal Gangadhar Tilak", "hi": "बाल गंगाधर तिलक"},
-            {"en": "Gopal Krishna Gokhale", "hi": "गोपाल कृष्ण गोखले"},
-            {"en": "M. G. Ranade", "hi": "एम. जी. रानाडे (M. G. Ranade)"},
-            {"en": "V. D. Savarkar", "hi": "वी. डी. सावरकर"}
+            {
+                "en": "Bal Gangadhar Tilak",
+                "hi": "बाल गंगाधर तिलक"
+            },
+            {
+                "en": "Gopal Krishna Gokhale",
+                "hi": "गोपाल कृष्ण गोखले"
+            },
+            {
+                "en": "M. G. Ranade",
+                "hi": "एम. जी. रानाडे"
+            },
+            {
+                "en": "V. D. Savarkar",
+                "hi": "वी. डी. सावरकर"
+            }
         ],
         "answerIndex": 2,
         "hint": {
@@ -676,10 +1024,22 @@ DAY_1 = [
             "hi": "किस प्राकृतिक क्षेत्र को 'प्राकृतिक प्राणी उद्यान' (Natural Zoological Park) कहा जाता है?"
         },
         "options": [
-            {"en": "Taiga", "hi": "टैगा"},
-            {"en": "Savanna", "hi": "सवाना (Savanna)"},
-            {"en": "Tundra", "hi": "टुंड्रा"},
-            {"en": "Pampas", "hi": "पंपास"}
+            {
+                "en": "Taiga",
+                "hi": "टैगा"
+            },
+            {
+                "en": "Savanna",
+                "hi": "सवाना"
+            },
+            {
+                "en": "Tundra",
+                "hi": "टुंड्रा"
+            },
+            {
+                "en": "Pampas",
+                "hi": "पंपास"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -699,10 +1059,22 @@ DAY_1 = [
             "hi": "कौन-सी मिश्रधातु अपने नाम के बावजूद चाँदी (Silver) नहीं रखती है?"
         },
         "options": [
-            {"en": "Sterling Silver", "hi": "स्टर्लिंग सिल्वर"},
-            {"en": "German Silver", "hi": "जर्मन सिल्वर (German Silver)"},
-            {"en": "Coin Silver", "hi": "कॉइन सिल्वर"},
-            {"en": "Britannia Silver", "hi": "ब्रिटैनिया सिल्वर"}
+            {
+                "en": "Sterling Silver",
+                "hi": "स्टर्लिंग सिल्वर"
+            },
+            {
+                "en": "German Silver",
+                "hi": "जर्मन सिल्वर"
+            },
+            {
+                "en": "Coin Silver",
+                "hi": "कॉइन सिल्वर"
+            },
+            {
+                "en": "Britannia Silver",
+                "hi": "ब्रिटैनिया सिल्वर"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -722,10 +1094,22 @@ DAY_1 = [
             "hi": "डोनबास (Donbas) क्षेत्र किसके उत्पादन के लिए प्रसिद्ध है?"
         },
         "options": [
-            {"en": "Iron Ore", "hi": "लौह अयस्क"},
-            {"en": "Coal", "hi": "कोयला (Coal)"},
-            {"en": "Petroleum", "hi": "पेट्रोलियम"},
-            {"en": "Uranium", "hi": "यूरेनियम"}
+            {
+                "en": "Iron Ore",
+                "hi": "लौह अयस्क"
+            },
+            {
+                "en": "Coal",
+                "hi": "कोयला"
+            },
+            {
+                "en": "Petroleum",
+                "hi": "पेट्रोलियम"
+            },
+            {
+                "en": "Uranium",
+                "hi": "यूरेनियम"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -745,10 +1129,22 @@ DAY_1 = [
             "hi": "किस महाद्वीप को 'अंधकारमय महाद्वीप' (Dark Continent) या 'भविष्य का महाद्वीप' कहा जाता है?"
         },
         "options": [
-            {"en": "South America", "hi": "दक्षिण अमेरिका"},
-            {"en": "Africa", "hi": "अफ्रीका"},
-            {"en": "Australia", "hi": "ऑस्ट्रेलिया"},
-            {"en": "Antarctica", "hi": "अंटार्कटिका"}
+            {
+                "en": "South America",
+                "hi": "दक्षिण अमेरिका"
+            },
+            {
+                "en": "Africa",
+                "hi": "अफ्रीका"
+            },
+            {
+                "en": "Australia",
+                "hi": "ऑस्ट्रेलिया"
+            },
+            {
+                "en": "Antarctica",
+                "hi": "अंटार्कटिका"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -768,10 +1164,22 @@ DAY_1 = [
             "hi": "दूध गंगा नदी किस राज्य या केंद्र शासित प्रदेश में बहती है?"
         },
         "options": [
-            {"en": "Himachal Pradesh", "hi": "हिमाचल प्रदेश"},
-            {"en": "Uttarakhand", "hi": "उत्तराखंड"},
-            {"en": "Jammu & Kashmir", "hi": "जम्मू और कश्मीर"},
-            {"en": "Ladakh", "hi": "लद्दाख"}
+            {
+                "en": "Himachal Pradesh",
+                "hi": "हिमाचल प्रदेश"
+            },
+            {
+                "en": "Uttarakhand",
+                "hi": "उत्तराखंड"
+            },
+            {
+                "en": "Jammu & Kashmir",
+                "hi": "जम्मू और कश्मीर"
+            },
+            {
+                "en": "Ladakh",
+                "hi": "लद्दाख"
+            }
         ],
         "answerIndex": 2,
         "hint": {
@@ -791,10 +1199,22 @@ DAY_1 = [
             "hi": "'Monsoon' शब्द की उत्पत्ति किस भाषा से हुई है?"
         },
         "options": [
-            {"en": "Persian", "hi": "फारसी"},
-            {"en": "Arabic", "hi": "अरबी (Arabic)"},
-            {"en": "Greek", "hi": "ग्रीक"},
-            {"en": "Latin", "hi": "लैटिन"}
+            {
+                "en": "Persian",
+                "hi": "फारसी"
+            },
+            {
+                "en": "Arabic",
+                "hi": "अरबी"
+            },
+            {
+                "en": "Greek",
+                "hi": "ग्रीक"
+            },
+            {
+                "en": "Latin",
+                "hi": "लैटिन"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -814,10 +1234,22 @@ DAY_1 = [
             "hi": "भारत में ग्रीष्मकालीन मानसून सबसे पहले कहाँ पहुँचता है?"
         },
         "options": [
-            {"en": "Coromandel Coast", "hi": "कोरोमंडल तट"},
-            {"en": "Kerala Coast", "hi": "केरल तट"},
-            {"en": "Konkan Coast", "hi": "कोंकण तट"},
-            {"en": "Gujarat Coast", "hi": "गुजरात तट"}
+            {
+                "en": "Coromandel Coast",
+                "hi": "कोरोमंडल तट"
+            },
+            {
+                "en": "Kerala Coast",
+                "hi": "केरल तट"
+            },
+            {
+                "en": "Konkan Coast",
+                "hi": "कोंकण तट"
+            },
+            {
+                "en": "Gujarat Coast",
+                "hi": "गुजरात तट"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -837,10 +1269,22 @@ DAY_1 = [
             "hi": "जयकवाड़ी परियोजना (Jayakwadi Project) किस नदी पर स्थित है?"
         },
         "options": [
-            {"en": "Krishna River", "hi": "कृष्णा नदी"},
-            {"en": "Narmada River", "hi": "नर्मदा नदी"},
-            {"en": "Godavari River", "hi": "गोदावरी नदी"},
-            {"en": "Tapi River", "hi": "तापी नदी"}
+            {
+                "en": "Krishna River",
+                "hi": "कृष्णा नदी"
+            },
+            {
+                "en": "Narmada River",
+                "hi": "नर्मदा नदी"
+            },
+            {
+                "en": "Godavari River",
+                "hi": "गोदावरी नदी"
+            },
+            {
+                "en": "Tapi River",
+                "hi": "तापी नदी"
+            }
         ],
         "answerIndex": 2,
         "hint": {
@@ -860,10 +1304,22 @@ DAY_1 = [
             "hi": "मानस राष्ट्रीय उद्यान कहाँ स्थित है?"
         },
         "options": [
-            {"en": "West Bengal", "hi": "पश्चिम बंगाल"},
-            {"en": "Assam", "hi": "असम"},
-            {"en": "Arunachal Pradesh", "hi": "अरुणाचल प्रदेश"},
-            {"en": "Meghalaya", "hi": "मेघालय"}
+            {
+                "en": "West Bengal",
+                "hi": "पश्चिम बंगाल"
+            },
+            {
+                "en": "Assam",
+                "hi": "असम"
+            },
+            {
+                "en": "Arunachal Pradesh",
+                "hi": "अरुणाचल प्रदेश"
+            },
+            {
+                "en": "Meghalaya",
+                "hi": "मेघालय"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -883,10 +1339,22 @@ DAY_1 = [
             "hi": "भारत का सबसे पुराना राष्ट्रीय उद्यान कौन-सा है?"
         },
         "options": [
-            {"en": "Kaziranga National Park", "hi": "काजीरंगा राष्ट्रीय उद्यान"},
-            {"en": "Gir National Park", "hi": "गिर राष्ट्रीय उद्यान"},
-            {"en": "Jim Corbett National Park", "hi": "जिम कॉर्बेट राष्ट्रीय उद्यान"},
-            {"en": "Kanha National Park", "hi": "कान्हा राष्ट्रीय उद्यान"}
+            {
+                "en": "Kaziranga National Park",
+                "hi": "काजीरंगा राष्ट्रीय उद्यान"
+            },
+            {
+                "en": "Gir National Park",
+                "hi": "गिर राष्ट्रीय उद्यान"
+            },
+            {
+                "en": "Jim Corbett National Park",
+                "hi": "जिम कॉर्बेट राष्ट्रीय उद्यान"
+            },
+            {
+                "en": "Kanha National Park",
+                "hi": "कान्हा राष्ट्रीय उद्यान"
+            }
         ],
         "answerIndex": 2,
         "hint": {
@@ -906,10 +1374,22 @@ DAY_1 = [
             "hi": "एन्नोर बंदरगाह (Ennore Port) कहाँ स्थित है?"
         },
         "options": [
-            {"en": "Andhra Pradesh", "hi": "आंध्र प्रदेश"},
-            {"en": "Tamil Nadu", "hi": "तमिलनाडु"},
-            {"en": "Kerala", "hi": "केरल"},
-            {"en": "Odisha", "hi": "ओडिशा"}
+            {
+                "en": "Andhra Pradesh",
+                "hi": "आंध्र प्रदेश"
+            },
+            {
+                "en": "Tamil Nadu",
+                "hi": "तमिलनाडु"
+            },
+            {
+                "en": "Kerala",
+                "hi": "केरल"
+            },
+            {
+                "en": "Odisha",
+                "hi": "ओडिशा"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -929,10 +1409,22 @@ DAY_1 = [
             "hi": "शनि ग्रह के सबसे बड़े उपग्रह (चंद्रमा) का नाम क्या है?"
         },
         "options": [
-            {"en": "Ganymede", "hi": "गैनिमीड"},
-            {"en": "Titan", "hi": "टाइटन (Titan)"},
-            {"en": "Europa", "hi": "यूरोपा"},
-            {"en": "Callisto", "hi": "कैलिस्टो"}
+            {
+                "en": "Ganymede",
+                "hi": "गैनिमीड"
+            },
+            {
+                "en": "Titan",
+                "hi": "टाइटन"
+            },
+            {
+                "en": "Europa",
+                "hi": "यूरोपा"
+            },
+            {
+                "en": "Callisto",
+                "hi": "कैलिस्टो"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -952,10 +1444,22 @@ DAY_1 = [
             "hi": "किस शहर को 'कॉफी मार्केट' (Coffee Market of the World) के नाम से जाना जाता है?"
         },
         "options": [
-            {"en": "Rio de Janeiro", "hi": "रियो डी जेनेरो"},
-            {"en": "Santos", "hi": "सैंटोस"},
-            {"en": "Sao Paulo", "hi": "साओ पाउलो (Sao Paulo)"},
-            {"en": "Bogota", "hi": "बोगोटा"}
+            {
+                "en": "Rio de Janeiro",
+                "hi": "रियो डी जेनेरो"
+            },
+            {
+                "en": "Santos",
+                "hi": "सैंटोस"
+            },
+            {
+                "en": "Sao Paulo",
+                "hi": "साओ पाउलो"
+            },
+            {
+                "en": "Bogota",
+                "hi": "बोगोटा"
+            }
         ],
         "answerIndex": 2,
         "hint": {
@@ -975,10 +1479,22 @@ DAY_1 = [
             "hi": "गैशरब्रुम (Gasherbrum) पर्वत शिखर किस देश में स्थित है?"
         },
         "options": [
-            {"en": "Nepal", "hi": "नेपाल"},
-            {"en": "Pakistan (Gilgit-Baltistan / Karakoram)", "hi": "पाकिस्तान (काराकोरम श्रेणी)"},
-            {"en": "China (Tibet)", "hi": "चीन (तिब्बत)"},
-            {"en": "Bhutan", "hi": "भूटान"}
+            {
+                "en": "Nepal",
+                "hi": "नेपाल"
+            },
+            {
+                "en": "Pakistan (Gilgit-Baltistan / Karakoram)",
+                "hi": "पाकिस्तान (काराकोरम श्रेणी)"
+            },
+            {
+                "en": "China (Tibet)",
+                "hi": "चीन (तिब्बत)"
+            },
+            {
+                "en": "Bhutan",
+                "hi": "भूटान"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -998,10 +1514,22 @@ DAY_1 = [
             "hi": "कोलेरू झील (Kolleru Lake) कहाँ स्थित है?"
         },
         "options": [
-            {"en": "Tamil Nadu", "hi": "तमिलनाडु"},
-            {"en": "Kerala", "hi": "केरल"},
-            {"en": "Andhra Pradesh", "hi": "आंध्र प्रदेश"},
-            {"en": "Odisha", "hi": "ओडिशा"}
+            {
+                "en": "Tamil Nadu",
+                "hi": "तमिलनाडु"
+            },
+            {
+                "en": "Kerala",
+                "hi": "केरल"
+            },
+            {
+                "en": "Andhra Pradesh",
+                "hi": "आंध्र प्रदेश"
+            },
+            {
+                "en": "Odisha",
+                "hi": "ओडिशा"
+            }
         ],
         "answerIndex": 2,
         "hint": {
@@ -1021,10 +1549,22 @@ DAY_1 = [
             "hi": "किस शहर को 'निषिद्ध शहर' (Forbidden City) कहा जाता है?"
         },
         "options": [
-            {"en": "Beijing", "hi": "बीजिंग"},
-            {"en": "Lhasa (Tibet)", "hi": "ल्हासा (तिब्बत)"},
-            {"en": "Kyoto", "hi": "क्योटो"},
-            {"en": "Kathmandu", "hi": "काठमांडू"}
+            {
+                "en": "Beijing",
+                "hi": "बीजिंग"
+            },
+            {
+                "en": "Lhasa (Tibet)",
+                "hi": "ल्हासा (तिब्बत)"
+            },
+            {
+                "en": "Kyoto",
+                "hi": "क्योटो"
+            },
+            {
+                "en": "Kathmandu",
+                "hi": "काठमांडू"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -1044,10 +1584,22 @@ DAY_1 = [
             "hi": "चारों वेदों में सबसे पुराना वेद कौन-सा है?"
         },
         "options": [
-            {"en": "Samaveda", "hi": "सामवेद"},
-            {"en": "Yajurveda", "hi": "यजुर्वेद"},
-            {"en": "Atharvaveda", "hi": "अथर्ववेद"},
-            {"en": "Rigveda", "hi": "ऋग्वेद"}
+            {
+                "en": "Samaveda",
+                "hi": "सामवेद"
+            },
+            {
+                "en": "Yajurveda",
+                "hi": "यजुर्वेद"
+            },
+            {
+                "en": "Atharvaveda",
+                "hi": "अथर्ववेद"
+            },
+            {
+                "en": "Rigveda",
+                "hi": "ऋग्वेद"
+            }
         ],
         "answerIndex": 3,
         "hint": {
@@ -1067,10 +1619,22 @@ DAY_1 = [
             "hi": "'अष्टाध्यायी' के लेखक कौन हैं?"
         },
         "options": [
-            {"en": "Patanjali", "hi": "पतंजलि"},
-            {"en": "Panini", "hi": "पाणिनि"},
-            {"en": "Kalidasa", "hi": "कालिदास"},
-            {"en": "Katyayana", "hi": "कात्यायन"}
+            {
+                "en": "Patanjali",
+                "hi": "पतंजलि"
+            },
+            {
+                "en": "Panini",
+                "hi": "पाणिनि"
+            },
+            {
+                "en": "Kalidasa",
+                "hi": "कालिदास"
+            },
+            {
+                "en": "Katyayana",
+                "hi": "कात्यायन"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -1090,10 +1654,22 @@ DAY_1 = [
             "hi": "ऋग्वेद में 'अघन्या' शब्द किसके लिए प्रयोग किया गया है?"
         },
         "options": [
-            {"en": "Priest (Brahmin)", "hi": "ब्राह्मण (पुरोहित)"},
-            {"en": "Cow", "hi": "गाय"},
-            {"en": "Guest (Atithi)", "hi": "अतिथि"},
-            {"en": "King (Rajan)", "hi": "राजा"}
+            {
+                "en": "Priest (Brahmin)",
+                "hi": "ब्राह्मण (पुरोहित)"
+            },
+            {
+                "en": "Cow",
+                "hi": "गाय"
+            },
+            {
+                "en": "Guest (Atithi)",
+                "hi": "अतिथि"
+            },
+            {
+                "en": "King (Rajan)",
+                "hi": "राजा"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -1113,10 +1689,22 @@ DAY_1 = [
             "hi": "दस राजाओं का युद्ध (Battle of Ten Kings) किस नदी के किनारे लड़ा गया था?"
         },
         "options": [
-            {"en": "Saraswati", "hi": "सरस्वती"},
-            {"en": "Vitasta (Jhelum)", "hi": "वितस्ता (झेलम)"},
-            {"en": "Parushni (Ravi)", "hi": "परुष्णी (रावी)"},
-            {"en": "Asikni (Chenab)", "hi": "असिकनी (चिनाब)"}
+            {
+                "en": "Saraswati",
+                "hi": "सरस्वती"
+            },
+            {
+                "en": "Vitasta (Jhelum)",
+                "hi": "वितस्ता (झेलम)"
+            },
+            {
+                "en": "Parushni (Ravi)",
+                "hi": "परुष्णी (रावी)"
+            },
+            {
+                "en": "Asikni (Chenab)",
+                "hi": "असिकनी (चिनाब)"
+            }
         ],
         "answerIndex": 2,
         "hint": {
@@ -1136,10 +1724,22 @@ DAY_1 = [
             "hi": "पहला भारतीय साम्राज्य किसने स्थापित किया था?"
         },
         "options": [
-            {"en": "Bimbisara", "hi": "बिंबिसार"},
-            {"en": "Chandragupta Maurya", "hi": "चंद्रगुप्त मौर्य"},
-            {"en": "Ashoka the Great", "hi": "अशोक महान"},
-            {"en": "Samudragupta", "hi": "समुद्रगुप्त"}
+            {
+                "en": "Bimbisara",
+                "hi": "बिंबिसार"
+            },
+            {
+                "en": "Chandragupta Maurya",
+                "hi": "चंद्रगुप्त मौर्य"
+            },
+            {
+                "en": "Ashoka the Great",
+                "hi": "अशोक महान"
+            },
+            {
+                "en": "Samudragupta",
+                "hi": "समुद्रगुप्त"
+            }
         ],
         "answerIndex": 1,
         "hint": {

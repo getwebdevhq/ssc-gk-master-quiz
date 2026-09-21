@@ -10,10 +10,22 @@ DAY_4 = [
             "hi": "निम्नलिखित में से कौन-सी बौद्ध संगीति और उसका स्थान सही सुमेलित है?"
         },
         "options": [
-            {"en": "First Buddhist Council — Rajagriha", "hi": "प्रथम बौद्ध संगीति — राजगृह"},
-            {"en": "Second Buddhist Council — Pataliputra", "hi": "द्वितीय बौद्ध संगीति — पाटलिपुत्र"},
-            {"en": "Third Buddhist Council — Vaishali", "hi": "तृतीय बौद्ध संगीति — वैशाली"},
-            {"en": "Fourth Buddhist Council — Kannauj", "hi": "चतुर्थ बौद्ध संगीति — कन्नौज"}
+            {
+                "en": "First Buddhist Council — Rajagriha",
+                "hi": "प्रथम बौद्ध संगीति — राजगृह"
+            },
+            {
+                "en": "Second Buddhist Council — Pataliputra",
+                "hi": "द्वितीय बौद्ध संगीति — पाटलिपुत्र"
+            },
+            {
+                "en": "Third Buddhist Council — Vaishali",
+                "hi": "तृतीय बौद्ध संगीति — वैशाली"
+            },
+            {
+                "en": "Fourth Buddhist Council — Kannauj",
+                "hi": "चतुर्थ बौद्ध संगीति — कन्नौज"
+            }
         ],
         "answerIndex": 0,
         "hint": {
@@ -34,10 +46,22 @@ DAY_4 = [
             "hi": "कौन-से परिव्राजक भिक्षु ने केवल ज्ञान प्राप्त करने के उद्देश्य से बौद्ध संघ में प्रवेश किया था और उन्हें बुद्ध के प्रमुख शिष्यों में नहीं गिना जाता?"
         },
         "options": [
-            {"en": "Sariputta", "hi": "सारिपुत्त"},
-            {"en": "Moggallana", "hi": "मोग्गल्लान"},
-            {"en": "Susima", "hi": "सुसिम (Susima)"},
-            {"en": "Upali", "hi": "उपालि"}
+            {
+                "en": "Sariputta",
+                "hi": "सारिपुत्त"
+            },
+            {
+                "en": "Moggallana",
+                "hi": "मोग्गल्लान"
+            },
+            {
+                "en": "Susima",
+                "hi": "सुसिम"
+            },
+            {
+                "en": "Upali",
+                "hi": "उपालि"
+            }
         ],
         "answerIndex": 2,
         "hint": {
@@ -58,10 +82,22 @@ DAY_4 = [
             "hi": "कनिष्क ने चतुर्थ बौद्ध संगीति का आयोजन किस स्थान पर करवाया था?"
         },
         "options": [
-            {"en": "Pataliputra, Bihar", "hi": "पाटलिपुत्र, बिहार"},
-            {"en": "Kundalavana, Kashmir", "hi": "कुंडलवन, कश्मीर"},
-            {"en": "Purushapura (Peshawar)", "hi": "पुरुषपुर (पेशावर)"},
-            {"en": "Ujjain, Madhya Pradesh", "hi": "उज्जैन, मध्य प्रदेश"}
+            {
+                "en": "Pataliputra, Bihar",
+                "hi": "पाटलिपुत्र, बिहार"
+            },
+            {
+                "en": "Kundalavana, Kashmir",
+                "hi": "कुंडलवन, कश्मीर"
+            },
+            {
+                "en": "Purushapura (Peshawar)",
+                "hi": "पुरुषपुर (पेशावर)"
+            },
+            {
+                "en": "Ujjain, Madhya Pradesh",
+                "hi": "उज्जैन, मध्य प्रदेश"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -82,10 +118,22 @@ DAY_4 = [
             "hi": "बारींद्र कुमार घोष, अविनाश भट्टाचार्य और भूपेंद्रनाथ दत्त किस आंदोलन से जुड़े थे जब उन्होंने मार्च 1906 में 'युगांतर' समाचार पत्र शुरू किया था?"
         },
         "options": [
-            {"en": "Swadeshi Movement (Bengal Partition)", "hi": "स्वदेशी आंदोलन (बंगाल विभाजन)"},
-            {"en": "Non-Cooperation Movement", "hi": "असहयोग आंदोलन"},
-            {"en": "Civil Disobedience Movement", "hi": "सविनय अवज्ञा आंदोलन"},
-            {"en": "Quit India Movement", "hi": "भारत छोड़ो आंदोलन"}
+            {
+                "en": "Swadeshi Movement (Bengal Partition)",
+                "hi": "स्वदेशी आंदोलन (बंगाल विभाजन)"
+            },
+            {
+                "en": "Non-Cooperation Movement",
+                "hi": "असहयोग आंदोलन"
+            },
+            {
+                "en": "Civil Disobedience Movement",
+                "hi": "सविनय अवज्ञा आंदोलन"
+            },
+            {
+                "en": "Quit India Movement",
+                "hi": "भारत छोड़ो आंदोलन"
+            }
         ],
         "answerIndex": 0,
         "hint": {
@@ -106,10 +154,22 @@ DAY_4 = [
             "hi": "महात्मा गांधी ने 1919 के रॉलेट एक्ट के खिलाफ देशव्यापी सत्याग्रह का आह्वान क्यों किया था?"
         },
         "options": [
-            {"en": "Because it imposed a heavy tax on agricultural land", "hi": "क्योंकि इसने कृषि भूमि पर भारी कर लगाया था"},
-            {"en": "Because of British censorship of the press and detention of political suspects without trial", "hi": "प्रेस पर ब्रिटिश सेंसरशिप और बिना मुकदमे के राजनीतिक बंदियों को जेल भेजने के कारण"},
-            {"en": "Because it banned Indian exports of textiles", "hi": "क्योंकि इसने भारतीय वस्त्र निर्यात पर प्रतिबंध लगा दिया था"},
-            {"en": "Because it abolished separate electorates", "hi": "क्योंकि इसने पृथक निर्वाचन मंडल को समाप्त कर दिया था"}
+            {
+                "en": "Because it imposed a heavy tax on agricultural land",
+                "hi": "क्योंकि इसने कृषि भूमि पर भारी कर लगाया था"
+            },
+            {
+                "en": "Because of British censorship of the press and detention of political suspects without trial",
+                "hi": "प्रेस पर ब्रिटिश सेंसरशिप और बिना मुकदमे के राजनीतिक बंदियों को जेल भेजने के कारण"
+            },
+            {
+                "en": "Because it banned Indian exports of textiles",
+                "hi": "क्योंकि इसने भारतीय वस्त्र निर्यात पर प्रतिबंध लगा दिया था"
+            },
+            {
+                "en": "Because it abolished separate electorates",
+                "hi": "क्योंकि इसने पृथक निर्वाचन मंडल को समाप्त कर दिया था"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -130,10 +190,22 @@ DAY_4 = [
             "hi": "पुदुचेरी के 'नोट्रे डेम डेस एंजेल्स' (Notre Dame des Anges) चर्च की प्रमुख वास्तुशिल्प विशेषता क्या है?"
         },
         "options": [
-            {"en": "Its unique French and Greco-Roman architecture", "hi": "इसकी अनूठी फ्रांसीसी और ग्रीको-रोमन वास्तुकला"},
-            {"en": "Pure Mughal minarets and dome", "hi": "विशुद्ध मुगल मीनारें और गुंबद"},
-            {"en": "Nagara style stone shikhara", "hi": "नागर शैली का पत्थर का शिखर"},
-            {"en": "Dravidian tiered gopuram", "hi": "द्रविड़ शैली का सीढ़ीदार गोपुरम"}
+            {
+                "en": "Its unique French and Greco-Roman architecture",
+                "hi": "इसकी अनूठी फ्रांसीसी और ग्रीको-रोमन वास्तुकला"
+            },
+            {
+                "en": "Pure Mughal minarets and dome",
+                "hi": "विशुद्ध मुगल मीनारें और गुंबद"
+            },
+            {
+                "en": "Nagara style stone shikhara",
+                "hi": "नागर शैली का पत्थर का शिखर"
+            },
+            {
+                "en": "Dravidian tiered gopuram",
+                "hi": "द्रविड़ शैली का सीढ़ीदार गोपुरम"
+            }
         ],
         "answerIndex": 0,
         "hint": {
@@ -154,10 +226,22 @@ DAY_4 = [
             "hi": "भारतीय संसद की विधायी प्रक्रिया में किस वाचन के दौरान विधेयक को पारित करने के प्रस्ताव पर अंतिम चर्चा होती है?"
         },
         "options": [
-            {"en": "First Reading", "hi": "प्रथम वाचन (First Reading)"},
-            {"en": "Second Reading", "hi": "द्वितीय वाचन (Second Reading)"},
-            {"en": "Third Reading", "hi": "तृतीय वाचन (Third Reading)"},
-            {"en": "Committee Stage", "hi": "समिति अवस्था (Committee Stage)"}
+            {
+                "en": "First Reading",
+                "hi": "प्रथम वाचन"
+            },
+            {
+                "en": "Second Reading",
+                "hi": "द्वितीय वाचन"
+            },
+            {
+                "en": "Third Reading",
+                "hi": "तृतीय वाचन"
+            },
+            {
+                "en": "Committee Stage",
+                "hi": "समिति अवस्था"
+            }
         ],
         "answerIndex": 2,
         "hint": {
@@ -178,10 +262,22 @@ DAY_4 = [
             "hi": "भारत के आर्थिक इतिहास में किस अवधि को 'योजना अवकाश' (Plan Holiday) कहा जाता है?"
         },
         "options": [
-            {"en": "1962–1965", "hi": "1962–1965"},
-            {"en": "1966–1969", "hi": "1966–1969"},
-            {"en": "1978–1980", "hi": "1978–1980"},
-            {"en": "1990–1992", "hi": "1990–1992"}
+            {
+                "en": "1962–1965",
+                "hi": "1962–1965"
+            },
+            {
+                "en": "1966–1969",
+                "hi": "1966–1969"
+            },
+            {
+                "en": "1978–1980",
+                "hi": "1978–1980"
+            },
+            {
+                "en": "1990–1992",
+                "hi": "1990–1992"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -202,10 +298,22 @@ DAY_4 = [
             "hi": "डाकियों और ग्रामीण डाक सेवकों के माध्यम से वित्तीय सेवाएं प्रदान करने वाली केंद्र सरकार की प्रमुख योजना कौन-सी है?"
         },
         "options": [
-            {"en": "Pradhan Mantri Jan Dhan Yojana (PMJDY)", "hi": "प्रधानमंत्री जन धन योजना"},
-            {"en": "India Post Payments Bank (IPPB) scheme", "hi": "इंडिया पोस्ट पेमेंट्स बैंक (IPPB) योजना"},
-            {"en": "Stand-Up India Scheme", "hi": "स्टैंड-अप इंडिया योजना"},
-            {"en": "Kisan Credit Card (KCC)", "hi": "किसान क्रेडिट कार्ड"}
+            {
+                "en": "Pradhan Mantri Jan Dhan Yojana (PMJDY)",
+                "hi": "प्रधानमंत्री जन धन योजना"
+            },
+            {
+                "en": "India Post Payments Bank (IPPB) scheme",
+                "hi": "इंडिया पोस्ट पेमेंट्स बैंक योजना"
+            },
+            {
+                "en": "Stand-Up India Scheme",
+                "hi": "स्टैंड-अप इंडिया योजना"
+            },
+            {
+                "en": "Kisan Credit Card (KCC)",
+                "hi": "किसान क्रेडिट कार्ड"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -226,10 +334,22 @@ DAY_4 = [
             "hi": "कूर्ग (कर्नाटक) का कौन-सा कोडवा फसल उत्सव 'पोली, पोली, देवा' के जयकारे के साथ भगवान इगुथप्पा का आह्वान करके मनाया जाता है?"
         },
         "options": [
-            {"en": "Kailpodh", "hi": "कैल्पोध"},
-            {"en": "Puthari (Huttari)", "hi": "पुथारी (Puthari / हुत्तारी)"},
-            {"en": "Kaveri Sankramana", "hi": "कावेरी संक्रमण"},
-            {"en": "Ugadi", "hi": "उगादी"}
+            {
+                "en": "Kailpodh",
+                "hi": "कैल्पोध"
+            },
+            {
+                "en": "Puthari (Huttari)",
+                "hi": "पुथारी (हुत्तारी)"
+            },
+            {
+                "en": "Kaveri Sankramana",
+                "hi": "कावेरी संक्रमण"
+            },
+            {
+                "en": "Ugadi",
+                "hi": "उगादी"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -250,10 +370,22 @@ DAY_4 = [
             "hi": "'मीन कैम्फ' (Mein Kampf) नामक आत्मकथा और राजनीतिक घोषणापत्र किसने लिखा था?"
         },
         "options": [
-            {"en": "Benito Mussolini", "hi": "बे Benito मुसोलिनी"},
-            {"en": "Adolf Hitler", "hi": "एडॉल्फ हिटलर"},
-            {"en": "Joseph Stalin", "hi": "जोसेफ स्टालिन"},
-            {"en": "Otto von Bismarck", "hi": "ओटो वॉन बिस्मार्क"}
+            {
+                "en": "Benito Mussolini",
+                "hi": "बेनितो मुसोलिनी"
+            },
+            {
+                "en": "Adolf Hitler",
+                "hi": "एडॉल्फ हिटलर"
+            },
+            {
+                "en": "Joseph Stalin",
+                "hi": "जोसेफ स्टालिन"
+            },
+            {
+                "en": "Otto von Bismarck",
+                "hi": "ओटो वॉन बिस्मार्क"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -274,10 +406,22 @@ DAY_4 = [
             "hi": "किस पुस्तक के लिए झुम्पा लाहिड़ी को 2000 में फिक्शन के लिए पुलित्जर पुरस्कार मिला था?"
         },
         "options": [
-            {"en": "The Namesake", "hi": "द नेमसेक (The Namesake)"},
-            {"en": "Interpreter of Maladies", "hi": "इंटरप्रेटर ऑफ मैलाडीज (Interpreter of Maladies)"},
-            {"en": "The Lowland", "hi": "द लोलैंड (The Lowland)"},
-            {"en": "Unaccustomed Earth", "hi": "अनअकस्टमड अर्थ"}
+            {
+                "en": "The Namesake",
+                "hi": "द नेमसेक"
+            },
+            {
+                "en": "Interpreter of Maladies",
+                "hi": "इंटरप्रेटर ऑफ मैलाडीज"
+            },
+            {
+                "en": "The Lowland",
+                "hi": "द लोलैंड"
+            },
+            {
+                "en": "Unaccustomed Earth",
+                "hi": "अनअकस्टमड अर्थ"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -298,10 +442,22 @@ DAY_4 = [
             "hi": "'द व्हाइट टाइगर' (The White Tiger) पुस्तक के लेखक कौन हैं?"
         },
         "options": [
-            {"en": "Arundhati Roy", "hi": "अरुंधति रॉय"},
-            {"en": "Aravind Adiga", "hi": "अरविंद अडिगा (Aravind Adiga)"},
-            {"en": "Kiran Desai", "hi": "किरण देसाई"},
-            {"en": "Salman Rushdie", "hi": "सलमान रुश्दी"}
+            {
+                "en": "Arundhati Roy",
+                "hi": "अरुंधति रॉय"
+            },
+            {
+                "en": "Aravind Adiga",
+                "hi": "अरविंद अडिगा"
+            },
+            {
+                "en": "Kiran Desai",
+                "hi": "किरण देसाई"
+            },
+            {
+                "en": "Salman Rushdie",
+                "hi": "सलमान रुश्दी"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -322,10 +478,22 @@ DAY_4 = [
             "hi": "नई दिल्ली में उद्घाटन 'खेलो इंडिया पैरा गेम्स' का आयोजन किस माह और वर्ष में हुआ था?"
         },
         "options": [
-            {"en": "January 2023", "hi": "जनवरी 2023"},
-            {"en": "December 2023", "hi": "दिसंबर 2023"},
-            {"en": "March 2024", "hi": "मार्च 2024"},
-            {"en": "August 2024", "hi": "अगस्त 2024"}
+            {
+                "en": "January 2023",
+                "hi": "जनवरी 2023"
+            },
+            {
+                "en": "December 2023",
+                "hi": "दिसंबर 2023"
+            },
+            {
+                "en": "March 2024",
+                "hi": "मार्च 2024"
+            },
+            {
+                "en": "August 2024",
+                "hi": "अगस्त 2024"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -346,10 +514,22 @@ DAY_4 = [
             "hi": "काज़ुओ इशिगुरो के उपन्यास 'द रिमेन्स ऑफ द डे' ने किस वर्ष बुकर पुरस्कार जीता था?"
         },
         "options": [
-            {"en": "1981", "hi": "1981"},
-            {"en": "1989", "hi": "1989"},
-            {"en": "1993", "hi": "1993"},
-            {"en": "1997", "hi": "1997"}
+            {
+                "en": "1981",
+                "hi": "1981"
+            },
+            {
+                "en": "1989",
+                "hi": "1989"
+            },
+            {
+                "en": "1993",
+                "hi": "1993"
+            },
+            {
+                "en": "1997",
+                "hi": "1997"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -370,10 +550,22 @@ DAY_4 = [
             "hi": "मेजर ध्यानचंद की जयंती के उपलक्ष्य में भारत में राष्ट्रीय खेल दिवस किस तारीख को मनाया जाता है?"
         },
         "options": [
-            {"en": "15 August", "hi": "15 अगस्त"},
-            {"en": "29 August", "hi": "29 अगस्त"},
-            {"en": "5 September", "hi": "5 सितंबर"},
-            {"en": "16 September", "hi": "16 सितंबर"}
+            {
+                "en": "15 August",
+                "hi": "15 अगस्त"
+            },
+            {
+                "en": "29 August",
+                "hi": "29 अगस्त"
+            },
+            {
+                "en": "5 September",
+                "hi": "5 सितंबर"
+            },
+            {
+                "en": "16 September",
+                "hi": "16 सितंबर"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -394,10 +586,22 @@ DAY_4 = [
             "hi": "23 जनवरी को मनाया जाने वाला 'पराक्रम दिवस' किस महापुरुष की जयंती से संबंधित है?"
         },
         "options": [
-            {"en": "Bhagat Singh", "hi": "भगत सिंह"},
-            {"en": "Chandrashekhar Azad", "hi": "चंद्रशेखर आज़ाद"},
-            {"en": "Netaji Subhash Chandra Bose", "hi": "नेताजी सुभाष चंद्र बोस"},
-            {"en": "Lala Lajpat Rai", "hi": "लाला लाजपत राय"}
+            {
+                "en": "Bhagat Singh",
+                "hi": "भगत सिंह"
+            },
+            {
+                "en": "Chandrashekhar Azad",
+                "hi": "चंद्रशेखर आज़ाद"
+            },
+            {
+                "en": "Netaji Subhash Chandra Bose",
+                "hi": "नेताजी सुभाष चंद्र बोस"
+            },
+            {
+                "en": "Lala Lajpat Rai",
+                "hi": "लाला लाजपत राय"
+            }
         ],
         "answerIndex": 2,
         "hint": {
@@ -418,10 +622,22 @@ DAY_4 = [
             "hi": "निम्नलिखित में से कौन-सा देश क्वाड (QUAD) का सदस्य नहीं है?"
         },
         "options": [
-            {"en": "India", "hi": "भारत"},
-            {"en": "United States of America", "hi": "अमेरिका"},
-            {"en": "Japan", "hi": "जापान"},
-            {"en": "China", "hi": "चीन"}
+            {
+                "en": "India",
+                "hi": "भारत"
+            },
+            {
+                "en": "United States of America",
+                "hi": "अमेरिका"
+            },
+            {
+                "en": "Japan",
+                "hi": "जापान"
+            },
+            {
+                "en": "China",
+                "hi": "चीन"
+            }
         ],
         "answerIndex": 3,
         "hint": {
@@ -442,10 +658,22 @@ DAY_4 = [
             "hi": "भारत का 'मैकियावेली' (Machiavelli of India) किसे कहा जाता है?"
         },
         "options": [
-            {"en": "Kalidasa", "hi": "कालिदास"},
-            {"en": "Chanakya (Kautilya / Vishnugupta)", "hi": "चाणक्य (कौटिल्य / विष्णुगुप्त)"},
-            {"en": "Banabhatta", "hi": "बाणभट्ट"},
-            {"en": "Varahamihira", "hi": "वराहमिहिर"}
+            {
+                "en": "Kalidasa",
+                "hi": "कालिदास"
+            },
+            {
+                "en": "Chanakya (Kautilya / Vishnugupta)",
+                "hi": "चाणक्य (कौटिल्य / विष्णुगुप्त)"
+            },
+            {
+                "en": "Banabhatta",
+                "hi": "बाणभट्ट"
+            },
+            {
+                "en": "Varahamihira",
+                "hi": "वराहमिहिर"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -466,10 +694,22 @@ DAY_4 = [
             "hi": "सापेक्षता के सिद्धांत (शून्यवाद) का प्रतिपादन करने के कारण किसे 'भारत का आइंस्टीन' कहा जाता है?"
         },
         "options": [
-            {"en": "Aryabhata", "hi": "आर्यभट्ट"},
-            {"en": "Brahmagupta", "hi": "ब्रह्मगुप्त"},
-            {"en": "Nagarjuna", "hi": "नागार्जुन (Nagarjuna)"},
-            {"en": "Bhaskaracharya", "hi": "भास्कराचार्य"}
+            {
+                "en": "Aryabhata",
+                "hi": "आर्यभट्ट"
+            },
+            {
+                "en": "Brahmagupta",
+                "hi": "ब्रह्मगुप्त"
+            },
+            {
+                "en": "Nagarjuna",
+                "hi": "नागार्जुन"
+            },
+            {
+                "en": "Bhaskaracharya",
+                "hi": "भास्कराचार्य"
+            }
         ],
         "answerIndex": 2,
         "hint": {
@@ -490,10 +730,22 @@ DAY_4 = [
             "hi": "1857 के विद्रोह के किस नायक को 'भारत का गैरीबाल्डी' (Garibaldi of India) कहा जाता है?"
         },
         "options": [
-            {"en": "Nana Saheb", "hi": "नाना साहेब"},
-            {"en": "Tatya Tope", "hi": "तात्या टोपे (Tatya Tope)"},
-            {"en": "Kunwar Singh", "hi": "कुंवर सिंह"},
-            {"en": "Bakht Khan", "hi": "बख्त खान"}
+            {
+                "en": "Nana Saheb",
+                "hi": "नाना साहेब"
+            },
+            {
+                "en": "Tatya Tope",
+                "hi": "तात्या टोपे"
+            },
+            {
+                "en": "Kunwar Singh",
+                "hi": "कुंवर सिंह"
+            },
+            {
+                "en": "Bakht Khan",
+                "hi": "बख्त खान"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -514,10 +766,22 @@ DAY_4 = [
             "hi": "भारत में वर्तमान में कुल कितनी भाषाओं को आधिकारिक रूप से 'शास्त्रीय भाषा' (Classical Language) का दर्जा प्राप्त है?"
         },
         "options": [
-            {"en": "6", "hi": "6"},
-            {"en": "8", "hi": "8"},
-            {"en": "11", "hi": "11"},
-            {"en": "14", "hi": "14"}
+            {
+                "en": "6",
+                "hi": "6"
+            },
+            {
+                "en": "8",
+                "hi": "8"
+            },
+            {
+                "en": "11",
+                "hi": "11"
+            },
+            {
+                "en": "14",
+                "hi": "14"
+            }
         ],
         "answerIndex": 2,
         "hint": {
@@ -538,10 +802,22 @@ DAY_4 = [
             "hi": "अलमट्टी बांध (Almatti Dam) परियोजना किस नदी पर स्थित है?"
         },
         "options": [
-            {"en": "Cauvery River", "hi": "कावेरी नदी"},
-            {"en": "Krishna River", "hi": "कृष्णा नदी (Krishna River)"},
-            {"en": "Tungabhadra River", "hi": "तुंगभद्रा नदी"},
-            {"en": "Sharavathi River", "hi": "शरावती नदी"}
+            {
+                "en": "Cauvery River",
+                "hi": "कावेरी नदी"
+            },
+            {
+                "en": "Krishna River",
+                "hi": "कृष्णा नदी"
+            },
+            {
+                "en": "Tungabhadra River",
+                "hi": "तुंगभद्रा नदी"
+            },
+            {
+                "en": "Sharavathi River",
+                "hi": "शरावती नदी"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -562,10 +838,22 @@ DAY_4 = [
             "hi": "श्रीशैलम परियोजना (Srisailam Project) किस नदी पर स्थित है?"
         },
         "options": [
-            {"en": "Godavari River", "hi": "गोदावरी नदी"},
-            {"en": "Krishna River", "hi": "कृष्णा नदी"},
-            {"en": "Mahanadi River", "hi": "महानदी"},
-            {"en": "Penna River", "hi": "पेन्ना नदी"}
+            {
+                "en": "Godavari River",
+                "hi": "गोदावरी नदी"
+            },
+            {
+                "en": "Krishna River",
+                "hi": "कृष्णा नदी"
+            },
+            {
+                "en": "Mahanadi River",
+                "hi": "महानदी"
+            },
+            {
+                "en": "Penna River",
+                "hi": "पेन्ना नदी"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -586,10 +874,22 @@ DAY_4 = [
             "hi": "प्रसिद्ध अंबुबाची मेला किस मंदिर में आयोजित किया जाता है?"
         },
         "options": [
-            {"en": "Umananda Temple", "hi": "उमानंद मंदिर"},
-            {"en": "Kamakhya Temple", "hi": "कामाख्या मंदिर (Kamakhya Temple)"},
-            {"en": "Navagraha Temple", "hi": "नवग्रह मंदिर"},
-            {"en": "Hayagriva Madhava Temple", "hi": "हयग्रीव माधव मंदिर"}
+            {
+                "en": "Umananda Temple",
+                "hi": "उमानंद मंदिर"
+            },
+            {
+                "en": "Kamakhya Temple",
+                "hi": "कामाख्या मंदिर"
+            },
+            {
+                "en": "Navagraha Temple",
+                "hi": "नवग्रह मंदिर"
+            },
+            {
+                "en": "Hayagriva Madhava Temple",
+                "hi": "हयग्रीव माधव मंदिर"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -610,10 +910,22 @@ DAY_4 = [
             "hi": "प्रसिद्ध पुस्तक 'प्रिंसिपिया' (Principia) की रचना किसने की थी?"
         },
         "options": [
-            {"en": "Galileo Galilei", "hi": "गैलीलियो गैलीली"},
-            {"en": "Johannes Kepler", "hi": "जोहान्स केप्लर"},
-            {"en": "Isaac Newton", "hi": "आइजैक न्यूटन (Isaac Newton)"},
-            {"en": "Albert Einstein", "hi": "अल्बर्ट आइंस्टीन"}
+            {
+                "en": "Galileo Galilei",
+                "hi": "गैलीलियो गैलीली"
+            },
+            {
+                "en": "Johannes Kepler",
+                "hi": "जोहान्स केप्लर"
+            },
+            {
+                "en": "Isaac Newton",
+                "hi": "आइजैक न्यूटन"
+            },
+            {
+                "en": "Albert Einstein",
+                "hi": "अल्बर्ट आइंस्टीन"
+            }
         ],
         "answerIndex": 2,
         "hint": {
@@ -634,10 +946,22 @@ DAY_4 = [
             "hi": "चॉकलेट महोत्सव (Chocolate Festival) किस शहर में प्रसिद्ध रूप से मनाया जाता है?"
         },
         "options": [
-            {"en": "Paris", "hi": "पेरिस"},
-            {"en": "London", "hi": "लंदन (London)"},
-            {"en": "Zurich", "hi": "ज्यूरिख"},
-            {"en": "Brussels", "hi": "ब्रुसेल्स"}
+            {
+                "en": "Paris",
+                "hi": "पेरिस"
+            },
+            {
+                "en": "London",
+                "hi": "लंदन"
+            },
+            {
+                "en": "Zurich",
+                "hi": "ज्यूरिख"
+            },
+            {
+                "en": "Brussels",
+                "hi": "ब्रुसेल्स"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -658,10 +982,22 @@ DAY_4 = [
             "hi": "आलू महोत्सव (Potato Festival / Potatisfestivalen) किस देश में मनाया जाता है?"
         },
         "options": [
-            {"en": "Norway", "hi": "नॉर्वे"},
-            {"en": "Sweden", "hi": "स्वीडन (Sweden)"},
-            {"en": "Denmark", "hi": "डेनमार्क"},
-            {"en": "Finland", "hi": "फिनलैंड"}
+            {
+                "en": "Norway",
+                "hi": "नॉर्वे"
+            },
+            {
+                "en": "Sweden",
+                "hi": "स्वीडन"
+            },
+            {
+                "en": "Denmark",
+                "hi": "डेनमार्क"
+            },
+            {
+                "en": "Finland",
+                "hi": "फिनलैंड"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -682,10 +1018,22 @@ DAY_4 = [
             "hi": "राष्ट्रीय अनुसूचित जाति आयोग (NCSC) का प्रावधान संविधान के किस अनुच्छेद में है?"
         },
         "options": [
-            {"en": "Article 330", "hi": "अनुच्छेद 330"},
-            {"en": "Article 338", "hi": "अनुच्छेद 338"},
-            {"en": "Article 338A", "hi": "अनुच्छेद 338A"},
-            {"en": "Article 340", "hi": "अनुच्छेद 340"}
+            {
+                "en": "Article 330",
+                "hi": "अनुच्छेद 330"
+            },
+            {
+                "en": "Article 338",
+                "hi": "अनुच्छेद 338"
+            },
+            {
+                "en": "Article 338A",
+                "hi": "अनुच्छेद 338A"
+            },
+            {
+                "en": "Article 340",
+                "hi": "अनुच्छेद 340"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -706,10 +1054,22 @@ DAY_4 = [
             "hi": "राष्ट्रीय अनुसूचित जनजाति आयोग (NCST) संविधान के किस अनुच्छेद के तहत आता है?"
         },
         "options": [
-            {"en": "Article 338", "hi": "अनुच्छेद 338"},
-            {"en": "Article 338A", "hi": "अनुच्छेद 338A"},
-            {"en": "Article 338B", "hi": "अनुच्छेद 338B"},
-            {"en": "Article 342", "hi": "अनुच्छेद 342"}
+            {
+                "en": "Article 338",
+                "hi": "अनुच्छेद 338"
+            },
+            {
+                "en": "Article 338A",
+                "hi": "अनुच्छेद 338A"
+            },
+            {
+                "en": "Article 338B",
+                "hi": "अनुच्छेद 338B"
+            },
+            {
+                "en": "Article 342",
+                "hi": "अनुच्छेद 342"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -730,10 +1090,22 @@ DAY_4 = [
             "hi": "14 देवताओं की पूजा से संबंधित प्रसिद्ध 'खारची पूजा' (Kharchi Puja) मुख्य रूप से किस राज्य में मनाई जाती है?"
         },
         "options": [
-            {"en": "Manipur", "hi": "मणिपुर"},
-            {"en": "Tripura", "hi": "त्रिपुरा (Tripura)"},
-            {"en": "Mizoram", "hi": "मिजोरम"},
-            {"en": "Nagaland", "hi": "नागालैंड"}
+            {
+                "en": "Manipur",
+                "hi": "मणिपुर"
+            },
+            {
+                "en": "Tripura",
+                "hi": "त्रिपुरा"
+            },
+            {
+                "en": "Mizoram",
+                "hi": "मिजोरम"
+            },
+            {
+                "en": "Nagaland",
+                "hi": "नागालैंड"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -754,10 +1126,22 @@ DAY_4 = [
             "hi": "चित्तिरई महोत्सव (Chithirai Festival) भारत के किस राज्य में मनाया जाता है?"
         },
         "options": [
-            {"en": "Kerala", "hi": "केरल"},
-            {"en": "Tamil Nadu", "hi": "तमिलनाडु (Tamil Nadu)"},
-            {"en": "Karnataka", "hi": "कर्नाटक"},
-            {"en": "Andhra Pradesh", "hi": "आंध्र प्रदेश"}
+            {
+                "en": "Kerala",
+                "hi": "केरल"
+            },
+            {
+                "en": "Tamil Nadu",
+                "hi": "तमिलनाडु"
+            },
+            {
+                "en": "Karnataka",
+                "hi": "कर्नाटक"
+            },
+            {
+                "en": "Andhra Pradesh",
+                "hi": "आंध्र प्रदेश"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -778,10 +1162,22 @@ DAY_4 = [
             "hi": "भारत की पहली बैटरी चालित इलेक्ट्रिक कार के रूप में किसे जाना जाता है?"
         },
         "options": [
-            {"en": "Tata Nexon EV", "hi": "टाटा नेक्सॉन ईवी"},
-            {"en": "Mahindra e2o", "hi": "महिंद्रा e2o"},
-            {"en": "Reva", "hi": "रेवा (Reva)"},
-            {"en": "Tigor EV", "hi": "टिगोरे ईवी"}
+            {
+                "en": "Tata Nexon EV",
+                "hi": "टाटा नेक्सॉन ईवी"
+            },
+            {
+                "en": "Mahindra e2o",
+                "hi": "महिंद्रा e2o"
+            },
+            {
+                "en": "Reva",
+                "hi": "रेवा"
+            },
+            {
+                "en": "Tigor EV",
+                "hi": "टिगोरे ईवी"
+            }
         ],
         "answerIndex": 2,
         "hint": {
@@ -802,10 +1198,22 @@ DAY_4 = [
             "hi": "इसरो (ISRO) के सुपरकंप्यूटर का नाम क्या है?"
         },
         "options": [
-            {"en": "PARAM Yuva", "hi": "परम युवा"},
-            {"en": "SAGA-220", "hi": "सागा-220 (SAGA)"},
-            {"en": "Pratyush", "hi": "प्रत्युष"},
-            {"en": "Mihir", "hi": "मिहिर"}
+            {
+                "en": "PARAM Yuva",
+                "hi": "परम युवा"
+            },
+            {
+                "en": "SAGA-220",
+                "hi": "सागा-220"
+            },
+            {
+                "en": "Pratyush",
+                "hi": "प्रत्युष"
+            },
+            {
+                "en": "Mihir",
+                "hi": "मिहिर"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -826,10 +1234,22 @@ DAY_4 = [
             "hi": "कार्टाजेना प्रोटोकॉल (Cartagena Protocol) किससे संबंधित एक अंतरराष्ट्रीय समझौता है?"
         },
         "options": [
-            {"en": "Biosafety (Living Modified Organisms)", "hi": "जैव सुरक्षा (Biosafety / LMOs)"},
-            {"en": "Ozone layer protection", "hi": "ओजोन परत की सुरक्षा"},
-            {"en": "Transboundary movement of hazardous waste", "hi": "खतरनाक कचरे का सीमा पार संचलन"},
-            {"en": "Wetland conservation", "hi": "आर्द्रभूमि (वेटलैंड) संरक्षण"}
+            {
+                "en": "Biosafety (Living Modified Organisms)",
+                "hi": "जैव सुरक्षा"
+            },
+            {
+                "en": "Ozone layer protection",
+                "hi": "ओजोन परत की सुरक्षा"
+            },
+            {
+                "en": "Transboundary movement of hazardous waste",
+                "hi": "खतरनाक कचरे का सीमा पार संचलन"
+            },
+            {
+                "en": "Wetland conservation",
+                "hi": "आर्द्रभूमि (वेटलैंड) संरक्षण"
+            }
         ],
         "answerIndex": 0,
         "hint": {
@@ -850,10 +1270,22 @@ DAY_4 = [
             "hi": "स्टॉकहोम सम्मेलन (Stockholm Convention) मानव स्वास्थ्य को किससे बचाने से संबंधित है?"
         },
         "options": [
-            {"en": "Chlorofluorocarbons (CFCs)", "hi": "क्लोरोफ्लोरोकार्बन"},
-            {"en": "Persistent Organic Pollutants (POPs)", "hi": "स्थायी जैविक प्रदूषक (Persistent Organic Pollutants)"},
-            {"en": "Greenhouse Gases", "hi": "ग्रीनहाउस गैसें"},
-            {"en": "Nuclear Fallout", "hi": "परमाणु विकिरण"}
+            {
+                "en": "Chlorofluorocarbons (CFCs)",
+                "hi": "क्लोरोफ्लोरोकार्बन"
+            },
+            {
+                "en": "Persistent Organic Pollutants (POPs)",
+                "hi": "स्थायी जैविक प्रदूषक"
+            },
+            {
+                "en": "Greenhouse Gases",
+                "hi": "ग्रीनहाउस गैसें"
+            },
+            {
+                "en": "Nuclear Fallout",
+                "hi": "परमाणु विकिरण"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -874,10 +1306,22 @@ DAY_4 = [
             "hi": "किस अवसादी चट्टान के कायांतरण (रूपांतरण) से 'स्लेट' (Slate) का निर्माण होता है?"
         },
         "options": [
-            {"en": "Sandstone", "hi": "बलुआ पत्थर"},
-            {"en": "Clay and Shale", "hi": "चिकनी मिट्टी (Clay) और शेल (Shale)"},
-            {"en": "Limestone", "hi": "चूना पत्थर"},
-            {"en": "Conglomerate", "hi": "कांग्लोमरेट"}
+            {
+                "en": "Sandstone",
+                "hi": "बलुआ पत्थर"
+            },
+            {
+                "en": "Clay and Shale",
+                "hi": "चिकनी मिट्टी और शेल"
+            },
+            {
+                "en": "Limestone",
+                "hi": "चूना पत्थर"
+            },
+            {
+                "en": "Conglomerate",
+                "hi": "कांग्लोमरेट"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -898,10 +1342,22 @@ DAY_4 = [
             "hi": "चूना पत्थर (Limestone) या डोलोमाइट के कायांतरण से मुख्य रूप से कौन-सी चट्टान बनती है?"
         },
         "options": [
-            {"en": "Quartzite", "hi": "क्वार्ट्जाइट"},
-            {"en": "Marble (Sangmarmar)", "hi": "संगमरमर (Marble)"},
-            {"en": "Gneiss", "hi": "नीस (Gneiss)"},
-            {"en": "Schist", "hi": "सिस्ट (Schist)"}
+            {
+                "en": "Quartzite",
+                "hi": "क्वार्ट्जाइट"
+            },
+            {
+                "en": "Marble (Sangmarmar)",
+                "hi": "संगमरमर"
+            },
+            {
+                "en": "Gneiss",
+                "hi": "नीस"
+            },
+            {
+                "en": "Schist",
+                "hi": "सिस्ट"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -922,10 +1378,22 @@ DAY_4 = [
             "hi": "अशोक का एरागुडी (Erragudi) शिलालेख किस राज्य में स्थित है?"
         },
         "options": [
-            {"en": "Kurnool, Andhra Pradesh", "hi": "कुरनूल, आंध्र प्रदेश"},
-            {"en": "Bellary, Karnataka", "hi": "बेल्लारी, कर्नाटक"},
-            {"en": "Junagadh, Gujarat", "hi": "जूनागढ़, गुजरात"},
-            {"en": "Puri, Odisha", "hi": "पुरी, ओडिशा"}
+            {
+                "en": "Kurnool, Andhra Pradesh",
+                "hi": "कुरनूल, आंध्र प्रदेश"
+            },
+            {
+                "en": "Bellary, Karnataka",
+                "hi": "बेल्लारी, कर्नाटक"
+            },
+            {
+                "en": "Junagadh, Gujarat",
+                "hi": "जूनागढ़, गुजरात"
+            },
+            {
+                "en": "Puri, Odisha",
+                "hi": "पुरी, ओडिशा"
+            }
         ],
         "answerIndex": 0,
         "hint": {
@@ -946,10 +1414,22 @@ DAY_4 = [
             "hi": "अशोक का भाब्रू (बैराठ) शिलालेख किस शहर के निकट स्थित है?"
         },
         "options": [
-            {"en": "Varanasi (UP)", "hi": "वाराणसी (उत्तर प्रदेश)"},
-            {"en": "Jaipur (Rajasthan)", "hi": "जयपुर (राजस्थान)"},
-            {"en": "Patna (Bihar)", "hi": "पटना (बिहार)"},
-            {"en": "Gwalior (MP)", "hi": "ग्वालियर (मध्य प्रदेश)"}
+            {
+                "en": "Varanasi (UP)",
+                "hi": "वाराणसी (उत्तर प्रदेश)"
+            },
+            {
+                "en": "Jaipur (Rajasthan)",
+                "hi": "जयपुर (राजस्थान)"
+            },
+            {
+                "en": "Patna (Bihar)",
+                "hi": "पटना (बिहार)"
+            },
+            {
+                "en": "Gwalior (MP)",
+                "hi": "ग्वालियर (मध्य प्रदेश)"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -970,10 +1450,22 @@ DAY_4 = [
             "hi": "49वीं समानांतर रेखा (49th Parallel) किन दो देशों के बीच अंतरराष्ट्रीय सीमा बनाती है?"
         },
         "options": [
-            {"en": "USA and Mexico", "hi": "अमेरिका और मेक्सिको"},
-            {"en": "USA and Canada", "hi": "अमेरिका और कनाडा (USA & Canada)"},
-            {"en": "North Korea and South Korea", "hi": "उत्तर कोरिया और दक्षिण कोरिया"},
-            {"en": "France and Germany", "hi": "फ्रांस और जर्मनी"}
+            {
+                "en": "USA and Mexico",
+                "hi": "अमेरिका और मेक्सिको"
+            },
+            {
+                "en": "USA and Canada",
+                "hi": "अमेरिका और कनाडा"
+            },
+            {
+                "en": "North Korea and South Korea",
+                "hi": "उत्तर कोरिया और दक्षिण कोरिया"
+            },
+            {
+                "en": "France and Germany",
+                "hi": "फ्रांस और जर्मनी"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -994,10 +1486,22 @@ DAY_4 = [
             "hi": "38वीं समानांतर रेखा (38th Parallel) किन दो देशों के बीच की सीमा रेखा है?"
         },
         "options": [
-            {"en": "North Vietnam and South Vietnam", "hi": "उत्तरी वियतनाम और दक्षिणी वियतनाम"},
-            {"en": "North Korea and South Korea", "hi": "उत्तर कोरिया और दक्षिण कोरिया"},
-            {"en": "Sudan and South Sudan", "hi": "सूडान और दक्षिण सूडान"},
-            {"en": "Israel and Lebanon", "hi": "इज़राइल और लेबनान"}
+            {
+                "en": "North Vietnam and South Vietnam",
+                "hi": "उत्तरी वियतनाम और दक्षिणी वियतनाम"
+            },
+            {
+                "en": "North Korea and South Korea",
+                "hi": "उत्तर कोरिया और दक्षिण कोरिया"
+            },
+            {
+                "en": "Sudan and South Sudan",
+                "hi": "सूडान और दक्षिण सूडान"
+            },
+            {
+                "en": "Israel and Lebanon",
+                "hi": "इज़राइल और लेबनान"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -1018,10 +1522,22 @@ DAY_4 = [
             "hi": "17वीं समानांतर रेखा (17th Parallel) किन दो क्षेत्रों के बीच सीमा थी?"
         },
         "options": [
-            {"en": "North Yemen and South Yemen", "hi": "उत्तरी यमन और दक्षिणी यमन"},
-            {"en": "North Vietnam and South Vietnam", "hi": "उत्तरी वियतनाम और दक्षिणी वियतनाम"},
-            {"en": "East Germany and West Germany", "hi": "पूर्वी जर्मनी और पश्चिमी जर्मनी"},
-            {"en": "North Korea and South Korea", "hi": "उत्तर कोरिया और दक्षिण कोरिया"}
+            {
+                "en": "North Yemen and South Yemen",
+                "hi": "उत्तरी यमन और दक्षिणी यमन"
+            },
+            {
+                "en": "North Vietnam and South Vietnam",
+                "hi": "उत्तरी वियतनाम और दक्षिणी वियतनाम"
+            },
+            {
+                "en": "East Germany and West Germany",
+                "hi": "पूर्वी जर्मनी और पश्चिमी जर्मनी"
+            },
+            {
+                "en": "North Korea and South Korea",
+                "hi": "उत्तर कोरिया और दक्षिण कोरिया"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -1042,10 +1558,22 @@ DAY_4 = [
             "hi": "ओडर-नीस रेखा (Oder-Neisse Line) किन दो देशों के बीच सीमा बनाती है?"
         },
         "options": [
-            {"en": "Germany and Poland", "hi": "जर्मनी और पोलैंड"},
-            {"en": "Germany and France", "hi": "जर्मनी और फ्रांस"},
-            {"en": "Poland and Russia", "hi": "पोलैंड और रूस"},
-            {"en": "Austria and Hungary", "hi": "ऑस्ट्रिया और हंगरी"}
+            {
+                "en": "Germany and Poland",
+                "hi": "जर्मनी और पोलैंड"
+            },
+            {
+                "en": "Germany and France",
+                "hi": "जर्मनी और फ्रांस"
+            },
+            {
+                "en": "Poland and Russia",
+                "hi": "पोलैंड और रूस"
+            },
+            {
+                "en": "Austria and Hungary",
+                "hi": "ऑस्ट्रिया और हंगरी"
+            }
         ],
         "answerIndex": 0,
         "hint": {
@@ -1066,10 +1594,22 @@ DAY_4 = [
             "hi": "प्रसिद्ध पुस्तक 'यूटोपिया' (Utopia) के लेखक कौन हैं?"
         },
         "options": [
-            {"en": "Thomas More", "hi": "थॉमस मोर (Thomas More)"},
-            {"en": "Francis Bacon", "hi": "फ्रांसिस बेकन"},
-            {"en": "John Milton", "hi": "जॉन मिल्टन"},
-            {"en": "Voltaire", "hi": "वॉल्टेयर"}
+            {
+                "en": "Thomas More",
+                "hi": "थॉमस मोर"
+            },
+            {
+                "en": "Francis Bacon",
+                "hi": "फ्रांसिस बेकन"
+            },
+            {
+                "en": "John Milton",
+                "hi": "जॉन मिल्टन"
+            },
+            {
+                "en": "Voltaire",
+                "hi": "वॉल्टेयर"
+            }
         ],
         "answerIndex": 0,
         "hint": {
@@ -1090,10 +1630,22 @@ DAY_4 = [
             "hi": "प्रसिद्ध राजनीतिक ग्रंथ 'द प्रिंस' (The Prince) के लेखक कौन हैं?"
         },
         "options": [
-            {"en": "Niccolò Machiavelli", "hi": "निकोलस मैकियावेली (Machiavelli)"},
-            {"en": "Thomas Hobbes", "hi": "थॉमस हॉब्स"},
-            {"en": "John Locke", "hi": "जॉन लॉक"},
-            {"en": "Jean-Jacques Rousseau", "hi": "जीन-जैक्स रूसो"}
+            {
+                "en": "Niccolò Machiavelli",
+                "hi": "निकोलस मैकियावेली"
+            },
+            {
+                "en": "Thomas Hobbes",
+                "hi": "थॉमस हॉब्स"
+            },
+            {
+                "en": "John Locke",
+                "hi": "जॉन लॉक"
+            },
+            {
+                "en": "Jean-Jacques Rousseau",
+                "hi": "जीन-जैक्स रूसो"
+            }
         ],
         "answerIndex": 0,
         "hint": {
@@ -1114,10 +1666,22 @@ DAY_4 = [
             "hi": "महाकाव्य 'डिवाइन कॉमेडी' (Divine Comedy) की रचना किसने की थी?"
         },
         "options": [
-            {"en": "Homer", "hi": "होमर"},
-            {"en": "Dante Alighieri", "hi": "दांते एलीघिएरी (Dante)"},
-            {"en": "Virgil", "hi": "वर्जिल"},
-            {"en": "Geoffrey Chaucer", "hi": "जियोफ्रे चॉसर"}
+            {
+                "en": "Homer",
+                "hi": "होमर"
+            },
+            {
+                "en": "Dante Alighieri",
+                "hi": "दांते एलीघिएरी"
+            },
+            {
+                "en": "Virgil",
+                "hi": "वर्जिल"
+            },
+            {
+                "en": "Geoffrey Chaucer",
+                "hi": "जियोफ्रे चॉसर"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -1138,10 +1702,22 @@ DAY_4 = [
             "hi": "'ए नेशन इन मेकिंग' (A Nation in Making) पुस्तक के लेखक कौन हैं?"
         },
         "options": [
-            {"en": "Dadabhai Naoroji", "hi": "दादाभाई नौरोजी"},
-            {"en": "Surendranath Banerjee", "hi": "सुरेंद्रनाथ बनर्जी (Surendranath Banerjee)"},
-            {"en": "Bipin Chandra Pal", "hi": "बिपिन चंद्र पाल"},
-            {"en": "Romesh Chunder Dutt", "hi": "रमेश चंद्र दत्त"}
+            {
+                "en": "Dadabhai Naoroji",
+                "hi": "दादाभाई नौरोजी"
+            },
+            {
+                "en": "Surendranath Banerjee",
+                "hi": "सुरेंद्रनाथ बनर्जी"
+            },
+            {
+                "en": "Bipin Chandra Pal",
+                "hi": "बिपिन चंद्र पाल"
+            },
+            {
+                "en": "Romesh Chunder Dutt",
+                "hi": "रमेश चंद्र दत्त"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -1162,10 +1738,22 @@ DAY_4 = [
             "hi": "'मैं नास्तिक क्यों हूँ' (Why I am an Atheist) नामक प्रसिद्ध निबंध किसने लिखा था?"
         },
         "options": [
-            {"en": "Bhagat Singh", "hi": "भगत सिंह (Bhagat Singh)"},
-            {"en": "Batukeshwar Dutt", "hi": "बटुकेश्वर दत्त"},
-            {"en": "Sukhdev Thapar", "hi": "सुखदेव"},
-            {"en": "Ram Prasad Bismil", "hi": "राम प्रसाद बिस्मिल"}
+            {
+                "en": "Bhagat Singh",
+                "hi": "भगत सिंह"
+            },
+            {
+                "en": "Batukeshwar Dutt",
+                "hi": "बटुकेश्वर दत्त"
+            },
+            {
+                "en": "Sukhdev Thapar",
+                "hi": "सुखदेव"
+            },
+            {
+                "en": "Ram Prasad Bismil",
+                "hi": "राम प्रसाद बिस्मिल"
+            }
         ],
         "answerIndex": 0,
         "hint": {
@@ -1186,10 +1774,22 @@ DAY_4 = [
             "hi": "भारतीय खाद्य निगम (FCI) की स्थापना किस पंचवर्षीय योजना के दौरान हुई थी?"
         },
         "options": [
-            {"en": "2nd Five-Year Plan", "hi": "दूसरी पंचवर्षीय योजना"},
-            {"en": "3rd Five-Year Plan (1961–1966)", "hi": "तीसरी पंचवर्षीय योजना (1961–1966)"},
-            {"en": "4th Five-Year Plan", "hi": "चौथी पंचवर्षीय योजना"},
-            {"en": "5th Five-Year Plan", "hi": "पाँचवीं पंचवर्षीय योजना"}
+            {
+                "en": "2nd Five-Year Plan",
+                "hi": "दूसरी पंचवर्षीय योजना"
+            },
+            {
+                "en": "3rd Five-Year Plan (1961–1966)",
+                "hi": "तीसरी पंचवर्षीय योजना"
+            },
+            {
+                "en": "4th Five-Year Plan",
+                "hi": "चौथी पंचवर्षीय योजना"
+            },
+            {
+                "en": "5th Five-Year Plan",
+                "hi": "पाँचवीं पंचवर्षीय योजना"
+            }
         ],
         "answerIndex": 1,
         "hint": {

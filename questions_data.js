@@ -355,7 +355,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "America (USA)",
-        "hi": "अमेरिका (USA)"
+        "hi": "अमेरिका"
       },
       {
         "en": "United Kingdom",
@@ -638,7 +638,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Violet",
-        "hi": "बैंगनी (Violet)"
+        "hi": "बैंगनी"
       },
       {
         "en": "Green",
@@ -765,7 +765,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Annelida",
-        "hi": "एनेलिडा (Annelida)"
+        "hi": "एनेलिडा"
       },
       {
         "en": "Platyhelminthes",
@@ -1044,19 +1044,19 @@ const QUIZ_DATA = [
     "options": [
       {
         "en": "Hotri",
-        "hi": "होतृ (Hotri)"
+        "hi": "होतृ"
       },
       {
         "en": "Udgatri",
-        "hi": "उद्गातृ (Udgatri)"
+        "hi": "उद्गातृ"
       },
       {
         "en": "Adhvaryu",
-        "hi": "अध्वर्यु (Adhvaryu)"
+        "hi": "अध्वर्यु"
       },
       {
         "en": "Brahma",
-        "hi": "ब्रह्मा (Brahma)"
+        "hi": "ब्रह्मा"
       }
     ],
     "answerIndex": 0,
@@ -1175,7 +1175,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "M. G. Ranade",
-        "hi": "एम. जी. रानाडे (M. G. Ranade)"
+        "hi": "एम. जी. रानाडे"
       },
       {
         "en": "V. D. Savarkar",
@@ -1212,7 +1212,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Savanna",
-        "hi": "सवाना (Savanna)"
+        "hi": "सवाना"
       },
       {
         "en": "Tundra",
@@ -1253,7 +1253,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "German Silver",
-        "hi": "जर्मन सिल्वर (German Silver)"
+        "hi": "जर्मन सिल्वर"
       },
       {
         "en": "Coin Silver",
@@ -1294,7 +1294,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Coal",
-        "hi": "कोयला (Coal)"
+        "hi": "कोयला"
       },
       {
         "en": "Petroleum",
@@ -1417,7 +1417,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Arabic",
-        "hi": "अरबी (Arabic)"
+        "hi": "अरबी"
       },
       {
         "en": "Greek",
@@ -1663,7 +1663,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Titan",
-        "hi": "टाइटन (Titan)"
+        "hi": "टाइटन"
       },
       {
         "en": "Europa",
@@ -1708,7 +1708,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Sao Paulo",
-        "hi": "साओ पाउलो (Sao Paulo)"
+        "hi": "साओ पाउलो"
       },
       {
         "en": "Bogota",
@@ -2192,7 +2192,7 @@ const QUIZ_DATA = [
     "options": [
       {
         "en": "Savanna",
-        "hi": "सवाना (Savanna)"
+        "hi": "सवाना"
       },
       {
         "en": "Steppes",
@@ -2237,7 +2237,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "City of Dreaming Spires",
-        "hi": "सपनों की मीनारों का शहर (City of Dreaming Spires)"
+        "hi": "सपनों की मीनारों का शहर"
       },
       {
         "en": "City of Seven Hills",
@@ -2278,7 +2278,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Kent",
-        "hi": "केंट (Kent)"
+        "hi": "केंट"
       },
       {
         "en": "Cornwall",
@@ -2438,19 +2438,19 @@ const QUIZ_DATA = [
     "options": [
       {
         "en": "21st Amendment (1967)",
-        "hi": "21वाँ संविधान संशोधन (1967)"
+        "hi": "21वाँ संविधान संशोधन"
       },
       {
         "en": "42nd Amendment (1976)",
-        "hi": "42वाँ संविधान संशोधन (1976)"
+        "hi": "42वाँ संविधान संशोधन"
       },
       {
         "en": "71st Amendment (1992)",
-        "hi": "71वाँ संविधान संशोधन (1992)"
+        "hi": "71वाँ संविधान संशोधन"
       },
       {
         "en": "92nd Amendment (2003)",
-        "hi": "92वाँ संविधान संशोधन (2003)"
+        "hi": "92वाँ संविधान संशोधन"
       }
     ],
     "answerIndex": 0,
@@ -2606,7 +2606,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Cuttack",
-        "hi": "कटक (Cuttack)"
+        "hi": "कटक"
       },
       {
         "en": "Rourkela",
@@ -2651,7 +2651,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Dholavira",
-        "hi": "धोलावीरा (Dholavira)"
+        "hi": "धोलावीरा"
       },
       {
         "en": "Rakhigarhi",
@@ -2766,7 +2766,7 @@ const QUIZ_DATA = [
     "options": [
       {
         "en": "USA",
-        "hi": "संयुक्त राज्य अमेरिका (USA)"
+        "hi": "संयुक्त राज्य अमेरिका"
       },
       {
         "en": "England (United Kingdom)",
@@ -2897,7 +2897,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Leaning Tower of Pisa",
-        "hi": "पीसा की झुकी मीनार (Leaning Tower of Pisa)"
+        "hi": "पीसा की झुकी मीनार"
       },
       {
         "en": "Machu Picchu (Peru)",
@@ -2971,19 +2971,19 @@ const QUIZ_DATA = [
     "options": [
       {
         "en": "Limnology",
-        "hi": "लिम्नोलॉजी (Limnology)"
+        "hi": "लिम्नोलॉजी"
       },
       {
         "en": "Potamology",
-        "hi": "पोटामोलॉजी (Potamology)"
+        "hi": "पोटामोलॉजी"
       },
       {
         "en": "Hydrology",
-        "hi": "हाइड्रोलॉजी (Hydrology)"
+        "hi": "हाइड्रोलॉजी"
       },
       {
         "en": "Speleology",
-        "hi": "स्पीलियोलॉजी (Speleology)"
+        "hi": "स्पीलियोलॉजी"
       }
     ],
     "answerIndex": 1,
@@ -3180,11 +3180,11 @@ const QUIZ_DATA = [
       },
       {
         "en": "Gold",
-        "hi": "सोना (Gold)"
+        "hi": "सोना"
       },
       {
         "en": "Diamond",
-        "hi": "हीरा (Diamond)"
+        "hi": "हीरा"
       },
       {
         "en": "Copper",
@@ -3963,7 +3963,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Total Internal Reflection",
-        "hi": "पूर्ण आंतरिक परावर्तन (Total Internal Reflection)"
+        "hi": "पूर्ण आंतरिक परावर्तन"
       },
       {
         "en": "Scattering of light",
@@ -4045,7 +4045,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Brain and Spinal Cord",
-        "hi": "मस्तिष्क और रीढ़ की हड्डी (Brain & Meninges)"
+        "hi": "मस्तिष्क और रीढ़ की हड्डी"
       },
       {
         "en": "Kidneys",
@@ -4082,7 +4082,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Shipki La Pass",
-        "hi": "शिपकी ला दर्रा (Shipki La Pass)"
+        "hi": "शिपकी ला दर्रा"
       },
       {
         "en": "Lipulekh Pass",
@@ -4328,7 +4328,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Carnatic Music",
-        "hi": "कर्नाटक संगीत (Carnatic Music)"
+        "hi": "कर्नाटक संगीत"
       },
       {
         "en": "Dhrupad",
@@ -4365,11 +4365,11 @@ const QUIZ_DATA = [
     "options": [
       {
         "en": "Leeward side",
-        "hi": "पवनाविमुख ढाल (Leeward Side)"
+        "hi": "पवनाविमुख ढाल"
       },
       {
         "en": "Windward side",
-        "hi": "पवनाभिमुख ढाल (Windward Side)"
+        "hi": "पवनाभिमुख ढाल"
       },
       {
         "en": "Rain-shadow area",
@@ -4455,7 +4455,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Susima",
-        "hi": "सुसिम (Susima)"
+        "hi": "सुसिम"
       },
       {
         "en": "Mahakassapa",
@@ -4578,7 +4578,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Satopanth Glacier",
-        "hi": "सतोपंथ हिमनद (Satopanth Glacier)"
+        "hi": "सतोपंथ हिमनद"
       },
       {
         "en": "Milam Glacier",
@@ -4738,7 +4738,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Salem",
-        "hi": "सलेम (Salem)"
+        "hi": "सलेम"
       },
       {
         "en": "Coimbatore",
@@ -4824,7 +4824,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Raphael",
-        "hi": "राफेल (Raphael)"
+        "hi": "राफेल"
       },
       {
         "en": "Donatello",
@@ -4869,7 +4869,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Rwanda",
-        "hi": "रवांडा (Rwanda)"
+        "hi": "रवांडा"
       }
     ],
     "answerIndex": 3,
@@ -4902,7 +4902,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Babur",
-        "hi": "बाबर (Babur)"
+        "hi": "बाबर"
       },
       {
         "en": "Jahangir",
@@ -4939,19 +4939,19 @@ const QUIZ_DATA = [
     "options": [
       {
         "en": "Force",
-        "hi": "बल (Force)"
+        "hi": "बल"
       },
       {
         "en": "Energy",
-        "hi": "ऊर्जा (Energy)"
+        "hi": "ऊर्जा"
       },
       {
         "en": "Power",
-        "hi": "शक्ति (Power)"
+        "hi": "शक्ति"
       },
       {
         "en": "Momentum",
-        "hi": "संवेग (Momentum)"
+        "hi": "संवेग"
       }
     ],
     "answerIndex": 2,
@@ -4980,19 +4980,19 @@ const QUIZ_DATA = [
     "options": [
       {
         "en": "Second (s)",
-        "hi": "सेकंड (s)"
+        "hi": "सेकंड"
       },
       {
         "en": "Meter (m)",
-        "hi": "मीटर (m)"
+        "hi": "मीटर"
       },
       {
         "en": "Kilogram (kg)",
-        "hi": "किलोग्राम (kg)"
+        "hi": "किलोग्राम"
       },
       {
         "en": "Meter per second (m/s)",
-        "hi": "मीटर प्रति सेकंड (m/s)"
+        "hi": "मीटर प्रति सेकंड"
       }
     ],
     "answerIndex": 3,
@@ -5070,7 +5070,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "China",
-        "hi": "चीन (China)"
+        "hi": "चीन"
       },
       {
         "en": "Germany",
@@ -5107,7 +5107,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Intrusive Igneous Rock (Plutonic)",
-        "hi": "अंतर्भेदी आग्नेय चट्टान (Intrusive Igneous Rock)"
+        "hi": "अंतर्भेदी आग्नेय चट्टान"
       },
       {
         "en": "Sedimentary Rock",
@@ -5271,7 +5271,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "New Delhi",
-        "hi": "नई दिल्ली (New Delhi)"
+        "hi": "नई दिल्ली"
       },
       {
         "en": "Bengaluru",
@@ -5398,7 +5398,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Pacific Ocean",
-        "hi": "प्रशांत महासागर (Pacific Ocean)"
+        "hi": "प्रशांत महासागर"
       },
       {
         "en": "Arctic Ocean",
@@ -5763,7 +5763,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Nathu La Pass",
-        "hi": "नाथू ला दर्रा (Nathu La Pass)"
+        "hi": "नाथू ला दर्रा"
       },
       {
         "en": "Bum La",
@@ -5808,7 +5808,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Fifth Five-Year Plan",
-        "hi": "पाँचवीं पंचवर्षीय योजना (Fifth Five-Year Plan)"
+        "hi": "पाँचवीं पंचवर्षीय योजना"
       },
       {
         "en": "Sixth Five-Year Plan",
@@ -5845,7 +5845,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Spain",
-        "hi": "स्पेन (Spain)"
+        "hi": "स्पेन"
       },
       {
         "en": "Italy",
@@ -5964,11 +5964,11 @@ const QUIZ_DATA = [
     "options": [
       {
         "en": "Plane angle",
-        "hi": "समतल कोण (Plane angle)"
+        "hi": "समतल कोण"
       },
       {
         "en": "Solid angle",
-        "hi": "ठोस कोण (Solid angle)"
+        "hi": "ठोस कोण"
       },
       {
         "en": "Luminous intensity",
@@ -6218,7 +6218,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Susima",
-        "hi": "सुसिम (Susima)"
+        "hi": "सुसिम"
       },
       {
         "en": "Upali",
@@ -6415,19 +6415,19 @@ const QUIZ_DATA = [
     "options": [
       {
         "en": "First Reading",
-        "hi": "प्रथम वाचन (First Reading)"
+        "hi": "प्रथम वाचन"
       },
       {
         "en": "Second Reading",
-        "hi": "द्वितीय वाचन (Second Reading)"
+        "hi": "द्वितीय वाचन"
       },
       {
         "en": "Third Reading",
-        "hi": "तृतीय वाचन (Third Reading)"
+        "hi": "तृतीय वाचन"
       },
       {
         "en": "Committee Stage",
-        "hi": "समिति अवस्था (Committee Stage)"
+        "hi": "समिति अवस्था"
       }
     ],
     "answerIndex": 2,
@@ -6501,7 +6501,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "India Post Payments Bank (IPPB) scheme",
-        "hi": "इंडिया पोस्ट पेमेंट्स बैंक (IPPB) योजना"
+        "hi": "इंडिया पोस्ट पेमेंट्स बैंक योजना"
       },
       {
         "en": "Stand-Up India Scheme",
@@ -6542,7 +6542,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Puthari (Huttari)",
-        "hi": "पुथारी (Puthari / हुत्तारी)"
+        "hi": "पुथारी (हुत्तारी)"
       },
       {
         "en": "Kaveri Sankramana",
@@ -6579,7 +6579,7 @@ const QUIZ_DATA = [
     "options": [
       {
         "en": "Benito Mussolini",
-        "hi": "बे Benito मुसोलिनी"
+        "hi": "बेनितो मुसोलिनी"
       },
       {
         "en": "Adolf Hitler",
@@ -6620,15 +6620,15 @@ const QUIZ_DATA = [
     "options": [
       {
         "en": "The Namesake",
-        "hi": "द नेमसेक (The Namesake)"
+        "hi": "द नेमसेक"
       },
       {
         "en": "Interpreter of Maladies",
-        "hi": "इंटरप्रेटर ऑफ मैलाडीज (Interpreter of Maladies)"
+        "hi": "इंटरप्रेटर ऑफ मैलाडीज"
       },
       {
         "en": "The Lowland",
-        "hi": "द लोलैंड (The Lowland)"
+        "hi": "द लोलैंड"
       },
       {
         "en": "Unaccustomed Earth",
@@ -6665,7 +6665,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Aravind Adiga",
-        "hi": "अरविंद अडिगा (Aravind Adiga)"
+        "hi": "अरविंद अडिगा"
       },
       {
         "en": "Kiran Desai",
@@ -6956,7 +6956,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Nagarjuna",
-        "hi": "नागार्जुन (Nagarjuna)"
+        "hi": "नागार्जुन"
       },
       {
         "en": "Bhaskaracharya",
@@ -6993,7 +6993,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Tatya Tope",
-        "hi": "तात्या टोपे (Tatya Tope)"
+        "hi": "तात्या टोपे"
       },
       {
         "en": "Kunwar Singh",
@@ -7075,7 +7075,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Krishna River",
-        "hi": "कृष्णा नदी (Krishna River)"
+        "hi": "कृष्णा नदी"
       },
       {
         "en": "Tungabhadra River",
@@ -7157,7 +7157,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Kamakhya Temple",
-        "hi": "कामाख्या मंदिर (Kamakhya Temple)"
+        "hi": "कामाख्या मंदिर"
       },
       {
         "en": "Navagraha Temple",
@@ -7202,7 +7202,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Isaac Newton",
-        "hi": "आइजैक न्यूटन (Isaac Newton)"
+        "hi": "आइजैक न्यूटन"
       },
       {
         "en": "Albert Einstein",
@@ -7239,7 +7239,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "London",
-        "hi": "लंदन (London)"
+        "hi": "लंदन"
       },
       {
         "en": "Zurich",
@@ -7280,7 +7280,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Sweden",
-        "hi": "स्वीडन (Sweden)"
+        "hi": "स्वीडन"
       },
       {
         "en": "Denmark",
@@ -7403,7 +7403,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Tripura",
-        "hi": "त्रिपुरा (Tripura)"
+        "hi": "त्रिपुरा"
       },
       {
         "en": "Mizoram",
@@ -7444,7 +7444,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Tamil Nadu",
-        "hi": "तमिलनाडु (Tamil Nadu)"
+        "hi": "तमिलनाडु"
       },
       {
         "en": "Karnataka",
@@ -7489,7 +7489,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Reva",
-        "hi": "रेवा (Reva)"
+        "hi": "रेवा"
       },
       {
         "en": "Tigor EV",
@@ -7526,7 +7526,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "SAGA-220",
-        "hi": "सागा-220 (SAGA)"
+        "hi": "सागा-220"
       },
       {
         "en": "Pratyush",
@@ -7563,7 +7563,7 @@ const QUIZ_DATA = [
     "options": [
       {
         "en": "Biosafety (Living Modified Organisms)",
-        "hi": "जैव सुरक्षा (Biosafety / LMOs)"
+        "hi": "जैव सुरक्षा"
       },
       {
         "en": "Ozone layer protection",
@@ -7608,7 +7608,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Persistent Organic Pollutants (POPs)",
-        "hi": "स्थायी जैविक प्रदूषक (Persistent Organic Pollutants)"
+        "hi": "स्थायी जैविक प्रदूषक"
       },
       {
         "en": "Greenhouse Gases",
@@ -7649,7 +7649,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Clay and Shale",
-        "hi": "चिकनी मिट्टी (Clay) और शेल (Shale)"
+        "hi": "चिकनी मिट्टी और शेल"
       },
       {
         "en": "Limestone",
@@ -7690,15 +7690,15 @@ const QUIZ_DATA = [
       },
       {
         "en": "Marble (Sangmarmar)",
-        "hi": "संगमरमर (Marble)"
+        "hi": "संगमरमर"
       },
       {
         "en": "Gneiss",
-        "hi": "नीस (Gneiss)"
+        "hi": "नीस"
       },
       {
         "en": "Schist",
-        "hi": "सिस्ट (Schist)"
+        "hi": "सिस्ट"
       }
     ],
     "answerIndex": 1,
@@ -7813,7 +7813,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "USA and Canada",
-        "hi": "अमेरिका और कनाडा (USA & Canada)"
+        "hi": "अमेरिका और कनाडा"
       },
       {
         "en": "North Korea and South Korea",
@@ -7973,7 +7973,7 @@ const QUIZ_DATA = [
     "options": [
       {
         "en": "Thomas More",
-        "hi": "थॉमस मोर (Thomas More)"
+        "hi": "थॉमस मोर"
       },
       {
         "en": "Francis Bacon",
@@ -8014,7 +8014,7 @@ const QUIZ_DATA = [
     "options": [
       {
         "en": "Niccolò Machiavelli",
-        "hi": "निकोलस मैकियावेली (Machiavelli)"
+        "hi": "निकोलस मैकियावेली"
       },
       {
         "en": "Thomas Hobbes",
@@ -8059,7 +8059,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Dante Alighieri",
-        "hi": "दांते एलीघिएरी (Dante)"
+        "hi": "दांते एलीघिएरी"
       },
       {
         "en": "Virgil",
@@ -8100,7 +8100,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Surendranath Banerjee",
-        "hi": "सुरेंद्रनाथ बनर्जी (Surendranath Banerjee)"
+        "hi": "सुरेंद्रनाथ बनर्जी"
       },
       {
         "en": "Bipin Chandra Pal",
@@ -8137,7 +8137,7 @@ const QUIZ_DATA = [
     "options": [
       {
         "en": "Bhagat Singh",
-        "hi": "भगत सिंह (Bhagat Singh)"
+        "hi": "भगत सिंह"
       },
       {
         "en": "Batukeshwar Dutt",
@@ -8182,7 +8182,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "3rd Five-Year Plan (1961–1966)",
-        "hi": "तीसरी पंचवर्षीय योजना (1961–1966)"
+        "hi": "तीसरी पंचवर्षीय योजना"
       },
       {
         "en": "4th Five-Year Plan",
@@ -8268,7 +8268,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Ashvamedha Yajna",
-        "hi": "अश्वमेध यज्ञ (Ashvamedha Yajna)"
+        "hi": "अश्वमेध यज्ञ"
       },
       {
         "en": "Agnishtoma Yajna",
@@ -8342,7 +8342,7 @@ const QUIZ_DATA = [
     "options": [
       {
         "en": "Baji Rao Ballal (Bhat)",
-        "hi": "बाजीराव बल्लाल (Baji Rao Ballal)"
+        "hi": "बाजीराव बल्लाल"
       },
       {
         "en": "Baji Rao Pantpratinidhi",
@@ -8387,7 +8387,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Sarojini Naidu",
-        "hi": "सरोजिनी नायडू (Sarojini Naidu)"
+        "hi": "सरोजिनी नायडू"
       },
       {
         "en": "Kasturba Gandhi",
@@ -8428,7 +8428,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Hematite",
-        "hi": "हेमेटाइट (Hematite)"
+        "hi": "हेमेटाइट"
       },
       {
         "en": "Limonite",
@@ -8465,11 +8465,11 @@ const QUIZ_DATA = [
     "options": [
       {
         "en": "Mercury",
-        "hi": "बुध (Mercury)"
+        "hi": "बुध"
       },
       {
         "en": "Neptune",
-        "hi": "वरुण (Neptune)"
+        "hi": "वरुण"
       },
       {
         "en": "Pluto",
@@ -8477,7 +8477,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Mars",
-        "hi": "मंगल (Mars)"
+        "hi": "मंगल"
       }
     ],
     "answerIndex": 2,
@@ -8506,15 +8506,15 @@ const QUIZ_DATA = [
     "options": [
       {
         "en": "Spiral Galaxy",
-        "hi": "सर्पिलाकार आकाशगंगा (Spiral)"
+        "hi": "सर्पिलाकार आकाशगंगा"
       },
       {
         "en": "Elliptical Galaxy",
-        "hi": "दीर्घवृत्ताकार आकाशगंगा (Elliptical)"
+        "hi": "दीर्घवृत्ताकार आकाशगंगा"
       },
       {
         "en": "Irregular Galaxy",
-        "hi": "अनियमित आकाशगंगा (Irregular Galaxy)"
+        "hi": "अनियमित आकाशगंगा"
       },
       {
         "en": "Lenticular Galaxy",
@@ -8588,19 +8588,19 @@ const QUIZ_DATA = [
     "options": [
       {
         "en": "Troposphere",
-        "hi": "क्षोभमंडल (Troposphere)"
+        "hi": "क्षोभमंडल"
       },
       {
         "en": "Stratosphere",
-        "hi": "समतापमंडल (Stratosphere)"
+        "hi": "समतापमंडल"
       },
       {
         "en": "Mesosphere",
-        "hi": "मध्यमंडल (Mesosphere)"
+        "hi": "मध्यमंडल"
       },
       {
         "en": "Thermosphere",
-        "hi": "तापमंडल (Thermosphere)"
+        "hi": "तापमंडल"
       }
     ],
     "answerIndex": 1,
@@ -8670,11 +8670,11 @@ const QUIZ_DATA = [
     "options": [
       {
         "en": "National Centre for Medium Range Weather Forecasting (NCMRWF), Noida",
-        "hi": "राष्ट्रीय मध्यम अवधि मौसम पूर्वानुमान केंद्र (NCMRWF), नोएडा"
+        "hi": "राष्ट्रीय मध्यम अवधि मौसम पूर्वानुमान केंद्र, नोएडा"
       },
       {
         "en": "Indian Institute of Tropical Meteorology (IITM), Pune",
-        "hi": "भारतीय उष्णकटिबंधीय मौसम विज्ञान संस्थान (IITM), पुणे"
+        "hi": "भारतीय उष्णकटिबंधीय मौसम विज्ञान संस्थान, पुणे"
       },
       {
         "en": "ISRO Telemetry Centre, Bengaluru",
@@ -8682,7 +8682,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "National Institute of Oceanography (NIO), Goa",
-        "hi": "राष्ट्रीय समुद्र विज्ञान संस्थान (NIO), गोवा"
+        "hi": "राष्ट्रीय समुद्र विज्ञान संस्थान, गोवा"
       }
     ],
     "answerIndex": 1,
@@ -8719,7 +8719,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "To promote cooperative societies",
-        "hi": "सहकारी समितियों को बढ़ावा देना (To promote co-operative societies)"
+        "hi": "सहकारी समितियों को बढ़ावा देना"
       },
       {
         "en": "To abide by the Constitution and respect the National Flag",
@@ -8756,7 +8756,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Revenue Expenditure – Revenue Receipts",
-        "hi": "राजस्व व्यय – राजस्व प्राप्तियां (Revenue expenditure – Revenue receipts)"
+        "hi": "राजस्व व्यय – राजस्व प्राप्तियां"
       },
       {
         "en": "Fiscal Deficit – Interest Payments",
@@ -8838,7 +8838,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "45 kg",
-        "hi": "45 किग्रा (45 kg)"
+        "hi": "45 किग्रा"
       },
       {
         "en": "49 kg",
@@ -8920,7 +8920,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "9 units",
-        "hi": "9 यूनिट (9 kWh)"
+        "hi": "9 यूनिट"
       },
       {
         "en": "12 units",
@@ -8957,15 +8957,15 @@ const QUIZ_DATA = [
     "options": [
       {
         "en": "Convex mirror",
-        "hi": "उत्तल दर्पण (Convex mirror)"
+        "hi": "उत्तल दर्पण"
       },
       {
         "en": "Concave mirror",
-        "hi": "अवतल दर्पण (Concave mirror)"
+        "hi": "अवतल दर्पण"
       },
       {
         "en": "Plane mirror",
-        "hi": "समतल दर्पण (Plane mirror)"
+        "hi": "समतल दर्पण"
       },
       {
         "en": "Cylindrical mirror",
@@ -9047,7 +9047,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "20 days",
-        "hi": "20 दिन (20 days)"
+        "hi": "20 दिन"
       },
       {
         "en": "30 days",
@@ -9084,7 +9084,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "98 watts",
-        "hi": "98 वाट (98 watts)"
+        "hi": "98 वाट"
       },
       {
         "en": "196 watts",
@@ -9166,7 +9166,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "3 carbon atoms",
-        "hi": "3 कार्बन परमाणु (3 carbon atoms)"
+        "hi": "3 कार्बन परमाणु"
       },
       {
         "en": "4 carbon atoms",
@@ -9244,19 +9244,19 @@ const QUIZ_DATA = [
     "options": [
       {
         "en": "Left atrium",
-        "hi": "बायाँ अलिंद (Left atrium)"
+        "hi": "बायाँ अलिंद"
       },
       {
         "en": "Right atrium",
-        "hi": "दायाँ अलिंद (Right atrium)"
+        "hi": "दायाँ अलिंद"
       },
       {
         "en": "Left ventricle",
-        "hi": "बायाँ निलय (Left ventricle)"
+        "hi": "बायाँ निलय"
       },
       {
         "en": "Right ventricle",
-        "hi": "दायाँ निलय (Right ventricle)"
+        "hi": "दायाँ निलय"
       }
     ],
     "answerIndex": 1,
@@ -9285,19 +9285,19 @@ const QUIZ_DATA = [
     "options": [
       {
         "en": "Guttation",
-        "hi": "बिंदुस्राव (Guttation)"
+        "hi": "बिंदुस्राव"
       },
       {
         "en": "Transpiration",
-        "hi": "वाष्पोत्सर्जन (Transpiration)"
+        "hi": "वाष्पोत्सर्जन"
       },
       {
         "en": "Osmosis",
-        "hi": "परासरण (Osmosis)"
+        "hi": "परासरण"
       },
       {
         "en": "Respiration",
-        "hi": "श्वसन (Respiration)"
+        "hi": "श्वसन"
       }
     ],
     "answerIndex": 1,
@@ -9326,11 +9326,11 @@ const QUIZ_DATA = [
     "options": [
       {
         "en": "Root pressure",
-        "hi": "मूल दाब (Root pressure)"
+        "hi": "मूल दाब"
       },
       {
         "en": "Transpiration pull",
-        "hi": "वाष्पोत्सर्जन खिंचाव (Transpiration pull)"
+        "hi": "वाष्पोत्सर्जन खिंचाव"
       },
       {
         "en": "Gravitational pull",
@@ -9338,7 +9338,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Imbibition",
-        "hi": "अंतःशोषण (Imbibition)"
+        "hi": "अंतःशोषण"
       }
     ],
     "answerIndex": 1,
@@ -9371,7 +9371,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Systemin",
-        "hi": "सिस्टेमिन (Systemin)"
+        "hi": "सिस्टेमिन"
       },
       {
         "en": "Auxin",
@@ -9453,7 +9453,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Tamil Nadu",
-        "hi": "तमिलनाडु (Tamil Nadu)"
+        "hi": "तमिलनाडु"
       },
       {
         "en": "Karnataka",
@@ -9535,7 +9535,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Mizoram",
-        "hi": "मिजोरम (Mizoram)"
+        "hi": "मिजोरम"
       },
       {
         "en": "Meghalaya",
@@ -9576,7 +9576,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Khamti tribe of Arunachal Pradesh",
-        "hi": "अरुणाचल प्रदेश की खमती (Khamti) जनजाति"
+        "hi": "अरुणाचल प्रदेश की खमती जनजाति"
       },
       {
         "en": "Lepcha tribe",
@@ -9617,7 +9617,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Kashmiri Pandits",
-        "hi": "कश्मीरी पंडित (Kashmiri Pandits)"
+        "hi": "कश्मीरी पंडित"
       },
       {
         "en": "Parsi community",
@@ -9658,7 +9658,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "To cleanse and purify the body, soul, and village of past sins",
-        "hi": "शरीर और आत्मा को शुद्ध और पवित्र करना (Purification)"
+        "hi": "शरीर और आत्मा को शुद्ध और पवित्र करना"
       },
       {
         "en": "To celebrate the rice sowing only",
@@ -9740,7 +9740,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Garo tribe of Meghalaya",
-        "hi": "मेघालय की गारो जनजाति (Garo tribe)"
+        "hi": "मेघालय की गारो जनजाति"
       },
       {
         "en": "Mizo tribe",
@@ -9785,7 +9785,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "14 deities (Chaturdasha Devata)",
-        "hi": "14 स्वदेशी देवता (Chaturdasha Devata)"
+        "hi": "14 स्वदेशी देवता"
       },
       {
         "en": "24 deities",
@@ -9822,7 +9822,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Ibex (Mountain Goat)",
-        "hi": "आईबेक्स (जंगली पहाड़ी बकरी / Ibex)"
+        "hi": "आईबेक्स (जंगली पहाड़ी बकरी)"
       },
       {
         "en": "Snow Leopard",
@@ -9863,7 +9863,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Maharashtra",
-        "hi": "महाराष्ट्र (Maharashtra)"
+        "hi": "महाराष्ट्र"
       },
       {
         "en": "Rajasthan",
@@ -9904,7 +9904,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "7 players",
-        "hi": "7 खिलाड़ी (7 players)"
+        "hi": "7 खिलाड़ी"
       },
       {
         "en": "8 players",
@@ -9945,7 +9945,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Takedown",
-        "hi": "टेकडाउन (Takedown)"
+        "hi": "टेकडाउन"
       },
       {
         "en": "Escape",
@@ -10027,7 +10027,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "At 6-6 in games in the final set",
-        "hi": "अंतिम सेट में गेम स्कोर 6-6 होने पर (At 6-6 in the fifth/deciding set)"
+        "hi": "अंतिम सेट में गेम स्कोर 6-6 होने पर"
       },
       {
         "en": "At 12-12 in games",
@@ -10068,7 +10068,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Gwalior Fort",
-        "hi": "ग्वालियर का किला (Gwalior Fort)"
+        "hi": "ग्वालियर का किला"
       },
       {
         "en": "Agra Fort",
@@ -10109,7 +10109,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Sardar Vallabhbhai Patel",
-        "hi": "सरदार वल्लभभाई पटेल (Sardar Vallabhbhai Patel)"
+        "hi": "सरदार वल्लभभाई पटेल"
       },
       {
         "en": "B. R. Ambedkar",
@@ -10150,7 +10150,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "SpaDeX (Space Docking Experiment)",
-        "hi": "स्पैडेक्स (SpaDeX - Space Docking Experiment)"
+        "hi": "स्पैडेक्स"
       },
       {
         "en": "Gaganyaan-1",
@@ -10191,7 +10191,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "ZyCoV-D",
-        "hi": "जायकोव-डी (ZyCoV-D)"
+        "hi": "जायकोव-डी"
       },
       {
         "en": "Corbevax",
@@ -10232,7 +10232,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "29 August",
-        "hi": "29 अगस्त (29 August)"
+        "hi": "29 अगस्त"
       },
       {
         "en": "14 November",
@@ -10273,7 +10273,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Ravi River",
-        "hi": "रावी नदी (Ravi River)"
+        "hi": "रावी नदी"
       },
       {
         "en": "Ghaggar-Hakra River",
@@ -10310,19 +10310,19 @@ const QUIZ_DATA = [
     "options": [
       {
         "en": "Kalpa",
-        "hi": "कल्प (Kalpa)"
+        "hi": "कल्प"
       },
       {
         "en": "Vaisheshika",
-        "hi": "वैशेषिक (Vaisheshika)"
+        "hi": "वैशेषिक"
       },
       {
         "en": "Vyakarana",
-        "hi": "व्याकरण (Vyakarana)"
+        "hi": "व्याकरण"
       },
       {
         "en": "Jyotisha",
-        "hi": "ज्योतिष (Jyotisha)"
+        "hi": "ज्योतिष"
       }
     ],
     "answerIndex": 1,
@@ -10396,7 +10396,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Venus",
-        "hi": "शुक्र (Venus)"
+        "hi": "शुक्र"
       },
       {
         "en": "Mars",
@@ -10433,11 +10433,11 @@ const QUIZ_DATA = [
     "options": [
       {
         "en": "Clockwise",
-        "hi": "घड़ी की दिशा में (Clockwise)"
+        "hi": "घड़ी की दिशा में"
       },
       {
         "en": "Anti-clockwise (Counter-clockwise)",
-        "hi": "वामावर्त / घड़ी की विपरीत दिशा में (Anti-clockwise)"
+        "hi": "वामावर्त / घड़ी की विपरीत दिशा में"
       },
       {
         "en": "North to South",
@@ -10478,7 +10478,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Maharashtra",
-        "hi": "महाराष्ट्र (Maharashtra)"
+        "hi": "महाराष्ट्र"
       },
       {
         "en": "Madhya Pradesh",
@@ -10515,7 +10515,7 @@ const QUIZ_DATA = [
     "options": [
       {
         "en": "Mission LiFE (Lifestyle for Environment)",
-        "hi": "मिशन लाइफ (Mission LiFE)"
+        "hi": "मिशन लाइफ"
       },
       {
         "en": "Green Credit Initiative",
@@ -10560,7 +10560,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "10 February 2006",
-        "hi": "10 फरवरी 2006 (10 February 2006)"
+        "hi": "10 फरवरी 2006"
       },
       {
         "en": "1 July 2006",
@@ -10601,7 +10601,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "During the night",
-        "hi": "रात के समय (During the night)"
+        "hi": "रात के समय"
       },
       {
         "en": "Only at sunrise",
@@ -10642,7 +10642,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Fiscal Deficit",
-        "hi": "राजकोषीय घाटा (Fiscal Deficit)"
+        "hi": "राजकोषीय घाटा"
       },
       {
         "en": "Primary Deficit",
@@ -10728,7 +10728,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "3rd Five-Year Plan (1961–1966)",
-        "hi": "तीसरी पंचवर्षीय योजना (1961–1966)"
+        "hi": "तीसरी पंचवर्षीय योजना"
       },
       {
         "en": "5th Five-Year Plan",
@@ -10765,7 +10765,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Poverty eradication (Garibi Hatao) and technological modernization",
-        "hi": "गरीबी उन्मूलन (Garibi Hatao) और तकनीकी आधुनिकीकरण"
+        "hi": "गरीबी उन्मूलन और तकनीकी आधुनिकीकरण"
       },
       {
         "en": "Rehabilitation of refugees",
@@ -10810,7 +10810,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "6 variables",
-        "hi": "6 चर (6 key variables)"
+        "hi": "6 चर"
       },
       {
         "en": "8 variables",
@@ -10843,11 +10843,11 @@ const QUIZ_DATA = [
     "options": [
       {
         "en": "World Economic Forum (WEF)",
-        "hi": "विश्व आर्थिक मंच (WEF)"
+        "hi": "विश्व आर्थिक मंच"
       },
       {
         "en": "World Intellectual Property Organization (WIPO)",
-        "hi": "विश्व बौद्धिक संपदा संगठन (WIPO)"
+        "hi": "विश्व बौद्धिक संपदा संगठन"
       },
       {
         "en": "World Bank",
@@ -10933,7 +10933,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "4.5 Amperes",
-        "hi": "4.5 एम्पीयर (4.5 A)"
+        "hi": "4.5 एम्पीयर"
       },
       {
         "en": "9.0 Amperes",
@@ -11052,7 +11052,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Speed increases and fluid pressure decreases",
-        "hi": "चाल बढ़ती है और द्रव का दाब घटता है (Speed increases, pressure decreases)"
+        "hi": "चाल बढ़ती है और द्रव का दाब घटता है"
       },
       {
         "en": "Both speed and pressure remain constant",
@@ -11093,7 +11093,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "By adding concentrated Hydrochloric Acid (HCl); sample turns magenta/pink and retains color upon adding water",
-        "hi": "सांद्र हाइड्रोक्लोरिक एसिड (HCl) मिलाकर; मिलावटी होने पर गुलाबी/बैंगनी रंग आता है"
+        "hi": "सांद्र हाइड्रोक्लोरिक एसिड मिलाकर; मिलावटी होने पर गुलाबी/बैंगनी रंग आता है"
       },
       {
         "en": "By heating on a flame until it turns green",
@@ -11130,11 +11130,11 @@ const QUIZ_DATA = [
     "options": [
       {
         "en": "Alpha decay",
-        "hi": "अल्फा क्षय (Alpha decay)"
+        "hi": "अल्फा क्षय"
       },
       {
         "en": "Beta-minus (β⁻) decay",
-        "hi": "बीटा-माइनस क्षय (Beta-minus decay)"
+        "hi": "बीटा-माइनस क्षय"
       },
       {
         "en": "Gamma emission",
@@ -11216,7 +11216,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Narcotics (Opioid Analgesics)",
-        "hi": "नारकोटिक्स / ओपिओइड एनाल्जेसिक (Narcotics)"
+        "hi": "नारकोटिक्स / ओपिओइड एनाल्जेसिक"
       },
       {
         "en": "Beta-2 Agonists",
@@ -11224,7 +11224,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Diuretics",
-        "hi": "मूत्रवर्धक (Diuretics)"
+        "hi": "मूत्रवर्धक"
       }
     ],
     "answerIndex": 1,
@@ -11294,19 +11294,19 @@ const QUIZ_DATA = [
     "options": [
       {
         "en": "Microvilli",
-        "hi": "सूक्ष्मांकुर (Microvilli)"
+        "hi": "सूक्ष्मांकुर"
       },
       {
         "en": "Cilia",
-        "hi": "सिलिया / पक्ष्माभ (Cilia)"
+        "hi": "सिलिया / पक्ष्माभ"
       },
       {
         "en": "Flagella",
-        "hi": "कशाभिका (Flagella)"
+        "hi": "कशाभिका"
       },
       {
         "en": "Alveoli",
-        "hi": "कूपिका (Alveoli)"
+        "hi": "कूपिका"
       }
     ],
     "answerIndex": 1,
@@ -11384,7 +11384,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Glycogen",
-        "hi": "ग्लाइकोजन (Glycogen)"
+        "hi": "ग्लाइकोजन"
       },
       {
         "en": "Chitin",
@@ -11421,7 +11421,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Fruit Bats (Pteropus species)",
-        "hi": "फल चमगादड़ (Fruit Bats / फ्लाइंग फॉक्स)"
+        "hi": "फल चमगादड़ (फ्लाइंग फॉक्स)"
       },
       {
         "en": "Wild Rodents",
@@ -11503,7 +11503,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Age of an individual",
-        "hi": "व्यक्ति की आयु (Age determination)"
+        "hi": "व्यक्ति की आयु"
       },
       {
         "en": "Bone cancer diagnosis",
@@ -11544,7 +11544,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Lactic acid",
-        "hi": "लैक्टिक अम्ल (Lactic Acid)"
+        "hi": "लैक्टिक अम्ल"
       },
       {
         "en": "Citric acid",
@@ -11622,7 +11622,7 @@ const QUIZ_DATA = [
     "options": [
       {
         "en": "Nyishi tribe of Arunachal Pradesh",
-        "hi": "अरुणाचल प्रदेश की न्यीशी (Nyishi) जनजाति"
+        "hi": "अरुणाचल प्रदेश की न्यीशी जनजाति"
       },
       {
         "en": "Bodo tribe of Assam",
@@ -11745,19 +11745,19 @@ const QUIZ_DATA = [
     "options": [
       {
         "en": "A lap",
-        "hi": "लैप (Lap)"
+        "hi": "लैप"
       },
       {
         "en": "A leg",
-        "hi": "लेग (Leg)"
+        "hi": "लेग"
       },
       {
         "en": "A split",
-        "hi": "स्प्लिट (Split)"
+        "hi": "स्प्लिट"
       },
       {
         "en": "A stint",
-        "hi": "स्टिंट (Stint)"
+        "hi": "स्टिंट"
       }
     ],
     "answerIndex": 1,
@@ -11790,7 +11790,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "16 to 19 inches",
-        "hi": "16 से 19 इंच (16 to 19 inches)"
+        "hi": "16 से 19 इंच"
       },
       {
         "en": "26 to 29 inches",
@@ -11827,11 +11827,11 @@ const QUIZ_DATA = [
     "options": [
       {
         "en": "Mate",
-        "hi": "माटे (Mate - रुको)"
+        "hi": "माटे (रुको)"
       },
       {
         "en": "Hajime",
-        "hi": "हाजिमे (Hajime - शुरू करो)"
+        "hi": "हाजिमे (शुरू करो)"
       },
       {
         "en": "Sore-made",
@@ -11872,7 +11872,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Fosbury Flop",
-        "hi": "फॉसबरी फ्लॉप (Fosbury Flop)"
+        "hi": "फॉसबरी फ्लॉप"
       },
       {
         "en": "Scissors Jump",
@@ -11917,7 +11917,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "9 players",
-        "hi": "9 खिलाड़ी (9 players)"
+        "hi": "9 खिलाड़ी"
       },
       {
         "en": "11 players",
@@ -11954,7 +11954,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "19 female cadets",
-        "hi": "19 महिला कैडेट (19 female cadets)"
+        "hi": "19 महिला कैडेट"
       },
       {
         "en": "25 female cadets",
@@ -11995,7 +11995,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Immediate and decisive victory",
-        "hi": "मैच की तत्काल और निर्णायक विजय (Immediate victory)"
+        "hi": "मैच की तत्काल और निर्णायक विजय"
       },
       {
         "en": "Minor penalty (Shido)",
@@ -12036,7 +12036,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Roger Federer",
-        "hi": "रोजर फेडरर (Roger Federer)"
+        "hi": "रोजर फेडरर"
       },
       {
         "en": "Novak Djokovic",
@@ -12077,7 +12077,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "1955",
-        "hi": "1955 (1955)"
+        "hi": "1955"
       },
       {
         "en": "1960",
@@ -12118,7 +12118,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Concave mirror",
-        "hi": "अवतल दर्पण (Concave mirror)"
+        "hi": "अवतल दर्पण"
       },
       {
         "en": "Plane mirror",
@@ -12159,7 +12159,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Always pointing away from the Sun",
-        "hi": "हमेशा सूर्य से दूर विपरीत दिशा में (Away from the Sun)"
+        "hi": "हमेशा सूर्य से दूर विपरीत दिशा में"
       },
       {
         "en": "Parallel to the orbital plane",
@@ -12204,7 +12204,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "It increases",
-        "hi": "यह बढ़ता है (It increases)"
+        "hi": "यह बढ़ता है"
       },
       {
         "en": "It reduces to zero",
@@ -12241,7 +12241,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "20 teeth",
-        "hi": "20 दाँत (20 teeth)"
+        "hi": "20 दाँत"
       },
       {
         "en": "28 teeth",
@@ -12282,7 +12282,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Italy",
-        "hi": "इटली (Italy)"
+        "hi": "इटली"
       },
       {
         "en": "Spain",
@@ -12364,7 +12364,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Bauxite",
-        "hi": "बॉक्साइट (Bauxite)"
+        "hi": "बॉक्साइट"
       },
       {
         "en": "Galena",
@@ -12413,7 +12413,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "22 December",
-        "hi": "22 दिसंबर (Winter Solstice)"
+        "hi": "22 दिसंबर"
       }
     ],
     "answerIndex": 3,
@@ -12442,7 +12442,7 @@ const QUIZ_DATA = [
     "options": [
       {
         "en": "3 January",
-        "hi": "3 जनवरी (उपसौर / Perihelion)"
+        "hi": "3 जनवरी (उपसौर)"
       },
       {
         "en": "21 March",
@@ -12450,7 +12450,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "4 July",
-        "hi": "4 जुलाई (अपसौर / Aphelion)"
+        "hi": "4 जुलाई (अपसौर)"
       },
       {
         "en": "23 September",
@@ -12483,11 +12483,11 @@ const QUIZ_DATA = [
     "options": [
       {
         "en": "The Crust",
-        "hi": "भूपर्पटी (Crust)"
+        "hi": "भूपर्पटी"
       },
       {
         "en": "The Mantle",
-        "hi": "मेंटल (The Mantle)"
+        "hi": "मेंटल"
       },
       {
         "en": "Outer Core",
@@ -12528,7 +12528,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Vientiane",
-        "hi": "वियनतियाने (Vientiane)"
+        "hi": "वियनतियाने"
       },
       {
         "en": "Hanoi",
@@ -12610,7 +12610,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Uttarakhand",
-        "hi": "उत्तराखंड (Uttarakhand)"
+        "hi": "उत्तराखंड"
       },
       {
         "en": "Assam",
@@ -12651,7 +12651,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "7 September",
-        "hi": "7 सितंबर (7 September)"
+        "hi": "7 सितंबर"
       },
       {
         "en": "16 September",
@@ -12692,7 +12692,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Delhi",
-        "hi": "दिल्ली (Delhi)"
+        "hi": "दिल्ली"
       },
       {
         "en": "Bengaluru",
@@ -12733,7 +12733,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Bhutan",
-        "hi": "भूटान (Bhutan)"
+        "hi": "भूटान"
       },
       {
         "en": "Nepal",
@@ -12778,7 +12778,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "27 November",
-        "hi": "27 नवंबर (27 November)"
+        "hi": "27 नवंबर"
       },
       {
         "en": "10 December",
@@ -12815,7 +12815,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Sindhi",
-        "hi": "सिंधी (Sindhi)"
+        "hi": "सिंधी"
       },
       {
         "en": "Manipuri",
@@ -12897,7 +12897,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Hampi (Vijayanagara)",
-        "hi": "हम्पी (Hampi)"
+        "hi": "हम्पी"
       },
       {
         "en": "Pattadakal",
@@ -12938,7 +12938,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Mexico",
-        "hi": "मेक्सिको (Mexico)"
+        "hi": "मेक्सिको"
       },
       {
         "en": "Guatemala",
@@ -13024,7 +13024,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Leaning Tower of Pisa (Italy)",
-        "hi": "पीसा की झुकी मीनार (Leaning Tower of Pisa)"
+        "hi": "पीसा की झुकी मीनार"
       },
       {
         "en": "Colosseum (Rome)",
@@ -13180,15 +13180,15 @@ const QUIZ_DATA = [
     "options": [
       {
         "en": "Oxygen (O₂)",
-        "hi": "ऑक्सीजन (O₂)"
+        "hi": "ऑक्सीजन"
       },
       {
         "en": "Hydrogen (H₂)",
-        "hi": "हाइड्रोजन (H₂)"
+        "hi": "हाइड्रोजन"
       },
       {
         "en": "Sulfur Dioxide (SO₂)",
-        "hi": "सल्फर डाइऑक्साइड (SO₂)"
+        "hi": "सल्फर डाइऑक्साइड"
       },
       {
         "en": "Carbon Monoxide (CO)",
@@ -13221,7 +13221,7 @@ const QUIZ_DATA = [
     "options": [
       {
         "en": "Kolhapur",
-        "hi": "कोल्हापुर (Kolhapur)"
+        "hi": "कोल्हापुर"
       },
       {
         "en": "Nagpur",
@@ -13348,7 +13348,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Knitting needles and electric bulbs / sewing machines",
-        "hi": "सिलाई की सुइयां और बिजली के बल्ब (Knitting needles & bulbs)"
+        "hi": "सिलाई की सुइयां और बिजली के बल्ब"
       },
       {
         "en": "Shipbuilding and blast furnaces",
@@ -13389,7 +13389,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Venus",
-        "hi": "शुक्र (Venus - 243 दिन)"
+        "hi": "शुक्र (243 दिन)"
       },
       {
         "en": "Mars",
@@ -13426,11 +13426,11 @@ const QUIZ_DATA = [
     "options": [
       {
         "en": "Clockwise",
-        "hi": "दक्षिणावर्त (Clockwise)"
+        "hi": "दक्षिणावर्त"
       },
       {
         "en": "Anti-clockwise (Counter-clockwise)",
-        "hi": "वामावर्त (Anti-clockwise)"
+        "hi": "वामावर्त"
       },
       {
         "en": "North to south",
@@ -13467,7 +13467,7 @@ const QUIZ_DATA = [
     "options": [
       {
         "en": "Articles 14 to 18",
-        "hi": "अनुच्छेद 14 से 18 (Articles 14 to 18)"
+        "hi": "अनुच्छेद 14 से 18"
       },
       {
         "en": "Articles 19 to 22",
@@ -13508,19 +13508,19 @@ const QUIZ_DATA = [
     "options": [
       {
         "en": "Mandamus",
-        "hi": "परमादेश (Mandamus)"
+        "hi": "परमादेश"
       },
       {
         "en": "Habeas Corpus",
-        "hi": "बंदी प्रत्यक्षीकरण (Habeas Corpus)"
+        "hi": "बंदी प्रत्यक्षीकरण"
       },
       {
         "en": "Quo Warranto",
-        "hi": "अधिकार पृच्छा (Quo Warranto)"
+        "hi": "अधिकार पृच्छा"
       },
       {
         "en": "Certiorari",
-        "hi": "उत्प्रेषण (Certiorari)"
+        "hi": "उत्प्रेषण"
       }
     ],
     "answerIndex": 1,
@@ -13549,15 +13549,15 @@ const QUIZ_DATA = [
     "options": [
       {
         "en": "State List (List II)",
-        "hi": "राज्य सूची (List II)"
+        "hi": "राज्य सूची"
       },
       {
         "en": "Union List (List I)",
-        "hi": "संघ सूची (List I)"
+        "hi": "संघ सूची"
       },
       {
         "en": "Concurrent List (List III)",
-        "hi": "समवर्ती सूची (List III)"
+        "hi": "समवर्ती सूची"
       },
       {
         "en": "Residuary Powers",
@@ -13672,19 +13672,19 @@ const QUIZ_DATA = [
     "options": [
       {
         "en": "1 N",
-        "hi": "1 N"
+        "hi": "1 न्यूटन"
       },
       {
         "en": "3 N",
-        "hi": "3 N (3 न्यूटन)"
+        "hi": "3 न्यूटन"
       },
       {
         "en": "6 N",
-        "hi": "6 N"
+        "hi": "6 न्यूटन"
       },
       {
         "en": "18 N",
-        "hi": "18 N"
+        "hi": "18 न्यूटन"
       }
     ],
     "answerIndex": 1,
@@ -13717,7 +13717,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Transpiration pull",
-        "hi": "वाष्पोत्सर्जन खिंचाव (Transpiration pull)"
+        "hi": "वाष्पोत्सर्जन खिंचाव"
       },
       {
         "en": "Guttation pressure",
@@ -13799,7 +13799,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Khasi community",
-        "hi": "खासी समुदाय (Khasi community)"
+        "hi": "खासी समुदाय"
       },
       {
         "en": "Jaintia community",
@@ -13844,7 +13844,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Taar Saptak (Higher octave / High pitch)",
-        "hi": "तार सप्तक (ऊंचा सुर / Taar Saptak)"
+        "hi": "तार सप्तक"
       },
       {
         "en": "Komal Swara (Flat note)",
@@ -13881,7 +13881,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Kashmiri Pandits",
-        "hi": "कश्मीरी पंडित (Kashmiri Pandits)"
+        "hi": "कश्मीरी पंडित"
       },
       {
         "en": "Gujaratis",
@@ -13922,7 +13922,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "7 players",
-        "hi": "7 खिलाड़ी (7 players)"
+        "hi": "7 खिलाड़ी"
       },
       {
         "en": "8 players",
@@ -14004,7 +14004,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "19 female cadets",
-        "hi": "19 महिला कैडेट (19 female cadets)"
+        "hi": "19 महिला कैडेट"
       },
       {
         "en": "24 female cadets",
@@ -14045,7 +14045,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "ZyCoV-D",
-        "hi": "जायकोव-डी (ZyCoV-D)"
+        "hi": "जायकोव-डी"
       },
       {
         "en": "Sputnik V",
@@ -14086,7 +14086,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Sikkim",
-        "hi": "सिक्किम (Sikkim)"
+        "hi": "सिक्किम"
       },
       {
         "en": "Kerala",
@@ -14127,7 +14127,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Article 155",
-        "hi": "अनुच्छेद 155 (Appointment of Governor)"
+        "hi": "अनुच्छेद 155"
       },
       {
         "en": "Article 161",
@@ -14168,7 +14168,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Andhra Pradesh",
-        "hi": "आंध्र प्रदेश (Andhra Pradesh)"
+        "hi": "आंध्र प्रदेश"
       },
       {
         "en": "Kerala",
@@ -14205,19 +14205,19 @@ const QUIZ_DATA = [
     "options": [
       {
         "en": "London",
-        "hi": "लंदन (FTSE 100)"
+        "hi": "लंदन"
       },
       {
         "en": "Tokyo",
-        "hi": "टोक्यो (Nikkei)"
+        "hi": "टोक्यो"
       },
       {
         "en": "New York",
-        "hi": "न्यूयॉर्क (New York - Wall Street)"
+        "hi": "न्यूयॉर्क"
       },
       {
         "en": "Frankfurt",
-        "hi": "फ्रैंकफर्ट (DAX)"
+        "hi": "फ्रैंकफर्ट"
       }
     ],
     "answerIndex": 2,
@@ -14246,15 +14246,15 @@ const QUIZ_DATA = [
     "options": [
       {
         "en": "International Year of Millets",
-        "hi": "अंतर्राष्ट्रीय मोटा अनाज वर्ष (2023)"
+        "hi": "अंतर्राष्ट्रीय मोटा अनाज वर्ष"
       },
       {
         "en": "International Year of Cooperatives (and Glaciers' Preservation)",
-        "hi": "अंतर्राष्ट्रीय सहकारिता वर्ष (International Year of Cooperatives)"
+        "hi": "अंतर्राष्ट्रीय सहकारिता वर्ष"
       },
       {
         "en": "International Year of Camelids",
-        "hi": "अंतर्राष्ट्रीय कैमेलिड्स वर्ष (2024)"
+        "hi": "अंतर्राष्ट्रीय कैमेलिड्स वर्ष"
       },
       {
         "en": "International Year of Basic Sciences",
@@ -14328,19 +14328,19 @@ const QUIZ_DATA = [
     "options": [
       {
         "en": "Charles's Law",
-        "hi": "चार्ल्स का नियम (V ∝ T)"
+        "hi": "चार्ल्स का नियम"
       },
       {
         "en": "Boyle's Law",
-        "hi": "बॉयल का नियम (Boyle's Law - P ∝ 1/V)"
+        "hi": "बॉयल का नियम"
       },
       {
         "en": "Gay-Lussac's Law",
-        "hi": "गे-लुसाक का नियम (P ∝ T)"
+        "hi": "गे-लुसाक का नियम"
       },
       {
         "en": "Avogadro's Law",
-        "hi": "आवोगाद्रो का नियम (V ∝ n)"
+        "hi": "आवोगाद्रो का नियम"
       }
     ],
     "answerIndex": 1,
@@ -14373,7 +14373,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Brahm (Brahman)",
-        "hi": "ब्रह्म (Brahm / Brahman)"
+        "hi": "ब्रह्म"
       },
       {
         "en": "Prakriti",
@@ -14414,7 +14414,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Red Sandstone (with grey quartzite rubble)",
-        "hi": "लाल बलुआ पत्थर (Red sandstone)"
+        "hi": "लाल बलुआ पत्थर"
       },
       {
         "en": "Sun-dried mud bricks",
@@ -14455,7 +14455,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Narmada River",
-        "hi": "नर्मदा नदी (Narmada River)"
+        "hi": "नर्मदा नदी"
       },
       {
         "en": "Godavari River",
@@ -14496,7 +14496,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Elephant Endotheliotropic Herpesvirus (EEHV)",
-        "hi": "एलिफेंट एंडोथेलियोट्रोपिक हर्पीसवायरस (EEHV)"
+        "hi": "एलिफेंट एंडोथेलियोट्रोपिक हर्पीसवायरस"
       },
       {
         "en": "Rinderpest Virus",
@@ -14533,11 +14533,11 @@ const QUIZ_DATA = [
     "options": [
       {
         "en": "Moraine deposits",
-        "hi": "हिमोढ़ (Moraines - असंगठित मलबा)"
+        "hi": "हिमोढ़ (असंगठित मलबा)"
       },
       {
         "en": "Outwash deposits (Sandur)",
-        "hi": "हिमानी-धौत निक्षेप (Outwash deposits)"
+        "hi": "हिमानी-धौत निक्षेप"
       },
       {
         "en": "Cirque deposits",
@@ -14578,7 +14578,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Life Expectancy at birth",
-        "hi": "जन्म के समय जीवन प्रत्याशा (Life expectancy at birth)"
+        "hi": "जन्म के समय जीवन प्रत्याशा"
       },
       {
         "en": "Caloric intake per person",
@@ -14619,7 +14619,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Ministry of Finance",
-        "hi": "वित्त मंत्रालय (Ministry of Finance)"
+        "hi": "वित्त मंत्रालय"
       },
       {
         "en": "Ministry of Home Affairs",
@@ -14660,7 +14660,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Kilogram-meter per second (kg·m/s)",
-        "hi": "किलोग्राम-मीटर प्रति सेकंड (kg·m/s)"
+        "hi": "किलोग्राम-मीटर प्रति सेकंड"
       },
       {
         "en": "Joule per second",
@@ -14697,15 +14697,15 @@ const QUIZ_DATA = [
     "options": [
       {
         "en": "Refraction",
-        "hi": "अपवर्तन (Refraction)"
+        "hi": "अपवर्तन"
       },
       {
         "en": "Diffraction",
-        "hi": "विवर्तन (Diffraction)"
+        "hi": "विवर्तन"
       },
       {
         "en": "Polarization",
-        "hi": "ध्रुवण (Polarization)"
+        "hi": "ध्रुवण"
       },
       {
         "en": "Total Internal Reflection",
@@ -14738,11 +14738,11 @@ const QUIZ_DATA = [
     "options": [
       {
         "en": "A single high-energy electron",
-        "hi": "एक उच्च-ऊर्जा इलेक्ट्रॉन (बीटा कण)"
+        "hi": "एक उच्च-ऊर्जा इलेक्ट्रॉन"
       },
       {
         "en": "A Helium nucleus (He²⁺ with 2 protons and 2 neutrons)",
-        "hi": "हीलियम का नाभिक (He²⁺ / 2 प्रोटॉन और 2 न्यूट्रॉन)"
+        "hi": "हीलियम का नाभिक"
       },
       {
         "en": "A single isolated neutron",
@@ -14787,7 +14787,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "G0 phase (Quiescent stage)",
-        "hi": "G0 प्रावस्था (Quiescent stage)"
+        "hi": "G0 प्रावस्था"
       },
       {
         "en": "M phase (Mitosis)",
@@ -14820,7 +14820,7 @@ const QUIZ_DATA = [
     "options": [
       {
         "en": "Zygote",
-        "hi": "युग्मनज (Zygote)"
+        "hi": "युग्मनज"
       },
       {
         "en": "Blastocyst",
@@ -14828,7 +14828,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Foetus (Fetus)",
-        "hi": "भ्रूण / गर्भस्थ शिशु (Foetus / गर्भ)"
+        "hi": "भ्रूण (गर्भस्थ शिशु)"
       },
       {
         "en": "Morula",
@@ -14865,7 +14865,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Gibberellin (Gibberellic Acid)",
-        "hi": "जिबरेलिन (Gibberellin)"
+        "hi": "जिबरेलिन"
       },
       {
         "en": "Ethylene",
@@ -14906,7 +14906,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Ethylene (C₂H₄)",
-        "hi": "एथिलीन (Ethylene)"
+        "hi": "एथिलीन"
       },
       {
         "en": "Cytokinin",
@@ -14947,7 +14947,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Cytokinin (e.g., Zeatin)",
-        "hi": "साइटोकाइनिन (Cytokinin)"
+        "hi": "साइटोकाइनिन"
       },
       {
         "en": "Ethylene",
@@ -14984,19 +14984,19 @@ const QUIZ_DATA = [
     "options": [
       {
         "en": "Marginal placentation (e.g., Pea)",
-        "hi": "सीमांत (Marginal - जैसे मटर)"
+        "hi": "सीमांत (जैसे मटर)"
       },
       {
         "en": "Axile placentation (e.g., Tomato, Lemon)",
-        "hi": "अक्षीय (Axile - जैसे नींबू, टमाटर)"
+        "hi": "अक्षीय (जैसे नींबू, टमाटर)"
       },
       {
         "en": "Parietal placentation",
-        "hi": "भित्तीय बीजांडन्यास (Parietal placentation)"
+        "hi": "भित्तीय बीजांडन्यास"
       },
       {
         "en": "Basal placentation (e.g., Sunflower)",
-        "hi": "आधारीय (Basal - जैसे सूरजमुखी)"
+        "hi": "आधारीय (जैसे सूरजमुखी)"
       }
     ],
     "answerIndex": 2,
@@ -15029,7 +15029,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Manipuri Dance (Jagoi)",
-        "hi": "मणिपुरी नृत्य (Manipuri dance)"
+        "hi": "मणिपुरी नृत्य"
       },
       {
         "en": "Sattriya",
@@ -15111,7 +15111,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Odisha",
-        "hi": "ओडिशा (Odisha)"
+        "hi": "ओडिशा"
       },
       {
         "en": "Assam",
@@ -15193,7 +15193,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Sculling",
-        "hi": "स्कलिंग (Sculling)"
+        "hi": "स्कलिंग"
       },
       {
         "en": "Treading water with feet",
@@ -15234,7 +15234,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Mate (Stop / Wait)",
-        "hi": "माटे (Mate - रुको)"
+        "hi": "माटे (रुको)"
       },
       {
         "en": "Ippon (Victory)",
@@ -15275,7 +15275,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "A major grave violation resulting in direct disqualification and victory to the opponent",
-        "hi": "गंभीर नियम उल्लंघन जिसके परिणामस्वरूप मैच से अयोग्यता (Disqualification) होती है"
+        "hi": "गंभीर नियम उल्लंघन जिसके परिणामस्वरूप मैच से अयोग्यता होती है"
       },
       {
         "en": "A 30-second penalty box hold",
@@ -15316,7 +15316,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "5 players",
-        "hi": "5 खिलाड़ी (5 players)"
+        "hi": "5 खिलाड़ी"
       },
       {
         "en": "6 players",
@@ -15361,7 +15361,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "24 December",
-        "hi": "24 दिसंबर (National Consumer Day)"
+        "hi": "24 दिसंबर"
       },
       {
         "en": "26 January",
@@ -15394,19 +15394,19 @@ const QUIZ_DATA = [
     "options": [
       {
         "en": "International Year of Women Farmers (and Volunteers for Sustainable Development)",
-        "hi": "महिला कृषकों का अंतर्राष्ट्रीय वर्ष (International Year of the Woman Farmer)"
+        "hi": "महिला कृषकों का अंतर्राष्ट्रीय वर्ष"
       },
       {
         "en": "International Year of Millets",
-        "hi": "मोटा अनाज वर्ष (2023)"
+        "hi": "मोटा अनाज वर्ष"
       },
       {
         "en": "International Year of Camelids",
-        "hi": "कैमेलिड्स वर्ष (2024)"
+        "hi": "कैमेलिड्स वर्ष"
       },
       {
         "en": "International Year of Quantum Science and Technology",
-        "hi": "क्वांटम विज्ञान एवं प्रौद्योगिकी वर्ष (2025)"
+        "hi": "क्वांटम विज्ञान एवं प्रौद्योगिकी वर्ष"
       }
     ],
     "answerIndex": 0,
@@ -15439,7 +15439,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Sanjaya Baru",
-        "hi": "संजय बारू (Sanjaya Baru)"
+        "hi": "संजय बारू"
       },
       {
         "en": "Natwar Singh",
@@ -15480,7 +15480,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Margaret Thatcher",
-        "hi": "मार्गरेट थैचर (Margaret Thatcher)"
+        "hi": "मार्गरेट थैचर"
       },
       {
         "en": "Angela Merkel",
@@ -15521,7 +15521,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Indira Gandhi International Airport, New Delhi",
-        "hi": "इंदिरा गांधी अंतर्राष्ट्रीय हवाई अड्डा, नई दिल्ली (IGI Airport)"
+        "hi": "इंदिरा गांधी अंतर्राष्ट्रीय हवाई अड्डा, नई दिल्ली"
       },
       {
         "en": "Kempegowda International Airport, Bengaluru",
@@ -15562,7 +15562,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "India",
-        "hi": "भारत (India)"
+        "hi": "भारत"
       },
       {
         "en": "Brazil",
@@ -15603,7 +15603,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Bodhana Sivanandan",
-        "hi": "बोधना शिवानंदन (Bodhana Sivanandan)"
+        "hi": "बोधना शिवानंदन"
       },
       {
         "en": "Koneru Humpy",
@@ -15644,7 +15644,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Lebanon",
-        "hi": "लेबनान (Lebanon)"
+        "hi": "लेबनान"
       },
       {
         "en": "Egypt",
@@ -15685,7 +15685,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Ram Nath Kovind",
-        "hi": "रामनाथ कोविंद (Ram Nath Kovind)"
+        "hi": "रामनाथ कोविंद"
       },
       {
         "en": "Arjun Munda",
@@ -15726,7 +15726,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Outstanding performance in sports and games over the previous four years",
-        "hi": "पिछले 4 वर्षों में खेलों में उत्कृष्ट प्रदर्शन (Outstanding performance in sports)"
+        "hi": "पिछले 4 वर्षों में खेलों में उत्कृष्ट प्रदर्शन"
       },
       {
         "en": "Excellence in military gallantry",
@@ -15767,7 +15767,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Japan",
-        "hi": "जापान (Japan)"
+        "hi": "जापान"
       },
       {
         "en": "United States",
@@ -15808,7 +15808,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "8 September",
-        "hi": "8 सितंबर (8 September)"
+        "hi": "8 सितंबर"
       },
       {
         "en": "14 September",
@@ -15849,7 +15849,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Honohon",
-        "hi": "होनोहोन (Honohon)"
+        "hi": "होनोहोन"
       },
       {
         "en": "Chenchen, Congcong and Lianlian",
@@ -15890,7 +15890,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Varanasi (Kashi)",
-        "hi": "वाराणसी (Varanasi)"
+        "hi": "वाराणसी"
       },
       {
         "en": "Haridwar",
@@ -15931,7 +15931,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "East Zone",
-        "hi": "ईस्ट ज़ोन (East Zone)"
+        "hi": "ईस्ट ज़ोन"
       },
       {
         "en": "South Zone",
@@ -15972,7 +15972,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Pandit Govind Ballabh Pant",
-        "hi": "पंडित गोविंद वल्लभ पंत (Govind Ballabh Pant)"
+        "hi": "पंडित गोविंद वल्लभ पंत"
       },
       {
         "en": "Chaudhary Charan Singh",
@@ -16013,7 +16013,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Uttarakhand",
-        "hi": "उत्तराखंड (Uttarakhand)"
+        "hi": "उत्तराखंड"
       },
       {
         "en": "Goa",
@@ -16054,7 +16054,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Services Sports Control Board (SSCB)",
-        "hi": "सर्विसेज (Services - SSCB)"
+        "hi": "सर्विसेज"
       },
       {
         "en": "Haryana",
@@ -16091,7 +16091,7 @@ const QUIZ_DATA = [
     "options": [
       {
         "en": "Tejaswi",
-        "hi": "तेजस्वी (Tejaswi)"
+        "hi": "तेजस्वी"
       },
       {
         "en": "Pavan",
@@ -16136,7 +16136,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "R. Venkataramani",
-        "hi": "आर. वेंकटरमणी (R. Venkataramani)"
+        "hi": "आर. वेंकटरमणी"
       },
       {
         "en": "Tushar Mehta",
@@ -16177,7 +16177,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Justice Ranjana Prakash Desai",
-        "hi": "न्यायमूर्ति रंजना प्रकाश देसाई (Justice Ranjana Prakash Desai)"
+        "hi": "न्यायमूर्ति रंजना प्रकाश देसाई"
       },
       {
         "en": "Justice Ritu Raj Awasthi",
@@ -16214,7 +16214,7 @@ const QUIZ_DATA = [
     "options": [
       {
         "en": "Mica (Sheet Mica)",
-        "hi": "अभ्रक / शीट माइका (Mica)"
+        "hi": "अभ्रक / शीट माइका"
       },
       {
         "en": "Tin Ore",
@@ -16226,7 +16226,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Lead",
-        "hi": "सीसा (Lead)"
+        "hi": "सीसा"
       }
     ],
     "answerIndex": 0,
@@ -16259,7 +16259,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Anodizing",
-        "hi": "एनोडीकरण (Anodizing)"
+        "hi": "एनोडीकरण"
       },
       {
         "en": "Electroplating with nickel",
@@ -16300,7 +16300,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Eyes (Conjunctiva & Cornea)",
-        "hi": "आँखें (Eyes)"
+        "hi": "आँखें"
       },
       {
         "en": "Liver",
@@ -16341,7 +16341,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "Lungs (Pulmonary TB)",
-        "hi": "फेफड़े (Lungs)"
+        "hi": "फेफड़े"
       },
       {
         "en": "Stomach",
@@ -16386,7 +16386,7 @@ const QUIZ_DATA = [
       },
       {
         "en": "2.00 × 10⁸ m/s",
-        "hi": "2.00 × 10⁸ मीटर/सेकंड (कांच में / 2.0 × 10⁸ m/s)"
+        "hi": "2.00 × 10⁸ मीटर/सेकंड (कांच में)"
       },
       {
         "en": "1.96 × 10⁸ m/s",

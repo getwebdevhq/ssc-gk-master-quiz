@@ -1,0 +1,182 @@
+[
+  {
+    "id": "d1_q8",
+    "day": 1,
+    "qNum": 8,
+    "ans_idx": 0,
+    "has_english": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "options": [
+      "IFPRI (वेल्थुंगरहिल्फ़े और कंसर्न वर्ल्डवाइड)",
+      "खाद्य एवं कृषि संगठन (FAO)",
+      "संयुक्त राष्ट्र विकास कार्यक्रम (UNDP)",
+      "विश्व स्वास्थ्य संगठन (WHO)"
+    ]
+  },
+  {
+    "id": "d3_q14",
+    "day": 3,
+    "qNum": 14,
+    "ans_idx": 2,
+    "has_english": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "options": [
+      "CₙH₂ₙ₊₂",
+      "CₙH₂ₙ",
+      "CₙH₂ₙ₋₂",
+      "CₙH₂ₙ₋₄"
+    ]
+  },
+  {
+    "id": "d3_q15",
+    "day": 3,
+    "qNum": 15,
+    "ans_idx": 2,
+    "has_english": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "options": [
+      "CₙH₂ₙO",
+      "CₙH₂ₙ₊₂O",
+      "CₙH₂ₙO₂",
+      "CₙH₂ₙ₋₂O₂"
+    ]
+  },
+  {
+    "id": "d4_q29",
+    "day": 4,
+    "qNum": 29,
+    "ans_idx": 1,
+    "has_english": [
+      false,
+      false,
+      true,
+      false
+    ],
+    "options": [
+      "अनुच्छेद 330",
+      "अनुच्छेद 338",
+      "अनुच्छेद 338A",
+      "अनुच्छेद 340"
+    ]
+  },
+  {
+    "id": "d4_q30",
+    "day": 4,
+    "qNum": 30,
+    "ans_idx": 1,
+    "has_english": [
+      false,
+      true,
+      true,
+      false
+    ],
+    "options": [
+      "अनुच्छेद 338",
+      "अनुच्छेद 338A",
+      "अनुच्छेद 338B",
+      "अनुच्छेद 342"
+    ]
+  },
+  {
+    "id": "d4_q33",
+    "day": 4,
+    "qNum": 33,
+    "ans_idx": 2,
+    "has_english": [
+      false,
+      true,
+      false,
+      false
+    ],
+    "options": [
+      "टाटा नेक्सॉन ईवी",
+      "महिंद्रा e2o",
+      "रेवा",
+      "टिगोरे ईवी"
+    ]
+  },
+  {
+    "id": "d5_q48",
+    "day": 5,
+    "qNum": 48,
+    "ans_idx": 1,
+    "has_english": [
+      true,
+      false,
+      false,
+      false
+    ],
+    "options": [
+      "आदित्य-L1",
+      "स्पैडेक्स",
+      "गगनयान-1",
+      "एक्सपोसैट"
+    ]
+  },
+  {
+    "id": "d7_q33",
+    "day": 7,
+    "qNum": 33,
+    "ans_idx": 1,
+    "has_english": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "options": [
+      "I₁ और I₂ दोनों बराबर होंगी",
+      "R₁ से प्रवाहित धारा I₁, R₂ से प्रवाहित धारा I₂ से अधिक होगी (I₁ > I₂)",
+      "I₁ का मान I₂ से कम होगा",
+      "R₁ से कोई धारा नहीं बहेगी"
+    ]
+  },
+  {
+    "id": "d7_q43",
+    "day": 7,
+    "qNum": 43,
+    "ans_idx": 1,
+    "has_english": [
+      false,
+      false,
+      true,
+      false
+    ],
+    "options": [
+      "कोवैक्सिन",
+      "जायकोव-डी",
+      "स्पूतनिक V",
+      "नोवावैक्स"
+    ]
+  },
+  {
+    "id": "d8_q11",
+    "day": 8,
+    "qNum": 11,
+    "ans_idx": 2,
+    "has_english": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "options": [
+      "G1 प्रावस्था",
+      "S प्रावस्था",
+      "G0 प्रावस्था",
+      "M प्रावस्था (सूत्री विभाजन)"
+    ]
+  }
+]

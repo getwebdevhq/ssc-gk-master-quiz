@@ -9,10 +9,22 @@ DAY_7 = [
             "hi": "भारतीय संविधान की प्रारूप समिति (Drafting Committee) के अध्यक्ष कौन थे?"
         },
         "options": [
-            {"en": "Dr. Rajendra Prasad", "hi": "डॉ. राजेन्द्र प्रसाद"},
-            {"en": "Dr. B. R. Ambedkar", "hi": "डॉ. बी. आर. अंबेडकर"},
-            {"en": "Jawaharlal Nehru", "hi": "जवाहरलाल नेहरू"},
-            {"en": "Sardar Vallabhbhai Patel", "hi": "सरदार वल्लभभाई पटेल"}
+            {
+                "en": "Dr. Rajendra Prasad",
+                "hi": "डॉ. राजेन्द्र प्रसाद"
+            },
+            {
+                "en": "Dr. B. R. Ambedkar",
+                "hi": "डॉ. बी. आर. अंबेडकर"
+            },
+            {
+                "en": "Jawaharlal Nehru",
+                "hi": "जवाहरलाल नेहरू"
+            },
+            {
+                "en": "Sardar Vallabhbhai Patel",
+                "hi": "सरदार वल्लभभाई पटेल"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -32,10 +44,22 @@ DAY_7 = [
             "hi": "एल्युमीनियम के निष्कर्षण का प्राथमिक प्राकृतिक स्रोत कौन-सा अयस्क है?"
         },
         "options": [
-            {"en": "Hematite", "hi": "हेमेटाइट"},
-            {"en": "Bauxite", "hi": "बॉक्साइट (Bauxite)"},
-            {"en": "Galena", "hi": "गैलेना"},
-            {"en": "Cinnabar", "hi": "सिनेबार"}
+            {
+                "en": "Hematite",
+                "hi": "हेमेटाइट"
+            },
+            {
+                "en": "Bauxite",
+                "hi": "बॉक्साइट"
+            },
+            {
+                "en": "Galena",
+                "hi": "गैलेना"
+            },
+            {
+                "en": "Cinnabar",
+                "hi": "सिनेबार"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -55,10 +79,22 @@ DAY_7 = [
             "hi": "उत्तरी गोलार्ध में वर्ष का सबसे छोटा दिन और सबसे लंबी रात किस तारीख को होती है?"
         },
         "options": [
-            {"en": "21 March", "hi": "21 मार्च"},
-            {"en": "21 June", "hi": "21 जून"},
-            {"en": "23 September", "hi": "23 सितंबर"},
-            {"en": "22 December", "hi": "22 दिसंबर (Winter Solstice)"}
+            {
+                "en": "21 March",
+                "hi": "21 मार्च"
+            },
+            {
+                "en": "21 June",
+                "hi": "21 जून"
+            },
+            {
+                "en": "23 September",
+                "hi": "23 सितंबर"
+            },
+            {
+                "en": "22 December",
+                "hi": "22 दिसंबर"
+            }
         ],
         "answerIndex": 3,
         "hint": {
@@ -78,10 +114,22 @@ DAY_7 = [
             "hi": "किस तारीख को पृथ्वी और सूर्य के बीच की दूरी अधिकतम होती है (अपसौर / Aphelion)?"
         },
         "options": [
-            {"en": "3 January", "hi": "3 जनवरी (उपसौर / Perihelion)"},
-            {"en": "21 March", "hi": "21 मार्च"},
-            {"en": "4 July", "hi": "4 जुलाई (अपसौर / Aphelion)"},
-            {"en": "23 September", "hi": "23 सितंबर"}
+            {
+                "en": "3 January",
+                "hi": "3 जनवरी (उपसौर)"
+            },
+            {
+                "en": "21 March",
+                "hi": "21 मार्च"
+            },
+            {
+                "en": "4 July",
+                "hi": "4 जुलाई (अपसौर)"
+            },
+            {
+                "en": "23 September",
+                "hi": "23 सितंबर"
+            }
         ],
         "answerIndex": 2,
         "hint": {
@@ -101,10 +149,22 @@ DAY_7 = [
             "hi": "पृथ्वी की कौन-सी आंतरिक परत को 'व्हाइट ऑफ द अर्थ' (White of the Earth) कहा जाता है?"
         },
         "options": [
-            {"en": "The Crust", "hi": "भूपर्पटी (Crust)"},
-            {"en": "The Mantle", "hi": "मेंटल (The Mantle)"},
-            {"en": "Outer Core", "hi": "बाह्य क्रोड"},
-            {"en": "Inner Core", "hi": "आंतरिक क्रोड"}
+            {
+                "en": "The Crust",
+                "hi": "भूपर्पटी"
+            },
+            {
+                "en": "The Mantle",
+                "hi": "मेंटल"
+            },
+            {
+                "en": "Outer Core",
+                "hi": "बाह्य क्रोड"
+            },
+            {
+                "en": "Inner Core",
+                "hi": "आंतरिक क्रोड"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -124,10 +184,22 @@ DAY_7 = [
             "hi": "दक्षिण-पूर्व एशियाई देश लाओस (Laos) की राजधानी कौन-सी है?"
         },
         "options": [
-            {"en": "Phnom Penh", "hi": "नोम पेन्ह (कंबोडिया)"},
-            {"en": "Vientiane", "hi": "वियनतियाने (Vientiane)"},
-            {"en": "Hanoi", "hi": "हनोई (वियतनाम)"},
-            {"en": "Naypyidaw", "hi": "नेपीडॉ (म्यांमार)"}
+            {
+                "en": "Phnom Penh",
+                "hi": "नोम पेन्ह (कंबोडिया)"
+            },
+            {
+                "en": "Vientiane",
+                "hi": "वियनतियाने"
+            },
+            {
+                "en": "Hanoi",
+                "hi": "हनोई (वियतनाम)"
+            },
+            {
+                "en": "Naypyidaw",
+                "hi": "नेपीडॉ (म्यांमार)"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -147,10 +219,22 @@ DAY_7 = [
             "hi": "भीमा परियोजना (Pawana Dam) किस नदी पर स्थित है?"
         },
         "options": [
-            {"en": "Godavari River", "hi": "गोदावरी नदी"},
-            {"en": "Pawana River (Bhima tributary)", "hi": "पवना नदी (भीमा की सहायक नदी)"},
-            {"en": "Koyna River", "hi": "कोयना नदी"},
-            {"en": "Tapi River", "hi": "तापी नदी"}
+            {
+                "en": "Godavari River",
+                "hi": "गोदावरी नदी"
+            },
+            {
+                "en": "Pawana River (Bhima tributary)",
+                "hi": "पवना नदी (भीमा की सहायक नदी)"
+            },
+            {
+                "en": "Koyna River",
+                "hi": "कोयना नदी"
+            },
+            {
+                "en": "Tapi River",
+                "hi": "तापी नदी"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -170,10 +254,22 @@ DAY_7 = [
             "hi": "राजाजी राष्ट्रीय उद्यान (Rajaji National Park) कहाँ स्थित है?"
         },
         "options": [
-            {"en": "Himachal Pradesh", "hi": "हिमाचल प्रदेश"},
-            {"en": "Uttarakhand", "hi": "उत्तराखंड (Uttarakhand)"},
-            {"en": "Assam", "hi": "असम"},
-            {"en": "Jammu & Kashmir", "hi": "जम्मू और कश्मीर"}
+            {
+                "en": "Himachal Pradesh",
+                "hi": "हिमाचल प्रदेश"
+            },
+            {
+                "en": "Uttarakhand",
+                "hi": "उत्तराखंड"
+            },
+            {
+                "en": "Assam",
+                "hi": "असम"
+            },
+            {
+                "en": "Jammu & Kashmir",
+                "hi": "जम्मू और कश्मीर"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -193,10 +289,22 @@ DAY_7 = [
             "hi": "नीले आकाश के लिए स्वच्छ वायु का अंतर्राष्ट्रीय दिवस कब मनाया जाता है?"
         },
         "options": [
-            {"en": "5 June", "hi": "5 जून"},
-            {"en": "7 September", "hi": "7 सितंबर (7 September)"},
-            {"en": "16 September", "hi": "16 सितंबर"},
-            {"en": "24 October", "hi": "24 अक्टूबर"}
+            {
+                "en": "5 June",
+                "hi": "5 जून"
+            },
+            {
+                "en": "7 September",
+                "hi": "7 सितंबर"
+            },
+            {
+                "en": "16 September",
+                "hi": "16 सितंबर"
+            },
+            {
+                "en": "24 October",
+                "hi": "24 अक्टूबर"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -216,10 +324,22 @@ DAY_7 = [
             "hi": "भारत का पहला कार्बन गार्डन (Carbon Garden) कहाँ स्थापित किया गया था?"
         },
         "options": [
-            {"en": "Mumbai", "hi": "मुंबई"},
-            {"en": "Delhi", "hi": "दिल्ली (Delhi)"},
-            {"en": "Bengaluru", "hi": "बेंगलुरु"},
-            {"en": "Kolkata", "hi": "कोलकाता"}
+            {
+                "en": "Mumbai",
+                "hi": "मुंबई"
+            },
+            {
+                "en": "Delhi",
+                "hi": "दिल्ली"
+            },
+            {
+                "en": "Bengaluru",
+                "hi": "बेंगलुरु"
+            },
+            {
+                "en": "Kolkata",
+                "hi": "कोलकाता"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -239,10 +359,22 @@ DAY_7 = [
             "hi": "दक्षिण-पूर्व एशिया में सार्वजनिक स्वास्थ्य समस्या के रूप में रेबीज को समाप्त करने वाला पहला देश कौन-सा बना?"
         },
         "options": [
-            {"en": "Sri Lanka", "hi": "श्रीलंका"},
-            {"en": "Bhutan", "hi": "भूटान (Bhutan)"},
-            {"en": "Nepal", "hi": "नेपाल"},
-            {"en": "Thailand", "hi": "थाईलैंड"}
+            {
+                "en": "Sri Lanka",
+                "hi": "श्रीलंका"
+            },
+            {
+                "en": "Bhutan",
+                "hi": "भूटान"
+            },
+            {
+                "en": "Nepal",
+                "hi": "नेपाल"
+            },
+            {
+                "en": "Thailand",
+                "hi": "थाईलैंड"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -262,10 +394,22 @@ DAY_7 = [
             "hi": "संयुक्त राष्ट्र ने बाल विवाह उन्मूलन दिवस के रूप में किस दिन को घोषित किया है?"
         },
         "options": [
-            {"en": "11 October", "hi": "11 अक्टूबर"},
-            {"en": "14 November", "hi": "14 नवंबर"},
-            {"en": "27 November", "hi": "27 नवंबर (27 November)"},
-            {"en": "10 December", "hi": "10 दिसंबर"}
+            {
+                "en": "11 October",
+                "hi": "11 अक्टूबर"
+            },
+            {
+                "en": "14 November",
+                "hi": "14 नवंबर"
+            },
+            {
+                "en": "27 November",
+                "hi": "27 नवंबर"
+            },
+            {
+                "en": "10 December",
+                "hi": "10 दिसंबर"
+            }
         ],
         "answerIndex": 2,
         "hint": {
@@ -285,10 +429,22 @@ DAY_7 = [
             "hi": "21वें संविधान संशोधन (1967) द्वारा आठवीं अनुसूची में कौन-सी भाषा जोड़ी गई थी?"
         },
         "options": [
-            {"en": "Konkani", "hi": "कोंकणी"},
-            {"en": "Sindhi", "hi": "सिंधी (Sindhi)"},
-            {"en": "Manipuri", "hi": "मणिपुरी"},
-            {"en": "Dogri", "hi": "डोगरी"}
+            {
+                "en": "Konkani",
+                "hi": "कोंकणी"
+            },
+            {
+                "en": "Sindhi",
+                "hi": "सिंधी"
+            },
+            {
+                "en": "Manipuri",
+                "hi": "मणिपुरी"
+            },
+            {
+                "en": "Dogri",
+                "hi": "डोगरी"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -308,10 +464,22 @@ DAY_7 = [
             "hi": "71वें संविधान संशोधन (1992) द्वारा कौन-सी तीन भाषाएँ आठवीं अनुसूची में जोड़ी गईं?"
         },
         "options": [
-            {"en": "Bodo, Dogri, and Maithili", "hi": "बोडो, डोगरी और मैथिली"},
-            {"en": "Nepali, Konkani, and Manipuri", "hi": "नेपाली, कोंकणी और मणिपुरी"},
-            {"en": "Santhali, Sindhi, and Sanskrit", "hi": "संथाली, सिंधी और संस्कृत"},
-            {"en": "Urdu, Kashmiri, and Punjabi", "hi": "उर्दू, कश्मीरी और पंजाबी"}
+            {
+                "en": "Bodo, Dogri, and Maithili",
+                "hi": "बोडो, डोगरी और मैथिली"
+            },
+            {
+                "en": "Nepali, Konkani, and Manipuri",
+                "hi": "नेपाली, कोंकणी और मणिपुरी"
+            },
+            {
+                "en": "Santhali, Sindhi, and Sanskrit",
+                "hi": "संथाली, सिंधी और संस्कृत"
+            },
+            {
+                "en": "Urdu, Kashmiri, and Punjabi",
+                "hi": "उर्दू, कश्मीरी और पंजाबी"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -331,10 +499,22 @@ DAY_7 = [
             "hi": "विख्यात विरुपाक्ष मंदिर (Virupaksha Temple) कर्नाटक के किस ऐतिहासिक शहर में स्थित है?"
         },
         "options": [
-            {"en": "Badami", "hi": "बादामी"},
-            {"en": "Hampi (Vijayanagara)", "hi": "हम्पी (Hampi)"},
-            {"en": "Pattadakal", "hi": "पट्टाडकल"},
-            {"en": "Aihole", "hi": "ऐहोल"}
+            {
+                "en": "Badami",
+                "hi": "बादामी"
+            },
+            {
+                "en": "Hampi (Vijayanagara)",
+                "hi": "हम्पी"
+            },
+            {
+                "en": "Pattadakal",
+                "hi": "पट्टाडकल"
+            },
+            {
+                "en": "Aihole",
+                "hi": "ऐहोल"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -354,10 +534,22 @@ DAY_7 = [
             "hi": "विश्व के नए सात अजूबों में शामिल माया सभ्यता का प्रसिद्ध स्मारक 'चिचेन इत्ज़ा' (Chichen Itza) किस देश में स्थित है?"
         },
         "options": [
-            {"en": "Peru", "hi": "पेरू"},
-            {"en": "Mexico", "hi": "मेक्सिको (Mexico)"},
-            {"en": "Guatemala", "hi": "ग्वाटेमाला"},
-            {"en": "Egypt", "hi": "मिस्र"}
+            {
+                "en": "Peru",
+                "hi": "पेरू"
+            },
+            {
+                "en": "Mexico",
+                "hi": "मेक्सिको"
+            },
+            {
+                "en": "Guatemala",
+                "hi": "ग्वाटेमाला"
+            },
+            {
+                "en": "Egypt",
+                "hi": "मिस्र"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -377,10 +569,22 @@ DAY_7 = [
             "hi": "'क्राइस्ट द रिडीमर' की विशाल प्रतिमा किस देश में स्थित है?"
         },
         "options": [
-            {"en": "Spain", "hi": "स्पेन"},
-            {"en": "Brazil (Rio de Janeiro)", "hi": "ब्राज़ील (रियो डी जेनेरो)"},
-            {"en": "Italy", "hi": "इटली"},
-            {"en": "Chile", "hi": "चिली"}
+            {
+                "en": "Spain",
+                "hi": "स्पेन"
+            },
+            {
+                "en": "Brazil (Rio de Janeiro)",
+                "hi": "ब्राज़ील (रियो डी जेनेरो)"
+            },
+            {
+                "en": "Italy",
+                "hi": "इटली"
+            },
+            {
+                "en": "Chile",
+                "hi": "चिली"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -400,10 +604,22 @@ DAY_7 = [
             "hi": "2007 में घोषित विश्व के नए सात अजूबों में कौन-सा प्रसिद्ध स्मारक शामिल नहीं है?"
         },
         "options": [
-            {"en": "Taj Mahal", "hi": "ताजमहल"},
-            {"en": "Petra (Jordan)", "hi": "पेट्रा"},
-            {"en": "Leaning Tower of Pisa (Italy)", "hi": "पीसा की झुकी मीनार (Leaning Tower of Pisa)"},
-            {"en": "Colosseum (Rome)", "hi": "कोलोसियम"}
+            {
+                "en": "Taj Mahal",
+                "hi": "ताजमहल"
+            },
+            {
+                "en": "Petra (Jordan)",
+                "hi": "पेट्रा"
+            },
+            {
+                "en": "Leaning Tower of Pisa (Italy)",
+                "hi": "पीसा की झुकी मीनार"
+            },
+            {
+                "en": "Colosseum (Rome)",
+                "hi": "कोलोसियम"
+            }
         ],
         "answerIndex": 2,
         "hint": {
@@ -423,10 +639,22 @@ DAY_7 = [
             "hi": "गुप्त काल के प्रशासनिक तंत्र में 'पुस्तपाल' (Pustapala) अधिकारी का मुख्य कार्य क्या था?"
         },
         "options": [
-            {"en": "Commander of the royal cavalry", "hi": "शाही घुड़सवार सेना का प्रमुख"},
-            {"en": "Keeper and notary of district land revenue and property records", "hi": "भूमि अभिलेखों और दस्तावेजों का संरक्षक व रिकॉर्ड कीपर"},
-            {"en": "Chief collector of tolls and customs", "hi": "चुंगी और सीमा शुल्क संग्रहकर्ता"},
-            {"en": "Royal court physician", "hi": "शाही राजवैद्य"}
+            {
+                "en": "Commander of the royal cavalry",
+                "hi": "शाही घुड़सवार सेना का प्रमुख"
+            },
+            {
+                "en": "Keeper and notary of district land revenue and property records",
+                "hi": "भूमि अभिलेखों और दस्तावेजों का संरक्षक व रिकॉर्ड कीपर"
+            },
+            {
+                "en": "Chief collector of tolls and customs",
+                "hi": "चुंगी और सीमा शुल्क संग्रहकर्ता"
+            },
+            {
+                "en": "Royal court physician",
+                "hi": "शाही राजवैद्य"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -446,10 +674,22 @@ DAY_7 = [
             "hi": "केंद्र सरकार के 'ग्रीन क्रेडिट प्रोग्राम' (Green Credit Programme) का प्राथमिक फोकस क्या है?"
         },
         "options": [
-            {"en": "Subsidizing petrol vehicles", "hi": "पेट्रोल वाहनों पर सब्सिडी देना"},
-            {"en": "Tree plantation, degraded land restoration, and water conservation", "hi": "वृक्षारोपण, बंजर भूमि का पुनरुद्धार और जल संरक्षण"},
-            {"en": "Coal mining expansion", "hi": "कोयला खनन का विस्तार"},
-            {"en": "Plastic manufacturing incentives", "hi": "प्लास्टिक निर्माण को प्रोत्साहन"}
+            {
+                "en": "Subsidizing petrol vehicles",
+                "hi": "पेट्रोल वाहनों पर सब्सिडी देना"
+            },
+            {
+                "en": "Tree plantation, degraded land restoration, and water conservation",
+                "hi": "वृक्षारोपण, बंजर भूमि का पुनरुद्धार और जल संरक्षण"
+            },
+            {
+                "en": "Coal mining expansion",
+                "hi": "कोयला खनन का विस्तार"
+            },
+            {
+                "en": "Plastic manufacturing incentives",
+                "hi": "प्लास्टिक निर्माण को प्रोत्साहन"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -469,10 +709,22 @@ DAY_7 = [
             "hi": "मिजोरम के 'मिम कुट' त्योहार के पारंपरिक संदर्भ में 'मिम' किसका प्रतीक माना जाता है?"
         },
         "options": [
-            {"en": "Maize offering / harvest dedicated to the spirits of ancestors", "hi": "पूर्वजों की आत्माओं को समर्पित मक्का / पहली फसल की भेंट"},
-            {"en": "Bamboo dance stick", "hi": "बांस की छड़ी"},
-            {"en": "Rice wine cup", "hi": "चावल की मदिरा का पात्र"},
-            {"en": "War drum", "hi": "युद्ध नगाड़ा"}
+            {
+                "en": "Maize offering / harvest dedicated to the spirits of ancestors",
+                "hi": "पूर्वजों की आत्माओं को समर्पित मक्का / पहली फसल की भेंट"
+            },
+            {
+                "en": "Bamboo dance stick",
+                "hi": "बांस की छड़ी"
+            },
+            {
+                "en": "Rice wine cup",
+                "hi": "चावल की मदिरा का पात्र"
+            },
+            {
+                "en": "War drum",
+                "hi": "युद्ध नगाड़ा"
+            }
         ],
         "answerIndex": 0,
         "hint": {
@@ -492,10 +744,22 @@ DAY_7 = [
             "hi": "जब जिंक (जस्ता) तनु सल्फ्यूरिक अम्ल के साथ अभिक्रिया करता है, तो कौन-सी गैस निकलती है?"
         },
         "options": [
-            {"en": "Oxygen (O₂)", "hi": "ऑक्सीजन (O₂)"},
-            {"en": "Hydrogen (H₂)", "hi": "हाइड्रोजन (H₂)"},
-            {"en": "Sulfur Dioxide (SO₂)", "hi": "सल्फर डाइऑक्साइड (SO₂)"},
-            {"en": "Carbon Monoxide (CO)", "hi": "कार्बन मोनोऑक्साइड"}
+            {
+                "en": "Oxygen (O₂)",
+                "hi": "ऑक्सीजन"
+            },
+            {
+                "en": "Hydrogen (H₂)",
+                "hi": "हाइड्रोजन"
+            },
+            {
+                "en": "Sulfur Dioxide (SO₂)",
+                "hi": "सल्फर डाइऑक्साइड"
+            },
+            {
+                "en": "Carbon Monoxide (CO)",
+                "hi": "कार्बन मोनोऑक्साइड"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -515,10 +779,22 @@ DAY_7 = [
             "hi": "महाराष्ट्र का कौन-सा जिला अपनी ढलाई (फाउंड्री), चीनी मिलों और प्रसिद्ध चमड़े की चप्पलों के लिए औद्योगिक केंद्र के रूप में जाना जाता है?"
         },
         "options": [
-            {"en": "Kolhapur", "hi": "कोल्हापुर (Kolhapur)"},
-            {"en": "Nagpur", "hi": "नागपुर"},
-            {"en": "Solapur", "hi": "सोलापुर"},
-            {"en": "Nanded", "hi": "नांदेड़"}
+            {
+                "en": "Kolhapur",
+                "hi": "कोल्हापुर"
+            },
+            {
+                "en": "Nagpur",
+                "hi": "नागपुर"
+            },
+            {
+                "en": "Solapur",
+                "hi": "सोलापुर"
+            },
+            {
+                "en": "Nanded",
+                "hi": "नांदेड़"
+            }
         ],
         "answerIndex": 0,
         "hint": {
@@ -538,10 +814,22 @@ DAY_7 = [
             "hi": "सिंधु घाटी सभ्यता के महानगर मोहनजोदड़ो की जल निकासी प्रणाली की प्रमुख अनूठी विशेषता क्या थी?"
         },
         "options": [
-            {"en": "Drains were completely open and poured water directly into courtyards", "hi": "नालियां पूरी तरह खुली थीं और पानी आंगनों में गिरता था"},
-            {"en": "Every private house had a drain connected through walls into covered street drains equipped with soak pits", "hi": "प्रत्येक घर की छोटी नाली दीवार से होकर सड़क की मुख्य ढकी हुई नाली से जुड़ी होती थी"},
-            {"en": "Only palaces had drainage while common homes had none", "hi": "केवल राजमहलों में नालियां थीं"},
-            {"en": "Waste water was dumped into wooden barrels outside city walls", "hi": "अपशिष्ट जल लकड़ी के पीपों में भरा जाता था"}
+            {
+                "en": "Drains were completely open and poured water directly into courtyards",
+                "hi": "नालियां पूरी तरह खुली थीं और पानी आंगनों में गिरता था"
+            },
+            {
+                "en": "Every private house had a drain connected through walls into covered street drains equipped with soak pits",
+                "hi": "प्रत्येक घर की छोटी नाली दीवार से होकर सड़क की मुख्य ढकी हुई नाली से जुड़ी होती थी"
+            },
+            {
+                "en": "Only palaces had drainage while common homes had none",
+                "hi": "केवल राजमहलों में नालियां थीं"
+            },
+            {
+                "en": "Waste water was dumped into wooden barrels outside city walls",
+                "hi": "अपशिष्ट जल लकड़ी के पीपों में भरा जाता था"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -561,10 +849,22 @@ DAY_7 = [
             "hi": "'बिस्त दोआब' (Bist Doab) क्षेत्र किन दो नदियों के बीच स्थित है?"
         },
         "options": [
-            {"en": "Between Ravi and Beas rivers", "hi": "रावी और ब्यास नदियों के बीच (बारी दोआब)"},
-            {"en": "Between Beas and Sutlej rivers", "hi": "ब्यास और सतलुज नदियों के बीच (बिस्त दोआब)"},
-            {"en": "Between Chenab and Jhelum rivers", "hi": "चिनाब और झेलम नदियों के बीच (चाज दोआब)"},
-            {"en": "Between Indus and Jhelum rivers", "hi": "सिंधु और झेलम के बीच (सिंध सागर दोआब)"}
+            {
+                "en": "Between Ravi and Beas rivers",
+                "hi": "रावी और ब्यास नदियों के बीच (बारी दोआब)"
+            },
+            {
+                "en": "Between Beas and Sutlej rivers",
+                "hi": "ब्यास और सतलुज नदियों के बीच (बिस्त दोआब)"
+            },
+            {
+                "en": "Between Chenab and Jhelum rivers",
+                "hi": "चिनाब और झेलम नदियों के बीच (चाज दोआब)"
+            },
+            {
+                "en": "Between Indus and Jhelum rivers",
+                "hi": "सिंधु और झेलम के बीच (सिंध सागर दोआब)"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -584,10 +884,22 @@ DAY_7 = [
             "hi": "निम्नलिखित में से कौन-से दो उत्पाद 'हल्के उद्योग' (Light Industries) के उपयुक्त उदाहरण हैं?"
         },
         "options": [
-            {"en": "Railway locomotives and steel girders", "hi": "रेलवे इंजन और लोहे के गर्डर (भारी उद्योग)"},
-            {"en": "Knitting needles and electric bulbs / sewing machines", "hi": "सिलाई की सुइयां और बिजली के बल्ब (Knitting needles & bulbs)"},
-            {"en": "Shipbuilding and blast furnaces", "hi": "जहाज निर्माण और वात्या भट्टी"},
-            {"en": "Heavy cement slabs and bulldozers", "hi": "सीमेंट ब्लॉक और बुलडोजर"}
+            {
+                "en": "Railway locomotives and steel girders",
+                "hi": "रेलवे इंजन और लोहे के गर्डर (भारी उद्योग)"
+            },
+            {
+                "en": "Knitting needles and electric bulbs / sewing machines",
+                "hi": "सिलाई की सुइयां और बिजली के बल्ब"
+            },
+            {
+                "en": "Shipbuilding and blast furnaces",
+                "hi": "जहाज निर्माण और वात्या भट्टी"
+            },
+            {
+                "en": "Heavy cement slabs and bulldozers",
+                "hi": "सीमेंट ब्लॉक और बुलडोजर"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -607,10 +919,22 @@ DAY_7 = [
             "hi": "सौरमंडल के किस ग्रह का दिन (घूर्णन काल) सबसे लंबा होता है?"
         },
         "options": [
-            {"en": "Mercury", "hi": "बुध"},
-            {"en": "Venus", "hi": "शुक्र (Venus - 243 दिन)"},
-            {"en": "Mars", "hi": "मंगल"},
-            {"en": "Neptune", "hi": "वरुण"}
+            {
+                "en": "Mercury",
+                "hi": "बुध"
+            },
+            {
+                "en": "Venus",
+                "hi": "शुक्र (243 दिन)"
+            },
+            {
+                "en": "Mars",
+                "hi": "मंगल"
+            },
+            {
+                "en": "Neptune",
+                "hi": "वरुण"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -630,10 +954,22 @@ DAY_7 = [
             "hi": "उत्तरी ध्रुव के ऊपर से देखने पर पृथ्वी का घूर्णन किस दिशा में दिखाई देता है?"
         },
         "options": [
-            {"en": "Clockwise", "hi": "दक्षिणावर्त (Clockwise)"},
-            {"en": "Anti-clockwise (Counter-clockwise)", "hi": "वामावर्त (Anti-clockwise)"},
-            {"en": "North to south", "hi": "उत्तर से दक्षिण"},
-            {"en": "Static", "hi": "स्थिर"}
+            {
+                "en": "Clockwise",
+                "hi": "दक्षिणावर्त"
+            },
+            {
+                "en": "Anti-clockwise (Counter-clockwise)",
+                "hi": "वामावर्त"
+            },
+            {
+                "en": "North to south",
+                "hi": "उत्तर से दक्षिण"
+            },
+            {
+                "en": "Static",
+                "hi": "स्थिर"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -653,10 +989,22 @@ DAY_7 = [
             "hi": "भारतीय संविधान के भाग 3 में किन अनुच्छेदों के तहत 'समानता का अधिकार' (Right to Equality) प्रदान किया गया है?"
         },
         "options": [
-            {"en": "Articles 14 to 18", "hi": "अनुच्छेद 14 से 18 (Articles 14 to 18)"},
-            {"en": "Articles 19 to 22", "hi": "अनुच्छेद 19 से 22 (स्वतंत्रता का अधिकार)"},
-            {"en": "Articles 25 to 28", "hi": "अनुच्छेद 25 से 28 (धार्मिक स्वतंत्रता)"},
-            {"en": "Articles 29 to 30", "hi": "अनुच्छेद 29 से 30"}
+            {
+                "en": "Articles 14 to 18",
+                "hi": "अनुच्छेद 14 से 18"
+            },
+            {
+                "en": "Articles 19 to 22",
+                "hi": "अनुच्छेद 19 से 22 (स्वतंत्रता का अधिकार)"
+            },
+            {
+                "en": "Articles 25 to 28",
+                "hi": "अनुच्छेद 25 से 28 (धार्मिक स्वतंत्रता)"
+            },
+            {
+                "en": "Articles 29 to 30",
+                "hi": "अनुच्छेद 29 से 30"
+            }
         ],
         "answerIndex": 0,
         "hint": {
@@ -676,10 +1024,22 @@ DAY_7 = [
             "hi": "गैर-कानूनी या अवैध हिरासत के खिलाफ किसी व्यक्ति को रिहा कराने के लिए कौन-सी संवैधानिक रिट (Writ) जारी की जाती है?"
         },
         "options": [
-            {"en": "Mandamus", "hi": "परमादेश (Mandamus)"},
-            {"en": "Habeas Corpus", "hi": "बंदी प्रत्यक्षीकरण (Habeas Corpus)"},
-            {"en": "Quo Warranto", "hi": "अधिकार पृच्छा (Quo Warranto)"},
-            {"en": "Certiorari", "hi": "उत्प्रेषण (Certiorari)"}
+            {
+                "en": "Mandamus",
+                "hi": "परमादेश"
+            },
+            {
+                "en": "Habeas Corpus",
+                "hi": "बंदी प्रत्यक्षीकरण"
+            },
+            {
+                "en": "Quo Warranto",
+                "hi": "अधिकार पृच्छा"
+            },
+            {
+                "en": "Certiorari",
+                "hi": "उत्प्रेषण"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -699,10 +1059,22 @@ DAY_7 = [
             "hi": "संविधान की सातवीं अनुसूची की कौन-सी सूची राष्ट्रीय महत्व के विषयों (जैसे रक्षा, विदेश मामले, परमाणु ऊर्जा) से संबंधित है?"
         },
         "options": [
-            {"en": "State List (List II)", "hi": "राज्य सूची (List II)"},
-            {"en": "Union List (List I)", "hi": "संघ सूची (List I)"},
-            {"en": "Concurrent List (List III)", "hi": "समवर्ती सूची (List III)"},
-            {"en": "Residuary Powers", "hi": "अवशिष्ट शक्तियां"}
+            {
+                "en": "State List (List II)",
+                "hi": "राज्य सूची"
+            },
+            {
+                "en": "Union List (List I)",
+                "hi": "संघ सूची"
+            },
+            {
+                "en": "Concurrent List (List III)",
+                "hi": "समवर्ती सूची"
+            },
+            {
+                "en": "Residuary Powers",
+                "hi": "अवशिष्ट शक्तियां"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -722,10 +1094,22 @@ DAY_7 = [
             "hi": "डॉ. सी. रंगराजन की अध्यक्षता वाले विशेषज्ञ समूह ने भारत में गरीबी मापन पद्धति की समीक्षा किस वर्ष प्रस्तुत की थी?"
         },
         "options": [
-            {"en": "2009", "hi": "2009 (तेंदुलकर समिति)"},
-            {"en": "2012", "hi": "2012 (गठन) / रिपोर्ट 2014"},
-            {"en": "2016", "hi": "2016"},
-            {"en": "2019", "hi": "2019"}
+            {
+                "en": "2009",
+                "hi": "2009 (तेंदुलकर समिति)"
+            },
+            {
+                "en": "2012",
+                "hi": "2012 (गठन) / रिपोर्ट 2014"
+            },
+            {
+                "en": "2016",
+                "hi": "2016"
+            },
+            {
+                "en": "2019",
+                "hi": "2019"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -745,10 +1129,22 @@ DAY_7 = [
             "hi": "यदि दो प्रतिरोधक R₁ और R₂ समानांतर जुड़े हैं और R₁ < R₂ है, तो उनसे प्रवाहित होने वाली धाराओं I₁ और I₂ के बारे में क्या सत्य है?"
         },
         "options": [
-            {"en": "I₁ is equal to I₂", "hi": "I₁ और I₂ दोनों बराबर होंगी"},
-            {"en": "The current I₁ flowing through R₁ will be greater than I₂", "hi": "R₁ से प्रवाहित धारा I₁, R₂ से प्रवाहित धारा I₂ से अधिक होगी (I₁ > I₂)"},
-            {"en": "The current I₁ will be less than I₂", "hi": "I₁ का मान I₂ से कम होगा"},
-            {"en": "No current flows through R₁", "hi": "R₁ से कोई धारा नहीं बहेगी"}
+            {
+                "en": "I₁ is equal to I₂",
+                "hi": "I₁ और I₂ दोनों बराबर होंगी"
+            },
+            {
+                "en": "The current I₁ flowing through R₁ will be greater than I₂",
+                "hi": "R₁ से प्रवाहित धारा I₁, R₂ से प्रवाहित धारा I₂ से अधिक होगी (I₁ > I₂)"
+            },
+            {
+                "en": "The current I₁ will be less than I₂",
+                "hi": "I₁ का मान I₂ से कम होगा"
+            },
+            {
+                "en": "No current flows through R₁",
+                "hi": "R₁ से कोई धारा नहीं बहेगी"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -768,10 +1164,22 @@ DAY_7 = [
             "hi": "यदि किसी वस्तु का भार पृथ्वी पर 18 न्यूटन (N) है, तो चंद्रमा की सतह पर उसका भार कितना होगा?"
         },
         "options": [
-            {"en": "1 N", "hi": "1 N"},
-            {"en": "3 N", "hi": "3 N (3 न्यूटन)"},
-            {"en": "6 N", "hi": "6 N"},
-            {"en": "18 N", "hi": "18 N"}
+            {
+                "en": "1 N",
+                "hi": "1 न्यूटन"
+            },
+            {
+                "en": "3 N",
+                "hi": "3 न्यूटन"
+            },
+            {
+                "en": "6 N",
+                "hi": "6 न्यूटन"
+            },
+            {
+                "en": "18 N",
+                "hi": "18 न्यूटन"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -791,10 +1199,22 @@ DAY_7 = [
             "hi": "दिन के समय पादपों के जाइलम में जल और खनिजों के ऊपर की ओर संचलन (रसारोहण) के लिए सबसे प्रमुख खिंचाव बल कौन-सा होता है?"
         },
         "options": [
-            {"en": "Capillary action alone", "hi": "केवल केशिकत्व"},
-            {"en": "Transpiration pull", "hi": "वाष्पोत्सर्जन खिंचाव (Transpiration pull)"},
-            {"en": "Guttation pressure", "hi": "बिंदुस्राव दाब"},
-            {"en": "Photosynthetic absorption", "hi": "प्रकाश-संश्लेषी अवशोषण"}
+            {
+                "en": "Capillary action alone",
+                "hi": "केवल केशिकत्व"
+            },
+            {
+                "en": "Transpiration pull",
+                "hi": "वाष्पोत्सर्जन खिंचाव"
+            },
+            {
+                "en": "Guttation pressure",
+                "hi": "बिंदुस्राव दाब"
+            },
+            {
+                "en": "Photosynthetic absorption",
+                "hi": "प्रकाश-संश्लेषी अवशोषण"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -814,10 +1234,22 @@ DAY_7 = [
             "hi": "ओडिशा के 13वीं शताब्दी के कोणार्क सूर्य मंदिर की प्रमुख वास्तुशिल्प विशेषता क्या है?"
         },
         "options": [
-            {"en": "24 ornate stone wheels representing hours of the day", "hi": "दिन के 24 घंटों को दर्शाने वाले 24 नक्काशीदार पाषाण पहिए"},
-            {"en": "Golden dome decorated with lapis lazuli", "hi": "स्वर्ण गुंबद"},
-            {"en": "Twin minarets overlooking the ocean", "hi": "समुद्र के सामने दो मीनारें"},
-            {"en": "Rock-cut monolithic stepwell", "hi": "शैल-उत्कीर्ण बावड़ी"}
+            {
+                "en": "24 ornate stone wheels representing hours of the day",
+                "hi": "दिन के 24 घंटों को दर्शाने वाले 24 नक्काशीदार पाषाण पहिए"
+            },
+            {
+                "en": "Golden dome decorated with lapis lazuli",
+                "hi": "स्वर्ण गुंबद"
+            },
+            {
+                "en": "Twin minarets overlooking the ocean",
+                "hi": "समुद्र के सामने दो मीनारें"
+            },
+            {
+                "en": "Rock-cut monolithic stepwell",
+                "hi": "शैल-उत्कीर्ण बावड़ी"
+            }
         ],
         "answerIndex": 0,
         "hint": {
@@ -837,10 +1269,22 @@ DAY_7 = [
             "hi": "'शाद सुक मिनसीम' (Shad Suk Mynsiem) वसंत ऋतु का धन्यवाद नृत्य मेघालय के किस समुदाय द्वारा मनाया जाता है?"
         },
         "options": [
-            {"en": "Garo community", "hi": "गारो समुदाय"},
-            {"en": "Khasi community", "hi": "खासी समुदाय (Khasi community)"},
-            {"en": "Jaintia community", "hi": "जयंतिया समुदाय"},
-            {"en": "Mizo community", "hi": "मिज़ो समुदाय"}
+            {
+                "en": "Garo community",
+                "hi": "गारो समुदाय"
+            },
+            {
+                "en": "Khasi community",
+                "hi": "खासी समुदाय"
+            },
+            {
+                "en": "Jaintia community",
+                "hi": "जयंतिया समुदाय"
+            },
+            {
+                "en": "Mizo community",
+                "hi": "मिज़ो समुदाय"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -860,10 +1304,22 @@ DAY_7 = [
             "hi": "भारतीय शास्त्रीय संगीत की भातखंडे स्वरलिपि में किसी स्वर के ऊपर एक बिंदु (जैसे Ṡ) क्या दर्शाता है?"
         },
         "options": [
-            {"en": "Mandra Saptak (Lower octave)", "hi": "मंद्र सप्तक (निचला सुर - नीचे बिंदु)"},
-            {"en": "Madhya Saptak (Middle octave)", "hi": "मध्य सप्तक (सामान्य सुर - कोई बिंदु नहीं)"},
-            {"en": "Taar Saptak (Higher octave / High pitch)", "hi": "तार सप्तक (ऊंचा सुर / Taar Saptak)"},
-            {"en": "Komal Swara (Flat note)", "hi": "कोमल स्वर"}
+            {
+                "en": "Mandra Saptak (Lower octave)",
+                "hi": "मंद्र सप्तक (निचला सुर - नीचे बिंदु)"
+            },
+            {
+                "en": "Madhya Saptak (Middle octave)",
+                "hi": "मध्य सप्तक (सामान्य सुर - कोई बिंदु नहीं)"
+            },
+            {
+                "en": "Taar Saptak (Higher octave / High pitch)",
+                "hi": "तार सप्तक"
+            },
+            {
+                "en": "Komal Swara (Flat note)",
+                "hi": "कोमल स्वर"
+            }
         ],
         "answerIndex": 2,
         "hint": {
@@ -883,10 +1339,22 @@ DAY_7 = [
             "hi": "'नवरेह' (Navreh) नववर्ष उत्सव मुख्य रूप से किस समुदाय द्वारा मनाया जाता है?"
         },
         "options": [
-            {"en": "Sindhis", "hi": "सिंधी"},
-            {"en": "Kashmiri Pandits", "hi": "कश्मीरी पंडित (Kashmiri Pandits)"},
-            {"en": "Gujaratis", "hi": "गुजराती"},
-            {"en": "Parsis", "hi": "पारसी"}
+            {
+                "en": "Sindhis",
+                "hi": "सिंधी"
+            },
+            {
+                "en": "Kashmiri Pandits",
+                "hi": "कश्मीरी पंडित"
+            },
+            {
+                "en": "Gujaratis",
+                "hi": "गुजराती"
+            },
+            {
+                "en": "Parsis",
+                "hi": "पारसी"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -906,10 +1374,22 @@ DAY_7 = [
             "hi": "कबड्डी के मैच में एक टीम के कितने खिलाड़ी एक समय में कोर्ट पर सक्रिय रूप से खेलते हैं?"
         },
         "options": [
-            {"en": "6 players", "hi": "6 खिलाड़ी"},
-            {"en": "7 players", "hi": "7 खिलाड़ी (7 players)"},
-            {"en": "8 players", "hi": "8 खिलाड़ी"},
-            {"en": "9 players", "hi": "9 खिलाड़ी"}
+            {
+                "en": "6 players",
+                "hi": "6 खिलाड़ी"
+            },
+            {
+                "en": "7 players",
+                "hi": "7 खिलाड़ी"
+            },
+            {
+                "en": "8 players",
+                "hi": "8 खिलाड़ी"
+            },
+            {
+                "en": "9 players",
+                "hi": "9 खिलाड़ी"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -929,10 +1409,22 @@ DAY_7 = [
             "hi": "जूडो में 'इप्पोन' (Ippon) का क्या अर्थ है?"
         },
         "options": [
-            {"en": "Half point", "hi": "आधा अंक"},
-            {"en": "Immediate victory by throw, hold, or submission", "hi": "थ्रो, होल्ड या सबमिशन द्वारा तत्काल और निर्णायक जीत"},
-            {"en": "Warning penalty", "hi": "चेतावनी"},
-            {"en": "Draw", "hi": "मुकाबला ड्रॉ"}
+            {
+                "en": "Half point",
+                "hi": "आधा अंक"
+            },
+            {
+                "en": "Immediate victory by throw, hold, or submission",
+                "hi": "थ्रो, होल्ड या सबमिशन द्वारा तत्काल और निर्णायक जीत"
+            },
+            {
+                "en": "Warning penalty",
+                "hi": "चेतावनी"
+            },
+            {
+                "en": "Draw",
+                "hi": "मुकाबला ड्रॉ"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -952,10 +1444,22 @@ DAY_7 = [
             "hi": "2022 में राष्ट्रीय रक्षा अकादमी (NDA) के पहले महिला बैच में कितनी महिला कैडेट शामिल हुई थीं?"
         },
         "options": [
-            {"en": "15 female cadets", "hi": "15"},
-            {"en": "19 female cadets", "hi": "19 महिला कैडेट (19 female cadets)"},
-            {"en": "24 female cadets", "hi": "24"},
-            {"en": "30 female cadets", "hi": "30"}
+            {
+                "en": "15 female cadets",
+                "hi": "15"
+            },
+            {
+                "en": "19 female cadets",
+                "hi": "19 महिला कैडेट"
+            },
+            {
+                "en": "24 female cadets",
+                "hi": "24"
+            },
+            {
+                "en": "30 female cadets",
+                "hi": "30"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -975,10 +1479,22 @@ DAY_7 = [
             "hi": "विश्व की पहली डीएनए-आधारित कोविड-19 वैक्सीन कौन-सी है?"
         },
         "options": [
-            {"en": "Covaxin", "hi": "कोवैक्सिन"},
-            {"en": "ZyCoV-D", "hi": "जायकोव-डी (ZyCoV-D)"},
-            {"en": "Sputnik V", "hi": "स्पूतनिक V"},
-            {"en": "Novavax", "hi": "नोवावैक्स"}
+            {
+                "en": "Covaxin",
+                "hi": "कोवैक्सिन"
+            },
+            {
+                "en": "ZyCoV-D",
+                "hi": "जायकोव-डी"
+            },
+            {
+                "en": "Sputnik V",
+                "hi": "स्पूतनिक V"
+            },
+            {
+                "en": "Novavax",
+                "hi": "नोवावैक्स"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -998,10 +1514,22 @@ DAY_7 = [
             "hi": "पूर्ण रूप से जैविक खेती अपनाने वाला भारत और विश्व का पहला राज्य कौन-सा है?"
         },
         "options": [
-            {"en": "Himachal Pradesh", "hi": "हिमाचल प्रदेश"},
-            {"en": "Sikkim", "hi": "सिक्किम (Sikkim)"},
-            {"en": "Kerala", "hi": "केरल"},
-            {"en": "Uttarakhand", "hi": "उत्तराखंड"}
+            {
+                "en": "Himachal Pradesh",
+                "hi": "हिमाचल प्रदेश"
+            },
+            {
+                "en": "Sikkim",
+                "hi": "सिक्किम"
+            },
+            {
+                "en": "Kerala",
+                "hi": "केरल"
+            },
+            {
+                "en": "Uttarakhand",
+                "hi": "उत्तराखंड"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -1021,10 +1549,22 @@ DAY_7 = [
             "hi": "संविधान का कौन-सा अनुच्छेद राज्यपाल की नियुक्ति (राष्ट्रपति द्वारा) से संबंधित है?"
         },
         "options": [
-            {"en": "Article 153", "hi": "अनुच्छेद 153 (राज्यों के राज्यपाल)"},
-            {"en": "Article 155", "hi": "अनुच्छेद 155 (Appointment of Governor)"},
-            {"en": "Article 161", "hi": "अनुच्छेद 161 (क्षमादान शक्ति)"},
-            {"en": "Article 164", "hi": "अनुच्छेद 164"}
+            {
+                "en": "Article 153",
+                "hi": "अनुच्छेद 153 (राज्यों के राज्यपाल)"
+            },
+            {
+                "en": "Article 155",
+                "hi": "अनुच्छेद 155"
+            },
+            {
+                "en": "Article 161",
+                "hi": "अनुच्छेद 161 (क्षमादान शक्ति)"
+            },
+            {
+                "en": "Article 164",
+                "hi": "अनुच्छेद 164"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -1044,10 +1584,22 @@ DAY_7 = [
             "hi": "'थिम्सा' और 'कोलाट्टम' लोक नृत्य किस राज्य से संबंधित हैं?"
         },
         "options": [
-            {"en": "Tamil Nadu", "hi": "तमिलनाडु"},
-            {"en": "Andhra Pradesh", "hi": "आंध्र प्रदेश (Andhra Pradesh)"},
-            {"en": "Kerala", "hi": "केरल"},
-            {"en": "Karnataka", "hi": "कर्नाटक"}
+            {
+                "en": "Tamil Nadu",
+                "hi": "तमिलनाडु"
+            },
+            {
+                "en": "Andhra Pradesh",
+                "hi": "आंध्र प्रदेश"
+            },
+            {
+                "en": "Kerala",
+                "hi": "केरल"
+            },
+            {
+                "en": "Karnataka",
+                "hi": "कर्नाटक"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -1067,10 +1619,22 @@ DAY_7 = [
             "hi": "'डाउ जोंस' (Dow Jones) किस शहर के शेयर बाजार का प्रमुख सूचकांक है?"
         },
         "options": [
-            {"en": "London", "hi": "लंदन (FTSE 100)"},
-            {"en": "Tokyo", "hi": "टोक्यो (Nikkei)"},
-            {"en": "New York", "hi": "न्यूयॉर्क (New York - Wall Street)"},
-            {"en": "Frankfurt", "hi": "फ्रैंकफर्ट (DAX)"}
+            {
+                "en": "London",
+                "hi": "लंदन"
+            },
+            {
+                "en": "Tokyo",
+                "hi": "टोक्यो"
+            },
+            {
+                "en": "New York",
+                "hi": "न्यूयॉर्क"
+            },
+            {
+                "en": "Frankfurt",
+                "hi": "फ्रैंकफर्ट"
+            }
         ],
         "answerIndex": 2,
         "hint": {
@@ -1090,10 +1654,22 @@ DAY_7 = [
             "hi": "संयुक्त राष्ट्र (UN) ने वर्ष 2025 को किस विषय के अंतर्राष्ट्रीय वर्ष के रूप में घोषित किया है?"
         },
         "options": [
-            {"en": "International Year of Millets", "hi": "अंतर्राष्ट्रीय मोटा अनाज वर्ष (2023)"},
-            {"en": "International Year of Cooperatives (and Glaciers' Preservation)", "hi": "अंतर्राष्ट्रीय सहकारिता वर्ष (International Year of Cooperatives)"},
-            {"en": "International Year of Camelids", "hi": "अंतर्राष्ट्रीय कैमेलिड्स वर्ष (2024)"},
-            {"en": "International Year of Basic Sciences", "hi": "अंतर्राष्ट्रीय मूलभूत विज्ञान वर्ष"}
+            {
+                "en": "International Year of Millets",
+                "hi": "अंतर्राष्ट्रीय मोटा अनाज वर्ष"
+            },
+            {
+                "en": "International Year of Cooperatives (and Glaciers' Preservation)",
+                "hi": "अंतर्राष्ट्रीय सहकारिता वर्ष"
+            },
+            {
+                "en": "International Year of Camelids",
+                "hi": "अंतर्राष्ट्रीय कैमेलिड्स वर्ष"
+            },
+            {
+                "en": "International Year of Basic Sciences",
+                "hi": "अंतर्राष्ट्रीय मूलभूत विज्ञान वर्ष"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -1113,10 +1689,22 @@ DAY_7 = [
             "hi": "परम शून्य तापमान (0 K) पर किसी आंतरिक अर्धचालक (Semiconductor) का विद्युत प्रतिरोध कैसा हो जाता है?"
         },
         "options": [
-            {"en": "It becomes zero (superconductor)", "hi": "यह शून्य हो जाता है (अतिचालक)"},
-            {"en": "It becomes infinite (behaves as a perfect insulator)", "hi": "यह अनंत हो जाता है (पूर्ण कुचालक की तरह व्यवहार करता है)"},
-            {"en": "It decreases by half", "hi": "यह आधा हो जाता है"},
-            {"en": "It remains unaffected", "hi": "अपरिवर्तित रहता है"}
+            {
+                "en": "It becomes zero (superconductor)",
+                "hi": "यह शून्य हो जाता है (अतिचालक)"
+            },
+            {
+                "en": "It becomes infinite (behaves as a perfect insulator)",
+                "hi": "यह अनंत हो जाता है (पूर्ण कुचालक की तरह व्यवहार करता है)"
+            },
+            {
+                "en": "It decreases by half",
+                "hi": "यह आधा हो जाता है"
+            },
+            {
+                "en": "It remains unaffected",
+                "hi": "अपरिवर्तित रहता है"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -1136,10 +1724,22 @@ DAY_7 = [
             "hi": "कौन-सा नियम बताता है कि स्थिर तापमान पर किसी गैस का आयतन उसके दाब के व्युत्क्रमानुपाती होता है (P₁V₁ = P₂V₂)?"
         },
         "options": [
-            {"en": "Charles's Law", "hi": "चार्ल्स का नियम (V ∝ T)"},
-            {"en": "Boyle's Law", "hi": "बॉयल का नियम (Boyle's Law - P ∝ 1/V)"},
-            {"en": "Gay-Lussac's Law", "hi": "गे-लुसाक का नियम (P ∝ T)"},
-            {"en": "Avogadro's Law", "hi": "आवोगाद्रो का नियम (V ∝ n)"}
+            {
+                "en": "Charles's Law",
+                "hi": "चार्ल्स का नियम"
+            },
+            {
+                "en": "Boyle's Law",
+                "hi": "बॉयल का नियम"
+            },
+            {
+                "en": "Gay-Lussac's Law",
+                "hi": "गे-लुसाक का नियम"
+            },
+            {
+                "en": "Avogadro's Law",
+                "hi": "आवोगाद्रो का नियम"
+            }
         ],
         "answerIndex": 1,
         "hint": {

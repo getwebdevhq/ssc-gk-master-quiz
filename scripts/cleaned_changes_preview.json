@@ -1,0 +1,2288 @@
+[
+  {
+    "id": "d1_q8",
+    "day": 1,
+    "qNum": 8,
+    "idx": 1,
+    "is_answer": false,
+    "old": "खाद्य एवं कृषि संगठन (FAO)",
+    "new": "खाद्य एवं कृषि संगठन"
+  },
+  {
+    "id": "d1_q8",
+    "day": 1,
+    "qNum": 8,
+    "idx": 2,
+    "is_answer": false,
+    "old": "संयुक्त राष्ट्र विकास कार्यक्रम (UNDP)",
+    "new": "संयुक्त राष्ट्र विकास कार्यक्रम"
+  },
+  {
+    "id": "d1_q8",
+    "day": 1,
+    "qNum": 8,
+    "idx": 3,
+    "is_answer": false,
+    "old": "विश्व स्वास्थ्य संगठन (WHO)",
+    "new": "विश्व स्वास्थ्य संगठन"
+  },
+  {
+    "id": "d1_q9",
+    "day": 1,
+    "qNum": 9,
+    "idx": 2,
+    "is_answer": true,
+    "old": "अमेरिका (USA)",
+    "new": "अमेरिका"
+  },
+  {
+    "id": "d1_q16",
+    "day": 1,
+    "qNum": 16,
+    "idx": 1,
+    "is_answer": true,
+    "old": "बैंगनी (Violet)",
+    "new": "बैंगनी"
+  },
+  {
+    "id": "d1_q19",
+    "day": 1,
+    "qNum": 19,
+    "idx": 2,
+    "is_answer": true,
+    "old": "एनेलिडा (Annelida)",
+    "new": "एनेलिडा"
+  },
+  {
+    "id": "d1_q26",
+    "day": 1,
+    "qNum": 26,
+    "idx": 0,
+    "is_answer": true,
+    "old": "होतृ (Hotri)",
+    "new": "होतृ"
+  },
+  {
+    "id": "d1_q26",
+    "day": 1,
+    "qNum": 26,
+    "idx": 1,
+    "is_answer": false,
+    "old": "उद्गातृ (Udgatri)",
+    "new": "उद्गातृ"
+  },
+  {
+    "id": "d1_q26",
+    "day": 1,
+    "qNum": 26,
+    "idx": 2,
+    "is_answer": false,
+    "old": "अध्वर्यु (Adhvaryu)",
+    "new": "अध्वर्यु"
+  },
+  {
+    "id": "d1_q26",
+    "day": 1,
+    "qNum": 26,
+    "idx": 3,
+    "is_answer": false,
+    "old": "ब्रह्मा (Brahma)",
+    "new": "ब्रह्मा"
+  },
+  {
+    "id": "d1_q29",
+    "day": 1,
+    "qNum": 29,
+    "idx": 2,
+    "is_answer": true,
+    "old": "एम. जी. रानाडे (M. G. Ranade)",
+    "new": "एम. जी. रानाडे"
+  },
+  {
+    "id": "d1_q30",
+    "day": 1,
+    "qNum": 30,
+    "idx": 1,
+    "is_answer": true,
+    "old": "सवाना (Savanna)",
+    "new": "सवाना"
+  },
+  {
+    "id": "d1_q31",
+    "day": 1,
+    "qNum": 31,
+    "idx": 1,
+    "is_answer": true,
+    "old": "जर्मन सिल्वर (German Silver)",
+    "new": "जर्मन सिल्वर"
+  },
+  {
+    "id": "d1_q32",
+    "day": 1,
+    "qNum": 32,
+    "idx": 1,
+    "is_answer": true,
+    "old": "कोयला (Coal)",
+    "new": "कोयला"
+  },
+  {
+    "id": "d1_q35",
+    "day": 1,
+    "qNum": 35,
+    "idx": 1,
+    "is_answer": true,
+    "old": "अरबी (Arabic)",
+    "new": "अरबी"
+  },
+  {
+    "id": "d1_q41",
+    "day": 1,
+    "qNum": 41,
+    "idx": 1,
+    "is_answer": true,
+    "old": "टाइटन (Titan)",
+    "new": "टाइटन"
+  },
+  {
+    "id": "d1_q42",
+    "day": 1,
+    "qNum": 42,
+    "idx": 2,
+    "is_answer": true,
+    "old": "साओ पाउलो (Sao Paulo)",
+    "new": "साओ पाउलो"
+  },
+  {
+    "id": "d2_q4",
+    "day": 2,
+    "qNum": 4,
+    "idx": 0,
+    "is_answer": true,
+    "old": "सवाना (Savanna)",
+    "new": "सवाना"
+  },
+  {
+    "id": "d2_q5",
+    "day": 2,
+    "qNum": 5,
+    "idx": 1,
+    "is_answer": true,
+    "old": "सपनों की मीनारों का शहर (City of Dreaming Spires)",
+    "new": "सपनों की मीनारों का शहर"
+  },
+  {
+    "id": "d2_q6",
+    "day": 2,
+    "qNum": 6,
+    "idx": 1,
+    "is_answer": true,
+    "old": "केंट (Kent)",
+    "new": "केंट"
+  },
+  {
+    "id": "d2_q14",
+    "day": 2,
+    "qNum": 14,
+    "idx": 1,
+    "is_answer": true,
+    "old": "कटक (Cuttack)",
+    "new": "कटक"
+  },
+  {
+    "id": "d2_q15",
+    "day": 2,
+    "qNum": 15,
+    "idx": 2,
+    "is_answer": true,
+    "old": "धोलावीरा (Dholavira)",
+    "new": "धोलावीरा"
+  },
+  {
+    "id": "d2_q18",
+    "day": 2,
+    "qNum": 18,
+    "idx": 0,
+    "is_answer": false,
+    "old": "संयुक्त राज्य अमेरिका (USA)",
+    "new": "संयुक्त राज्य अमेरिका"
+  },
+  {
+    "id": "d2_q21",
+    "day": 2,
+    "qNum": 21,
+    "idx": 2,
+    "is_answer": true,
+    "old": "पीसा की झुकी मीनार (Leaning Tower of Pisa)",
+    "new": "पीसा की झुकी मीनार"
+  },
+  {
+    "id": "d2_q23",
+    "day": 2,
+    "qNum": 23,
+    "idx": 0,
+    "is_answer": false,
+    "old": "लिम्नोलॉजी (Limnology)",
+    "new": "लिम्नोलॉजी"
+  },
+  {
+    "id": "d2_q23",
+    "day": 2,
+    "qNum": 23,
+    "idx": 1,
+    "is_answer": true,
+    "old": "पोटामोलॉजी (Potamology)",
+    "new": "पोटामोलॉजी"
+  },
+  {
+    "id": "d2_q23",
+    "day": 2,
+    "qNum": 23,
+    "idx": 2,
+    "is_answer": false,
+    "old": "हाइड्रोलॉजी (Hydrology)",
+    "new": "हाइड्रोलॉजी"
+  },
+  {
+    "id": "d2_q23",
+    "day": 2,
+    "qNum": 23,
+    "idx": 3,
+    "is_answer": false,
+    "old": "स्पीलियोलॉजी (Speleology)",
+    "new": "स्पीलियोलॉजी"
+  },
+  {
+    "id": "d2_q28",
+    "day": 2,
+    "qNum": 28,
+    "idx": 1,
+    "is_answer": true,
+    "old": "सोना (Gold)",
+    "new": "सोना"
+  },
+  {
+    "id": "d2_q28",
+    "day": 2,
+    "qNum": 28,
+    "idx": 2,
+    "is_answer": false,
+    "old": "हीरा (Diamond)",
+    "new": "हीरा"
+  },
+  {
+    "id": "d2_q47",
+    "day": 2,
+    "qNum": 47,
+    "idx": 2,
+    "is_answer": true,
+    "old": "पूर्ण आंतरिक परावर्तन (Total Internal Reflection)",
+    "new": "पूर्ण आंतरिक परावर्तन"
+  },
+  {
+    "id": "d2_q50",
+    "day": 2,
+    "qNum": 50,
+    "idx": 1,
+    "is_answer": true,
+    "old": "शिपकी ला दर्रा (Shipki La Pass)",
+    "new": "शिपकी ला दर्रा"
+  },
+  {
+    "id": "d3_q6",
+    "day": 3,
+    "qNum": 6,
+    "idx": 1,
+    "is_answer": true,
+    "old": "कर्नाटक संगीत (Carnatic Music)",
+    "new": "कर्नाटक संगीत"
+  },
+  {
+    "id": "d3_q7",
+    "day": 3,
+    "qNum": 7,
+    "idx": 0,
+    "is_answer": false,
+    "old": "पवनाविमुख ढाल (Leeward Side)",
+    "new": "पवनाविमुख ढाल"
+  },
+  {
+    "id": "d3_q7",
+    "day": 3,
+    "qNum": 7,
+    "idx": 1,
+    "is_answer": true,
+    "old": "पवनाभिमुख ढाल (Windward Side)",
+    "new": "पवनाभिमुख ढाल"
+  },
+  {
+    "id": "d3_q9",
+    "day": 3,
+    "qNum": 9,
+    "idx": 2,
+    "is_answer": true,
+    "old": "सुसिम (Susima)",
+    "new": "सुसिम"
+  },
+  {
+    "id": "d3_q12",
+    "day": 3,
+    "qNum": 12,
+    "idx": 2,
+    "is_answer": true,
+    "old": "सतोपंथ हिमनद (Satopanth Glacier)",
+    "new": "सतोपंथ हिमनद"
+  },
+  {
+    "id": "d3_q16",
+    "day": 3,
+    "qNum": 16,
+    "idx": 1,
+    "is_answer": true,
+    "old": "सलेम (Salem)",
+    "new": "सलेम"
+  },
+  {
+    "id": "d3_q18",
+    "day": 3,
+    "qNum": 18,
+    "idx": 2,
+    "is_answer": true,
+    "old": "राफेल (Raphael)",
+    "new": "राफेल"
+  },
+  {
+    "id": "d3_q19",
+    "day": 3,
+    "qNum": 19,
+    "idx": 3,
+    "is_answer": true,
+    "old": "रवांडा (Rwanda)",
+    "new": "रवांडा"
+  },
+  {
+    "id": "d3_q20",
+    "day": 3,
+    "qNum": 20,
+    "idx": 1,
+    "is_answer": true,
+    "old": "बाबर (Babur)",
+    "new": "बाबर"
+  },
+  {
+    "id": "d3_q21",
+    "day": 3,
+    "qNum": 21,
+    "idx": 0,
+    "is_answer": false,
+    "old": "बल (Force)",
+    "new": "बल"
+  },
+  {
+    "id": "d3_q21",
+    "day": 3,
+    "qNum": 21,
+    "idx": 1,
+    "is_answer": false,
+    "old": "ऊर्जा (Energy)",
+    "new": "ऊर्जा"
+  },
+  {
+    "id": "d3_q21",
+    "day": 3,
+    "qNum": 21,
+    "idx": 2,
+    "is_answer": true,
+    "old": "शक्ति (Power)",
+    "new": "शक्ति"
+  },
+  {
+    "id": "d3_q21",
+    "day": 3,
+    "qNum": 21,
+    "idx": 3,
+    "is_answer": false,
+    "old": "संवेग (Momentum)",
+    "new": "संवेग"
+  },
+  {
+    "id": "d3_q22",
+    "day": 3,
+    "qNum": 22,
+    "idx": 0,
+    "is_answer": false,
+    "old": "सेकंड (s)",
+    "new": "सेकंड"
+  },
+  {
+    "id": "d3_q22",
+    "day": 3,
+    "qNum": 22,
+    "idx": 1,
+    "is_answer": false,
+    "old": "मीटर (m)",
+    "new": "मीटर"
+  },
+  {
+    "id": "d3_q22",
+    "day": 3,
+    "qNum": 22,
+    "idx": 2,
+    "is_answer": false,
+    "old": "किलोग्राम (kg)",
+    "new": "किलोग्राम"
+  },
+  {
+    "id": "d3_q22",
+    "day": 3,
+    "qNum": 22,
+    "idx": 3,
+    "is_answer": true,
+    "old": "मीटर प्रति सेकंड (m/s)",
+    "new": "मीटर प्रति सेकंड"
+  },
+  {
+    "id": "d3_q24",
+    "day": 3,
+    "qNum": 24,
+    "idx": 2,
+    "is_answer": true,
+    "old": "चीन (China)",
+    "new": "चीन"
+  },
+  {
+    "id": "d3_q25",
+    "day": 3,
+    "qNum": 25,
+    "idx": 1,
+    "is_answer": true,
+    "old": "अंतर्भेदी आग्नेय चट्टान (Intrusive Igneous Rock)",
+    "new": "अंतर्भेदी आग्नेय चट्टान"
+  },
+  {
+    "id": "d3_q29",
+    "day": 3,
+    "qNum": 29,
+    "idx": 1,
+    "is_answer": true,
+    "old": "नई दिल्ली (New Delhi)",
+    "new": "नई दिल्ली"
+  },
+  {
+    "id": "d3_q32",
+    "day": 3,
+    "qNum": 32,
+    "idx": 2,
+    "is_answer": true,
+    "old": "प्रशांत महासागर (Pacific Ocean)",
+    "new": "प्रशांत महासागर"
+  },
+  {
+    "id": "d3_q41",
+    "day": 3,
+    "qNum": 41,
+    "idx": 1,
+    "is_answer": true,
+    "old": "नाथू ला दर्रा (Nathu La Pass)",
+    "new": "नाथू ला दर्रा"
+  },
+  {
+    "id": "d3_q42",
+    "day": 3,
+    "qNum": 42,
+    "idx": 2,
+    "is_answer": true,
+    "old": "पाँचवीं पंचवर्षीय योजना (Fifth Five-Year Plan)",
+    "new": "पाँचवीं पंचवर्षीय योजना"
+  },
+  {
+    "id": "d3_q43",
+    "day": 3,
+    "qNum": 43,
+    "idx": 1,
+    "is_answer": true,
+    "old": "स्पेन (Spain)",
+    "new": "स्पेन"
+  },
+  {
+    "id": "d3_q46",
+    "day": 3,
+    "qNum": 46,
+    "idx": 0,
+    "is_answer": false,
+    "old": "समतल कोण (Plane angle)",
+    "new": "समतल कोण"
+  },
+  {
+    "id": "d3_q46",
+    "day": 3,
+    "qNum": 46,
+    "idx": 1,
+    "is_answer": true,
+    "old": "ठोस कोण (Solid angle)",
+    "new": "ठोस कोण"
+  },
+  {
+    "id": "d4_q2",
+    "day": 4,
+    "qNum": 2,
+    "idx": 2,
+    "is_answer": true,
+    "old": "सुसिम (Susima)",
+    "new": "सुसिम"
+  },
+  {
+    "id": "d4_q7",
+    "day": 4,
+    "qNum": 7,
+    "idx": 0,
+    "is_answer": false,
+    "old": "प्रथम वाचन (First Reading)",
+    "new": "प्रथम वाचन"
+  },
+  {
+    "id": "d4_q7",
+    "day": 4,
+    "qNum": 7,
+    "idx": 1,
+    "is_answer": false,
+    "old": "द्वितीय वाचन (Second Reading)",
+    "new": "द्वितीय वाचन"
+  },
+  {
+    "id": "d4_q7",
+    "day": 4,
+    "qNum": 7,
+    "idx": 2,
+    "is_answer": true,
+    "old": "तृतीय वाचन (Third Reading)",
+    "new": "तृतीय वाचन"
+  },
+  {
+    "id": "d4_q7",
+    "day": 4,
+    "qNum": 7,
+    "idx": 3,
+    "is_answer": false,
+    "old": "समिति अवस्था (Committee Stage)",
+    "new": "समिति अवस्था"
+  },
+  {
+    "id": "d4_q9",
+    "day": 4,
+    "qNum": 9,
+    "idx": 1,
+    "is_answer": true,
+    "old": "इंडिया पोस्ट पेमेंट्स बैंक (IPPB) योजना",
+    "new": "इंडिया पोस्ट पेमेंट्स बैंक योजना"
+  },
+  {
+    "id": "d4_q12",
+    "day": 4,
+    "qNum": 12,
+    "idx": 0,
+    "is_answer": false,
+    "old": "द नेमसेक (The Namesake)",
+    "new": "द नेमसेक"
+  },
+  {
+    "id": "d4_q12",
+    "day": 4,
+    "qNum": 12,
+    "idx": 1,
+    "is_answer": true,
+    "old": "इंटरप्रेटर ऑफ मैलाडीज (Interpreter of Maladies)",
+    "new": "इंटरप्रेटर ऑफ मैलाडीज"
+  },
+  {
+    "id": "d4_q12",
+    "day": 4,
+    "qNum": 12,
+    "idx": 2,
+    "is_answer": false,
+    "old": "द लोलैंड (The Lowland)",
+    "new": "द लोलैंड"
+  },
+  {
+    "id": "d4_q13",
+    "day": 4,
+    "qNum": 13,
+    "idx": 1,
+    "is_answer": true,
+    "old": "अरविंद अडिगा (Aravind Adiga)",
+    "new": "अरविंद अडिगा"
+  },
+  {
+    "id": "d4_q20",
+    "day": 4,
+    "qNum": 20,
+    "idx": 2,
+    "is_answer": true,
+    "old": "नागार्जुन (Nagarjuna)",
+    "new": "नागार्जुन"
+  },
+  {
+    "id": "d4_q21",
+    "day": 4,
+    "qNum": 21,
+    "idx": 1,
+    "is_answer": true,
+    "old": "तात्या टोपे (Tatya Tope)",
+    "new": "तात्या टोपे"
+  },
+  {
+    "id": "d4_q23",
+    "day": 4,
+    "qNum": 23,
+    "idx": 1,
+    "is_answer": true,
+    "old": "कृष्णा नदी (Krishna River)",
+    "new": "कृष्णा नदी"
+  },
+  {
+    "id": "d4_q25",
+    "day": 4,
+    "qNum": 25,
+    "idx": 1,
+    "is_answer": true,
+    "old": "कामाख्या मंदिर (Kamakhya Temple)",
+    "new": "कामाख्या मंदिर"
+  },
+  {
+    "id": "d4_q26",
+    "day": 4,
+    "qNum": 26,
+    "idx": 2,
+    "is_answer": true,
+    "old": "आइजैक न्यूटन (Isaac Newton)",
+    "new": "आइजैक न्यूटन"
+  },
+  {
+    "id": "d4_q27",
+    "day": 4,
+    "qNum": 27,
+    "idx": 1,
+    "is_answer": true,
+    "old": "लंदन (London)",
+    "new": "लंदन"
+  },
+  {
+    "id": "d4_q28",
+    "day": 4,
+    "qNum": 28,
+    "idx": 1,
+    "is_answer": true,
+    "old": "स्वीडन (Sweden)",
+    "new": "स्वीडन"
+  },
+  {
+    "id": "d4_q31",
+    "day": 4,
+    "qNum": 31,
+    "idx": 1,
+    "is_answer": true,
+    "old": "त्रिपुरा (Tripura)",
+    "new": "त्रिपुरा"
+  },
+  {
+    "id": "d4_q32",
+    "day": 4,
+    "qNum": 32,
+    "idx": 1,
+    "is_answer": true,
+    "old": "तमिलनाडु (Tamil Nadu)",
+    "new": "तमिलनाडु"
+  },
+  {
+    "id": "d4_q33",
+    "day": 4,
+    "qNum": 33,
+    "idx": 2,
+    "is_answer": true,
+    "old": "रेवा (Reva)",
+    "new": "रेवा"
+  },
+  {
+    "id": "d4_q34",
+    "day": 4,
+    "qNum": 34,
+    "idx": 1,
+    "is_answer": true,
+    "old": "सागा-220 (SAGA)",
+    "new": "सागा-220"
+  },
+  {
+    "id": "d4_q35",
+    "day": 4,
+    "qNum": 35,
+    "idx": 0,
+    "is_answer": true,
+    "old": "जैव सुरक्षा (Biosafety / LMOs)",
+    "new": "जैव सुरक्षा"
+  },
+  {
+    "id": "d4_q36",
+    "day": 4,
+    "qNum": 36,
+    "idx": 1,
+    "is_answer": true,
+    "old": "स्थायी जैविक प्रदूषक (Persistent Organic Pollutants)",
+    "new": "स्थायी जैविक प्रदूषक"
+  },
+  {
+    "id": "d4_q37",
+    "day": 4,
+    "qNum": 37,
+    "idx": 1,
+    "is_answer": true,
+    "old": "चिकनी मिट्टी (Clay) और शेल (Shale)",
+    "new": "चिकनी मिट्टी और शेल"
+  },
+  {
+    "id": "d4_q38",
+    "day": 4,
+    "qNum": 38,
+    "idx": 1,
+    "is_answer": true,
+    "old": "संगमरमर (Marble)",
+    "new": "संगमरमर"
+  },
+  {
+    "id": "d4_q38",
+    "day": 4,
+    "qNum": 38,
+    "idx": 2,
+    "is_answer": false,
+    "old": "नीस (Gneiss)",
+    "new": "नीस"
+  },
+  {
+    "id": "d4_q38",
+    "day": 4,
+    "qNum": 38,
+    "idx": 3,
+    "is_answer": false,
+    "old": "सिस्ट (Schist)",
+    "new": "सिस्ट"
+  },
+  {
+    "id": "d4_q45",
+    "day": 4,
+    "qNum": 45,
+    "idx": 0,
+    "is_answer": true,
+    "old": "थॉमस मोर (Thomas More)",
+    "new": "थॉमस मोर"
+  },
+  {
+    "id": "d4_q46",
+    "day": 4,
+    "qNum": 46,
+    "idx": 0,
+    "is_answer": true,
+    "old": "निकोलस मैकियावेली (Machiavelli)",
+    "new": "निकोलस मैकियावेली"
+  },
+  {
+    "id": "d4_q47",
+    "day": 4,
+    "qNum": 47,
+    "idx": 1,
+    "is_answer": true,
+    "old": "दांते एलीघिएरी (Dante)",
+    "new": "दांते एलीघिएरी"
+  },
+  {
+    "id": "d4_q48",
+    "day": 4,
+    "qNum": 48,
+    "idx": 1,
+    "is_answer": true,
+    "old": "सुरेंद्रनाथ बनर्जी (Surendranath Banerjee)",
+    "new": "सुरेंद्रनाथ बनर्जी"
+  },
+  {
+    "id": "d4_q49",
+    "day": 4,
+    "qNum": 49,
+    "idx": 0,
+    "is_answer": true,
+    "old": "भगत सिंह (Bhagat Singh)",
+    "new": "भगत सिंह"
+  },
+  {
+    "id": "d5_q2",
+    "day": 5,
+    "qNum": 2,
+    "idx": 2,
+    "is_answer": true,
+    "old": "अश्वमेध यज्ञ (Ashvamedha Yajna)",
+    "new": "अश्वमेध यज्ञ"
+  },
+  {
+    "id": "d5_q4",
+    "day": 5,
+    "qNum": 4,
+    "idx": 0,
+    "is_answer": true,
+    "old": "बाजीराव बल्लाल (Baji Rao Ballal)",
+    "new": "बाजीराव बल्लाल"
+  },
+  {
+    "id": "d5_q5",
+    "day": 5,
+    "qNum": 5,
+    "idx": 1,
+    "is_answer": true,
+    "old": "सरोजिनी नायडू (Sarojini Naidu)",
+    "new": "सरोजिनी नायडू"
+  },
+  {
+    "id": "d5_q6",
+    "day": 5,
+    "qNum": 6,
+    "idx": 1,
+    "is_answer": true,
+    "old": "हेमेटाइट (Hematite)",
+    "new": "हेमेटाइट"
+  },
+  {
+    "id": "d5_q7",
+    "day": 5,
+    "qNum": 7,
+    "idx": 0,
+    "is_answer": false,
+    "old": "बुध (Mercury)",
+    "new": "बुध"
+  },
+  {
+    "id": "d5_q7",
+    "day": 5,
+    "qNum": 7,
+    "idx": 1,
+    "is_answer": false,
+    "old": "वरुण (Neptune)",
+    "new": "वरुण"
+  },
+  {
+    "id": "d5_q7",
+    "day": 5,
+    "qNum": 7,
+    "idx": 3,
+    "is_answer": false,
+    "old": "मंगल (Mars)",
+    "new": "मंगल"
+  },
+  {
+    "id": "d5_q8",
+    "day": 5,
+    "qNum": 8,
+    "idx": 0,
+    "is_answer": false,
+    "old": "सर्पिलाकार आकाशगंगा (Spiral)",
+    "new": "सर्पिलाकार आकाशगंगा"
+  },
+  {
+    "id": "d5_q8",
+    "day": 5,
+    "qNum": 8,
+    "idx": 1,
+    "is_answer": false,
+    "old": "दीर्घवृत्ताकार आकाशगंगा (Elliptical)",
+    "new": "दीर्घवृत्ताकार आकाशगंगा"
+  },
+  {
+    "id": "d5_q8",
+    "day": 5,
+    "qNum": 8,
+    "idx": 2,
+    "is_answer": true,
+    "old": "अनियमित आकाशगंगा (Irregular Galaxy)",
+    "new": "अनियमित आकाशगंगा"
+  },
+  {
+    "id": "d5_q10",
+    "day": 5,
+    "qNum": 10,
+    "idx": 0,
+    "is_answer": false,
+    "old": "क्षोभमंडल (Troposphere)",
+    "new": "क्षोभमंडल"
+  },
+  {
+    "id": "d5_q10",
+    "day": 5,
+    "qNum": 10,
+    "idx": 1,
+    "is_answer": true,
+    "old": "समतापमंडल (Stratosphere)",
+    "new": "समतापमंडल"
+  },
+  {
+    "id": "d5_q10",
+    "day": 5,
+    "qNum": 10,
+    "idx": 2,
+    "is_answer": false,
+    "old": "मध्यमंडल (Mesosphere)",
+    "new": "मध्यमंडल"
+  },
+  {
+    "id": "d5_q10",
+    "day": 5,
+    "qNum": 10,
+    "idx": 3,
+    "is_answer": false,
+    "old": "तापमंडल (Thermosphere)",
+    "new": "तापमंडल"
+  },
+  {
+    "id": "d5_q12",
+    "day": 5,
+    "qNum": 12,
+    "idx": 0,
+    "is_answer": false,
+    "old": "राष्ट्रीय मध्यम अवधि मौसम पूर्वानुमान केंद्र (NCMRWF), नोएडा",
+    "new": "राष्ट्रीय मध्यम अवधि मौसम पूर्वानुमान केंद्र, नोएडा"
+  },
+  {
+    "id": "d5_q12",
+    "day": 5,
+    "qNum": 12,
+    "idx": 1,
+    "is_answer": true,
+    "old": "भारतीय उष्णकटिबंधीय मौसम विज्ञान संस्थान (IITM), पुणे",
+    "new": "भारतीय उष्णकटिबंधीय मौसम विज्ञान संस्थान, पुणे"
+  },
+  {
+    "id": "d5_q12",
+    "day": 5,
+    "qNum": 12,
+    "idx": 3,
+    "is_answer": false,
+    "old": "राष्ट्रीय समुद्र विज्ञान संस्थान (NIO), गोवा",
+    "new": "राष्ट्रीय समुद्र विज्ञान संस्थान, गोवा"
+  },
+  {
+    "id": "d5_q13",
+    "day": 5,
+    "qNum": 13,
+    "idx": 2,
+    "is_answer": true,
+    "old": "सहकारी समितियों को बढ़ावा देना (To promote co-operative societies)",
+    "new": "सहकारी समितियों को बढ़ावा देना"
+  },
+  {
+    "id": "d5_q19",
+    "day": 5,
+    "qNum": 19,
+    "idx": 0,
+    "is_answer": false,
+    "old": "उत्तल दर्पण (Convex mirror)",
+    "new": "उत्तल दर्पण"
+  },
+  {
+    "id": "d5_q19",
+    "day": 5,
+    "qNum": 19,
+    "idx": 1,
+    "is_answer": true,
+    "old": "अवतल दर्पण (Concave mirror)",
+    "new": "अवतल दर्पण"
+  },
+  {
+    "id": "d5_q19",
+    "day": 5,
+    "qNum": 19,
+    "idx": 2,
+    "is_answer": false,
+    "old": "समतल दर्पण (Plane mirror)",
+    "new": "समतल दर्पण"
+  },
+  {
+    "id": "d5_q26",
+    "day": 5,
+    "qNum": 26,
+    "idx": 0,
+    "is_answer": false,
+    "old": "बायाँ अलिंद (Left atrium)",
+    "new": "बायाँ अलिंद"
+  },
+  {
+    "id": "d5_q26",
+    "day": 5,
+    "qNum": 26,
+    "idx": 1,
+    "is_answer": true,
+    "old": "दायाँ अलिंद (Right atrium)",
+    "new": "दायाँ अलिंद"
+  },
+  {
+    "id": "d5_q26",
+    "day": 5,
+    "qNum": 26,
+    "idx": 2,
+    "is_answer": false,
+    "old": "बायाँ निलय (Left ventricle)",
+    "new": "बायाँ निलय"
+  },
+  {
+    "id": "d5_q26",
+    "day": 5,
+    "qNum": 26,
+    "idx": 3,
+    "is_answer": false,
+    "old": "दायाँ निलय (Right ventricle)",
+    "new": "दायाँ निलय"
+  },
+  {
+    "id": "d5_q27",
+    "day": 5,
+    "qNum": 27,
+    "idx": 0,
+    "is_answer": false,
+    "old": "बिंदुस्राव (Guttation)",
+    "new": "बिंदुस्राव"
+  },
+  {
+    "id": "d5_q27",
+    "day": 5,
+    "qNum": 27,
+    "idx": 1,
+    "is_answer": true,
+    "old": "वाष्पोत्सर्जन (Transpiration)",
+    "new": "वाष्पोत्सर्जन"
+  },
+  {
+    "id": "d5_q27",
+    "day": 5,
+    "qNum": 27,
+    "idx": 2,
+    "is_answer": false,
+    "old": "परासरण (Osmosis)",
+    "new": "परासरण"
+  },
+  {
+    "id": "d5_q27",
+    "day": 5,
+    "qNum": 27,
+    "idx": 3,
+    "is_answer": false,
+    "old": "श्वसन (Respiration)",
+    "new": "श्वसन"
+  },
+  {
+    "id": "d5_q28",
+    "day": 5,
+    "qNum": 28,
+    "idx": 0,
+    "is_answer": false,
+    "old": "मूल दाब (Root pressure)",
+    "new": "मूल दाब"
+  },
+  {
+    "id": "d5_q28",
+    "day": 5,
+    "qNum": 28,
+    "idx": 1,
+    "is_answer": true,
+    "old": "वाष्पोत्सर्जन खिंचाव (Transpiration pull)",
+    "new": "वाष्पोत्सर्जन खिंचाव"
+  },
+  {
+    "id": "d5_q28",
+    "day": 5,
+    "qNum": 28,
+    "idx": 3,
+    "is_answer": false,
+    "old": "अंतःशोषण (Imbibition)",
+    "new": "अंतःशोषण"
+  },
+  {
+    "id": "d5_q29",
+    "day": 5,
+    "qNum": 29,
+    "idx": 1,
+    "is_answer": true,
+    "old": "सिस्टेमिन (Systemin)",
+    "new": "सिस्टेमिन"
+  },
+  {
+    "id": "d5_q31",
+    "day": 5,
+    "qNum": 31,
+    "idx": 1,
+    "is_answer": true,
+    "old": "तमिलनाडु (Tamil Nadu)",
+    "new": "तमिलनाडु"
+  },
+  {
+    "id": "d5_q33",
+    "day": 5,
+    "qNum": 33,
+    "idx": 1,
+    "is_answer": true,
+    "old": "मिजोरम (Mizoram)",
+    "new": "मिजोरम"
+  },
+  {
+    "id": "d5_q34",
+    "day": 5,
+    "qNum": 34,
+    "idx": 1,
+    "is_answer": true,
+    "old": "अरुणाचल प्रदेश की खमती (Khamti) जनजाति",
+    "new": "अरुणाचल प्रदेश की खमती जनजाति"
+  },
+  {
+    "id": "d5_q35",
+    "day": 5,
+    "qNum": 35,
+    "idx": 1,
+    "is_answer": true,
+    "old": "कश्मीरी पंडित (Kashmiri Pandits)",
+    "new": "कश्मीरी पंडित"
+  },
+  {
+    "id": "d5_q36",
+    "day": 5,
+    "qNum": 36,
+    "idx": 1,
+    "is_answer": true,
+    "old": "शरीर और आत्मा को शुद्ध और पवित्र करना (Purification)",
+    "new": "शरीर और आत्मा को शुद्ध और पवित्र करना"
+  },
+  {
+    "id": "d5_q38",
+    "day": 5,
+    "qNum": 38,
+    "idx": 1,
+    "is_answer": true,
+    "old": "मेघालय की गारो जनजाति (Garo tribe)",
+    "new": "मेघालय की गारो जनजाति"
+  },
+  {
+    "id": "d5_q39",
+    "day": 5,
+    "qNum": 39,
+    "idx": 2,
+    "is_answer": true,
+    "old": "14 स्वदेशी देवता (Chaturdasha Devata)",
+    "new": "14 स्वदेशी देवता"
+  },
+  {
+    "id": "d5_q41",
+    "day": 5,
+    "qNum": 41,
+    "idx": 1,
+    "is_answer": true,
+    "old": "महाराष्ट्र (Maharashtra)",
+    "new": "महाराष्ट्र"
+  },
+  {
+    "id": "d5_q43",
+    "day": 5,
+    "qNum": 43,
+    "idx": 1,
+    "is_answer": true,
+    "old": "टेकडाउन (Takedown)",
+    "new": "टेकडाउन"
+  },
+  {
+    "id": "d5_q46",
+    "day": 5,
+    "qNum": 46,
+    "idx": 1,
+    "is_answer": true,
+    "old": "ग्वालियर का किला (Gwalior Fort)",
+    "new": "ग्वालियर का किला"
+  },
+  {
+    "id": "d5_q47",
+    "day": 5,
+    "qNum": 47,
+    "idx": 1,
+    "is_answer": true,
+    "old": "सरदार वल्लभभाई पटेल (Sardar Vallabhbhai Patel)",
+    "new": "सरदार वल्लभभाई पटेल"
+  },
+  {
+    "id": "d5_q48",
+    "day": 5,
+    "qNum": 48,
+    "idx": 1,
+    "is_answer": true,
+    "old": "स्पैडेक्स (SpaDeX - Space Docking Experiment)",
+    "new": "स्पैडेक्स"
+  },
+  {
+    "id": "d5_q49",
+    "day": 5,
+    "qNum": 49,
+    "idx": 1,
+    "is_answer": true,
+    "old": "जायकोव-डी (ZyCoV-D)",
+    "new": "जायकोव-डी"
+  },
+  {
+    "id": "d6_q1",
+    "day": 6,
+    "qNum": 1,
+    "idx": 1,
+    "is_answer": true,
+    "old": "रावी नदी (Ravi River)",
+    "new": "रावी नदी"
+  },
+  {
+    "id": "d6_q2",
+    "day": 6,
+    "qNum": 2,
+    "idx": 0,
+    "is_answer": false,
+    "old": "कल्प (Kalpa)",
+    "new": "कल्प"
+  },
+  {
+    "id": "d6_q2",
+    "day": 6,
+    "qNum": 2,
+    "idx": 1,
+    "is_answer": true,
+    "old": "वैशेषिक (Vaisheshika)",
+    "new": "वैशेषिक"
+  },
+  {
+    "id": "d6_q2",
+    "day": 6,
+    "qNum": 2,
+    "idx": 2,
+    "is_answer": false,
+    "old": "व्याकरण (Vyakarana)",
+    "new": "व्याकरण"
+  },
+  {
+    "id": "d6_q2",
+    "day": 6,
+    "qNum": 2,
+    "idx": 3,
+    "is_answer": false,
+    "old": "ज्योतिष (Jyotisha)",
+    "new": "ज्योतिष"
+  },
+  {
+    "id": "d6_q4",
+    "day": 6,
+    "qNum": 4,
+    "idx": 1,
+    "is_answer": true,
+    "old": "शुक्र (Venus)",
+    "new": "शुक्र"
+  },
+  {
+    "id": "d6_q5",
+    "day": 6,
+    "qNum": 5,
+    "idx": 0,
+    "is_answer": false,
+    "old": "घड़ी की दिशा में (Clockwise)",
+    "new": "घड़ी की दिशा में"
+  },
+  {
+    "id": "d6_q5",
+    "day": 6,
+    "qNum": 5,
+    "idx": 1,
+    "is_answer": true,
+    "old": "वामावर्त / घड़ी की विपरीत दिशा में (Anti-clockwise)",
+    "new": "वामावर्त / घड़ी की विपरीत दिशा में"
+  },
+  {
+    "id": "d6_q6",
+    "day": 6,
+    "qNum": 6,
+    "idx": 1,
+    "is_answer": true,
+    "old": "महाराष्ट्र (Maharashtra)",
+    "new": "महाराष्ट्र"
+  },
+  {
+    "id": "d6_q7",
+    "day": 6,
+    "qNum": 7,
+    "idx": 0,
+    "is_answer": true,
+    "old": "मिशन लाइफ (Mission LiFE)",
+    "new": "मिशन लाइफ"
+  },
+  {
+    "id": "d6_q9",
+    "day": 6,
+    "qNum": 9,
+    "idx": 1,
+    "is_answer": true,
+    "old": "रात के समय (During the night)",
+    "new": "रात के समय"
+  },
+  {
+    "id": "d6_q10",
+    "day": 6,
+    "qNum": 10,
+    "idx": 1,
+    "is_answer": true,
+    "old": "राजकोषीय घाटा (Fiscal Deficit)",
+    "new": "राजकोषीय घाटा"
+  },
+  {
+    "id": "d6_q13",
+    "day": 6,
+    "qNum": 13,
+    "idx": 1,
+    "is_answer": true,
+    "old": "गरीबी उन्मूलन (Garibi Hatao) और तकनीकी आधुनिकीकरण",
+    "new": "गरीबी उन्मूलन और तकनीकी आधुनिकीकरण"
+  },
+  {
+    "id": "d6_q15",
+    "day": 6,
+    "qNum": 15,
+    "idx": 0,
+    "is_answer": false,
+    "old": "विश्व आर्थिक मंच (WEF)",
+    "new": "विश्व आर्थिक मंच"
+  },
+  {
+    "id": "d6_q15",
+    "day": 6,
+    "qNum": 15,
+    "idx": 1,
+    "is_answer": true,
+    "old": "विश्व बौद्धिक संपदा संगठन (WIPO)",
+    "new": "विश्व बौद्धिक संपदा संगठन"
+  },
+  {
+    "id": "d6_q20",
+    "day": 6,
+    "qNum": 20,
+    "idx": 1,
+    "is_answer": true,
+    "old": "चाल बढ़ती है और द्रव का दाब घटता है (Speed increases, pressure decreases)",
+    "new": "चाल बढ़ती है और द्रव का दाब घटता है"
+  },
+  {
+    "id": "d6_q21",
+    "day": 6,
+    "qNum": 21,
+    "idx": 1,
+    "is_answer": true,
+    "old": "सांद्र हाइड्रोक्लोरिक एसिड (HCl) मिलाकर; मिलावटी होने पर गुलाबी/बैंगनी रंग आता है",
+    "new": "सांद्र हाइड्रोक्लोरिक एसिड मिलाकर; मिलावटी होने पर गुलाबी/बैंगनी रंग आता है"
+  },
+  {
+    "id": "d6_q22",
+    "day": 6,
+    "qNum": 22,
+    "idx": 0,
+    "is_answer": false,
+    "old": "अल्फा क्षय (Alpha decay)",
+    "new": "अल्फा क्षय"
+  },
+  {
+    "id": "d6_q22",
+    "day": 6,
+    "qNum": 22,
+    "idx": 1,
+    "is_answer": true,
+    "old": "बीटा-माइनस क्षय (Beta-minus decay)",
+    "new": "बीटा-माइनस क्षय"
+  },
+  {
+    "id": "d6_q24",
+    "day": 6,
+    "qNum": 24,
+    "idx": 1,
+    "is_answer": true,
+    "old": "नारकोटिक्स / ओपिओइड एनाल्जेसिक (Narcotics)",
+    "new": "नारकोटिक्स / ओपिओइड एनाल्जेसिक"
+  },
+  {
+    "id": "d6_q24",
+    "day": 6,
+    "qNum": 24,
+    "idx": 3,
+    "is_answer": false,
+    "old": "मूत्रवर्धक (Diuretics)",
+    "new": "मूत्रवर्धक"
+  },
+  {
+    "id": "d6_q26",
+    "day": 6,
+    "qNum": 26,
+    "idx": 0,
+    "is_answer": false,
+    "old": "सूक्ष्मांकुर (Microvilli)",
+    "new": "सूक्ष्मांकुर"
+  },
+  {
+    "id": "d6_q26",
+    "day": 6,
+    "qNum": 26,
+    "idx": 1,
+    "is_answer": true,
+    "old": "सिलिया / पक्ष्माभ (Cilia)",
+    "new": "सिलिया / पक्ष्माभ"
+  },
+  {
+    "id": "d6_q26",
+    "day": 6,
+    "qNum": 26,
+    "idx": 2,
+    "is_answer": false,
+    "old": "कशाभिका (Flagella)",
+    "new": "कशाभिका"
+  },
+  {
+    "id": "d6_q26",
+    "day": 6,
+    "qNum": 26,
+    "idx": 3,
+    "is_answer": false,
+    "old": "कूपिका (Alveoli)",
+    "new": "कूपिका"
+  },
+  {
+    "id": "d6_q28",
+    "day": 6,
+    "qNum": 28,
+    "idx": 2,
+    "is_answer": true,
+    "old": "ग्लाइकोजन (Glycogen)",
+    "new": "ग्लाइकोजन"
+  },
+  {
+    "id": "d6_q31",
+    "day": 6,
+    "qNum": 31,
+    "idx": 1,
+    "is_answer": true,
+    "old": "व्यक्ति की आयु (Age determination)",
+    "new": "व्यक्ति की आयु"
+  },
+  {
+    "id": "d6_q32",
+    "day": 6,
+    "qNum": 32,
+    "idx": 1,
+    "is_answer": true,
+    "old": "लैक्टिक अम्ल (Lactic Acid)",
+    "new": "लैक्टिक अम्ल"
+  },
+  {
+    "id": "d6_q34",
+    "day": 6,
+    "qNum": 34,
+    "idx": 0,
+    "is_answer": true,
+    "old": "अरुणाचल प्रदेश की न्यीशी (Nyishi) जनजाति",
+    "new": "अरुणाचल प्रदेश की न्यीशी जनजाति"
+  },
+  {
+    "id": "d6_q37",
+    "day": 6,
+    "qNum": 37,
+    "idx": 0,
+    "is_answer": false,
+    "old": "लैप (Lap)",
+    "new": "लैप"
+  },
+  {
+    "id": "d6_q37",
+    "day": 6,
+    "qNum": 37,
+    "idx": 1,
+    "is_answer": true,
+    "old": "लेग (Leg)",
+    "new": "लेग"
+  },
+  {
+    "id": "d6_q37",
+    "day": 6,
+    "qNum": 37,
+    "idx": 2,
+    "is_answer": false,
+    "old": "स्प्लिट (Split)",
+    "new": "स्प्लिट"
+  },
+  {
+    "id": "d6_q37",
+    "day": 6,
+    "qNum": 37,
+    "idx": 3,
+    "is_answer": false,
+    "old": "स्टिंट (Stint)",
+    "new": "स्टिंट"
+  },
+  {
+    "id": "d6_q40",
+    "day": 6,
+    "qNum": 40,
+    "idx": 1,
+    "is_answer": true,
+    "old": "फॉसबरी फ्लॉप (Fosbury Flop)",
+    "new": "फॉसबरी फ्लॉप"
+  },
+  {
+    "id": "d6_q43",
+    "day": 6,
+    "qNum": 43,
+    "idx": 1,
+    "is_answer": true,
+    "old": "मैच की तत्काल और निर्णायक विजय (Immediate victory)",
+    "new": "मैच की तत्काल और निर्णायक विजय"
+  },
+  {
+    "id": "d6_q44",
+    "day": 6,
+    "qNum": 44,
+    "idx": 1,
+    "is_answer": true,
+    "old": "रोजर फेडरर (Roger Federer)",
+    "new": "रोजर फेडरर"
+  },
+  {
+    "id": "d6_q46",
+    "day": 6,
+    "qNum": 46,
+    "idx": 1,
+    "is_answer": true,
+    "old": "अवतल दर्पण (Concave mirror)",
+    "new": "अवतल दर्पण"
+  },
+  {
+    "id": "d6_q47",
+    "day": 6,
+    "qNum": 47,
+    "idx": 1,
+    "is_answer": true,
+    "old": "हमेशा सूर्य से दूर विपरीत दिशा में (Away from the Sun)",
+    "new": "हमेशा सूर्य से दूर विपरीत दिशा में"
+  },
+  {
+    "id": "d6_q48",
+    "day": 6,
+    "qNum": 48,
+    "idx": 2,
+    "is_answer": true,
+    "old": "यह बढ़ता है (It increases)",
+    "new": "यह बढ़ता है"
+  },
+  {
+    "id": "d6_q50",
+    "day": 6,
+    "qNum": 50,
+    "idx": 1,
+    "is_answer": true,
+    "old": "इटली (Italy)",
+    "new": "इटली"
+  },
+  {
+    "id": "d7_q2",
+    "day": 7,
+    "qNum": 2,
+    "idx": 1,
+    "is_answer": true,
+    "old": "बॉक्साइट (Bauxite)",
+    "new": "बॉक्साइट"
+  },
+  {
+    "id": "d7_q3",
+    "day": 7,
+    "qNum": 3,
+    "idx": 3,
+    "is_answer": true,
+    "old": "22 दिसंबर (Winter Solstice)",
+    "new": "22 दिसंबर"
+  },
+  {
+    "id": "d7_q5",
+    "day": 7,
+    "qNum": 5,
+    "idx": 0,
+    "is_answer": false,
+    "old": "भूपर्पटी (Crust)",
+    "new": "भूपर्पटी"
+  },
+  {
+    "id": "d7_q5",
+    "day": 7,
+    "qNum": 5,
+    "idx": 1,
+    "is_answer": true,
+    "old": "मेंटल (The Mantle)",
+    "new": "मेंटल"
+  },
+  {
+    "id": "d7_q6",
+    "day": 7,
+    "qNum": 6,
+    "idx": 1,
+    "is_answer": true,
+    "old": "वियनतियाने (Vientiane)",
+    "new": "वियनतियाने"
+  },
+  {
+    "id": "d7_q8",
+    "day": 7,
+    "qNum": 8,
+    "idx": 1,
+    "is_answer": true,
+    "old": "उत्तराखंड (Uttarakhand)",
+    "new": "उत्तराखंड"
+  },
+  {
+    "id": "d7_q10",
+    "day": 7,
+    "qNum": 10,
+    "idx": 1,
+    "is_answer": true,
+    "old": "दिल्ली (Delhi)",
+    "new": "दिल्ली"
+  },
+  {
+    "id": "d7_q11",
+    "day": 7,
+    "qNum": 11,
+    "idx": 1,
+    "is_answer": true,
+    "old": "भूटान (Bhutan)",
+    "new": "भूटान"
+  },
+  {
+    "id": "d7_q13",
+    "day": 7,
+    "qNum": 13,
+    "idx": 1,
+    "is_answer": true,
+    "old": "सिंधी (Sindhi)",
+    "new": "सिंधी"
+  },
+  {
+    "id": "d7_q15",
+    "day": 7,
+    "qNum": 15,
+    "idx": 1,
+    "is_answer": true,
+    "old": "हम्पी (Hampi)",
+    "new": "हम्पी"
+  },
+  {
+    "id": "d7_q16",
+    "day": 7,
+    "qNum": 16,
+    "idx": 1,
+    "is_answer": true,
+    "old": "मेक्सिको (Mexico)",
+    "new": "मेक्सिको"
+  },
+  {
+    "id": "d7_q18",
+    "day": 7,
+    "qNum": 18,
+    "idx": 2,
+    "is_answer": true,
+    "old": "पीसा की झुकी मीनार (Leaning Tower of Pisa)",
+    "new": "पीसा की झुकी मीनार"
+  },
+  {
+    "id": "d7_q23",
+    "day": 7,
+    "qNum": 23,
+    "idx": 0,
+    "is_answer": true,
+    "old": "कोल्हापुर (Kolhapur)",
+    "new": "कोल्हापुर"
+  },
+  {
+    "id": "d7_q28",
+    "day": 7,
+    "qNum": 28,
+    "idx": 0,
+    "is_answer": false,
+    "old": "दक्षिणावर्त (Clockwise)",
+    "new": "दक्षिणावर्त"
+  },
+  {
+    "id": "d7_q28",
+    "day": 7,
+    "qNum": 28,
+    "idx": 1,
+    "is_answer": true,
+    "old": "वामावर्त (Anti-clockwise)",
+    "new": "वामावर्त"
+  },
+  {
+    "id": "d7_q30",
+    "day": 7,
+    "qNum": 30,
+    "idx": 0,
+    "is_answer": false,
+    "old": "परमादेश (Mandamus)",
+    "new": "परमादेश"
+  },
+  {
+    "id": "d7_q30",
+    "day": 7,
+    "qNum": 30,
+    "idx": 1,
+    "is_answer": true,
+    "old": "बंदी प्रत्यक्षीकरण (Habeas Corpus)",
+    "new": "बंदी प्रत्यक्षीकरण"
+  },
+  {
+    "id": "d7_q30",
+    "day": 7,
+    "qNum": 30,
+    "idx": 2,
+    "is_answer": false,
+    "old": "अधिकार पृच्छा (Quo Warranto)",
+    "new": "अधिकार पृच्छा"
+  },
+  {
+    "id": "d7_q30",
+    "day": 7,
+    "qNum": 30,
+    "idx": 3,
+    "is_answer": false,
+    "old": "उत्प्रेषण (Certiorari)",
+    "new": "उत्प्रेषण"
+  },
+  {
+    "id": "d7_q31",
+    "day": 7,
+    "qNum": 31,
+    "idx": 0,
+    "is_answer": false,
+    "old": "राज्य सूची (List II)",
+    "new": "राज्य सूची"
+  },
+  {
+    "id": "d7_q31",
+    "day": 7,
+    "qNum": 31,
+    "idx": 1,
+    "is_answer": true,
+    "old": "संघ सूची (List I)",
+    "new": "संघ सूची"
+  },
+  {
+    "id": "d7_q31",
+    "day": 7,
+    "qNum": 31,
+    "idx": 2,
+    "is_answer": false,
+    "old": "समवर्ती सूची (List III)",
+    "new": "समवर्ती सूची"
+  },
+  {
+    "id": "d7_q35",
+    "day": 7,
+    "qNum": 35,
+    "idx": 1,
+    "is_answer": true,
+    "old": "वाष्पोत्सर्जन खिंचाव (Transpiration pull)",
+    "new": "वाष्पोत्सर्जन खिंचाव"
+  },
+  {
+    "id": "d7_q37",
+    "day": 7,
+    "qNum": 37,
+    "idx": 1,
+    "is_answer": true,
+    "old": "खासी समुदाय (Khasi community)",
+    "new": "खासी समुदाय"
+  },
+  {
+    "id": "d7_q39",
+    "day": 7,
+    "qNum": 39,
+    "idx": 1,
+    "is_answer": true,
+    "old": "कश्मीरी पंडित (Kashmiri Pandits)",
+    "new": "कश्मीरी पंडित"
+  },
+  {
+    "id": "d7_q43",
+    "day": 7,
+    "qNum": 43,
+    "idx": 1,
+    "is_answer": true,
+    "old": "जायकोव-डी (ZyCoV-D)",
+    "new": "जायकोव-डी"
+  },
+  {
+    "id": "d7_q44",
+    "day": 7,
+    "qNum": 44,
+    "idx": 1,
+    "is_answer": true,
+    "old": "सिक्किम (Sikkim)",
+    "new": "सिक्किम"
+  },
+  {
+    "id": "d7_q45",
+    "day": 7,
+    "qNum": 45,
+    "idx": 1,
+    "is_answer": true,
+    "old": "अनुच्छेद 155 (Appointment of Governor)",
+    "new": "अनुच्छेद 155"
+  },
+  {
+    "id": "d7_q46",
+    "day": 7,
+    "qNum": 46,
+    "idx": 1,
+    "is_answer": true,
+    "old": "आंध्र प्रदेश (Andhra Pradesh)",
+    "new": "आंध्र प्रदेश"
+  },
+  {
+    "id": "d7_q47",
+    "day": 7,
+    "qNum": 47,
+    "idx": 1,
+    "is_answer": false,
+    "old": "टोक्यो (Nikkei)",
+    "new": "टोक्यो"
+  },
+  {
+    "id": "d7_q47",
+    "day": 7,
+    "qNum": 47,
+    "idx": 2,
+    "is_answer": true,
+    "old": "न्यूयॉर्क (New York - Wall Street)",
+    "new": "न्यूयॉर्क"
+  },
+  {
+    "id": "d7_q47",
+    "day": 7,
+    "qNum": 47,
+    "idx": 3,
+    "is_answer": false,
+    "old": "फ्रैंकफर्ट (DAX)",
+    "new": "फ्रैंकफर्ट"
+  },
+  {
+    "id": "d7_q48",
+    "day": 7,
+    "qNum": 48,
+    "idx": 1,
+    "is_answer": true,
+    "old": "अंतर्राष्ट्रीय सहकारिता वर्ष (International Year of Cooperatives)",
+    "new": "अंतर्राष्ट्रीय सहकारिता वर्ष"
+  },
+  {
+    "id": "d8_q1",
+    "day": 8,
+    "qNum": 1,
+    "idx": 1,
+    "is_answer": true,
+    "old": "ब्रह्म (Brahm / Brahman)",
+    "new": "ब्रह्म"
+  },
+  {
+    "id": "d8_q2",
+    "day": 8,
+    "qNum": 2,
+    "idx": 1,
+    "is_answer": true,
+    "old": "लाल बलुआ पत्थर (Red sandstone)",
+    "new": "लाल बलुआ पत्थर"
+  },
+  {
+    "id": "d8_q3",
+    "day": 8,
+    "qNum": 3,
+    "idx": 1,
+    "is_answer": true,
+    "old": "नर्मदा नदी (Narmada River)",
+    "new": "नर्मदा नदी"
+  },
+  {
+    "id": "d8_q4",
+    "day": 8,
+    "qNum": 4,
+    "idx": 1,
+    "is_answer": true,
+    "old": "एलिफेंट एंडोथेलियोट्रोपिक हर्पीसवायरस (EEHV)",
+    "new": "एलिफेंट एंडोथेलियोट्रोपिक हर्पीसवायरस"
+  },
+  {
+    "id": "d8_q5",
+    "day": 8,
+    "qNum": 5,
+    "idx": 1,
+    "is_answer": true,
+    "old": "हिमानी-धौत निक्षेप (Outwash deposits)",
+    "new": "हिमानी-धौत निक्षेप"
+  },
+  {
+    "id": "d8_q6",
+    "day": 8,
+    "qNum": 6,
+    "idx": 1,
+    "is_answer": true,
+    "old": "जन्म के समय जीवन प्रत्याशा (Life expectancy at birth)",
+    "new": "जन्म के समय जीवन प्रत्याशा"
+  },
+  {
+    "id": "d8_q7",
+    "day": 8,
+    "qNum": 7,
+    "idx": 1,
+    "is_answer": true,
+    "old": "वित्त मंत्रालय (Ministry of Finance)",
+    "new": "वित्त मंत्रालय"
+  },
+  {
+    "id": "d8_q9",
+    "day": 8,
+    "qNum": 9,
+    "idx": 0,
+    "is_answer": false,
+    "old": "अपवर्तन (Refraction)",
+    "new": "अपवर्तन"
+  },
+  {
+    "id": "d8_q9",
+    "day": 8,
+    "qNum": 9,
+    "idx": 1,
+    "is_answer": true,
+    "old": "विवर्तन (Diffraction)",
+    "new": "विवर्तन"
+  },
+  {
+    "id": "d8_q9",
+    "day": 8,
+    "qNum": 9,
+    "idx": 2,
+    "is_answer": false,
+    "old": "ध्रुवण (Polarization)",
+    "new": "ध्रुवण"
+  },
+  {
+    "id": "d8_q11",
+    "day": 8,
+    "qNum": 11,
+    "idx": 2,
+    "is_answer": true,
+    "old": "G0 प्रावस्था (Quiescent stage)",
+    "new": "G0 प्रावस्था"
+  },
+  {
+    "id": "d8_q12",
+    "day": 8,
+    "qNum": 12,
+    "idx": 0,
+    "is_answer": false,
+    "old": "युग्मनज (Zygote)",
+    "new": "युग्मनज"
+  },
+  {
+    "id": "d8_q13",
+    "day": 8,
+    "qNum": 13,
+    "idx": 1,
+    "is_answer": true,
+    "old": "जिबरेलिन (Gibberellin)",
+    "new": "जिबरेलिन"
+  },
+  {
+    "id": "d8_q14",
+    "day": 8,
+    "qNum": 14,
+    "idx": 1,
+    "is_answer": true,
+    "old": "एथिलीन (Ethylene)",
+    "new": "एथिलीन"
+  },
+  {
+    "id": "d8_q15",
+    "day": 8,
+    "qNum": 15,
+    "idx": 1,
+    "is_answer": true,
+    "old": "साइटोकाइनिन (Cytokinin)",
+    "new": "साइटोकाइनिन"
+  },
+  {
+    "id": "d8_q16",
+    "day": 8,
+    "qNum": 16,
+    "idx": 2,
+    "is_answer": true,
+    "old": "भित्तीय बीजांडन्यास (Parietal placentation)",
+    "new": "भित्तीय बीजांडन्यास"
+  },
+  {
+    "id": "d8_q17",
+    "day": 8,
+    "qNum": 17,
+    "idx": 1,
+    "is_answer": true,
+    "old": "मणिपुरी नृत्य (Manipuri dance)",
+    "new": "मणिपुरी नृत्य"
+  },
+  {
+    "id": "d8_q19",
+    "day": 8,
+    "qNum": 19,
+    "idx": 1,
+    "is_answer": true,
+    "old": "ओडिशा (Odisha)",
+    "new": "ओडिशा"
+  },
+  {
+    "id": "d8_q21",
+    "day": 8,
+    "qNum": 21,
+    "idx": 1,
+    "is_answer": true,
+    "old": "स्कलिंग (Sculling)",
+    "new": "स्कलिंग"
+  },
+  {
+    "id": "d8_q23",
+    "day": 8,
+    "qNum": 23,
+    "idx": 1,
+    "is_answer": true,
+    "old": "गंभीर नियम उल्लंघन जिसके परिणामस्वरूप मैच से अयोग्यता (Disqualification) होती है",
+    "new": "गंभीर नियम उल्लंघन जिसके परिणामस्वरूप मैच से अयोग्यता होती है"
+  },
+  {
+    "id": "d8_q25",
+    "day": 8,
+    "qNum": 25,
+    "idx": 2,
+    "is_answer": true,
+    "old": "24 दिसंबर (National Consumer Day)",
+    "new": "24 दिसंबर"
+  },
+  {
+    "id": "d8_q26",
+    "day": 8,
+    "qNum": 26,
+    "idx": 0,
+    "is_answer": true,
+    "old": "महिला कृषकों का अंतर्राष्ट्रीय वर्ष (International Year of the Woman Farmer)",
+    "new": "महिला कृषकों का अंतर्राष्ट्रीय वर्ष"
+  },
+  {
+    "id": "d8_q27",
+    "day": 8,
+    "qNum": 27,
+    "idx": 1,
+    "is_answer": true,
+    "old": "संजय बारू (Sanjaya Baru)",
+    "new": "संजय बारू"
+  },
+  {
+    "id": "d8_q28",
+    "day": 8,
+    "qNum": 28,
+    "idx": 1,
+    "is_answer": true,
+    "old": "मार्गरेट थैचर (Margaret Thatcher)",
+    "new": "मार्गरेट थैचर"
+  },
+  {
+    "id": "d8_q29",
+    "day": 8,
+    "qNum": 29,
+    "idx": 1,
+    "is_answer": true,
+    "old": "इंदिरा गांधी अंतर्राष्ट्रीय हवाई अड्डा, नई दिल्ली (IGI Airport)",
+    "new": "इंदिरा गांधी अंतर्राष्ट्रीय हवाई अड्डा, नई दिल्ली"
+  },
+  {
+    "id": "d8_q30",
+    "day": 8,
+    "qNum": 30,
+    "idx": 1,
+    "is_answer": true,
+    "old": "भारत (India)",
+    "new": "भारत"
+  },
+  {
+    "id": "d8_q31",
+    "day": 8,
+    "qNum": 31,
+    "idx": 1,
+    "is_answer": true,
+    "old": "बोधना शिवानंदन (Bodhana Sivanandan)",
+    "new": "बोधना शिवानंदन"
+  },
+  {
+    "id": "d8_q32",
+    "day": 8,
+    "qNum": 32,
+    "idx": 1,
+    "is_answer": true,
+    "old": "लेबनान (Lebanon)",
+    "new": "लेबनान"
+  },
+  {
+    "id": "d8_q33",
+    "day": 8,
+    "qNum": 33,
+    "idx": 1,
+    "is_answer": true,
+    "old": "रामनाथ कोविंद (Ram Nath Kovind)",
+    "new": "रामनाथ कोविंद"
+  },
+  {
+    "id": "d8_q34",
+    "day": 8,
+    "qNum": 34,
+    "idx": 1,
+    "is_answer": true,
+    "old": "पिछले 4 वर्षों में खेलों में उत्कृष्ट प्रदर्शन (Outstanding performance in sports)",
+    "new": "पिछले 4 वर्षों में खेलों में उत्कृष्ट प्रदर्शन"
+  },
+  {
+    "id": "d8_q35",
+    "day": 8,
+    "qNum": 35,
+    "idx": 1,
+    "is_answer": true,
+    "old": "जापान (Japan)",
+    "new": "जापान"
+  },
+  {
+    "id": "d8_q37",
+    "day": 8,
+    "qNum": 37,
+    "idx": 1,
+    "is_answer": true,
+    "old": "होनोहोन (Honohon)",
+    "new": "होनोहोन"
+  },
+  {
+    "id": "d8_q38",
+    "day": 8,
+    "qNum": 38,
+    "idx": 1,
+    "is_answer": true,
+    "old": "वाराणसी (Varanasi)",
+    "new": "वाराणसी"
+  },
+  {
+    "id": "d8_q39",
+    "day": 8,
+    "qNum": 39,
+    "idx": 1,
+    "is_answer": true,
+    "old": "ईस्ट ज़ोन (East Zone)",
+    "new": "ईस्ट ज़ोन"
+  },
+  {
+    "id": "d8_q40",
+    "day": 8,
+    "qNum": 40,
+    "idx": 1,
+    "is_answer": true,
+    "old": "पंडित गोविंद वल्लभ पंत (Govind Ballabh Pant)",
+    "new": "पंडित गोविंद वल्लभ पंत"
+  },
+  {
+    "id": "d8_q41",
+    "day": 8,
+    "qNum": 41,
+    "idx": 1,
+    "is_answer": true,
+    "old": "उत्तराखंड (Uttarakhand)",
+    "new": "उत्तराखंड"
+  },
+  {
+    "id": "d8_q42",
+    "day": 8,
+    "qNum": 42,
+    "idx": 1,
+    "is_answer": true,
+    "old": "सर्विसेज (Services - SSCB)",
+    "new": "सर्विसेज"
+  },
+  {
+    "id": "d8_q43",
+    "day": 8,
+    "qNum": 43,
+    "idx": 0,
+    "is_answer": true,
+    "old": "तेजस्वी (Tejaswi)",
+    "new": "तेजस्वी"
+  },
+  {
+    "id": "d8_q44",
+    "day": 8,
+    "qNum": 44,
+    "idx": 1,
+    "is_answer": true,
+    "old": "आर. वेंकटरमणी (R. Venkataramani)",
+    "new": "आर. वेंकटरमणी"
+  },
+  {
+    "id": "d8_q45",
+    "day": 8,
+    "qNum": 45,
+    "idx": 1,
+    "is_answer": true,
+    "old": "न्यायमूर्ति रंजना प्रकाश देसाई (Justice Ranjana Prakash Desai)",
+    "new": "न्यायमूर्ति रंजना प्रकाश देसाई"
+  },
+  {
+    "id": "d8_q46",
+    "day": 8,
+    "qNum": 46,
+    "idx": 0,
+    "is_answer": true,
+    "old": "अभ्रक / शीट माइका (Mica)",
+    "new": "अभ्रक / शीट माइका"
+  },
+  {
+    "id": "d8_q46",
+    "day": 8,
+    "qNum": 46,
+    "idx": 3,
+    "is_answer": false,
+    "old": "सीसा (Lead)",
+    "new": "सीसा"
+  },
+  {
+    "id": "d8_q47",
+    "day": 8,
+    "qNum": 47,
+    "idx": 1,
+    "is_answer": true,
+    "old": "एनोडीकरण (Anodizing)",
+    "new": "एनोडीकरण"
+  },
+  {
+    "id": "d8_q48",
+    "day": 8,
+    "qNum": 48,
+    "idx": 1,
+    "is_answer": true,
+    "old": "आँखें (Eyes)",
+    "new": "आँखें"
+  },
+  {
+    "id": "d8_q49",
+    "day": 8,
+    "qNum": 49,
+    "idx": 1,
+    "is_answer": true,
+    "old": "फेफड़े (Lungs)",
+    "new": "फेफड़े"
+  }
+]

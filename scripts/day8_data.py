@@ -9,10 +9,22 @@ DAY_8 = [
             "hi": "प्राचीन भारतीय उपनिषद दर्शन में कौन-सी दार्शनिक अवधारणा ब्रह्मांड की प्रत्येक वस्तु को एक ही परम तत्व (दिव्य सत्ता) के रूप में वर्णित करती है?"
         },
         "options": [
-            {"en": "Maya (Illusion)", "hi": "माया"},
-            {"en": "Brahm (Brahman)", "hi": "ब्रह्म (Brahm / Brahman)"},
-            {"en": "Prakriti", "hi": "प्रकृति"},
-            {"en": "Samsara", "hi": "संसार"}
+            {
+                "en": "Maya (Illusion)",
+                "hi": "माया"
+            },
+            {
+                "en": "Brahm (Brahman)",
+                "hi": "ब्रह्म"
+            },
+            {
+                "en": "Prakriti",
+                "hi": "प्रकृति"
+            },
+            {
+                "en": "Samsara",
+                "hi": "संसार"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -32,10 +44,22 @@ DAY_8 = [
             "hi": "दिल्ली के पुराने किले (Purana Qila) के दो मंजिला मुख्य द्वारों और प्राचीरों के निर्माण में मुख्य रूप से किस सामग्री का उपयोग किया गया था?"
         },
         "options": [
-            {"en": "White Marble", "hi": "सफेद संगमरमर"},
-            {"en": "Red Sandstone (with grey quartzite rubble)", "hi": "लाल बलुआ पत्थर (Red sandstone)"},
-            {"en": "Sun-dried mud bricks", "hi": "कच्ची मिट्टी की ईंटें"},
-            {"en": "Black Basalt", "hi": "काला बेसाल्ट"}
+            {
+                "en": "White Marble",
+                "hi": "सफेद संगमरमर"
+            },
+            {
+                "en": "Red Sandstone (with grey quartzite rubble)",
+                "hi": "लाल बलुआ पत्थर"
+            },
+            {
+                "en": "Sun-dried mud bricks",
+                "hi": "कच्ची मिट्टी की ईंटें"
+            },
+            {
+                "en": "Black Basalt",
+                "hi": "काला बेसाल्ट"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -55,10 +79,22 @@ DAY_8 = [
             "hi": "दक्कन का पठार (Deccan Plateau) एक त्रिभुजाकार भूभाग है, जो किस नदी के दक्षिण में स्थित है?"
         },
         "options": [
-            {"en": "Tapi River", "hi": "तापी नदी"},
-            {"en": "Narmada River", "hi": "नर्मदा नदी (Narmada River)"},
-            {"en": "Godavari River", "hi": "गोदावरी नदी"},
-            {"en": "Mahanadi River", "hi": "महानदी"}
+            {
+                "en": "Tapi River",
+                "hi": "तापी नदी"
+            },
+            {
+                "en": "Narmada River",
+                "hi": "नर्मदा नदी"
+            },
+            {
+                "en": "Godavari River",
+                "hi": "गोदावरी नदी"
+            },
+            {
+                "en": "Mahanadi River",
+                "hi": "महानदी"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -78,10 +114,22 @@ DAY_8 = [
             "hi": "युवा एशियाई हाथियों (विशेषकर बच्चों) में अत्यधिक मृत्यु दर का कारण बनने वाला विशिष्ट घातक वायरस कौन-सा है?"
         },
         "options": [
-            {"en": "Foot-and-Mouth Disease Virus (FMDV)", "hi": "खुरपका-मुंहपका रोग वायरस"},
-            {"en": "Elephant Endotheliotropic Herpesvirus (EEHV)", "hi": "एलिफेंट एंडोथेलियोट्रोपिक हर्पीसवायरस (EEHV)"},
-            {"en": "Rinderpest Virus", "hi": "रिंडरपेस्ट वायरस"},
-            {"en": "Canine Distemper Virus (CDV)", "hi": "कैनाइन डिस्टेंपर"}
+            {
+                "en": "Foot-and-Mouth Disease Virus (FMDV)",
+                "hi": "खुरपका-मुंहपका रोग वायरस"
+            },
+            {
+                "en": "Elephant Endotheliotropic Herpesvirus (EEHV)",
+                "hi": "एलिफेंट एंडोथेलियोट्रोपिक हर्पीसवायरस"
+            },
+            {
+                "en": "Rinderpest Virus",
+                "hi": "रिंडरपेस्ट वायरस"
+            },
+            {
+                "en": "Canine Distemper Virus (CDV)",
+                "hi": "कैनाइन डिस्टेंपर"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -101,10 +149,22 @@ DAY_8 = [
             "hi": "हिमनद विज्ञान (Glaciology) में हिमनद के पिघलने वाले जल (Meltwater) की धाराओं द्वारा छोड़े गए स्तरीकृत और गोल तलछटों को क्या कहा जाता है?"
         },
         "options": [
-            {"en": "Moraine deposits", "hi": "हिमोढ़ (Moraines - असंगठित मलबा)"},
-            {"en": "Outwash deposits (Sandur)", "hi": "हिमानी-धौत निक्षेप (Outwash deposits)"},
-            {"en": "Cirque deposits", "hi": "सर्क निक्षेप"},
-            {"en": "Drumlins", "hi": "ड्रमलिन (अंडे की टोकरी स्थलाकृति)"}
+            {
+                "en": "Moraine deposits",
+                "hi": "हिमोढ़ (असंगठित मलबा)"
+            },
+            {
+                "en": "Outwash deposits (Sandur)",
+                "hi": "हिमानी-धौत निक्षेप"
+            },
+            {
+                "en": "Cirque deposits",
+                "hi": "सर्क निक्षेप"
+            },
+            {
+                "en": "Drumlins",
+                "hi": "ड्रमलिन (अंडे की टोकरी स्थलाकृति)"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -124,10 +184,22 @@ DAY_8 = [
             "hi": "संयुक्त राष्ट्र (UNDP) के मानव विकास सूचकांक (HDI) में स्वास्थ्य आयाम को मुख्य रूप से किसके माध्यम से मापा जाता है?"
         },
         "options": [
-            {"en": "Number of hospitals per state", "hi": "प्रति राज्य अस्पतालों की संख्या"},
-            {"en": "Life Expectancy at birth", "hi": "जन्म के समय जीवन प्रत्याशा (Life expectancy at birth)"},
-            {"en": "Caloric intake per person", "hi": "प्रति व्यक्ति कैलोरी उपभोग"},
-            {"en": "Infant mortality rate alone", "hi": "केवल शिशु मृत्यु दर"}
+            {
+                "en": "Number of hospitals per state",
+                "hi": "प्रति राज्य अस्पतालों की संख्या"
+            },
+            {
+                "en": "Life Expectancy at birth",
+                "hi": "जन्म के समय जीवन प्रत्याशा"
+            },
+            {
+                "en": "Caloric intake per person",
+                "hi": "प्रति व्यक्ति कैलोरी उपभोग"
+            },
+            {
+                "en": "Infant mortality rate alone",
+                "hi": "केवल शिशु मृत्यु दर"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -147,10 +219,22 @@ DAY_8 = [
             "hi": "प्रधानमंत्री जन धन योजना (PMJDY) का क्रियान्वयन किस केंद्रीय मंत्रालय द्वारा किया जाता है?"
         },
         "options": [
-            {"en": "Ministry of Rural Development", "hi": "ग्रामीण विकास मंत्रालय"},
-            {"en": "Ministry of Finance", "hi": "वित्त मंत्रालय (Ministry of Finance)"},
-            {"en": "Ministry of Home Affairs", "hi": "गृह मंत्रालय"},
-            {"en": "Ministry of Corporate Affairs", "hi": "कॉर्पोरेट मामले मंत्रालय"}
+            {
+                "en": "Ministry of Rural Development",
+                "hi": "ग्रामीण विकास मंत्रालय"
+            },
+            {
+                "en": "Ministry of Finance",
+                "hi": "वित्त मंत्रालय"
+            },
+            {
+                "en": "Ministry of Home Affairs",
+                "hi": "गृह मंत्रालय"
+            },
+            {
+                "en": "Ministry of Corporate Affairs",
+                "hi": "कॉर्पोरेट मामले मंत्रालय"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -170,10 +254,22 @@ DAY_8 = [
             "hi": "रैखिक संवेग (Momentum) की SI इकाई क्या है?"
         },
         "options": [
-            {"en": "Newton-meter (N·m)", "hi": "न्यूटन-मीटर"},
-            {"en": "Kilogram-meter per second (kg·m/s)", "hi": "किलोग्राम-मीटर प्रति सेकंड (kg·m/s)"},
-            {"en": "Joule per second", "hi": "जूल प्रति सेकंड"},
-            {"en": "Kilogram per meter squared", "hi": "किलोग्राम प्रति वर्ग मीटर"}
+            {
+                "en": "Newton-meter (N·m)",
+                "hi": "न्यूटन-मीटर"
+            },
+            {
+                "en": "Kilogram-meter per second (kg·m/s)",
+                "hi": "किलोग्राम-मीटर प्रति सेकंड"
+            },
+            {
+                "en": "Joule per second",
+                "hi": "जूल प्रति सेकंड"
+            },
+            {
+                "en": "Kilogram per meter squared",
+                "hi": "किलोग्राम प्रति वर्ग मीटर"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -193,10 +289,22 @@ DAY_8 = [
             "hi": "किसी अवरोध के किनारों से प्रकाश या ध्वनि तरंगों के मुड़ने और फैलने की प्रकाशीय घटना को क्या कहते हैं?"
         },
         "options": [
-            {"en": "Refraction", "hi": "अपवर्तन (Refraction)"},
-            {"en": "Diffraction", "hi": "विवर्तन (Diffraction)"},
-            {"en": "Polarization", "hi": "ध्रुवण (Polarization)"},
-            {"en": "Total Internal Reflection", "hi": "पूर्ण आंतरिक परावर्तन"}
+            {
+                "en": "Refraction",
+                "hi": "अपवर्तन"
+            },
+            {
+                "en": "Diffraction",
+                "hi": "विवर्तन"
+            },
+            {
+                "en": "Polarization",
+                "hi": "ध्रुवण"
+            },
+            {
+                "en": "Total Internal Reflection",
+                "hi": "पूर्ण आंतरिक परावर्तन"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -216,10 +324,22 @@ DAY_8 = [
             "hi": "रेडियोधर्मी अल्फा क्षय के दौरान उत्सर्जित 'अल्फा कण' (Alpha particle) वास्तव में क्या होता है?"
         },
         "options": [
-            {"en": "A single high-energy electron", "hi": "एक उच्च-ऊर्जा इलेक्ट्रॉन (बीटा कण)"},
-            {"en": "A Helium nucleus (He²⁺ with 2 protons and 2 neutrons)", "hi": "हीलियम का नाभिक (He²⁺ / 2 प्रोटॉन और 2 न्यूट्रॉन)"},
-            {"en": "A single isolated neutron", "hi": "एक न्यूट्रॉन"},
-            {"en": "A photon of electromagnetic radiation", "hi": "विद्युतचुंबकीय फोटॉन"}
+            {
+                "en": "A single high-energy electron",
+                "hi": "एक उच्च-ऊर्जा इलेक्ट्रॉन"
+            },
+            {
+                "en": "A Helium nucleus (He²⁺ with 2 protons and 2 neutrons)",
+                "hi": "हीलियम का नाभिक"
+            },
+            {
+                "en": "A single isolated neutron",
+                "hi": "एक न्यूट्रॉन"
+            },
+            {
+                "en": "A photon of electromagnetic radiation",
+                "hi": "विद्युतचुंबकीय फोटॉन"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -239,10 +359,22 @@ DAY_8 = [
             "hi": "कोशिका चक्र की किस शांत अवस्था में परिपक्व कोशिकाएं (जैसे तंत्रिका कोशिकाएं) बिना विभाजित हुए उपापचयी रूप से सक्रिय रहती हैं?"
         },
         "options": [
-            {"en": "G1 phase", "hi": "G1 प्रावस्था"},
-            {"en": "S phase (DNA synthesis)", "hi": "S प्रावस्था"},
-            {"en": "G0 phase (Quiescent stage)", "hi": "G0 प्रावस्था (Quiescent stage)"},
-            {"en": "M phase (Mitosis)", "hi": "M प्रावस्था (सूत्री विभाजन)"}
+            {
+                "en": "G1 phase",
+                "hi": "G1 प्रावस्था"
+            },
+            {
+                "en": "S phase (DNA synthesis)",
+                "hi": "S प्रावस्था"
+            },
+            {
+                "en": "G0 phase (Quiescent stage)",
+                "hi": "G0 प्रावस्था"
+            },
+            {
+                "en": "M phase (Mitosis)",
+                "hi": "M प्रावस्था (सूत्री विभाजन)"
+            }
         ],
         "answerIndex": 2,
         "hint": {
@@ -262,10 +394,22 @@ DAY_8 = [
             "hi": "मानव भ्रूणीय विकास में निषेचन के 8 सप्ताह बाद (जब सभी प्रमुख अंग स्पष्ट दिखाई देने लगते हैं) गर्भस्थ शिशु को क्या कहा जाता है?"
         },
         "options": [
-            {"en": "Zygote", "hi": "युग्मनज (Zygote)"},
-            {"en": "Blastocyst", "hi": "ब्लास्टोसिस्ट"},
-            {"en": "Foetus (Fetus)", "hi": "भ्रूण / गर्भस्थ शिशु (Foetus / गर्भ)"},
-            {"en": "Morula", "hi": "मोरुला"}
+            {
+                "en": "Zygote",
+                "hi": "युग्मनज"
+            },
+            {
+                "en": "Blastocyst",
+                "hi": "ब्लास्टोसिस्ट"
+            },
+            {
+                "en": "Foetus (Fetus)",
+                "hi": "भ्रूण (गर्भस्थ शिशु)"
+            },
+            {
+                "en": "Morula",
+                "hi": "मोरुला"
+            }
         ],
         "answerIndex": 2,
         "hint": {
@@ -285,10 +429,22 @@ DAY_8 = [
             "hi": "तने की लंबाई बढ़ाने, बीजों की प्रसुप्ति (dormancy) तोड़ने और अंकुरण में सहायता करने वाला मुख्य पादप हार्मोन कौन-सा है?"
         },
         "options": [
-            {"en": "Abscisic Acid", "hi": "एब्सिसिक अम्ल"},
-            {"en": "Gibberellin (Gibberellic Acid)", "hi": "जिबरेलिन (Gibberellin)"},
-            {"en": "Ethylene", "hi": "एथिलीन"},
-            {"en": "Florigen", "hi": "फ्लोरिजन"}
+            {
+                "en": "Abscisic Acid",
+                "hi": "एब्सिसिक अम्ल"
+            },
+            {
+                "en": "Gibberellin (Gibberellic Acid)",
+                "hi": "जिबरेलिन"
+            },
+            {
+                "en": "Ethylene",
+                "hi": "एथिलीन"
+            },
+            {
+                "en": "Florigen",
+                "hi": "फ्लोरिजन"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -308,10 +464,22 @@ DAY_8 = [
             "hi": "फलों को प्राकृतिक रूप से पकाने के लिए मुख्य रूप से कौन-सा गैसीय पादप हार्मोन जिम्मेदार होता है?"
         },
         "options": [
-            {"en": "Auxin", "hi": "ऑक्सिन"},
-            {"en": "Ethylene (C₂H₄)", "hi": "एथिलीन (Ethylene)"},
-            {"en": "Cytokinin", "hi": "साइटोकाइनिन"},
-            {"en": "Gibberellin", "hi": "जिबरेलिन"}
+            {
+                "en": "Auxin",
+                "hi": "ऑक्सिन"
+            },
+            {
+                "en": "Ethylene (C₂H₄)",
+                "hi": "एथिलीन"
+            },
+            {
+                "en": "Cytokinin",
+                "hi": "साइटोकाइनिन"
+            },
+            {
+                "en": "Gibberellin",
+                "hi": "जिबरेलिन"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -331,10 +499,22 @@ DAY_8 = [
             "hi": "कोशिका विभाजन को प्रेरित करने और पत्तियों को अधिक समय तक हरा-भरा रखकर बुढ़ापा (senescence) टालने वाला पादप हार्मोन कौन-सा है?"
         },
         "options": [
-            {"en": "Abscisic acid", "hi": "एब्सिसिक अम्ल"},
-            {"en": "Cytokinin (e.g., Zeatin)", "hi": "साइटोकाइनिन (Cytokinin)"},
-            {"en": "Ethylene", "hi": "एथिलीन"},
-            {"en": "Auxin", "hi": "ऑक्सिन"}
+            {
+                "en": "Abscisic acid",
+                "hi": "एब्सिसिक अम्ल"
+            },
+            {
+                "en": "Cytokinin (e.g., Zeatin)",
+                "hi": "साइटोकाइनिन"
+            },
+            {
+                "en": "Ethylene",
+                "hi": "एथिलीन"
+            },
+            {
+                "en": "Auxin",
+                "hi": "ऑक्सिन"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -354,10 +534,22 @@ DAY_8 = [
             "hi": "किस प्रकार के बीजांडन्यास (Placentation) में बीजांड अंडाशय की भीतरी भित्ति या परिधि पर विकसित होते हैं (जैसे सरसों और आर्जीमोन में)?"
         },
         "options": [
-            {"en": "Marginal placentation (e.g., Pea)", "hi": "सीमांत (Marginal - जैसे मटर)"},
-            {"en": "Axile placentation (e.g., Tomato, Lemon)", "hi": "अक्षीय (Axile - जैसे नींबू, टमाटर)"},
-            {"en": "Parietal placentation", "hi": "भित्तीय बीजांडन्यास (Parietal placentation)"},
-            {"en": "Basal placentation (e.g., Sunflower)", "hi": "आधारीय (Basal - जैसे सूरजमुखी)"}
+            {
+                "en": "Marginal placentation (e.g., Pea)",
+                "hi": "सीमांत (जैसे मटर)"
+            },
+            {
+                "en": "Axile placentation (e.g., Tomato, Lemon)",
+                "hi": "अक्षीय (जैसे नींबू, टमाटर)"
+            },
+            {
+                "en": "Parietal placentation",
+                "hi": "भित्तीय बीजांडन्यास"
+            },
+            {
+                "en": "Basal placentation (e.g., Sunflower)",
+                "hi": "आधारीय (जैसे सूरजमुखी)"
+            }
         ],
         "answerIndex": 2,
         "hint": {
@@ -377,10 +569,22 @@ DAY_8 = [
             "hi": "वैष्णव भक्ति पर आधारित कौन-सा भारतीय शास्त्रीय नृत्य राधा-कृष्ण की 'रासलीला' को प्रदर्शित करने के लिए विश्व विख्यात है?"
         },
         "options": [
-            {"en": "Kathak", "hi": "कथक"},
-            {"en": "Manipuri Dance (Jagoi)", "hi": "मणिपुरी नृत्य (Manipuri dance)"},
-            {"en": "Sattriya", "hi": "सत्रिया"},
-            {"en": "Odissi", "hi": "ओडिसी"}
+            {
+                "en": "Kathak",
+                "hi": "कथक"
+            },
+            {
+                "en": "Manipuri Dance (Jagoi)",
+                "hi": "मणिपुरी नृत्य"
+            },
+            {
+                "en": "Sattriya",
+                "hi": "सत्रिया"
+            },
+            {
+                "en": "Odissi",
+                "hi": "ओडिसी"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -400,10 +604,22 @@ DAY_8 = [
             "hi": "मार्शल लोक नृत्य 'पाइका नृत्य' का सही प्रदर्शन क्रम क्या होता है?"
         },
         "options": [
-            {"en": "Blowing the war conch, sword-fighting drill, acrobatic stunts, and a concluding victory shout of 'Jai Jagannath'", "hi": "युद्ध शंख बजाना, तलवार-ढाल का अभ्यास, कलाबाजियां और अंत में 'जय जगन्नाथ' का विजय उद्घोष"},
-            {"en": "Solo flute introduction, slow bowing, lighting lamps, and departure", "hi": "बांसुरी वादन, झुकना, दीप प्रज्ज्वलन"},
-            {"en": "Garland exchange, singing poems, wrestling match, and prayer", "hi": "माला पहनाना, कविता पाठ और कुश्ती"},
-            {"en": "Drumming continuously without weapons for 30 minutes", "hi": "बिना हथियारों के केवल ढोल बजाना"}
+            {
+                "en": "Blowing the war conch, sword-fighting drill, acrobatic stunts, and a concluding victory shout of 'Jai Jagannath'",
+                "hi": "युद्ध शंख बजाना, तलवार-ढाल का अभ्यास, कलाबाजियां और अंत में 'जय जगन्नाथ' का विजय उद्घोष"
+            },
+            {
+                "en": "Solo flute introduction, slow bowing, lighting lamps, and departure",
+                "hi": "बांसुरी वादन, झुकना, दीप प्रज्ज्वलन"
+            },
+            {
+                "en": "Garland exchange, singing poems, wrestling match, and prayer",
+                "hi": "माला पहनाना, कविता पाठ और कुश्ती"
+            },
+            {
+                "en": "Drumming continuously without weapons for 30 minutes",
+                "hi": "बिना हथियारों के केवल ढोल बजाना"
+            }
         ],
         "answerIndex": 0,
         "hint": {
@@ -423,10 +639,22 @@ DAY_8 = [
             "hi": "धरती माता (भूदेवी) के मातृत्व और उर्वरता के सम्मान में मनाया जाने वाला तीन दिवसीय 'रज पर्व' (Raja Parba) किस राज्य का प्रमुख त्योहार है?"
         },
         "options": [
-            {"en": "West Bengal", "hi": "पश्चिम बंगाल"},
-            {"en": "Odisha", "hi": "ओडिशा (Odisha)"},
-            {"en": "Assam", "hi": "असम"},
-            {"en": "Jharkhand", "hi": "झारखंड"}
+            {
+                "en": "West Bengal",
+                "hi": "पश्चिम बंगाल"
+            },
+            {
+                "en": "Odisha",
+                "hi": "ओडिशा"
+            },
+            {
+                "en": "Assam",
+                "hi": "असम"
+            },
+            {
+                "en": "Jharkhand",
+                "hi": "झारखंड"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -446,10 +674,22 @@ DAY_8 = [
             "hi": "संथाल समुदाय के धार्मिक और सामाजिक अनुष्ठानों में 'जाहेरथान' (Jaherthan) किसे कहा जाता है?"
         },
         "options": [
-            {"en": "The village headman's council hut", "hi": "ग्राम प्रधान की झोपड़ी"},
-            {"en": "A sacred grove of Sal (Sarjom) trees believed to be the dwelling of deities like Jaher Era", "hi": "साल (सखुआ) के वृक्षों का पवित्र कुंज (पवित्र उपवन) जहाँ जाहेर एरा आदि ग्राम्य देवता निवास करते हैं"},
-            {"en": "The cremation ground outside the village", "hi": "श्मशान भूमि"},
-            {"en": "A granary for storing mahua flowers", "hi": "महुआ भंडार"}
+            {
+                "en": "The village headman's council hut",
+                "hi": "ग्राम प्रधान की झोपड़ी"
+            },
+            {
+                "en": "A sacred grove of Sal (Sarjom) trees believed to be the dwelling of deities like Jaher Era",
+                "hi": "साल (सखुआ) के वृक्षों का पवित्र कुंज (पवित्र उपवन) जहाँ जाहेर एरा आदि ग्राम्य देवता निवास करते हैं"
+            },
+            {
+                "en": "The cremation ground outside the village",
+                "hi": "श्मशान भूमि"
+            },
+            {
+                "en": "A granary for storing mahua flowers",
+                "hi": "महुआ भंडार"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -469,10 +709,22 @@ DAY_8 = [
             "hi": "तैराकी और कलात्मक तैराकी में पानी के नीचे संतुलन बनाए रखने और ऊपर उठने के लिए दोनों हाथों से आठ (8) के आकार में जल काटने की तकनीक को क्या कहा जाता है?"
         },
         "options": [
-            {"en": "Dolphin kick", "hi": "डॉल्फिन किक"},
-            {"en": "Sculling", "hi": "स्कलिंग (Sculling)"},
-            {"en": "Treading water with feet", "hi": "पैरों से पानी मारना"},
-            {"en": "Glide", "hi": "ग्लाइड"}
+            {
+                "en": "Dolphin kick",
+                "hi": "डॉल्फिन किक"
+            },
+            {
+                "en": "Sculling",
+                "hi": "स्कलिंग"
+            },
+            {
+                "en": "Treading water with feet",
+                "hi": "पैरों से पानी मारना"
+            },
+            {
+                "en": "Glide",
+                "hi": "ग्लाइड"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -492,10 +744,22 @@ DAY_8 = [
             "hi": "जूडो के मैच में रेफरी द्वारा मुकाबले को अस्थायी रूप से रोकने के लिए क्या आदेश दिया जाता है?"
         },
         "options": [
-            {"en": "Hajime (Begin)", "hi": "हाजिमे (शुरू करो)"},
-            {"en": "Mate (Stop / Wait)", "hi": "माटे (Mate - रुको)"},
-            {"en": "Ippon (Victory)", "hi": "इप्पोन (पूर्ण विजय)"},
-            {"en": "Sonomama (Freeze)", "hi": "सोनोमामा"}
+            {
+                "en": "Hajime (Begin)",
+                "hi": "हाजिमे (शुरू करो)"
+            },
+            {
+                "en": "Mate (Stop / Wait)",
+                "hi": "माटे (रुको)"
+            },
+            {
+                "en": "Ippon (Victory)",
+                "hi": "इप्पोन (पूर्ण विजय)"
+            },
+            {
+                "en": "Sonomama (Freeze)",
+                "hi": "सोनोमामा"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -515,10 +779,22 @@ DAY_8 = [
             "hi": "जूडो खेल में 'हंसोकू-माके' (Hansoku-make) का क्या परिणाम होता है?"
         },
         "options": [
-            {"en": "A minor verbal warning with no score deduction", "hi": "मामूली मौखिक चेतावनी"},
-            {"en": "A major grave violation resulting in direct disqualification and victory to the opponent", "hi": "गंभीर नियम उल्लंघन जिसके परिणामस्वरूप मैच से अयोग्यता (Disqualification) होती है"},
-            {"en": "A 30-second penalty box hold", "hi": "30 सेकंड का पेनल्टी बॉक्स"},
-            {"en": "Awarding of half-point to the opponent", "hi": "प्रतिद्वंद्वी को आधा अंक देना"}
+            {
+                "en": "A minor verbal warning with no score deduction",
+                "hi": "मामूली मौखिक चेतावनी"
+            },
+            {
+                "en": "A major grave violation resulting in direct disqualification and victory to the opponent",
+                "hi": "गंभीर नियम उल्लंघन जिसके परिणामस्वरूप मैच से अयोग्यता होती है"
+            },
+            {
+                "en": "A 30-second penalty box hold",
+                "hi": "30 सेकंड का पेनल्टी बॉक्स"
+            },
+            {
+                "en": "Awarding of half-point to the opponent",
+                "hi": "प्रतिद्वंद्वी को आधा अंक देना"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -538,10 +814,22 @@ DAY_8 = [
             "hi": "मानक बास्केटबॉल मैच में एक समय में एक टीम के कितने खिलाड़ी कोर्ट पर खेलते हैं?"
         },
         "options": [
-            {"en": "4 players", "hi": "4 खिलाड़ी"},
-            {"en": "5 players", "hi": "5 खिलाड़ी (5 players)"},
-            {"en": "6 players", "hi": "6 खिलाड़ी"},
-            {"en": "7 players", "hi": "7 खिलाड़ी"}
+            {
+                "en": "4 players",
+                "hi": "4 खिलाड़ी"
+            },
+            {
+                "en": "5 players",
+                "hi": "5 खिलाड़ी"
+            },
+            {
+                "en": "6 players",
+                "hi": "6 खिलाड़ी"
+            },
+            {
+                "en": "7 players",
+                "hi": "7 खिलाड़ी"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -561,10 +849,22 @@ DAY_8 = [
             "hi": "भारत में प्रतिवर्ष 'राष्ट्रीय उपभोक्ता अधिकार दिवस' किस तारीख को मनाया जाता है?"
         },
         "options": [
-            {"en": "15 March", "hi": "15 मार्च (विश्व उपभोक्ता अधिकार दिवस)"},
-            {"en": "24 October", "hi": "24 अक्टूबर"},
-            {"en": "24 December", "hi": "24 दिसंबर (National Consumer Day)"},
-            {"en": "26 January", "hi": "26 जनवरी"}
+            {
+                "en": "15 March",
+                "hi": "15 मार्च (विश्व उपभोक्ता अधिकार दिवस)"
+            },
+            {
+                "en": "24 October",
+                "hi": "24 अक्टूबर"
+            },
+            {
+                "en": "24 December",
+                "hi": "24 दिसंबर"
+            },
+            {
+                "en": "26 January",
+                "hi": "26 जनवरी"
+            }
         ],
         "answerIndex": 2,
         "hint": {
@@ -584,10 +884,22 @@ DAY_8 = [
             "hi": "संयुक्त राष्ट्र (UN) ने वर्ष 2026 को किस विषय के अंतर्राष्ट्रीय वर्ष के रूप में घोषित किया है?"
         },
         "options": [
-            {"en": "International Year of Women Farmers (and Volunteers for Sustainable Development)", "hi": "महिला कृषकों का अंतर्राष्ट्रीय वर्ष (International Year of the Woman Farmer)"},
-            {"en": "International Year of Millets", "hi": "मोटा अनाज वर्ष (2023)"},
-            {"en": "International Year of Camelids", "hi": "कैमेलिड्स वर्ष (2024)"},
-            {"en": "International Year of Quantum Science and Technology", "hi": "क्वांटम विज्ञान एवं प्रौद्योगिकी वर्ष (2025)"}
+            {
+                "en": "International Year of Women Farmers (and Volunteers for Sustainable Development)",
+                "hi": "महिला कृषकों का अंतर्राष्ट्रीय वर्ष"
+            },
+            {
+                "en": "International Year of Millets",
+                "hi": "मोटा अनाज वर्ष"
+            },
+            {
+                "en": "International Year of Camelids",
+                "hi": "कैमेलिड्स वर्ष"
+            },
+            {
+                "en": "International Year of Quantum Science and Technology",
+                "hi": "क्वांटम विज्ञान एवं प्रौद्योगिकी वर्ष"
+            }
         ],
         "answerIndex": 0,
         "hint": {
@@ -607,10 +919,22 @@ DAY_8 = [
             "hi": "'द एक्सीडेंटल प्राइम मिनिस्टर' (The Accidental Prime Minister) पुस्तक के लेखक कौन हैं?"
         },
         "options": [
-            {"en": "Kuldip Nayar", "hi": "कुलदीप नैयर"},
-            {"en": "Sanjaya Baru", "hi": "संजय बारू (Sanjaya Baru)"},
-            {"en": "Natwar Singh", "hi": "नटवर सिंह"},
-            {"en": "Vinod Rai", "hi": "विनोद राय"}
+            {
+                "en": "Kuldip Nayar",
+                "hi": "कुलदीप नैयर"
+            },
+            {
+                "en": "Sanjaya Baru",
+                "hi": "संजय बारू"
+            },
+            {
+                "en": "Natwar Singh",
+                "hi": "नटवर सिंह"
+            },
+            {
+                "en": "Vinod Rai",
+                "hi": "विनोद राय"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -630,10 +954,22 @@ DAY_8 = [
             "hi": "'द पाथ टू पावर' (The Path to Power) पुस्तक की लेखिका कौन हैं?"
         },
         "options": [
-            {"en": "Indira Gandhi", "hi": "इंदिरा गांधी"},
-            {"en": "Margaret Thatcher", "hi": "मार्गरेट थैचर (Margaret Thatcher)"},
-            {"en": "Angela Merkel", "hi": "एंजेला मर्केल"},
-            {"en": "Benazir Bhutto", "hi": "बेनजीर भुट्टो"}
+            {
+                "en": "Indira Gandhi",
+                "hi": "इंदिरा गांधी"
+            },
+            {
+                "en": "Margaret Thatcher",
+                "hi": "मार्गरेट थैचर"
+            },
+            {
+                "en": "Angela Merkel",
+                "hi": "एंजेला मर्केल"
+            },
+            {
+                "en": "Benazir Bhutto",
+                "hi": "बेनजीर भुट्टो"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -653,10 +989,22 @@ DAY_8 = [
             "hi": "विमान अपहरण रोधी संयुक्त मॉक ड्रिल 'सुदर्शन शक्ति V' (Sudarshan Shakti V) कहाँ आयोजित की गई थी?"
         },
         "options": [
-            {"en": "Chhatrapati Shivaji Maharaj International Airport, Mumbai", "hi": "मुंबई हवाई अड्डा"},
-            {"en": "Indira Gandhi International Airport, New Delhi", "hi": "इंदिरा गांधी अंतर्राष्ट्रीय हवाई अड्डा, नई दिल्ली (IGI Airport)"},
-            {"en": "Kempegowda International Airport, Bengaluru", "hi": "बेंगलुरु हवाई अड्डा"},
-            {"en": "Cochin International Airport", "hi": "कोचीन हवाई अड्डा"}
+            {
+                "en": "Chhatrapati Shivaji Maharaj International Airport, Mumbai",
+                "hi": "मुंबई हवाई अड्डा"
+            },
+            {
+                "en": "Indira Gandhi International Airport, New Delhi",
+                "hi": "इंदिरा गांधी अंतर्राष्ट्रीय हवाई अड्डा, नई दिल्ली"
+            },
+            {
+                "en": "Kempegowda International Airport, Bengaluru",
+                "hi": "बेंगलुरु हवाई अड्डा"
+            },
+            {
+                "en": "Cochin International Airport",
+                "hi": "कोचीन हवाई अड्डा"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -676,10 +1024,22 @@ DAY_8 = [
             "hi": "ग्लोबल साउथ फिल्म फेस्टिवल (Global South Film Festival) के पहले संस्करण की मेजबानी किस देश ने की?"
         },
         "options": [
-            {"en": "South Africa", "hi": "दक्षिण अफ्रीका"},
-            {"en": "India", "hi": "भारत (India)"},
-            {"en": "Brazil", "hi": "ब्राज़ील"},
-            {"en": "Indonesia", "hi": "इंडोनेशिया"}
+            {
+                "en": "South Africa",
+                "hi": "दक्षिण अफ्रीका"
+            },
+            {
+                "en": "India",
+                "hi": "भारत"
+            },
+            {
+                "en": "Brazil",
+                "hi": "ब्राज़ील"
+            },
+            {
+                "en": "Indonesia",
+                "hi": "इंडोनेशिया"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -699,10 +1059,22 @@ DAY_8 = [
             "hi": "इंग्लैंड में इतिहास रचते हुए सबसे कम उम्र में महिला ब्लिट्ज शतरंज चैंपियनशिप जीतने वाली भारतीय मूल की खिलाड़ी कौन बनीं?"
         },
         "options": [
-            {"en": "Divya Deshmukh", "hi": "दिव्या देशमुख"},
-            {"en": "Bodhana Sivanandan", "hi": "बोधना शिवानंदन (Bodhana Sivanandan)"},
-            {"en": "Koneru Humpy", "hi": "कोनेरू हम्पी"},
-            {"en": "Rameshbabu Vaishali", "hi": "आर. वैशाली"}
+            {
+                "en": "Divya Deshmukh",
+                "hi": "दिव्या देशमुख"
+            },
+            {
+                "en": "Bodhana Sivanandan",
+                "hi": "बोधना शिवानंदन"
+            },
+            {
+                "en": "Koneru Humpy",
+                "hi": "कोनेरू हम्पी"
+            },
+            {
+                "en": "Rameshbabu Vaishali",
+                "hi": "आर. वैशाली"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -722,10 +1094,22 @@ DAY_8 = [
             "hi": "मध्य पूर्व और अरब क्षेत्र में मृत्युदंड (फांसी की सजा) को कानूनी रूप से समाप्त करने की दिशा में ऐतिहासिक कदम उठाने वाला पहला देश कौन-सा बना?"
         },
         "options": [
-            {"en": "Jordan", "hi": "जॉर्डन"},
-            {"en": "Lebanon", "hi": "लेबनान (Lebanon)"},
-            {"en": "Egypt", "hi": "मिस्र"},
-            {"en": "Tunisia", "hi": "ट्यूनीशिया"}
+            {
+                "en": "Jordan",
+                "hi": "जॉर्डन"
+            },
+            {
+                "en": "Lebanon",
+                "hi": "लेबनान"
+            },
+            {
+                "en": "Egypt",
+                "hi": "मिस्र"
+            },
+            {
+                "en": "Tunisia",
+                "hi": "ट्यूनीशिया"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -745,10 +1129,22 @@ DAY_8 = [
             "hi": "'Tribe of the Indian Republic: My Life My Struggle' पुस्तक के लेखक कौन हैं?"
         },
         "options": [
-            {"en": "Droupadi Murmu", "hi": "द्रौपदी मुर्मू"},
-            {"en": "Ram Nath Kovind", "hi": "रामनाथ कोविंद (Ram Nath Kovind)"},
-            {"en": "Arjun Munda", "hi": "अर्जुन मुंडा"},
-            {"en": "Shibu Soren", "hi": "शिबू सोरेन"}
+            {
+                "en": "Droupadi Murmu",
+                "hi": "द्रौपदी मुर्मू"
+            },
+            {
+                "en": "Ram Nath Kovind",
+                "hi": "रामनाथ कोविंद"
+            },
+            {
+                "en": "Arjun Munda",
+                "hi": "अर्जुन मुंडा"
+            },
+            {
+                "en": "Shibu Soren",
+                "hi": "शिबू सोरेन"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -768,10 +1164,22 @@ DAY_8 = [
             "hi": "'अर्जुन पुरस्कार' (Arjuna Award) किस उपलब्धि को मान्यता देने के लिए प्रदान किया जाता है?"
         },
         "options": [
-            {"en": "Lifetime achievement in sports coaching", "hi": "खेल कोचिंग में जीवनपर्यंत उपलब्धि (द्रोणाचार्य पुरस्कार)"},
-            {"en": "Outstanding performance in sports and games over the previous four years", "hi": "पिछले 4 वर्षों में खेलों में उत्कृष्ट प्रदर्शन (Outstanding performance in sports)"},
-            {"en": "Excellence in military gallantry", "hi": "सैन्य वीरता"},
-            {"en": "Best sports journalist", "hi": "सर्वश्रेष्ठ खेल पत्रकार"}
+            {
+                "en": "Lifetime achievement in sports coaching",
+                "hi": "खेल कोचिंग में जीवनपर्यंत उपलब्धि (द्रोणाचार्य पुरस्कार)"
+            },
+            {
+                "en": "Outstanding performance in sports and games over the previous four years",
+                "hi": "पिछले 4 वर्षों में खेलों में उत्कृष्ट प्रदर्शन"
+            },
+            {
+                "en": "Excellence in military gallantry",
+                "hi": "सैन्य वीरता"
+            },
+            {
+                "en": "Best sports journalist",
+                "hi": "सर्वश्रेष्ठ खेल पत्रकार"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -791,10 +1199,22 @@ DAY_8 = [
             "hi": "सैन्य अभ्यास 'वीर गार्डियन', 'धर्म गार्डियन' और 'जिमेक्स' (JIMEX) भारत और किस देश के बीच आयोजित किए जाते हैं?"
         },
         "options": [
-            {"en": "France", "hi": "फ्रांस"},
-            {"en": "Japan", "hi": "जापान (Japan)"},
-            {"en": "United States", "hi": "अमेरिका"},
-            {"en": "Australia", "hi": "ऑस्ट्रेलिया"}
+            {
+                "en": "France",
+                "hi": "फ्रांस"
+            },
+            {
+                "en": "Japan",
+                "hi": "जापान"
+            },
+            {
+                "en": "United States",
+                "hi": "अमेरिका"
+            },
+            {
+                "en": "Australia",
+                "hi": "ऑस्ट्रेलिया"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -814,10 +1234,22 @@ DAY_8 = [
             "hi": "प्रतिवर्ष विश्व भर में 'अंतर्राष्ट्रीय साक्षरता दिवस' (International Literacy Day) कब मनाया जाता है?"
         },
         "options": [
-            {"en": "5 September", "hi": "5 सितंबर (राष्ट्रीय शिक्षक दिवस)"},
-            {"en": "8 September", "hi": "8 सितंबर (8 September)"},
-            {"en": "14 September", "hi": "14 सितंबर (हिंदी दिवस)"},
-            {"en": "15 September", "hi": "15 सितंबर"}
+            {
+                "en": "5 September",
+                "hi": "5 सितंबर (राष्ट्रीय शिक्षक दिवस)"
+            },
+            {
+                "en": "8 September",
+                "hi": "8 सितंबर"
+            },
+            {
+                "en": "14 September",
+                "hi": "14 सितंबर (हिंदी दिवस)"
+            },
+            {
+                "en": "15 September",
+                "hi": "15 सितंबर"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -837,10 +1269,22 @@ DAY_8 = [
             "hi": "20वें एशियाई खेल (आईची-नागोया 2026) का आधिकारिक शुभंकर (Mascot) क्या है?"
         },
         "options": [
-            {"en": "Miraitowa", "hi": "मिराइतोवा"},
-            {"en": "Honohon", "hi": "होनोहोन (Honohon)"},
-            {"en": "Chenchen, Congcong and Lianlian", "hi": "चेनचेन, कोंगकोंग और लियानलियान (हांगझू 2022)"},
-            {"en": "Bing Dwen Dwen", "hi": "बिंग ड्वेन ड्वेन"}
+            {
+                "en": "Miraitowa",
+                "hi": "मिराइतोवा"
+            },
+            {
+                "en": "Honohon",
+                "hi": "होनोहोन"
+            },
+            {
+                "en": "Chenchen, Congcong and Lianlian",
+                "hi": "चेनचेन, कोंगकोंग और लियानलियान (हांगझू 2022)"
+            },
+            {
+                "en": "Bing Dwen Dwen",
+                "hi": "बिंग ड्वेन ड्वेन"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -860,10 +1304,22 @@ DAY_8 = [
             "hi": "देशव्यापी 9वें 'राष्ट्रीय पोषण माह' (National Nutrition Month) का औपचारिक शुभारंभ किस शहर से किया गया?"
         },
         "options": [
-            {"en": "Ayodhya", "hi": "अयोध्या"},
-            {"en": "Varanasi (Kashi)", "hi": "वाराणसी (Varanasi)"},
-            {"en": "Haridwar", "hi": "हरिद्वार"},
-            {"en": "Ujjain", "hi": "उज्जैन"}
+            {
+                "en": "Ayodhya",
+                "hi": "अयोध्या"
+            },
+            {
+                "en": "Varanasi (Kashi)",
+                "hi": "वाराणसी"
+            },
+            {
+                "en": "Haridwar",
+                "hi": "हरिद्वार"
+            },
+            {
+                "en": "Ujjain",
+                "hi": "उज्जैन"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -883,10 +1339,22 @@ DAY_8 = [
             "hi": "घरेलू प्रथम श्रेणी क्रिकेट प्रतियोगिता 'दलीप ट्रॉफी' (Duleep Trophy) का खिताब किस ज़ोन ने जीता?"
         },
         "options": [
-            {"en": "West Zone", "hi": "वेस्ट ज़ोन"},
-            {"en": "East Zone", "hi": "ईस्ट ज़ोन (East Zone)"},
-            {"en": "South Zone", "hi": "साउथ ज़ोन"},
-            {"en": "Central Zone", "hi": "सेंट्रल ज़ोन"}
+            {
+                "en": "West Zone",
+                "hi": "वेस्ट ज़ोन"
+            },
+            {
+                "en": "East Zone",
+                "hi": "ईस्ट ज़ोन"
+            },
+            {
+                "en": "South Zone",
+                "hi": "साउथ ज़ोन"
+            },
+            {
+                "en": "Central Zone",
+                "hi": "सेंट्रल ज़ोन"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -906,10 +1374,22 @@ DAY_8 = [
             "hi": "10 सितंबर को उत्तर प्रदेश के पहले मुख्यमंत्री और भारत रत्न से सम्मानित किस महान स्वतंत्रता सेनानी की जयंती मनाई जाती है?"
         },
         "options": [
-            {"en": "Lal Bahadur Shastri", "hi": "लाल बहादुर शास्त्री"},
-            {"en": "Pandit Govind Ballabh Pant", "hi": "पंडित गोविंद वल्लभ पंत (Govind Ballabh Pant)"},
-            {"en": "Chaudhary Charan Singh", "hi": "चौधरी चरण सिंह"},
-            {"en": "Madan Mohan Malaviya", "hi": "मदन मोहन मालवीय"}
+            {
+                "en": "Lal Bahadur Shastri",
+                "hi": "लाल बहादुर शास्त्री"
+            },
+            {
+                "en": "Pandit Govind Ballabh Pant",
+                "hi": "पंडित गोविंद वल्लभ पंत"
+            },
+            {
+                "en": "Chaudhary Charan Singh",
+                "hi": "चौधरी चरण सिंह"
+            },
+            {
+                "en": "Madan Mohan Malaviya",
+                "hi": "मदन मोहन मालवीय"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -929,10 +1409,22 @@ DAY_8 = [
             "hi": "भारत के 38वें राष्ट्रीय खेलों (38th National Games) का आयोजन किस पर्वतीय राज्य में किया गया?"
         },
         "options": [
-            {"en": "Himachal Pradesh", "hi": "हिमाचल प्रदेश"},
-            {"en": "Uttarakhand", "hi": "उत्तराखंड (Uttarakhand)"},
-            {"en": "Goa", "hi": "गोवा (37वें राष्ट्रीय खेल)"},
-            {"en": "Assam", "hi": "असम"}
+            {
+                "en": "Himachal Pradesh",
+                "hi": "हिमाचल प्रदेश"
+            },
+            {
+                "en": "Uttarakhand",
+                "hi": "उत्तराखंड"
+            },
+            {
+                "en": "Goa",
+                "hi": "गोवा (37वें राष्ट्रीय खेल)"
+            },
+            {
+                "en": "Assam",
+                "hi": "असम"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -952,10 +1444,22 @@ DAY_8 = [
             "hi": "राष्ट्रीय खेलों में समग्र पदक तालिका में शीर्ष स्थान प्राप्त करने के लिए दी जाने वाली 'राजा भलिंद्र सिंह ट्रॉफी' किस दल ने जीती?"
         },
         "options": [
-            {"en": "Maharashtra", "hi": "महाराष्ट्र"},
-            {"en": "Services Sports Control Board (SSCB)", "hi": "सर्विसेज (Services - SSCB)"},
-            {"en": "Haryana", "hi": "हरियाणा"},
-            {"en": "Kerala", "hi": "केरल"}
+            {
+                "en": "Maharashtra",
+                "hi": "महाराष्ट्र"
+            },
+            {
+                "en": "Services Sports Control Board (SSCB)",
+                "hi": "सर्विसेज"
+            },
+            {
+                "en": "Haryana",
+                "hi": "हरियाणा"
+            },
+            {
+                "en": "Kerala",
+                "hi": "केरल"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -975,10 +1479,22 @@ DAY_8 = [
             "hi": "उत्तराखंड में 38वें राष्ट्रीय खेलों के लिए लॉन्च की गई आधिकारिक मशाल का नाम क्या रखा गया था?"
         },
         "options": [
-            {"en": "Tejaswi", "hi": "तेजस्वी (Tejaswi)"},
-            {"en": "Pavan", "hi": "पवन"},
-            {"en": "Agni", "hi": "अग्नि"},
-            {"en": "Shikhar", "hi": "शिखर"}
+            {
+                "en": "Tejaswi",
+                "hi": "तेजस्वी"
+            },
+            {
+                "en": "Pavan",
+                "hi": "पवन"
+            },
+            {
+                "en": "Agni",
+                "hi": "अग्नि"
+            },
+            {
+                "en": "Shikhar",
+                "hi": "शिखर"
+            }
         ],
         "answerIndex": 0,
         "hint": {
@@ -998,10 +1514,22 @@ DAY_8 = [
             "hi": "वर्तमान में भारत के महान्यायवादी (Attorney General for India - अनुच्छेद 76) के रूप में कौन कार्यरत हैं?"
         },
         "options": [
-            {"en": "K. K. Venugopal", "hi": "के. के. वेणुगोपाल"},
-            {"en": "R. Venkataramani", "hi": "आर. वेंकटरमणी (R. Venkataramani)"},
-            {"en": "Tushar Mehta", "hi": "तुषार मेहता (सॉलिसिटर जनरल)"},
-            {"en": "Mukul Rohatgi", "hi": "मुकुल रोहतगी"}
+            {
+                "en": "K. K. Venugopal",
+                "hi": "के. के. वेणुगोपाल"
+            },
+            {
+                "en": "R. Venkataramani",
+                "hi": "आर. वेंकटरमणी"
+            },
+            {
+                "en": "Tushar Mehta",
+                "hi": "तुषार मेहता (सॉलिसिटर जनरल)"
+            },
+            {
+                "en": "Mukul Rohatgi",
+                "hi": "मुकुल रोहतगी"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -1021,10 +1549,22 @@ DAY_8 = [
             "hi": "केंद्रीय कर्मचारियों के वेतन और भत्तों की समीक्षा के लिए गठित आयोग की प्रमुख के रूप में किन्हें नियुक्त किया गया?"
         },
         "options": [
-            {"en": "Justice A. K. Mathur", "hi": "जस्टिस ए. के. माथुर (7वां वेतन आयोग)"},
-            {"en": "Justice Ranjana Prakash Desai", "hi": "न्यायमूर्ति रंजना प्रकाश देसाई (Justice Ranjana Prakash Desai)"},
-            {"en": "Justice Ritu Raj Awasthi", "hi": "जस्टिस ऋतुराज अवस्थी"},
-            {"en": "Dr. Bibek Debroy", "hi": "डॉ. विवेक देबरॉय"}
+            {
+                "en": "Justice A. K. Mathur",
+                "hi": "जस्टिस ए. के. माथुर (7वां वेतन आयोग)"
+            },
+            {
+                "en": "Justice Ranjana Prakash Desai",
+                "hi": "न्यायमूर्ति रंजना प्रकाश देसाई"
+            },
+            {
+                "en": "Justice Ritu Raj Awasthi",
+                "hi": "जस्टिस ऋतुराज अवस्थी"
+            },
+            {
+                "en": "Dr. Bibek Debroy",
+                "hi": "डॉ. विवेक देबरॉय"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -1044,10 +1584,22 @@ DAY_8 = [
             "hi": "अंतर्राष्ट्रीय बाजार में भारत किस खनिज (विशेषकर शीट खनिज) के उत्पादन और निर्यात में एकाधिकार रखता है?"
         },
         "options": [
-            {"en": "Mica (Sheet Mica)", "hi": "अभ्रक / शीट माइका (Mica)"},
-            {"en": "Tin Ore", "hi": "टिन अयस्क"},
-            {"en": "Cobalt", "hi": "कोबाल्ट"},
-            {"en": "Lead", "hi": "सीसा (Lead)"}
+            {
+                "en": "Mica (Sheet Mica)",
+                "hi": "अभ्रक / शीट माइका"
+            },
+            {
+                "en": "Tin Ore",
+                "hi": "टिन अयस्क"
+            },
+            {
+                "en": "Cobalt",
+                "hi": "कोबाल्ट"
+            },
+            {
+                "en": "Lead",
+                "hi": "सीसा"
+            }
         ],
         "answerIndex": 0,
         "hint": {
@@ -1067,10 +1619,22 @@ DAY_8 = [
             "hi": "एल्युमीनियम धातु पर संक्षारण-रोधी सुरक्षात्मक एल्युमीनियम ऑक्साइड की मोटी परत चढ़ाने की प्रक्रिया को क्या कहते हैं?"
         },
         "options": [
-            {"en": "Galvanization (Zinc coating)", "hi": "गैल्वनीकरण (जस्तीकरण)"},
-            {"en": "Anodizing", "hi": "एनोडीकरण (Anodizing)"},
-            {"en": "Electroplating with nickel", "hi": "विद्युत लेपन"},
-            {"en": "Smelting", "hi": "प्रगलन"}
+            {
+                "en": "Galvanization (Zinc coating)",
+                "hi": "गैल्वनीकरण (जस्तीकरण)"
+            },
+            {
+                "en": "Anodizing",
+                "hi": "एनोडीकरण"
+            },
+            {
+                "en": "Electroplating with nickel",
+                "hi": "विद्युत लेपन"
+            },
+            {
+                "en": "Smelting",
+                "hi": "प्रगलन"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -1090,10 +1654,22 @@ DAY_8 = [
             "hi": "संक्रामक जीवाणु जनित रोग 'ट्रेकोमा' (Trachoma) मानव शरीर के किस अंग को मुख्य रूप से प्रभावित करता है?"
         },
         "options": [
-            {"en": "Lungs", "hi": "फेफड़े"},
-            {"en": "Eyes (Conjunctiva & Cornea)", "hi": "आँखें (Eyes)"},
-            {"en": "Liver", "hi": "यकृत"},
-            {"en": "Skin only", "hi": "त्वचा"}
+            {
+                "en": "Lungs",
+                "hi": "फेफड़े"
+            },
+            {
+                "en": "Eyes (Conjunctiva & Cornea)",
+                "hi": "आँखें"
+            },
+            {
+                "en": "Liver",
+                "hi": "यकृत"
+            },
+            {
+                "en": "Skin only",
+                "hi": "त्वचा"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -1113,10 +1689,22 @@ DAY_8 = [
             "hi": "माइकोबैक्टीरियम ट्यूबरकुलोसिस जीवाणु द्वारा होने वाला तपेदिक (TB) रोग मुख्य रूप से किस अंग को प्रभावित करता है?"
         },
         "options": [
-            {"en": "Heart", "hi": "हृदय"},
-            {"en": "Lungs (Pulmonary TB)", "hi": "फेफड़े (Lungs)"},
-            {"en": "Stomach", "hi": "आमाशय"},
-            {"en": "Pancreas", "hi": "अग्न्याशय"}
+            {
+                "en": "Heart",
+                "hi": "हृदय"
+            },
+            {
+                "en": "Lungs (Pulmonary TB)",
+                "hi": "फेफड़े"
+            },
+            {
+                "en": "Stomach",
+                "hi": "आमाशय"
+            },
+            {
+                "en": "Pancreas",
+                "hi": "अग्न्याशय"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -1136,10 +1724,22 @@ DAY_8 = [
             "hi": "साधारण कांच (अपवर्तनांक n ≈ 1.50) में प्रकाश की गति कितनी होती है?"
         },
         "options": [
-            {"en": "3.00 × 10⁸ m/s", "hi": "3.00 × 10⁸ मीटर/सेकंड (निर्वात में)"},
-            {"en": "2.25 × 10⁸ m/s", "hi": "2.25 × 10⁸ मीटर/सेकंड (पानी में)"},
-            {"en": "2.00 × 10⁸ m/s", "hi": "2.00 × 10⁸ मीटर/सेकंड (कांच में / 2.0 × 10⁸ m/s)"},
-            {"en": "1.96 × 10⁸ m/s", "hi": "1.96 × 10⁸ मीटर/सेकंड (नायलॉन में)"},
+            {
+                "en": "3.00 × 10⁸ m/s",
+                "hi": "3.00 × 10⁸ मीटर/सेकंड (निर्वात में)"
+            },
+            {
+                "en": "2.25 × 10⁸ m/s",
+                "hi": "2.25 × 10⁸ मीटर/सेकंड (पानी में)"
+            },
+            {
+                "en": "2.00 × 10⁸ m/s",
+                "hi": "2.00 × 10⁸ मीटर/सेकंड (कांच में)"
+            },
+            {
+                "en": "1.96 × 10⁸ m/s",
+                "hi": "1.96 × 10⁸ मीटर/सेकंड (नायलॉन में)"
+            }
         ],
         "answerIndex": 2,
         "hint": {

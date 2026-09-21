@@ -10,10 +10,22 @@ DAY_5 = [
             "hi": "सिद्धार्थ गौतम ने ज्ञान (बोधि) प्राप्त करने के लिए निरंजना नदी के तट पर पीपल के वृक्ष के नीचे कहाँ ध्यान किया था?"
         },
         "options": [
-            {"en": "Sarnath (Varanasi)", "hi": "सारनाथ (वाराणसी)"},
-            {"en": "Bodh Gaya (Bihar)", "hi": "बोधगया (बिहार)"},
-            {"en": "Kushinagar", "hi": "कुशीनगर"},
-            {"en": "Lumbini (Nepal)", "hi": "लुंबिनी (नेपाल)"}
+            {
+                "en": "Sarnath (Varanasi)",
+                "hi": "सारनाथ (वाराणसी)"
+            },
+            {
+                "en": "Bodh Gaya (Bihar)",
+                "hi": "बोधगया (बिहार)"
+            },
+            {
+                "en": "Kushinagar",
+                "hi": "कुशीनगर"
+            },
+            {
+                "en": "Lumbini (Nepal)",
+                "hi": "लुंबिनी (नेपाल)"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -34,10 +46,22 @@ DAY_5 = [
             "hi": "समुद्रगुप्त ने अपनी सैन्य विजयों का जश्न मनाने के लिए किस वैदिक यज्ञ का अनुष्ठान किया था?"
         },
         "options": [
-            {"en": "Rajasuya Yajna", "hi": "राजसूय यज्ञ"},
-            {"en": "Vajapeya Yajna", "hi": "वाजपेय यज्ञ"},
-            {"en": "Ashvamedha Yajna", "hi": "अश्वमेध यज्ञ (Ashvamedha Yajna)"},
-            {"en": "Agnishtoma Yajna", "hi": "अग्निष्टोम यज्ञ"}
+            {
+                "en": "Rajasuya Yajna",
+                "hi": "राजसूय यज्ञ"
+            },
+            {
+                "en": "Vajapeya Yajna",
+                "hi": "वाजपेय यज्ञ"
+            },
+            {
+                "en": "Ashvamedha Yajna",
+                "hi": "अश्वमेध यज्ञ"
+            },
+            {
+                "en": "Agnishtoma Yajna",
+                "hi": "अग्निष्टोम यज्ञ"
+            }
         ],
         "answerIndex": 2,
         "hint": {
@@ -58,10 +82,22 @@ DAY_5 = [
             "hi": "'गंगा का अवतरण' (Descent of the Ganges / अर्जुन की तपस्या) नामक विशाल पाषाण नक्काशी किस नगर में स्थित है?"
         },
         "options": [
-            {"en": "Thanjavur", "hi": "तंजावुर"},
-            {"en": "Mahabalipuram (Mamallapuram)", "hi": "महाबलीपुरम (मामल्लपुरम)"},
-            {"en": "Madurai", "hi": "मदुरै"},
-            {"en": "Kanchipuram", "hi": "कांचीपुरम"}
+            {
+                "en": "Thanjavur",
+                "hi": "तंजावुर"
+            },
+            {
+                "en": "Mahabalipuram (Mamallapuram)",
+                "hi": "महाबलीपुरम (मामल्लपुरम)"
+            },
+            {
+                "en": "Madurai",
+                "hi": "मदुरै"
+            },
+            {
+                "en": "Kanchipuram",
+                "hi": "कांचीपुरम"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -82,10 +118,22 @@ DAY_5 = [
             "hi": "ऐतिहासिक ग्रंथों में पेशवा बाजीराव प्रथम को किस पारिवारिक नाम से जाना जाता है?"
         },
         "options": [
-            {"en": "Baji Rao Ballal (Bhat)", "hi": "बाजीराव बल्लाल (Baji Rao Ballal)"},
-            {"en": "Baji Rao Pantpratinidhi", "hi": "बाजीराव पंतप्रतिनिधि"},
-            {"en": "Baji Rao Gaikwad", "hi": "बाजीराव गायकवाड़"},
-            {"en": "Baji Rao Scindia", "hi": "बाजीराव सिंधिया"}
+            {
+                "en": "Baji Rao Ballal (Bhat)",
+                "hi": "बाजीराव बल्लाल"
+            },
+            {
+                "en": "Baji Rao Pantpratinidhi",
+                "hi": "बाजीराव पंतप्रतिनिधि"
+            },
+            {
+                "en": "Baji Rao Gaikwad",
+                "hi": "बाजीराव गायकवाड़"
+            },
+            {
+                "en": "Baji Rao Scindia",
+                "hi": "बाजीराव सिंधिया"
+            }
         ],
         "answerIndex": 0,
         "hint": {
@@ -106,10 +154,22 @@ DAY_5 = [
             "hi": "13 फरवरी को भारत में राष्ट्रीय महिला दिवस किस महान विदुषी और स्वतंत्रता सेनानी की जयंती पर मनाया जाता है?"
         },
         "options": [
-            {"en": "Indira Gandhi", "hi": "इंदिरा गांधी"},
-            {"en": "Sarojini Naidu", "hi": "सरोजिनी नायडू (Sarojini Naidu)"},
-            {"en": "Kasturba Gandhi", "hi": "कस्तूरबा गांधी"},
-            {"en": "Savitribai Phule", "hi": "सावित्रीबाई फुले"}
+            {
+                "en": "Indira Gandhi",
+                "hi": "इंदिरा गांधी"
+            },
+            {
+                "en": "Sarojini Naidu",
+                "hi": "सरोजिनी नायडू"
+            },
+            {
+                "en": "Kasturba Gandhi",
+                "hi": "कस्तूरबा गांधी"
+            },
+            {
+                "en": "Savitribai Phule",
+                "hi": "सावित्रीबाई फुले"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -130,10 +190,22 @@ DAY_5 = [
             "hi": "छत्तीसगढ़ की बैलाडीला खदानों से किस प्रकार का उच्च गुणवत्ता वाला लौह अयस्क निकाला जाता है?"
         },
         "options": [
-            {"en": "Magnetite", "hi": "मैग्नेटाइट"},
-            {"en": "Hematite", "hi": "हेमेटाइट (Hematite)"},
-            {"en": "Limonite", "hi": "लिमोनाइट"},
-            {"en": "Siderite", "hi": "सिडेराइट"}
+            {
+                "en": "Magnetite",
+                "hi": "मैग्नेटाइट"
+            },
+            {
+                "en": "Hematite",
+                "hi": "हेमेटाइट"
+            },
+            {
+                "en": "Limonite",
+                "hi": "लिमोनाइट"
+            },
+            {
+                "en": "Siderite",
+                "hi": "सिडेराइट"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -154,10 +226,22 @@ DAY_5 = [
             "hi": "सौरमंडल के निम्नलिखित खगोलीय पिंडों में से किसे अंतर्राष्ट्रीय खगोलीय संघ (IAU) द्वारा 'बौना ग्रह' (Dwarf Planet) वर्गीकृत किया गया है?"
         },
         "options": [
-            {"en": "Mercury", "hi": "बुध (Mercury)"},
-            {"en": "Neptune", "hi": "वरुण (Neptune)"},
-            {"en": "Pluto", "hi": "प्लूटो (यम)"},
-            {"en": "Mars", "hi": "मंगल (Mars)"}
+            {
+                "en": "Mercury",
+                "hi": "बुध"
+            },
+            {
+                "en": "Neptune",
+                "hi": "वरुण"
+            },
+            {
+                "en": "Pluto",
+                "hi": "प्लूटो (यम)"
+            },
+            {
+                "en": "Mars",
+                "hi": "मंगल"
+            }
         ],
         "answerIndex": 2,
         "hint": {
@@ -178,10 +262,22 @@ DAY_5 = [
             "hi": "किस प्रकार की आकाशगंगा का कोई निश्चित या नियमित आकार नहीं होता और यह धूल व गैस से समृद्ध होती है?"
         },
         "options": [
-            {"en": "Spiral Galaxy", "hi": "सर्पिलाकार आकाशगंगा (Spiral)"},
-            {"en": "Elliptical Galaxy", "hi": "दीर्घवृत्ताकार आकाशगंगा (Elliptical)"},
-            {"en": "Irregular Galaxy", "hi": "अनियमित आकाशगंगा (Irregular Galaxy)"},
-            {"en": "Lenticular Galaxy", "hi": "लेंस के आकार की आकाशगंगा"}
+            {
+                "en": "Spiral Galaxy",
+                "hi": "सर्पिलाकार आकाशगंगा"
+            },
+            {
+                "en": "Elliptical Galaxy",
+                "hi": "दीर्घवृत्ताकार आकाशगंगा"
+            },
+            {
+                "en": "Irregular Galaxy",
+                "hi": "अनियमित आकाशगंगा"
+            },
+            {
+                "en": "Lenticular Galaxy",
+                "hi": "लेंस के आकार की आकाशगंगा"
+            }
         ],
         "answerIndex": 2,
         "hint": {
@@ -202,10 +298,22 @@ DAY_5 = [
             "hi": "सूर्य के सापेक्ष पृथ्वी को अपनी धुरी पर एक घूर्णन पूरा करने में लगभग कितने घंटे लगते हैं?"
         },
         "options": [
-            {"en": "12 hours", "hi": "12 घंटे"},
-            {"en": "24 hours", "hi": "24 घंटे"},
-            {"en": "36 hours", "hi": "36 घंटे"},
-            {"en": "48 hours", "hi": "48 घंटे"}
+            {
+                "en": "12 hours",
+                "hi": "12 घंटे"
+            },
+            {
+                "en": "24 hours",
+                "hi": "24 घंटे"
+            },
+            {
+                "en": "36 hours",
+                "hi": "36 घंटे"
+            },
+            {
+                "en": "48 hours",
+                "hi": "48 घंटे"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -226,10 +334,22 @@ DAY_5 = [
             "hi": "पृथ्वी के वायुमंडल की कौन-सी परत सूर्य से आने वाली हानिकारक पराबैंगनी (UV) विकिरण को अवशोषित करती है?"
         },
         "options": [
-            {"en": "Troposphere", "hi": "क्षोभमंडल (Troposphere)"},
-            {"en": "Stratosphere", "hi": "समतापमंडल (Stratosphere)"},
-            {"en": "Mesosphere", "hi": "मध्यमंडल (Mesosphere)"},
-            {"en": "Thermosphere", "hi": "तापमंडल (Thermosphere)"}
+            {
+                "en": "Troposphere",
+                "hi": "क्षोभमंडल"
+            },
+            {
+                "en": "Stratosphere",
+                "hi": "समतापमंडल"
+            },
+            {
+                "en": "Mesosphere",
+                "hi": "मध्यमंडल"
+            },
+            {
+                "en": "Thermosphere",
+                "hi": "तापमंडल"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -250,10 +370,22 @@ DAY_5 = [
             "hi": "पारिस्थितिकी तंत्र में भीषण सूखे का पहला और सीधा प्रतिकूल प्रभाव किस समूह पर पड़ता है?"
         },
         "options": [
-            {"en": "Primary consumers (Herbivores)", "hi": "प्राथमिक उपभोक्ता (शाकाहारी)"},
-            {"en": "Secondary consumers (Carnivores)", "hi": "द्वितीयक उपभोक्ता (मांसाहारी)"},
-            {"en": "Primary producers (Autotrophic plants/vegetation)", "hi": "प्राथमिक उत्पादक (पौधे एवं वनस्पतियाँ)"},
-            {"en": "Apex predators", "hi": "शीर्ष शिकारी"}
+            {
+                "en": "Primary consumers (Herbivores)",
+                "hi": "प्राथमिक उपभोक्ता (शाकाहारी)"
+            },
+            {
+                "en": "Secondary consumers (Carnivores)",
+                "hi": "द्वितीयक उपभोक्ता (मांसाहारी)"
+            },
+            {
+                "en": "Primary producers (Autotrophic plants/vegetation)",
+                "hi": "प्राथमिक उत्पादक (पौधे एवं वनस्पतियाँ)"
+            },
+            {
+                "en": "Apex predators",
+                "hi": "शीर्ष शिकारी"
+            }
         ],
         "answerIndex": 2,
         "hint": {
@@ -274,10 +406,22 @@ DAY_5 = [
             "hi": "भारत मौसम विज्ञान विभाग (IMD) द्वारा अपनाए गए 'भारत पूर्वानुमान प्रणाली' (Bharat Forecast System) को किस संस्थान ने विकसित किया है?"
         },
         "options": [
-            {"en": "National Centre for Medium Range Weather Forecasting (NCMRWF), Noida", "hi": "राष्ट्रीय मध्यम अवधि मौसम पूर्वानुमान केंद्र (NCMRWF), नोएडा"},
-            {"en": "Indian Institute of Tropical Meteorology (IITM), Pune", "hi": "भारतीय उष्णकटिबंधीय मौसम विज्ञान संस्थान (IITM), पुणे"},
-            {"en": "ISRO Telemetry Centre, Bengaluru", "hi": "इसरो टेलीमेट्री केंद्र, बेंगलुरु"},
-            {"en": "National Institute of Oceanography (NIO), Goa", "hi": "राष्ट्रीय समुद्र विज्ञान संस्थान (NIO), गोवा"}
+            {
+                "en": "National Centre for Medium Range Weather Forecasting (NCMRWF), Noida",
+                "hi": "राष्ट्रीय मध्यम अवधि मौसम पूर्वानुमान केंद्र, नोएडा"
+            },
+            {
+                "en": "Indian Institute of Tropical Meteorology (IITM), Pune",
+                "hi": "भारतीय उष्णकटिबंधीय मौसम विज्ञान संस्थान, पुणे"
+            },
+            {
+                "en": "ISRO Telemetry Centre, Bengaluru",
+                "hi": "इसरो टेलीमेट्री केंद्र, बेंगलुरु"
+            },
+            {
+                "en": "National Institute of Oceanography (NIO), Goa",
+                "hi": "राष्ट्रीय समुद्र विज्ञान संस्थान, गोवा"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -298,10 +442,22 @@ DAY_5 = [
             "hi": "निम्नलिखित में से कौन-सा संविधान के अनुच्छेद 51A के तहत 'मौलिक कर्तव्य' नहीं है?"
         },
         "options": [
-            {"en": "To develop the scientific temper and spirit of inquiry", "hi": "वैज्ञानिक दृष्टिकोण और ज्ञानार्जन की भावना का विकास करना"},
-            {"en": "To safeguard public property and abjure violence", "hi": "सार्वजनिक संपत्ति की रक्षा करना और हिंसा से दूर रहना"},
-            {"en": "To promote cooperative societies", "hi": "सहकारी समितियों को बढ़ावा देना (To promote co-operative societies)"},
-            {"en": "To abide by the Constitution and respect the National Flag", "hi": "संविधान का पालन करना और राष्ट्रध्वज का आदर करना"}
+            {
+                "en": "To develop the scientific temper and spirit of inquiry",
+                "hi": "वैज्ञानिक दृष्टिकोण और ज्ञानार्जन की भावना का विकास करना"
+            },
+            {
+                "en": "To safeguard public property and abjure violence",
+                "hi": "सार्वजनिक संपत्ति की रक्षा करना और हिंसा से दूर रहना"
+            },
+            {
+                "en": "To promote cooperative societies",
+                "hi": "सहकारी समितियों को बढ़ावा देना"
+            },
+            {
+                "en": "To abide by the Constitution and respect the National Flag",
+                "hi": "संविधान का पालन करना और राष्ट्रध्वज का आदर करना"
+            }
         ],
         "answerIndex": 2,
         "hint": {
@@ -322,10 +478,22 @@ DAY_5 = [
             "hi": "सरकारी बजट में 'राजस्व घाटा' (Revenue Deficit) की गणना कैसे की जाती है?"
         },
         "options": [
-            {"en": "Total Expenditure – Total Receipts", "hi": "कुल व्यय – कुल प्राप्तियां"},
-            {"en": "Revenue Expenditure – Revenue Receipts", "hi": "राजस्व व्यय – राजस्व प्राप्तियां (Revenue expenditure – Revenue receipts)"},
-            {"en": "Fiscal Deficit – Interest Payments", "hi": "राजकोषीय घाटा – ब्याज भुगतान"},
-            {"en": "Capital Expenditure – Capital Receipts", "hi": "पूंजीगत व्यय – पूंजीगत प्राप्तियां"}
+            {
+                "en": "Total Expenditure – Total Receipts",
+                "hi": "कुल व्यय – कुल प्राप्तियां"
+            },
+            {
+                "en": "Revenue Expenditure – Revenue Receipts",
+                "hi": "राजस्व व्यय – राजस्व प्राप्तियां"
+            },
+            {
+                "en": "Fiscal Deficit – Interest Payments",
+                "hi": "राजकोषीय घाटा – ब्याज भुगतान"
+            },
+            {
+                "en": "Capital Expenditure – Capital Receipts",
+                "hi": "पूंजीगत व्यय – पूंजीगत प्राप्तियां"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -346,10 +514,22 @@ DAY_5 = [
             "hi": "RoDTEP योजना किस नोडल मंत्रालय के तहत संचालित की जाती है?"
         },
         "options": [
-            {"en": "Ministry of Finance", "hi": "वित्त मंत्रालय"},
-            {"en": "Ministry of Commerce and Industry", "hi": "वाणिज्य और उद्योग मंत्रालय"},
-            {"en": "Ministry of Micro, Small and Medium Enterprises", "hi": "सूक्ष्म, लघु और मध्यम उद्यम मंत्रालय"},
-            {"en": "Ministry of Agriculture", "hi": "कृषि मंत्रालय"}
+            {
+                "en": "Ministry of Finance",
+                "hi": "वित्त मंत्रालय"
+            },
+            {
+                "en": "Ministry of Commerce and Industry",
+                "hi": "वाणिज्य और उद्योग मंत्रालय"
+            },
+            {
+                "en": "Ministry of Micro, Small and Medium Enterprises",
+                "hi": "सूक्ष्म, लघु और मध्यम उद्यम मंत्रालय"
+            },
+            {
+                "en": "Ministry of Agriculture",
+                "hi": "कृषि मंत्रालय"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -367,13 +547,25 @@ DAY_5 = [
         "exam": "SSC CHSL TIER-I, 12/11/2025 (Shift-03)",
         "q": {
             "en": "The weight of an object measured on Earth is 441 N. What is the mass of the object? (Assume acceleration due to gravity g = 9.8 m/s²)",
-            "hi": "पृथ्वी पर किसी वस्तु का भार 441 न्यूटन (N) है। वस्तु का द्रव्यमान कितना होगा? (माना g = 9.8 m/s²)",
+            "hi": "पृथ्वी पर किसी वस्तु का भार 441 न्यूटन (N) है। वस्तु का द्रव्यमान कितना होगा? (माना g = 9.8 m/s²)"
         },
         "options": [
-            {"en": "40 kg", "hi": "40 किग्रा"},
-            {"en": "45 kg", "hi": "45 किग्रा (45 kg)"},
-            {"en": "49 kg", "hi": "49 किग्रा"},
-            {"en": "50 kg", "hi": "50 किग्रा"}
+            {
+                "en": "40 kg",
+                "hi": "40 किग्रा"
+            },
+            {
+                "en": "45 kg",
+                "hi": "45 किग्रा"
+            },
+            {
+                "en": "49 kg",
+                "hi": "49 किग्रा"
+            },
+            {
+                "en": "50 kg",
+                "hi": "50 किग्रा"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -394,10 +586,22 @@ DAY_5 = [
             "hi": "न्यूटन के गति के तीसरे नियम की सबसे सटीक व्याख्या कौन-सा कथन करता है?"
         },
         "options": [
-            {"en": "An object remains at rest unless acted upon by an unbalanced force", "hi": "कोई वस्तु विराम में रहती है जब तक उस पर बाह्य बल न लगे"},
-            {"en": "Rate of change of momentum is proportional to applied force", "hi": "संवेग परिवर्तन की दर लगाए गए बल के समानुपाती होती है"},
-            {"en": "For every action, there is an equal and opposite reaction acting on different bodies", "hi": "प्रत्येक क्रिया के बराबर और विपरीत दिशा में प्रतिक्रिया होती है"},
-            {"en": "Force is the product of mass and velocity", "hi": "बल द्रव्यमान और वेग का गुणनफल है"}
+            {
+                "en": "An object remains at rest unless acted upon by an unbalanced force",
+                "hi": "कोई वस्तु विराम में रहती है जब तक उस पर बाह्य बल न लगे"
+            },
+            {
+                "en": "Rate of change of momentum is proportional to applied force",
+                "hi": "संवेग परिवर्तन की दर लगाए गए बल के समानुपाती होती है"
+            },
+            {
+                "en": "For every action, there is an equal and opposite reaction acting on different bodies",
+                "hi": "प्रत्येक क्रिया के बराबर और विपरीत दिशा में प्रतिक्रिया होती है"
+            },
+            {
+                "en": "Force is the product of mass and velocity",
+                "hi": "बल द्रव्यमान और वेग का गुणनफल है"
+            }
         ],
         "answerIndex": 2,
         "hint": {
@@ -418,10 +622,22 @@ DAY_5 = [
             "hi": "एक 60 वाट का विद्युत बल्ब प्रतिदिन 5 घंटे जलता है। 30 दिनों में 'यूनिट' (किलोवाट-घंटे) में खपत विद्युत ऊर्जा कितनी होगी?"
         },
         "options": [
-            {"en": "6 units", "hi": "6 यूनिट"},
-            {"en": "9 units", "hi": "9 यूनिट (9 kWh)"},
-            {"en": "12 units", "hi": "12 यूनिट"},
-            {"en": "15 units", "hi": "15 यूनिट"}
+            {
+                "en": "6 units",
+                "hi": "6 यूनिट"
+            },
+            {
+                "en": "9 units",
+                "hi": "9 यूनिट"
+            },
+            {
+                "en": "12 units",
+                "hi": "12 यूनिट"
+            },
+            {
+                "en": "15 units",
+                "hi": "15 यूनिट"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -442,10 +658,22 @@ DAY_5 = [
             "hi": "सौर भट्टियों (Solar Furnaces) में सूर्य के प्रकाश को एक बिंदु पर केंद्रित करने के लिए किस दर्पण का उपयोग किया जाता है?"
         },
         "options": [
-            {"en": "Convex mirror", "hi": "उत्तल दर्पण (Convex mirror)"},
-            {"en": "Concave mirror", "hi": "अवतल दर्पण (Concave mirror)"},
-            {"en": "Plane mirror", "hi": "समतल दर्पण (Plane mirror)"},
-            {"en": "Cylindrical mirror", "hi": "बेलनाकार दर्पण"}
+            {
+                "en": "Convex mirror",
+                "hi": "उत्तल दर्पण"
+            },
+            {
+                "en": "Concave mirror",
+                "hi": "अवतल दर्पण"
+            },
+            {
+                "en": "Plane mirror",
+                "hi": "समतल दर्पण"
+            },
+            {
+                "en": "Cylindrical mirror",
+                "hi": "बेलनाकार दर्पण"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -466,10 +694,22 @@ DAY_5 = [
             "hi": "जब किसी वस्तु को अवतल दर्पण के वक्रता केंद्र (C) पर रखा जाता है, तो बनने वाले प्रतिबिंब की प्रकृति, अभिविन्यास और आकार क्या होता है?"
         },
         "options": [
-            {"en": "Virtual, erect, and magnified", "hi": "आभासी, सीधा और बड़ा"},
-            {"en": "Real, inverted, and same size as object", "hi": "वास्तविक, उल्टा और वस्तु के समान आकार का"},
-            {"en": "Real, inverted, and diminished", "hi": "वास्तविक, उल्टा और छोटा"},
-            {"en": "Virtual, erect, and same size", "hi": "आभासी, सीधा और समान आकार"}
+            {
+                "en": "Virtual, erect, and magnified",
+                "hi": "आभासी, सीधा और बड़ा"
+            },
+            {
+                "en": "Real, inverted, and same size as object",
+                "hi": "वास्तविक, उल्टा और वस्तु के समान आकार का"
+            },
+            {
+                "en": "Real, inverted, and diminished",
+                "hi": "वास्तविक, उल्टा और छोटा"
+            },
+            {
+                "en": "Virtual, erect, and same size",
+                "hi": "आभासी, सीधा और समान आकार"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -490,10 +730,22 @@ DAY_5 = [
             "hi": "यदि किसी रेडियोधर्मी पदार्थ का अर्ध-आयु काल 10 दिन है, तो मूल नमूने का 75% क्षय होने में कितना समय लगेगा?"
         },
         "options": [
-            {"en": "10 days", "hi": "10 दिन"},
-            {"en": "15 days", "hi": "15 दिन"},
-            {"en": "20 days", "hi": "20 दिन (20 days)"},
-            {"en": "30 days", "hi": "30 दिन"}
+            {
+                "en": "10 days",
+                "hi": "10 दिन"
+            },
+            {
+                "en": "15 days",
+                "hi": "15 दिन"
+            },
+            {
+                "en": "20 days",
+                "hi": "20 दिन"
+            },
+            {
+                "en": "30 days",
+                "hi": "30 दिन"
+            }
         ],
         "answerIndex": 2,
         "hint": {
@@ -511,13 +763,25 @@ DAY_5 = [
         "exam": "SSC CHSL TIER-I, 25/11/2025 (Shift-01)",
         "q": {
             "en": "A girl of mass 50 kg climbs up a vertical rope to a height of 5 meters in 25 seconds. What is the power expended? (Assume g = 9.8 m/s²)",
-            "hi": "50 किग्रा द्रव्यमान की एक लड़की 25 सेकंड में 5 मीटर की ऊंचाई तक रस्सी पर चढ़ती है। व्यय की गई शक्ति कितनी है? (g = 9.8 m/s² लें)",
+            "hi": "50 किग्रा द्रव्यमान की एक लड़की 25 सेकंड में 5 मीटर की ऊंचाई तक रस्सी पर चढ़ती है। व्यय की गई शक्ति कितनी है? (g = 9.8 m/s² लें)"
         },
         "options": [
-            {"en": "49 watts", "hi": "49 वाट"},
-            {"en": "98 watts", "hi": "98 वाट (98 watts)"},
-            {"en": "196 watts", "hi": "196 वाट"},
-            {"en": "250 watts", "hi": "250 वाट"}
+            {
+                "en": "49 watts",
+                "hi": "49 वाट"
+            },
+            {
+                "en": "98 watts",
+                "hi": "98 वाट"
+            },
+            {
+                "en": "196 watts",
+                "hi": "196 वाट"
+            },
+            {
+                "en": "250 watts",
+                "hi": "250 वाट"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -538,10 +802,22 @@ DAY_5 = [
             "hi": "ब्रिटिश भौतिक विज्ञानी जेम्स चैडविक ने किस वर्ष न्यूट्रॉन की खोज की थी?"
         },
         "options": [
-            {"en": "1897", "hi": "1897"},
-            {"en": "1911", "hi": "1911"},
-            {"en": "1932", "hi": "1932"},
-            {"en": "1935", "hi": "1935"}
+            {
+                "en": "1897",
+                "hi": "1897"
+            },
+            {
+                "en": "1911",
+                "hi": "1911"
+            },
+            {
+                "en": "1932",
+                "hi": "1932"
+            },
+            {
+                "en": "1935",
+                "hi": "1935"
+            }
         ],
         "answerIndex": 2,
         "hint": {
@@ -562,10 +838,22 @@ DAY_5 = [
             "hi": "पाइरुवेट (पाइरुविक अम्ल) के एक अणु में कितने कार्बन परमाणु होते हैं?"
         },
         "options": [
-            {"en": "2 carbon atoms", "hi": "2 कार्बन परमाणु"},
-            {"en": "3 carbon atoms", "hi": "3 कार्बन परमाणु (3 carbon atoms)"},
-            {"en": "4 carbon atoms", "hi": "4 कार्बन परमाणु"},
-            {"en": "6 carbon atoms", "hi": "6 कार्बन परमाणु"}
+            {
+                "en": "2 carbon atoms",
+                "hi": "2 कार्बन परमाणु"
+            },
+            {
+                "en": "3 carbon atoms",
+                "hi": "3 कार्बन परमाणु"
+            },
+            {
+                "en": "4 carbon atoms",
+                "hi": "4 कार्बन परमाणु"
+            },
+            {
+                "en": "6 carbon atoms",
+                "hi": "6 कार्बन परमाणु"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -586,10 +874,22 @@ DAY_5 = [
             "hi": "निम्नलिखित में से कौन-सा जीव बीजाणु निर्माण (spores) द्वारा नहीं, बल्कि मुकुलन (Budding) द्वारा अलैंगिक जनन करता है?"
         },
         "options": [
-            {"en": "Rhizopus (Bread mould)", "hi": "राइजोपस"},
-            {"en": "Penicillium", "hi": "पेनिसिलियम"},
-            {"en": "Yeast (Saccharomyces)", "hi": "यीस्ट (खमीर)"},
-            {"en": "Mucor", "hi": "म्यूकर"}
+            {
+                "en": "Rhizopus (Bread mould)",
+                "hi": "राइजोपस"
+            },
+            {
+                "en": "Penicillium",
+                "hi": "पेनिसिलियम"
+            },
+            {
+                "en": "Yeast (Saccharomyces)",
+                "hi": "यीस्ट (खमीर)"
+            },
+            {
+                "en": "Mucor",
+                "hi": "म्यूकर"
+            }
         ],
         "answerIndex": 2,
         "hint": {
@@ -610,10 +910,22 @@ DAY_5 = [
             "hi": "शरीर के विभिन्न अंगों से आने वाला वि-ऑक्सीजनित (अशुद्ध) रक्त महाशिरा के माध्यम से सबसे पहले हृदय के किस कक्ष में प्रवेश करता है?"
         },
         "options": [
-            {"en": "Left atrium", "hi": "बायाँ अलिंद (Left atrium)"},
-            {"en": "Right atrium", "hi": "दायाँ अलिंद (Right atrium)"},
-            {"en": "Left ventricle", "hi": "बायाँ निलय (Left ventricle)"},
-            {"en": "Right ventricle", "hi": "दायाँ निलय (Right ventricle)"}
+            {
+                "en": "Left atrium",
+                "hi": "बायाँ अलिंद"
+            },
+            {
+                "en": "Right atrium",
+                "hi": "दायाँ अलिंद"
+            },
+            {
+                "en": "Left ventricle",
+                "hi": "बायाँ निलय"
+            },
+            {
+                "en": "Right ventricle",
+                "hi": "दायाँ निलय"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -634,10 +946,22 @@ DAY_5 = [
             "hi": "जब जड़ों द्वारा अवशोषित अतिरिक्त जल पत्तियों पर मौजूद रंध्रों (स्टोमेटा) से वाष्प के रूप में बाहर निकलता है, तो इस प्रक्रिया को क्या कहते हैं?"
         },
         "options": [
-            {"en": "Guttation", "hi": "बिंदुस्राव (Guttation)"},
-            {"en": "Transpiration", "hi": "वाष्पोत्सर्जन (Transpiration)"},
-            {"en": "Osmosis", "hi": "परासरण (Osmosis)"},
-            {"en": "Respiration", "hi": "श्वसन (Respiration)"}
+            {
+                "en": "Guttation",
+                "hi": "बिंदुस्राव"
+            },
+            {
+                "en": "Transpiration",
+                "hi": "वाष्पोत्सर्जन"
+            },
+            {
+                "en": "Osmosis",
+                "hi": "परासरण"
+            },
+            {
+                "en": "Respiration",
+                "hi": "श्वसन"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -658,10 +982,22 @@ DAY_5 = [
             "hi": "दिन के समय जाइलम में जल के ऊपर की ओर संचलन (रसारोहण) के लिए सबसे प्रमुख प्रेरक बल कौन-सा होता है?"
         },
         "options": [
-            {"en": "Root pressure", "hi": "मूल दाब (Root pressure)"},
-            {"en": "Transpiration pull", "hi": "वाष्पोत्सर्जन खिंचाव (Transpiration pull)"},
-            {"en": "Gravitational pull", "hi": "गुरुत्वाकर्षण खिंचाव"},
-            {"en": "Imbibition", "hi": "अंतःशोषण (Imbibition)"}
+            {
+                "en": "Root pressure",
+                "hi": "मूल दाब"
+            },
+            {
+                "en": "Transpiration pull",
+                "hi": "वाष्पोत्सर्जन खिंचाव"
+            },
+            {
+                "en": "Gravitational pull",
+                "hi": "गुरुत्वाकर्षण खिंचाव"
+            },
+            {
+                "en": "Imbibition",
+                "hi": "अंतःशोषण"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -682,10 +1018,22 @@ DAY_5 = [
             "hi": "पौधों में कीटों के आक्रमण या घाव होने पर पूरे पौधे को सचेत करने वाला पहला पेप्टाइड रक्षा संकेत (हार्मोन) कौन-सा है?"
         },
         "options": [
-            {"en": "Abscisic acid", "hi": "एब्सिसिक अम्ल"},
-            {"en": "Systemin", "hi": "सिस्टेमिन (Systemin)"},
-            {"en": "Auxin", "hi": "ऑक्सिन"},
-            {"en": "Cytokinin", "hi": "साइटोकाइनिन"}
+            {
+                "en": "Abscisic acid",
+                "hi": "एब्सिसिक अम्ल"
+            },
+            {
+                "en": "Systemin",
+                "hi": "सिस्टेमिन"
+            },
+            {
+                "en": "Auxin",
+                "hi": "ऑक्सिन"
+            },
+            {
+                "en": "Cytokinin",
+                "hi": "साइटोकाइनिन"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -706,10 +1054,22 @@ DAY_5 = [
             "hi": "ओडिशा के कोणार्क सूर्य मंदिर में दिन के 24 घंटों का प्रतिनिधित्व करने वाली कौन-सी प्रमुख स्थापत्य विशेषता है?"
         },
         "options": [
-            {"en": "24 carved elephant statues", "hi": "24 उत्कीर्ण हाथी की मूर्तियां"},
-            {"en": "24 ornate stone wheels (Chakras)", "hi": "24 नक्काशीदार पत्थर के पहिए (चक्र)"},
-            {"en": "24 miniature stone pillars", "hi": "24 लघु पाषाण स्तंभ"},
-            {"en": "24 entrance gates", "hi": "24 प्रवेश द्वार"}
+            {
+                "en": "24 carved elephant statues",
+                "hi": "24 उत्कीर्ण हाथी की मूर्तियां"
+            },
+            {
+                "en": "24 ornate stone wheels (Chakras)",
+                "hi": "24 नक्काशीदार पत्थर के पहिए (चक्र)"
+            },
+            {
+                "en": "24 miniature stone pillars",
+                "hi": "24 लघु पाषाण स्तंभ"
+            },
+            {
+                "en": "24 entrance gates",
+                "hi": "24 प्रवेश द्वार"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -730,10 +1090,22 @@ DAY_5 = [
             "hi": "सिर पर सजे हुए कलश रखकर किया जाने वाला प्राचीन लोक नृत्य 'कराकट्टम' (Karakattam) किस राज्य से संबंधित है?"
         },
         "options": [
-            {"en": "Kerala", "hi": "केरल"},
-            {"en": "Tamil Nadu", "hi": "तमिलनाडु (Tamil Nadu)"},
-            {"en": "Karnataka", "hi": "कर्नाटक"},
-            {"en": "Andhra Pradesh", "hi": "आंध्र प्रदेश"}
+            {
+                "en": "Kerala",
+                "hi": "केरल"
+            },
+            {
+                "en": "Tamil Nadu",
+                "hi": "तमिलनाडु"
+            },
+            {
+                "en": "Karnataka",
+                "hi": "कर्नाटक"
+            },
+            {
+                "en": "Andhra Pradesh",
+                "hi": "आंध्र प्रदेश"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -754,10 +1126,22 @@ DAY_5 = [
             "hi": "'राई' (Rai) नृत्य किस भारतीय राज्य का एक प्रसिद्ध पारंपरिक लोक नृत्य है?"
         },
         "options": [
-            {"en": "Bundelkhand, Madhya Pradesh", "hi": "मध्य प्रदेश (बुंदेलखंड क्षेत्र)"},
-            {"en": "Rajasthan", "hi": "राजस्थान"},
-            {"en": "Uttar Pradesh (Braj)", "hi": "उत्तर प्रदेश"},
-            {"en": "Chhattisgarh", "hi": "छत्तीसगढ़"}
+            {
+                "en": "Bundelkhand, Madhya Pradesh",
+                "hi": "मध्य प्रदेश (बुंदेलखंड क्षेत्र)"
+            },
+            {
+                "en": "Rajasthan",
+                "hi": "राजस्थान"
+            },
+            {
+                "en": "Uttar Pradesh (Braj)",
+                "hi": "उत्तर प्रदेश"
+            },
+            {
+                "en": "Chhattisgarh",
+                "hi": "छत्तीसगढ़"
+            }
         ],
         "answerIndex": 0,
         "hint": {
@@ -778,10 +1162,22 @@ DAY_5 = [
             "hi": "'ताल्खुआंग' (Talhkhuang) वाद्य यंत्र पारंपरिक रूप से किस राज्य की संस्कृति से संबंधित है?"
         },
         "options": [
-            {"en": "Nagaland", "hi": "नागालैंड"},
-            {"en": "Mizoram", "hi": "मिजोरम (Mizoram)"},
-            {"en": "Meghalaya", "hi": "मेघालय"},
-            {"en": "Manipur", "hi": "मणिपुर"}
+            {
+                "en": "Nagaland",
+                "hi": "नागालैंड"
+            },
+            {
+                "en": "Mizoram",
+                "hi": "मिजोरम"
+            },
+            {
+                "en": "Meghalaya",
+                "hi": "मेघालय"
+            },
+            {
+                "en": "Manipur",
+                "hi": "मणिपुर"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -802,10 +1198,22 @@ DAY_5 = [
             "hi": "पोई सांगकेन (Poi Sangken / जल महोत्सव) मुख्य रूप से किस जनजाति द्वारा मनाया जाने वाला सबसे महत्वपूर्ण त्योहार है?"
         },
         "options": [
-            {"en": "Apatani tribe", "hi": "अपातानी जनजाति"},
-            {"en": "Khamti tribe of Arunachal Pradesh", "hi": "अरुणाचल प्रदेश की खमती (Khamti) जनजाति"},
-            {"en": "Lepcha tribe", "hi": "लेप्चा जनजाति"},
-            {"en": "Bodo tribe", "hi": "बोडो जनजाति"}
+            {
+                "en": "Apatani tribe",
+                "hi": "अपातानी जनजाति"
+            },
+            {
+                "en": "Khamti tribe of Arunachal Pradesh",
+                "hi": "अरुणाचल प्रदेश की खमती जनजाति"
+            },
+            {
+                "en": "Lepcha tribe",
+                "hi": "लेप्चा जनजाति"
+            },
+            {
+                "en": "Bodo tribe",
+                "hi": "बोडो जनजाति"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -826,10 +1234,22 @@ DAY_5 = [
             "hi": "'नवरेह' (Navreh) पारंपरिक रूप से किस समुदाय द्वारा नववर्ष के रूप में मनाया जाता है?"
         },
         "options": [
-            {"en": "Sindhis", "hi": "सिंधी समुदाय (चेटी चंड)"},
-            {"en": "Kashmiri Pandits", "hi": "कश्मीरी पंडित (Kashmiri Pandits)"},
-            {"en": "Parsi community", "hi": "पारसी समुदाय (नवरोज)"},
-            {"en": "Assamese community", "hi": "असमिया समुदाय (रोंगाली बिहू)"}
+            {
+                "en": "Sindhis",
+                "hi": "सिंधी समुदाय (चेटी चंड)"
+            },
+            {
+                "en": "Kashmiri Pandits",
+                "hi": "कश्मीरी पंडित"
+            },
+            {
+                "en": "Parsi community",
+                "hi": "पारसी समुदाय (नवरोज)"
+            },
+            {
+                "en": "Assamese community",
+                "hi": "असमिया समुदाय (रोंगाली बिहू)"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -850,10 +1270,22 @@ DAY_5 = [
             "hi": "नागालैंड में मनाए जाने वाले अंगामी जनजाति के 'सेक्रेनी' (Sekrenyi) उत्सव का मुख्य उद्देश्य क्या है?"
         },
         "options": [
-            {"en": "To appease the sea deities", "hi": "समुद्री देवताओं को प्रसन्न करना"},
-            {"en": "To cleanse and purify the body, soul, and village of past sins", "hi": "शरीर और आत्मा को शुद्ध और पवित्र करना (Purification)"},
-            {"en": "To celebrate the rice sowing only", "hi": "केवल धान की बुवाई का उत्सव मनाना"},
-            {"en": "To worship the dead ancestors only", "hi": "केवल पूर्वजों की पूजा करना"}
+            {
+                "en": "To appease the sea deities",
+                "hi": "समुद्री देवताओं को प्रसन्न करना"
+            },
+            {
+                "en": "To cleanse and purify the body, soul, and village of past sins",
+                "hi": "शरीर और आत्मा को शुद्ध और पवित्र करना"
+            },
+            {
+                "en": "To celebrate the rice sowing only",
+                "hi": "केवल धान की बुवाई का उत्सव मनाना"
+            },
+            {
+                "en": "To worship the dead ancestors only",
+                "hi": "केवल पूर्वजों की पूजा करना"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -874,10 +1306,22 @@ DAY_5 = [
             "hi": "आंध्र प्रदेश और तेलंगाना में चार दिनों तक मनाया जाने वाला कौन-सा फसल उत्सव पहले दिन 'भोगी' अलाव के साथ शुरू होता है?"
         },
         "options": [
-            {"en": "Bathukamma", "hi": "बथुकम्मा"},
-            {"en": "Sankranti (Makara Sankranti)", "hi": "संक्रांति (मकर संक्रांति)"},
-            {"en": "Bonalu", "hi": "बोनालु"},
-            {"en": "Ugadi", "hi": "उगादी"}
+            {
+                "en": "Bathukamma",
+                "hi": "बथुकम्मा"
+            },
+            {
+                "en": "Sankranti (Makara Sankranti)",
+                "hi": "संक्रांति (मकर संक्रांति)"
+            },
+            {
+                "en": "Bonalu",
+                "hi": "बोनालु"
+            },
+            {
+                "en": "Ugadi",
+                "hi": "उगादी"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -898,10 +1342,22 @@ DAY_5 = [
             "hi": "'सौ ढोलों का त्योहार' (Hundred Drums Festival) के रूप में प्रसिद्ध 'वांगला' महोत्सव किस जनजाति से संबंधित है?"
         },
         "options": [
-            {"en": "Khasi tribe of Meghalaya", "hi": "खासी जनजाति"},
-            {"en": "Garo tribe of Meghalaya", "hi": "मेघालय की गारो जनजाति (Garo tribe)"},
-            {"en": "Mizo tribe", "hi": "मिज़ो जनजाति"},
-            {"en": "Bodo tribe", "hi": "बोडो जनजाति"}
+            {
+                "en": "Khasi tribe of Meghalaya",
+                "hi": "खासी जनजाति"
+            },
+            {
+                "en": "Garo tribe of Meghalaya",
+                "hi": "मेघालय की गारो जनजाति"
+            },
+            {
+                "en": "Mizo tribe",
+                "hi": "मिज़ो जनजाति"
+            },
+            {
+                "en": "Bodo tribe",
+                "hi": "बोडो जनजाति"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -922,10 +1378,22 @@ DAY_5 = [
             "hi": "त्रिपुरा का 'खारची' उत्सव मुख्य रूप से कितने स्वदेशी देवताओं की पूजा से जुड़ा है?"
         },
         "options": [
-            {"en": "7 deities (Sapta Matrikas)", "hi": "7 देवता"},
-            {"en": "10 deities (Dasha Mahavidyas)", "hi": "10 देवता"},
-            {"en": "14 deities (Chaturdasha Devata)", "hi": "14 स्वदेशी देवता (Chaturdasha Devata)"},
-            {"en": "24 deities", "hi": "24 देवता"}
+            {
+                "en": "7 deities (Sapta Matrikas)",
+                "hi": "7 देवता"
+            },
+            {
+                "en": "10 deities (Dasha Mahavidyas)",
+                "hi": "10 देवता"
+            },
+            {
+                "en": "14 deities (Chaturdasha Devata)",
+                "hi": "14 स्वदेशी देवता"
+            },
+            {
+                "en": "24 deities",
+                "hi": "24 देवता"
+            }
         ],
         "answerIndex": 2,
         "hint": {
@@ -946,10 +1414,22 @@ DAY_5 = [
             "hi": "लद्दाखी नववर्ष (लोसार) के स्वागत में घरों में सूर्य, चंद्रमा और किस सींग वाले जंगली जानवर की आटे की प्रतीकात्मक आकृतियां रखी जाती हैं?"
         },
         "options": [
-            {"en": "Yak", "hi": "याक"},
-            {"en": "Ibex (Mountain Goat)", "hi": "आईबेक्स (जंगली पहाड़ी बकरी / Ibex)"},
-            {"en": "Snow Leopard", "hi": "हिम तेंदुआ"},
-            {"en": "Tibetan Antelope (Chiru)", "hi": "तिब्बती मृग (चीरू)"}
+            {
+                "en": "Yak",
+                "hi": "याक"
+            },
+            {
+                "en": "Ibex (Mountain Goat)",
+                "hi": "आईबेक्स (जंगली पहाड़ी बकरी)"
+            },
+            {
+                "en": "Snow Leopard",
+                "hi": "हिम तेंदुआ"
+            },
+            {
+                "en": "Tibetan Antelope (Chiru)",
+                "hi": "तिब्बती मृग (चीरू)"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -970,10 +1450,22 @@ DAY_5 = [
             "hi": "'जीविती पूजा' (Jiviti Puja) श्रावण मास के शुक्रवार को सुहागिन महिलाओं द्वारा किस राज्य में बच्चों की दीर्घायु और सुरक्षा के लिए की जाती है?"
         },
         "options": [
-            {"en": "Gujarat", "hi": "गुजरात"},
-            {"en": "Maharashtra", "hi": "महाराष्ट्र (Maharashtra)"},
-            {"en": "Rajasthan", "hi": "राजस्थान"},
-            {"en": "Odisha", "hi": "ओडिशा"}
+            {
+                "en": "Gujarat",
+                "hi": "गुजरात"
+            },
+            {
+                "en": "Maharashtra",
+                "hi": "महाराष्ट्र"
+            },
+            {
+                "en": "Rajasthan",
+                "hi": "राजस्थान"
+            },
+            {
+                "en": "Odisha",
+                "hi": "ओडिशा"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -994,10 +1486,22 @@ DAY_5 = [
             "hi": "कबड्डी की एक आधिकारिक टीम में 12 खिलाड़ी होते हैं, लेकिन मैच के दौरान कोर्ट पर एक समय में कितने खिलाड़ी सक्रिय होते हैं?"
         },
         "options": [
-            {"en": "6 players", "hi": "6 खिलाड़ी"},
-            {"en": "7 players", "hi": "7 खिलाड़ी (7 players)"},
-            {"en": "8 players", "hi": "8 खिलाड़ी"},
-            {"en": "9 players", "hi": "9 खिलाड़ी"}
+            {
+                "en": "6 players",
+                "hi": "6 खिलाड़ी"
+            },
+            {
+                "en": "7 players",
+                "hi": "7 खिलाड़ी"
+            },
+            {
+                "en": "8 players",
+                "hi": "8 खिलाड़ी"
+            },
+            {
+                "en": "9 players",
+                "hi": "9 खिलाड़ी"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -1018,10 +1522,22 @@ DAY_5 = [
             "hi": "कुश्ती (Wrestling) में खड़े होने की स्थिति से विरोधी को मैट पर नीचे गिराकर नियंत्रण पाने की क्रिया को क्या कहा जाता है?"
         },
         "options": [
-            {"en": "Pinfall (Fall)", "hi": "पिनफॉल"},
-            {"en": "Takedown", "hi": "टेकडाउन (Takedown)"},
-            {"en": "Escape", "hi": "एस्केप"},
-            {"en": "Reversal", "hi": "रिवर्सल"}
+            {
+                "en": "Pinfall (Fall)",
+                "hi": "पिनफॉल"
+            },
+            {
+                "en": "Takedown",
+                "hi": "टेकडाउन"
+            },
+            {
+                "en": "Escape",
+                "hi": "एस्केप"
+            },
+            {
+                "en": "Reversal",
+                "hi": "रिवर्सल"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -1042,10 +1558,22 @@ DAY_5 = [
             "hi": "जल अवरोधों और बाधाओं वाली दौड़ 'स्टीपलचेस' (Steeplechase) इंग्लैंड में लगभग किस वर्ष आधुनिक खेल के रूप में अस्तित्व में आई?"
         },
         "options": [
-            {"en": "1800", "hi": "1800"},
-            {"en": "1850", "hi": "1850"},
-            {"en": "1896", "hi": "1896"},
-            {"en": "1924", "hi": "1924"}
+            {
+                "en": "1800",
+                "hi": "1800"
+            },
+            {
+                "en": "1850",
+                "hi": "1850"
+            },
+            {
+                "en": "1896",
+                "hi": "1896"
+            },
+            {
+                "en": "1924",
+                "hi": "1924"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -1066,10 +1594,22 @@ DAY_5 = [
             "hi": "ग्रैंड स्लैम टेनिस के वर्तमान नियमों के तहत निर्णायक अंतिम सेट में 10-पॉइंट का सुपर टाईब्रेक कब खेला जाता है?"
         },
         "options": [
-            {"en": "At 5-5 in games", "hi": "गेम स्कोर 5-5 होने पर"},
-            {"en": "At 6-6 in games in the final set", "hi": "अंतिम सेट में गेम स्कोर 6-6 होने पर (At 6-6 in the fifth/deciding set)"},
-            {"en": "At 12-12 in games", "hi": "गेम स्कोर 12-12 होने पर"},
-            {"en": "At 10-10 in games", "hi": "गेम स्कोर 10-10 होने पर"}
+            {
+                "en": "At 5-5 in games",
+                "hi": "गेम स्कोर 5-5 होने पर"
+            },
+            {
+                "en": "At 6-6 in games in the final set",
+                "hi": "अंतिम सेट में गेम स्कोर 6-6 होने पर"
+            },
+            {
+                "en": "At 12-12 in games",
+                "hi": "गेम स्कोर 12-12 होने पर"
+            },
+            {
+                "en": "At 10-10 in games",
+                "hi": "गेम स्कोर 10-10 होने पर"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -1090,10 +1630,22 @@ DAY_5 = [
             "hi": "'बंदी छोड़ दिवस' सिखों के छठे गुरु, गुरु हरगोबिंद साहिब जी और 52 राजाओं की किस किले से रिहाई की स्मृति में मनाया जाता है?"
         },
         "options": [
-            {"en": "Red Fort, Delhi", "hi": "लाल किला, दिल्ली"},
-            {"en": "Gwalior Fort", "hi": "ग्वालियर का किला (Gwalior Fort)"},
-            {"en": "Agra Fort", "hi": "आगरा का किला"},
-            {"en": "Lahore Fort", "hi": "लाहौर का किला"}
+            {
+                "en": "Red Fort, Delhi",
+                "hi": "लाल किला, दिल्ली"
+            },
+            {
+                "en": "Gwalior Fort",
+                "hi": "ग्वालियर का किला"
+            },
+            {
+                "en": "Agra Fort",
+                "hi": "आगरा का किला"
+            },
+            {
+                "en": "Lahore Fort",
+                "hi": "लाहौर का किला"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -1114,10 +1666,22 @@ DAY_5 = [
             "hi": "भारत में 31 अक्टूबर को 'राष्ट्रीय एकता दिवस' किस महान नेता की जयंती के रूप में मनाया जाता है?"
         },
         "options": [
-            {"en": "Subhas Chandra Bose", "hi": "सुभाष चंद्र बोस"},
-            {"en": "Sardar Vallabhbhai Patel", "hi": "सरदार वल्लभभाई पटेल (Sardar Vallabhbhai Patel)"},
-            {"en": "B. R. Ambedkar", "hi": "बी. आर. अंबेडकर"},
-            {"en": "Lal Bahadur Shastri", "hi": "लाल बहादुर शास्त्री"}
+            {
+                "en": "Subhas Chandra Bose",
+                "hi": "सुभाष चंद्र बोस"
+            },
+            {
+                "en": "Sardar Vallabhbhai Patel",
+                "hi": "सरदार वल्लभभाई पटेल"
+            },
+            {
+                "en": "B. R. Ambedkar",
+                "hi": "बी. आर. अंबेडकर"
+            },
+            {
+                "en": "Lal Bahadur Shastri",
+                "hi": "लाल बहादुर शास्त्री"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -1138,10 +1702,22 @@ DAY_5 = [
             "hi": "अंतरिक्ष में दो उपग्रहों को स्वायत्त रूप से आपस में जोड़ने (डॉक करने) की क्षमता का प्रदर्शन करने वाला इसरो का ऐतिहासिक मिशन कौन-सा है?"
         },
         "options": [
-            {"en": "Aditya-L1", "hi": "आदित्य-L1"},
-            {"en": "SpaDeX (Space Docking Experiment)", "hi": "स्पैडेक्स (SpaDeX - Space Docking Experiment)"},
-            {"en": "Gaganyaan-1", "hi": "गगनयान-1"},
-            {"en": "XPoSat", "hi": "एक्सपोसैट"}
+            {
+                "en": "Aditya-L1",
+                "hi": "आदित्य-L1"
+            },
+            {
+                "en": "SpaDeX (Space Docking Experiment)",
+                "hi": "स्पैडेक्स"
+            },
+            {
+                "en": "Gaganyaan-1",
+                "hi": "गगनयान-1"
+            },
+            {
+                "en": "XPoSat",
+                "hi": "एक्सपोसैट"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -1162,10 +1738,22 @@ DAY_5 = [
             "hi": "ज़ाइडस कैडिला द्वारा विकसित दुनिया की पहली प्लास्मिड डीएनए-आधारित सुई-मुक्त कोविड-19 वैक्सीन का नाम क्या है?"
         },
         "options": [
-            {"en": "Covaxin", "hi": "कोवैक्सिन"},
-            {"en": "ZyCoV-D", "hi": "जायकोव-डी (ZyCoV-D)"},
-            {"en": "Corbevax", "hi": "कॉर्बेवैक्स"},
-            {"en": "Covishield", "hi": "कोविशील्ड"}
+            {
+                "en": "Covaxin",
+                "hi": "कोवैक्सिन"
+            },
+            {
+                "en": "ZyCoV-D",
+                "hi": "जायकोव-डी"
+            },
+            {
+                "en": "Corbevax",
+                "hi": "कॉर्बेवैक्स"
+            },
+            {
+                "en": "Covishield",
+                "hi": "कोविशील्ड"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -1186,10 +1774,22 @@ DAY_5 = [
             "hi": "भारत में राष्ट्रीय खेल दिवस किस तिथि को मनाया जाता है?"
         },
         "options": [
-            {"en": "12 January", "hi": "12 जनवरी"},
-            {"en": "29 August", "hi": "29 अगस्त (29 August)"},
-            {"en": "14 November", "hi": "14 नवंबर"},
-            {"en": "23 December", "hi": "23 दिसंबर"}
+            {
+                "en": "12 January",
+                "hi": "12 जनवरी"
+            },
+            {
+                "en": "29 August",
+                "hi": "29 अगस्त"
+            },
+            {
+                "en": "14 November",
+                "hi": "14 नवंबर"
+            },
+            {
+                "en": "23 December",
+                "hi": "23 दिसंबर"
+            }
         ],
         "answerIndex": 1,
         "hint": {

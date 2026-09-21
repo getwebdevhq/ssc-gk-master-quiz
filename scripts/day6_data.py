@@ -10,10 +10,22 @@ DAY_6 = [
             "hi": "1921 में दयाराम साहनी द्वारा खोजा गया हड़प्पा सभ्यता का प्रमुख स्थल 'हड़प्पा' किस नदी के तट पर स्थित था?"
         },
         "options": [
-            {"en": "Indus River", "hi": "सिंधु नदी"},
-            {"en": "Ravi River", "hi": "रावी नदी (Ravi River)"},
-            {"en": "Ghaggar-Hakra River", "hi": "घग्घर-हाकरा नदी"},
-            {"en": "Chenab River", "hi": "चिनाब नदी"}
+            {
+                "en": "Indus River",
+                "hi": "सिंधु नदी"
+            },
+            {
+                "en": "Ravi River",
+                "hi": "रावी नदी"
+            },
+            {
+                "en": "Ghaggar-Hakra River",
+                "hi": "घग्घर-हाकरा नदी"
+            },
+            {
+                "en": "Chenab River",
+                "hi": "चिनाब नदी"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -34,10 +46,22 @@ DAY_6 = [
             "hi": "निम्नलिखित में से कौन-सा छह 'वेदांगों' में शामिल नहीं है?"
         },
         "options": [
-            {"en": "Kalpa", "hi": "कल्प (Kalpa)"},
-            {"en": "Vaisheshika", "hi": "वैशेषिक (Vaisheshika)"},
-            {"en": "Vyakarana", "hi": "व्याकरण (Vyakarana)"},
-            {"en": "Jyotisha", "hi": "ज्योतिष (Jyotisha)"}
+            {
+                "en": "Kalpa",
+                "hi": "कल्प"
+            },
+            {
+                "en": "Vaisheshika",
+                "hi": "वैशेषिक"
+            },
+            {
+                "en": "Vyakarana",
+                "hi": "व्याकरण"
+            },
+            {
+                "en": "Jyotisha",
+                "hi": "ज्योतिष"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -58,10 +82,22 @@ DAY_6 = [
             "hi": "1886 में लाहौर में पहले 'दयानंद एंग्लो-वैदिक' (DAV) स्कूल की स्थापना में किसने प्रमुख भूमिका निभाई थी?"
         },
         "options": [
-            {"en": "Swami Dayanand Saraswati", "hi": "स्वामी दयानंद सरस्वती"},
-            {"en": "Lala Lajpat Rai (with Mahatma Hansraj)", "hi": "लाला लाजपत राय (एवं महात्मा हंसराज)"},
-            {"en": "Bal Gangadhar Tilak", "hi": "बाल गंगाधर तिलक"},
-            {"en": "Swami Shraddhanand", "hi": "स्वामी श्रद्धानंद"}
+            {
+                "en": "Swami Dayanand Saraswati",
+                "hi": "स्वामी दयानंद सरस्वती"
+            },
+            {
+                "en": "Lala Lajpat Rai (with Mahatma Hansraj)",
+                "hi": "लाला लाजपत राय (एवं महात्मा हंसराज)"
+            },
+            {
+                "en": "Bal Gangadhar Tilak",
+                "hi": "बाल गंगाधर तिलक"
+            },
+            {
+                "en": "Swami Shraddhanand",
+                "hi": "स्वामी श्रद्धानंद"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -82,10 +118,22 @@ DAY_6 = [
             "hi": "सौरमंडल के किस ग्रह का दिन (घूर्णन काल) सबसे लंबा होता है, जिसे अपनी धुरी पर एक चक्कर लगाने में लगभग 243 पृथ्वी दिवस लगते हैं?"
         },
         "options": [
-            {"en": "Mercury", "hi": "बुध"},
-            {"en": "Venus", "hi": "शुक्र (Venus)"},
-            {"en": "Mars", "hi": "मंगल"},
-            {"en": "Jupiter", "hi": "बृहस्पति"}
+            {
+                "en": "Mercury",
+                "hi": "बुध"
+            },
+            {
+                "en": "Venus",
+                "hi": "शुक्र"
+            },
+            {
+                "en": "Mars",
+                "hi": "मंगल"
+            },
+            {
+                "en": "Jupiter",
+                "hi": "बृहस्पति"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -106,10 +154,22 @@ DAY_6 = [
             "hi": "जब उत्तरी ध्रुव के ठीक ऊपर से पृथ्वी के घूर्णन (पश्चिम से पूर्व) को देखा जाता है, तो यह किस दिशा में घूमती हुई प्रतीत होती है?"
         },
         "options": [
-            {"en": "Clockwise", "hi": "घड़ी की दिशा में (Clockwise)"},
-            {"en": "Anti-clockwise (Counter-clockwise)", "hi": "वामावर्त / घड़ी की विपरीत दिशा में (Anti-clockwise)"},
-            {"en": "North to South", "hi": "उत्तर से दक्षिण"},
-            {"en": "East to West", "hi": "पूर्व से पश्चिम"}
+            {
+                "en": "Clockwise",
+                "hi": "घड़ी की दिशा में"
+            },
+            {
+                "en": "Anti-clockwise (Counter-clockwise)",
+                "hi": "वामावर्त / घड़ी की विपरीत दिशा में"
+            },
+            {
+                "en": "North to South",
+                "hi": "उत्तर से दक्षिण"
+            },
+            {
+                "en": "East to West",
+                "hi": "पूर्व से पश्चिम"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -130,10 +190,22 @@ DAY_6 = [
             "hi": "पर्यावरण संरक्षण और जलवायु परिवर्तन से निपटने के लिए किस राज्य सरकार ने 'माझी वसुंधरा' (Majhi Vasundhara) अभियान शुरू किया है?"
         },
         "options": [
-            {"en": "Gujarat", "hi": "गुजरात"},
-            {"en": "Maharashtra", "hi": "महाराष्ट्र (Maharashtra)"},
-            {"en": "Madhya Pradesh", "hi": "मध्य प्रदेश"},
-            {"en": "Goa", "hi": "गोवा"}
+            {
+                "en": "Gujarat",
+                "hi": "गुजरात"
+            },
+            {
+                "en": "Maharashtra",
+                "hi": "महाराष्ट्र"
+            },
+            {
+                "en": "Madhya Pradesh",
+                "hi": "मध्य प्रदेश"
+            },
+            {
+                "en": "Goa",
+                "hi": "गोवा"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -154,10 +226,22 @@ DAY_6 = [
             "hi": "COP26 ग्लासगो शिखर सम्मेलन में पर्यावरण के अनुकूल जीवनशैली को बढ़ावा देने के लिए प्रधानमंत्री नरेंद्र मोदी द्वारा किस वैश्विक पहल की शुरुआत की गई थी?"
         },
         "options": [
-            {"en": "Mission LiFE (Lifestyle for Environment)", "hi": "मिशन लाइफ (Mission LiFE)"},
-            {"en": "Green Credit Initiative", "hi": "ग्रीन क्रेडिट पहल"},
-            {"en": "Panchamrit Plan", "hi": "पंचामृत योजना"},
-            {"en": "One Sun One World One Grid", "hi": "वन सन वन वर्ल्ड वन ग्रिड"}
+            {
+                "en": "Mission LiFE (Lifestyle for Environment)",
+                "hi": "मिशन लाइफ"
+            },
+            {
+                "en": "Green Credit Initiative",
+                "hi": "ग्रीन क्रेडिट पहल"
+            },
+            {
+                "en": "Panchamrit Plan",
+                "hi": "पंचामृत योजना"
+            },
+            {
+                "en": "One Sun One World One Grid",
+                "hi": "वन सन वन वर्ल्ड वन ग्रिड"
+            }
         ],
         "answerIndex": 0,
         "hint": {
@@ -178,10 +262,22 @@ DAY_6 = [
             "hi": "भारत में विशेष आर्थिक क्षेत्र (SEZ) अधिनियम, 2005 आधिकारिक रूप से किस तारीख को लागू हुआ था?"
         },
         "options": [
-            {"en": "1 April 2005", "hi": "1 अप्रैल 2005"},
-            {"en": "10 February 2006", "hi": "10 फरवरी 2006 (10 February 2006)"},
-            {"en": "1 July 2006", "hi": "1 जुलाई 2006"},
-            {"en": "1 January 2007", "hi": "1 जनवरी 2007"}
+            {
+                "en": "1 April 2005",
+                "hi": "1 अप्रैल 2005"
+            },
+            {
+                "en": "10 February 2006",
+                "hi": "10 फरवरी 2006"
+            },
+            {
+                "en": "1 July 2006",
+                "hi": "1 जुलाई 2006"
+            },
+            {
+                "en": "1 January 2007",
+                "hi": "1 जनवरी 2007"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -202,10 +298,22 @@ DAY_6 = [
             "hi": "मरुस्थलीय पौधे (CAM पौधे) जल संरक्षण के लिए आमतौर पर किस समय कार्बन डाइऑक्साइड ग्रहण करते हैं?"
         },
         "options": [
-            {"en": "At noon during peak sunlight", "hi": "दोपहर में तेज धूप के समय"},
-            {"en": "During the night", "hi": "रात के समय (During the night)"},
-            {"en": "Only at sunrise", "hi": "केवल सूर्योदय के समय"},
-            {"en": "Continuously throughout 24 hours", "hi": "लगातार 24 घंटे"}
+            {
+                "en": "At noon during peak sunlight",
+                "hi": "दोपहर में तेज धूप के समय"
+            },
+            {
+                "en": "During the night",
+                "hi": "रात के समय"
+            },
+            {
+                "en": "Only at sunrise",
+                "hi": "केवल सूर्योदय के समय"
+            },
+            {
+                "en": "Continuously throughout 24 hours",
+                "hi": "लगातार 24 घंटे"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -226,10 +334,22 @@ DAY_6 = [
             "hi": "आधुनिक सरकारी वित्त में सरकार की सभी स्रोतों से कुल ऋण आवश्यकताओं को कौन-सा घाटा दर्शाता है?"
         },
         "options": [
-            {"en": "Revenue Deficit", "hi": "राजस्व घाटा"},
-            {"en": "Fiscal Deficit", "hi": "राजकोषीय घाटा (Fiscal Deficit)"},
-            {"en": "Primary Deficit", "hi": "प्राथमिक घाटा"},
-            {"en": "Monetized Deficit", "hi": "मौद्रिक घाटा"}
+            {
+                "en": "Revenue Deficit",
+                "hi": "राजस्व घाटा"
+            },
+            {
+                "en": "Fiscal Deficit",
+                "hi": "राजकोषीय घाटा"
+            },
+            {
+                "en": "Primary Deficit",
+                "hi": "प्राथमिक घाटा"
+            },
+            {
+                "en": "Monetized Deficit",
+                "hi": "मौद्रिक घाटा"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -250,10 +370,22 @@ DAY_6 = [
             "hi": "छठी पंचवर्षीय योजना की व्यापार रणनीति में लघु उद्योगों (SSIs) की क्या मुख्य भूमिका थी?"
         },
         "options": [
-            {"en": "Promoted exclusively for defense production", "hi": "केवल रक्षा उत्पादन के लिए सीमित रखना"},
-            {"en": "Promoted as key employment generators and export drivers", "hi": "रोजगार सृजन और निर्यात संवर्धन के प्रमुख साधन के रूप में प्रोत्साहन"},
-            {"en": "Completely nationalised by the State", "hi": "सरकार द्वारा पूर्ण राष्ट्रीयकरण करना"},
-            {"en": "Replaced entirely by foreign multi-nationals", "hi": "विदेशी कंपनियों द्वारा प्रतिस्थापित करना"}
+            {
+                "en": "Promoted exclusively for defense production",
+                "hi": "केवल रक्षा उत्पादन के लिए सीमित रखना"
+            },
+            {
+                "en": "Promoted as key employment generators and export drivers",
+                "hi": "रोजगार सृजन और निर्यात संवर्धन के प्रमुख साधन के रूप में प्रोत्साहन"
+            },
+            {
+                "en": "Completely nationalised by the State",
+                "hi": "सरकार द्वारा पूर्ण राष्ट्रीयकरण करना"
+            },
+            {
+                "en": "Replaced entirely by foreign multi-nationals",
+                "hi": "विदेशी कंपनियों द्वारा प्रतिस्थापित करना"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -274,10 +406,22 @@ DAY_6 = [
             "hi": "भारत में उच्च उपज वाली किस्मों (HYV) के साथ 'हरित क्रांति' की शुरुआत किस पंचवर्षीय योजना के दौरान हुई थी?"
         },
         "options": [
-            {"en": "1st Five-Year Plan", "hi": "पहली पंचवर्षीय योजना"},
-            {"en": "2nd Five-Year Plan", "hi": "दूसरी पंचवर्षीय योजना"},
-            {"en": "3rd Five-Year Plan (1961–1966)", "hi": "तीसरी पंचवर्षीय योजना (1961–1966)"},
-            {"en": "5th Five-Year Plan", "hi": "पाँचवीं पंचवर्षीय योजना"}
+            {
+                "en": "1st Five-Year Plan",
+                "hi": "पहली पंचवर्षीय योजना"
+            },
+            {
+                "en": "2nd Five-Year Plan",
+                "hi": "दूसरी पंचवर्षीय योजना"
+            },
+            {
+                "en": "3rd Five-Year Plan (1961–1966)",
+                "hi": "तीसरी पंचवर्षीय योजना"
+            },
+            {
+                "en": "5th Five-Year Plan",
+                "hi": "पाँचवीं पंचवर्षीय योजना"
+            }
         ],
         "answerIndex": 2,
         "hint": {
@@ -298,10 +442,22 @@ DAY_6 = [
             "hi": "छठी पंचवर्षीय योजना (1980–85) का मुख्य उद्देश्य क्या था?"
         },
         "options": [
-            {"en": "Heavy industrialization and atomic energy", "hi": "भारी उद्योग और परमाणु ऊर्जा"},
-            {"en": "Poverty eradication (Garibi Hatao) and technological modernization", "hi": "गरीबी उन्मूलन (Garibi Hatao) और तकनीकी आधुनिकीकरण"},
-            {"en": "Rehabilitation of refugees", "hi": "शरणार्थियों का पुनर्वास"},
-            {"en": "Faster, sustainable and more inclusive growth", "hi": "तीव्र, संपोषणीय और अधिक समावेशी विकास"}
+            {
+                "en": "Heavy industrialization and atomic energy",
+                "hi": "भारी उद्योग और परमाणु ऊर्जा"
+            },
+            {
+                "en": "Poverty eradication (Garibi Hatao) and technological modernization",
+                "hi": "गरीबी उन्मूलन और तकनीकी आधुनिकीकरण"
+            },
+            {
+                "en": "Rehabilitation of refugees",
+                "hi": "शरणार्थियों का पुनर्वास"
+            },
+            {
+                "en": "Faster, sustainable and more inclusive growth",
+                "hi": "तीव्र, संपोषणीय और अधिक समावेशी विकास"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -322,10 +478,22 @@ DAY_6 = [
             "hi": "विश्व खुशहाली रिपोर्ट (World Happiness Report) में देशों के खुशहाली स्तर की व्याख्या के लिए कितने प्रमुख चरों (variables) का उपयोग किया जाता है?"
         },
         "options": [
-            {"en": "4 variables", "hi": "4 चर"},
-            {"en": "5 variables", "hi": "5 चर"},
-            {"en": "6 variables", "hi": "6 चर (6 key variables)"},
-            {"en": "8 variables", "hi": "8 चर"}
+            {
+                "en": "4 variables",
+                "hi": "4 चर"
+            },
+            {
+                "en": "5 variables",
+                "hi": "5 चर"
+            },
+            {
+                "en": "6 variables",
+                "hi": "6 चर"
+            },
+            {
+                "en": "8 variables",
+                "hi": "8 चर"
+            }
         ],
         "answerIndex": 2,
         "hint": {
@@ -346,10 +514,22 @@ DAY_6 = [
             "hi": "वैश्विक नवाचार सूचकांक (Global Innovation Index - GII) किस संगठन द्वारा प्रकाशित किया जाता है?"
         },
         "options": [
-            {"en": "World Economic Forum (WEF)", "hi": "विश्व आर्थिक मंच (WEF)"},
-            {"en": "World Intellectual Property Organization (WIPO)", "hi": "विश्व बौद्धिक संपदा संगठन (WIPO)"},
-            {"en": "World Bank", "hi": "विश्व बैंक"},
-            {"en": "International Monetary Fund (IMF)", "hi": "अंतर्राष्ट्रीय मुद्रा कोष"}
+            {
+                "en": "World Economic Forum (WEF)",
+                "hi": "विश्व आर्थिक मंच"
+            },
+            {
+                "en": "World Intellectual Property Organization (WIPO)",
+                "hi": "विश्व बौद्धिक संपदा संगठन"
+            },
+            {
+                "en": "World Bank",
+                "hi": "विश्व बैंक"
+            },
+            {
+                "en": "International Monetary Fund (IMF)",
+                "hi": "अंतर्राष्ट्रीय मुद्रा कोष"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -370,10 +550,22 @@ DAY_6 = [
             "hi": "भौतिकी में किसी वस्तु की चाल या गति की दिशा में परिवर्तन किसका संकेत देता है?"
         },
         "options": [
-            {"en": "Change in mass of the body", "hi": "वस्तु के द्रव्यमान में परिवर्तन"},
-            {"en": "Change in its state of motion (Acceleration)", "hi": "उसकी गति की अवस्था में परिवर्तन (त्वरण)"},
-            {"en": "Zero net work done", "hi": "शून्य कार्य"},
-            {"en": "Conservation of chemical energy", "hi": "रासायनिक ऊर्जा का संरक्षण"}
+            {
+                "en": "Change in mass of the body",
+                "hi": "वस्तु के द्रव्यमान में परिवर्तन"
+            },
+            {
+                "en": "Change in its state of motion (Acceleration)",
+                "hi": "उसकी गति की अवस्था में परिवर्तन (त्वरण)"
+            },
+            {
+                "en": "Zero net work done",
+                "hi": "शून्य कार्य"
+            },
+            {
+                "en": "Conservation of chemical energy",
+                "hi": "रासायनिक ऊर्जा का संरक्षण"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -394,10 +586,22 @@ DAY_6 = [
             "hi": "2 ओम और 4 ओम के दो प्रतिरोधक एक 6 वोल्ट की बैटरी के साथ समानांतर क्रम में जुड़े हैं। परिपथ में प्रवाहित कुल धारा कितनी होगी?"
         },
         "options": [
-            {"en": "1.0 Ampere", "hi": "1.0 एम्पीयर"},
-            {"en": "3.0 Amperes", "hi": "3.0 एम्पीयर"},
-            {"en": "4.5 Amperes", "hi": "4.5 एम्पीयर (4.5 A)"},
-            {"en": "9.0 Amperes", "hi": "9.0 एम्पीयर"}
+            {
+                "en": "1.0 Ampere",
+                "hi": "1.0 एम्पीयर"
+            },
+            {
+                "en": "3.0 Amperes",
+                "hi": "3.0 एम्पीयर"
+            },
+            {
+                "en": "4.5 Amperes",
+                "hi": "4.5 एम्पीयर"
+            },
+            {
+                "en": "9.0 Amperes",
+                "hi": "9.0 एम्पीयर"
+            }
         ],
         "answerIndex": 2,
         "hint": {
@@ -418,10 +622,22 @@ DAY_6 = [
             "hi": "एक व्यक्ति को -2.5 D क्षमता का चश्मा निर्धारित किया जाता है। वह किस दृष्टि दोष से पीड़ित है और उसे कौन-सा लेंस चाहिए?"
         },
         "options": [
-            {"en": "Hypermetropia (Farsightedness), Convex lens", "hi": "दूर-दृष्टि दोष (हाइपरमेट्रोपिया), उत्तल लेंस"},
-            {"en": "Myopia (Nearsightedness), Concave lens", "hi": "निकट-दृष्टि दोष (मायोपिया), अवतल लेंस"},
-            {"en": "Presbyopia, Bifocal lens", "hi": "जरा-दृष्टि दोष, द्विफोकसी लेंस"},
-            {"en": "Astigmatism, Cylindrical lens", "hi": "दृष्टि वैषम्य, बेलनाकार लेंस"}
+            {
+                "en": "Hypermetropia (Farsightedness), Convex lens",
+                "hi": "दूर-दृष्टि दोष (हाइपरमेट्रोपिया), उत्तल लेंस"
+            },
+            {
+                "en": "Myopia (Nearsightedness), Concave lens",
+                "hi": "निकट-दृष्टि दोष (मायोपिया), अवतल लेंस"
+            },
+            {
+                "en": "Presbyopia, Bifocal lens",
+                "hi": "जरा-दृष्टि दोष, द्विफोकसी लेंस"
+            },
+            {
+                "en": "Astigmatism, Cylindrical lens",
+                "hi": "दृष्टि वैषम्य, बेलनाकार लेंस"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -442,10 +658,22 @@ DAY_6 = [
             "hi": "ध्वनि के 'डॉप्लर प्रभाव' (Doppler Effect) का सबसे उपयुक्त उदाहरण कौन-सा है?"
         },
         "options": [
-            {"en": "Echo heard in an empty hall", "hi": "खाली हॉल में गूंज सुनाई देना"},
-            {"en": "A stationary listener noticing a pitch rise and fall as an ambulance siren passes by", "hi": "एम्बुलेंस के सायरन का पास आते समय तीखा (उच्च पिच) और दूर जाते समय धीमा सुनाई देना"},
-            {"en": "Absorption of sound by acoustic curtains", "hi": "ध्वनिरोधी पर्दों द्वारा ध्वनि का अवशोषण"},
-            {"en": "Vibration of a tuning fork at resonance", "hi": "अनुनाद पर स्वरित्र द्विभुज का कंपन"}
+            {
+                "en": "Echo heard in an empty hall",
+                "hi": "खाली हॉल में गूंज सुनाई देना"
+            },
+            {
+                "en": "A stationary listener noticing a pitch rise and fall as an ambulance siren passes by",
+                "hi": "एम्बुलेंस के सायरन का पास आते समय तीखा (उच्च पिच) और दूर जाते समय धीमा सुनाई देना"
+            },
+            {
+                "en": "Absorption of sound by acoustic curtains",
+                "hi": "ध्वनिरोधी पर्दों द्वारा ध्वनि का अवशोषण"
+            },
+            {
+                "en": "Vibration of a tuning fork at resonance",
+                "hi": "अनुनाद पर स्वरित्र द्विभुज का कंपन"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -466,10 +694,22 @@ DAY_6 = [
             "hi": "बर्नौली के सिद्धांत के अनुसार जब कोई आदर्श द्रव किसी क्षैतिज पाइप के संकीर्ण (तंग) भाग से बहता है, तो क्या होता है?"
         },
         "options": [
-            {"en": "Speed decreases and pressure increases", "hi": "चाल घटती है और दाब बढ़ता है"},
-            {"en": "Speed increases and fluid pressure decreases", "hi": "चाल बढ़ती है और द्रव का दाब घटता है (Speed increases, pressure decreases)"},
-            {"en": "Both speed and pressure remain constant", "hi": "चाल और दाब दोनों स्थिर रहते हैं"},
-            {"en": "Both speed and pressure increase simultaneously", "hi": "चाल और दाब दोनों एक साथ बढ़ते हैं"}
+            {
+                "en": "Speed decreases and pressure increases",
+                "hi": "चाल घटती है और दाब बढ़ता है"
+            },
+            {
+                "en": "Speed increases and fluid pressure decreases",
+                "hi": "चाल बढ़ती है और द्रव का दाब घटता है"
+            },
+            {
+                "en": "Both speed and pressure remain constant",
+                "hi": "चाल और दाब दोनों स्थिर रहते हैं"
+            },
+            {
+                "en": "Both speed and pressure increase simultaneously",
+                "hi": "चाल और दाब दोनों एक साथ बढ़ते हैं"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -490,10 +730,22 @@ DAY_6 = [
             "hi": "हल्दी में हानिकारक मेटानिल येलो (Metanil Yellow) की मिलावट की जांच कैसे की जाती है?"
         },
         "options": [
-            {"en": "By adding iodine solution which turns blue-black", "hi": "आयोडीन मिलाकर जो नीला-काला हो जाता है"},
-            {"en": "By adding concentrated Hydrochloric Acid (HCl); sample turns magenta/pink and retains color upon adding water", "hi": "सांद्र हाइड्रोक्लोरिक एसिड (HCl) मिलाकर; मिलावटी होने पर गुलाबी/बैंगनी रंग आता है"},
-            {"en": "By heating on a flame until it turns green", "hi": "ज्वाला पर गर्म करने पर हरा रंग देना"},
-            {"en": "By mixing with copper sulphate solution", "hi": "कॉपर सल्फेट घोल में मिलाकर"}
+            {
+                "en": "By adding iodine solution which turns blue-black",
+                "hi": "आयोडीन मिलाकर जो नीला-काला हो जाता है"
+            },
+            {
+                "en": "By adding concentrated Hydrochloric Acid (HCl); sample turns magenta/pink and retains color upon adding water",
+                "hi": "सांद्र हाइड्रोक्लोरिक एसिड मिलाकर; मिलावटी होने पर गुलाबी/बैंगनी रंग आता है"
+            },
+            {
+                "en": "By heating on a flame until it turns green",
+                "hi": "ज्वाला पर गर्म करने पर हरा रंग देना"
+            },
+            {
+                "en": "By mixing with copper sulphate solution",
+                "hi": "कॉपर सल्फेट घोल में मिलाकर"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -514,16 +766,28 @@ DAY_6 = [
             "hi": "किस प्रकार के रेडियोधर्मी क्षय में मूल नाभिक की परमाणु संख्या (Z) में 1 की वृद्धि होती है, जबकि द्रव्यमान संख्या (A) अपरिवर्तित रहती है?"
         },
         "options": [
-            {"en": "Alpha decay", "hi": "अल्फा क्षय (Alpha decay)"},
-            {"en": "Beta-minus (β⁻) decay", "hi": "बीटा-माइनस क्षय (Beta-minus decay)"},
-            {"en": "Gamma emission", "hi": "गामा उत्सर्जन"},
-            {"en": "Positron (β⁺) emission", "hi": "पॉज़िट्रॉन क्षय"}
+            {
+                "en": "Alpha decay",
+                "hi": "अल्फा क्षय"
+            },
+            {
+                "en": "Beta-minus (β⁻) decay",
+                "hi": "बीटा-माइनस क्षय"
+            },
+            {
+                "en": "Gamma emission",
+                "hi": "गामा उत्सर्जन"
+            },
+            {
+                "en": "Positron (β⁺) emission",
+                "hi": "पॉज़िट्रॉन क्षय"
+            }
         ],
         "answerIndex": 1,
         "hint": {
             "en": "A neutron inside the nucleus transforms into a proton, an electron, and an antineutrino.",
-            "hi": "नाभिक का एक न्यूट्रॉन प्रोटॉन और इलेक्ट्रॉन में बदल जाता है (n -> p + e⁻ + ν̄)."}
-        ,
+            "hi": "नाभिक का एक न्यूट्रॉन प्रोटॉन और इलेक्ट्रॉन में बदल जाता है (n -> p + e⁻ + ν̄)."
+        },
         "explanation": {
             "en": "In beta-minus (β⁻) decay, a neutron converts into a proton, emitting an electron and antineutrino. Thus atomic number Z increases by 1 (Z -> Z+1), while mass number A stays constant.",
             "hi": "बीटा-माइनस क्षय में एक न्यूट्रॉन प्रोटॉन में परिवर्तित हो जाता है, जिससे परमाणु क्रमांक में 1 की वृद्धि होती है परंतु द्रव्यमान संख्या अपरिवर्तित रहती है।"
@@ -538,10 +802,22 @@ DAY_6 = [
             "hi": "भारत में नैनो-उर्वरकों (नैनो यूरिया और नैनो डीएपी) के व्यापक उपयोग का प्राथमिक उद्देश्य क्या है?"
         },
         "options": [
-            {"en": "To increase pesticide toxicity in the soil", "hi": "मिट्टी में कीटनाशक विषाक्तता बढ़ाना"},
-            {"en": "To drastically increase fertilizer nutrient use efficiency and curb import dependence", "hi": "उर्वरक उपयोग दक्षता बढ़ाना और उर्वरक आयात पर निर्भरता कम करना"},
-            {"en": "To convert farmlands into non-agricultural zones", "hi": "कृषि भूमि को गैर-कृषि में बदलना"},
-            {"en": "To eliminate the use of nitrogen completely", "hi": "नाइट्रोजन का उपयोग पूर्णतः बंद करना"}
+            {
+                "en": "To increase pesticide toxicity in the soil",
+                "hi": "मिट्टी में कीटनाशक विषाक्तता बढ़ाना"
+            },
+            {
+                "en": "To drastically increase fertilizer nutrient use efficiency and curb import dependence",
+                "hi": "उर्वरक उपयोग दक्षता बढ़ाना और उर्वरक आयात पर निर्भरता कम करना"
+            },
+            {
+                "en": "To convert farmlands into non-agricultural zones",
+                "hi": "कृषि भूमि को गैर-कृषि में बदलना"
+            },
+            {
+                "en": "To eliminate the use of nitrogen completely",
+                "hi": "नाइट्रोजन का उपयोग पूर्णतः बंद करना"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -562,10 +838,22 @@ DAY_6 = [
             "hi": "मॉर्फिन और मेथाडोन, जो खेलों में डोपिंग एजेंट के रूप में प्रतिबंधित हैं, किस वर्ग की औषधियों में आते हैं?"
         },
         "options": [
-            {"en": "Anabolic Steroids", "hi": "एनाबॉलिक स्टेरॉयड"},
-            {"en": "Narcotics (Opioid Analgesics)", "hi": "नारकोटिक्स / ओपिओइड एनाल्जेसिक (Narcotics)"},
-            {"en": "Beta-2 Agonists", "hi": "बीटा-2 एगोनिस्ट"},
-            {"en": "Diuretics", "hi": "मूत्रवर्धक (Diuretics)"}
+            {
+                "en": "Anabolic Steroids",
+                "hi": "एनाबॉलिक स्टेरॉयड"
+            },
+            {
+                "en": "Narcotics (Opioid Analgesics)",
+                "hi": "नारकोटिक्स / ओपिओइड एनाल्जेसिक"
+            },
+            {
+                "en": "Beta-2 Agonists",
+                "hi": "बीटा-2 एगोनिस्ट"
+            },
+            {
+                "en": "Diuretics",
+                "hi": "मूत्रवर्धक"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -586,10 +874,22 @@ DAY_6 = [
             "hi": "पौधे अपने अपशिष्ट उत्पादों, जैसे रेजिन और गोंद को मुख्य रूप से कहाँ संचित करते हैं?"
         },
         "options": [
-            {"en": "In newly developing young root tips", "hi": "जड़ों की नई कलियों में"},
-            {"en": "In the old, non-functional xylem (Heartwood)", "hi": "पुराने जाइलम (हार्टवुड / काष्ठ) में"},
-            {"en": "In active companion cells of phloem", "hi": "फ्लोएम की सहचर कोशिकाओं में"},
-            {"en": "In the floral nectaries", "hi": "पुष्पों के मकरंद में"}
+            {
+                "en": "In newly developing young root tips",
+                "hi": "जड़ों की नई कलियों में"
+            },
+            {
+                "en": "In the old, non-functional xylem (Heartwood)",
+                "hi": "पुराने जाइलम (हार्टवुड / काष्ठ) में"
+            },
+            {
+                "en": "In active companion cells of phloem",
+                "hi": "फ्लोएम की सहचर कोशिकाओं में"
+            },
+            {
+                "en": "In the floral nectaries",
+                "hi": "पुष्पों के मकरंद में"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -610,10 +910,22 @@ DAY_6 = [
             "hi": "श्वसन तंत्र की उपकला पर कौन-सी सूक्ष्म बाल जैसी संरचनाएं धूल और कीटाणुओं को फेफड़ों से बाहर निकालने का कार्य करती हैं?"
         },
         "options": [
-            {"en": "Microvilli", "hi": "सूक्ष्मांकुर (Microvilli)"},
-            {"en": "Cilia", "hi": "सिलिया / पक्ष्माभ (Cilia)"},
-            {"en": "Flagella", "hi": "कशाभिका (Flagella)"},
-            {"en": "Alveoli", "hi": "कूपिका (Alveoli)"}
+            {
+                "en": "Microvilli",
+                "hi": "सूक्ष्मांकुर"
+            },
+            {
+                "en": "Cilia",
+                "hi": "सिलिया / पक्ष्माभ"
+            },
+            {
+                "en": "Flagella",
+                "hi": "कशाभिका"
+            },
+            {
+                "en": "Alveoli",
+                "hi": "कूपिका"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -634,10 +946,22 @@ DAY_6 = [
             "hi": "वायवीय कोशिकीय श्वसन (Cellular Respiration) के प्रमुख चरणों का सही क्रम क्या है?"
         },
         "options": [
-            {"en": "Krebs Cycle -> Glycolysis -> Electron Transport Chain -> Pyruvate Oxidation", "hi": "क्रेब्स चक्र -> ग्लाइकोलाइसिस -> इलेक्ट्रॉन परिवहन तंत्र -> पाइरुवेट ऑक्सीकरण"},
-            {"en": "Glycolysis -> Pyruvate Oxidation -> Krebs Cycle -> Electron Transport Chain", "hi": "ग्लाइकोलाइसिस -> पाइरुवेट ऑक्सीकरण -> क्रेब्स चक्र -> इलेक्ट्रॉन परिवहन तंत्र"},
-            {"en": "Electron Transport Chain -> Glycolysis -> Krebs Cycle -> Fermentation", "hi": "इलेक्ट्रॉन परिवहन तंत्र -> ग्लाइकोलाइसिस -> क्रेब्स चक्र"},
-            {"en": "Pyruvate Oxidation -> Glycolysis -> Electron Transport Chain -> Krebs Cycle", "hi": "पाइरुवेट ऑक्सीकरण -> ग्लाइकोलाइसिस -> ईटीसी"}
+            {
+                "en": "Krebs Cycle -> Glycolysis -> Electron Transport Chain -> Pyruvate Oxidation",
+                "hi": "क्रेब्स चक्र -> ग्लाइकोलाइसिस -> इलेक्ट्रॉन परिवहन तंत्र -> पाइरुवेट ऑक्सीकरण"
+            },
+            {
+                "en": "Glycolysis -> Pyruvate Oxidation -> Krebs Cycle -> Electron Transport Chain",
+                "hi": "ग्लाइकोलाइसिस -> पाइरुवेट ऑक्सीकरण -> क्रेब्स चक्र -> इलेक्ट्रॉन परिवहन तंत्र"
+            },
+            {
+                "en": "Electron Transport Chain -> Glycolysis -> Krebs Cycle -> Fermentation",
+                "hi": "इलेक्ट्रॉन परिवहन तंत्र -> ग्लाइकोलाइसिस -> क्रेब्स चक्र"
+            },
+            {
+                "en": "Pyruvate Oxidation -> Glycolysis -> Electron Transport Chain -> Krebs Cycle",
+                "hi": "पाइरुवेट ऑक्सीकरण -> ग्लाइकोलाइसिस -> ईटीसी"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -658,10 +982,22 @@ DAY_6 = [
             "hi": "मानव और जंतु शरीर (यकृत और मांसपेशियों) में ऊर्जा और ग्लूकोज का प्राथमिक संचयन किस बायोमॉलिक्यूल के रूप में होता है?"
         },
         "options": [
-            {"en": "Cellulose", "hi": "सेलूलोज़"},
-            {"en": "Starch", "hi": "स्टार्च"},
-            {"en": "Glycogen", "hi": "ग्लाइकोजन (Glycogen)"},
-            {"en": "Chitin", "hi": "काइटिन"}
+            {
+                "en": "Cellulose",
+                "hi": "सेलूलोज़"
+            },
+            {
+                "en": "Starch",
+                "hi": "स्टार्च"
+            },
+            {
+                "en": "Glycogen",
+                "hi": "ग्लाइकोजन"
+            },
+            {
+                "en": "Chitin",
+                "hi": "काइटिन"
+            }
         ],
         "answerIndex": 2,
         "hint": {
@@ -682,10 +1018,22 @@ DAY_6 = [
             "hi": "घातक जूनोटिक निपाह वायरस (Nipah Virus) का प्राकृतिक भंडार (नेचुरल होस्ट) कौन-सा जीव है?"
         },
         "options": [
-            {"en": "Mosquitoes", "hi": "मच्छर"},
-            {"en": "Fruit Bats (Pteropus species)", "hi": "फल चमगादड़ (Fruit Bats / फ्लाइंग फॉक्स)"},
-            {"en": "Wild Rodents", "hi": "जंगली चूहे"},
-            {"en": "Ticks", "hi": "पिस्सू / किलनी"}
+            {
+                "en": "Mosquitoes",
+                "hi": "मच्छर"
+            },
+            {
+                "en": "Fruit Bats (Pteropus species)",
+                "hi": "फल चमगादड़ (फ्लाइंग फॉक्स)"
+            },
+            {
+                "en": "Wild Rodents",
+                "hi": "जंगली चूहे"
+            },
+            {
+                "en": "Ticks",
+                "hi": "पिस्सू / किलनी"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -706,10 +1054,22 @@ DAY_6 = [
             "hi": "एक जीवित स्वस्थ मानव द्वारा किन दो अंगों (या उनके हिस्से) का सुरक्षित रूप से प्रत्यारोपण हेतु दान किया जा सकता है?"
         },
         "options": [
-            {"en": "Both kidneys and heart", "hi": "दोनों गुर्दे और हृदय"},
-            {"en": "One kidney and part of a liver", "hi": "एक गुर्दा (किडनी) और यकृत (लिवर) का एक हिस्सा"},
-            {"en": "Pancreas and whole lungs", "hi": "अग्न्याशय और दोनों फेफड़े"},
-            {"en": "Stomach and spleen", "hi": "आमाशय और प्लीहा"}
+            {
+                "en": "Both kidneys and heart",
+                "hi": "दोनों गुर्दे और हृदय"
+            },
+            {
+                "en": "One kidney and part of a liver",
+                "hi": "एक गुर्दा (किडनी) और यकृत (लिवर) का एक हिस्सा"
+            },
+            {
+                "en": "Pancreas and whole lungs",
+                "hi": "अग्न्याशय और दोनों फेफड़े"
+            },
+            {
+                "en": "Stomach and spleen",
+                "hi": "आमाशय और प्लीहा"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -730,10 +1090,22 @@ DAY_6 = [
             "hi": "फोरेंसिक और चिकित्सा विज्ञान में 'अस्थिकरण परीक्षण' (Ossification Test) का उपयोग मुख्य रूप से किस जानकारी के निर्धारण के लिए किया जाता है?"
         },
         "options": [
-            {"en": "Blood group and DNA profiling", "hi": "रक्त समूह और डीएनए जांच"},
-            {"en": "Age of an individual", "hi": "व्यक्ति की आयु (Age determination)"},
-            {"en": "Bone cancer diagnosis", "hi": "अस्थि कैंसर की पहचान"},
-            {"en": "Level of body toxins", "hi": "शरीर में विषाक्त पदार्थों की मात्रा"}
+            {
+                "en": "Blood group and DNA profiling",
+                "hi": "रक्त समूह और डीएनए जांच"
+            },
+            {
+                "en": "Age of an individual",
+                "hi": "व्यक्ति की आयु"
+            },
+            {
+                "en": "Bone cancer diagnosis",
+                "hi": "अस्थि कैंसर की पहचान"
+            },
+            {
+                "en": "Level of body toxins",
+                "hi": "शरीर में विषाक्त पदार्थों की मात्रा"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -754,10 +1126,22 @@ DAY_6 = [
             "hi": "अत्यधिक शारीरिक व्यायाम के बाद मांसपेशियों में किस अम्ल के जमाव के कारण दर्द और ऐंठन (cramps) होती है?"
         },
         "options": [
-            {"en": "Acetic acid", "hi": "एसिटिक अम्ल"},
-            {"en": "Lactic acid", "hi": "लैक्टिक अम्ल (Lactic Acid)"},
-            {"en": "Citric acid", "hi": "साइट्रिक अम्ल"},
-            {"en": "Formic acid", "hi": "फॉर्मिक अम्ल"}
+            {
+                "en": "Acetic acid",
+                "hi": "एसिटिक अम्ल"
+            },
+            {
+                "en": "Lactic acid",
+                "hi": "लैक्टिक अम्ल"
+            },
+            {
+                "en": "Citric acid",
+                "hi": "साइट्रिक अम्ल"
+            },
+            {
+                "en": "Formic acid",
+                "hi": "फॉर्मिक अम्ल"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -778,10 +1162,22 @@ DAY_6 = [
             "hi": "ओडिशा और झारखंड के पारंपरिक मार्शल लोक नृत्य 'पाइका नृत्य' (Paika Nritya) का समापन किस क्रिया से होता है?"
         },
         "options": [
-            {"en": "A slow bowing towards the musicians", "hi": "संगीतकारों की ओर झुकना"},
-            {"en": "A unified loud group victory shout of 'Jai Jagannath'", "hi": "समूह द्वारा 'जय जगन्नाथ' का जोरदार विजय उद्घोष"},
-            {"en": "Lighting ceremonial oil lamps", "hi": "दीप प्रज्ज्वलन"},
-            {"en": "Throwing colored powders into the air", "hi": "हवा में रंग उड़ाना"}
+            {
+                "en": "A slow bowing towards the musicians",
+                "hi": "संगीतकारों की ओर झुकना"
+            },
+            {
+                "en": "A unified loud group victory shout of 'Jai Jagannath'",
+                "hi": "समूह द्वारा 'जय जगन्नाथ' का जोरदार विजय उद्घोष"
+            },
+            {
+                "en": "Lighting ceremonial oil lamps",
+                "hi": "दीप प्रज्ज्वलन"
+            },
+            {
+                "en": "Throwing colored powders into the air",
+                "hi": "हवा में रंग उड़ाना"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -802,10 +1198,22 @@ DAY_6 = [
             "hi": "कृषि समृद्धि और खुशहाली के लिए मनाया जाने वाला 'न्योकुम' (Nyokum) त्योहार किस जनजाति से संबंधित है?"
         },
         "options": [
-            {"en": "Nyishi tribe of Arunachal Pradesh", "hi": "अरुणाचल प्रदेश की न्यीशी (Nyishi) जनजाति"},
-            {"en": "Bodo tribe of Assam", "hi": "असम की बोडो जनजाति"},
-            {"en": "Khasi tribe of Meghalaya", "hi": "मेघालय की खासी जनजाति"},
-            {"en": "Kuki tribe of Manipur", "hi": "मणिपुर की कुकी जनजाति"}
+            {
+                "en": "Nyishi tribe of Arunachal Pradesh",
+                "hi": "अरुणाचल प्रदेश की न्यीशी जनजाति"
+            },
+            {
+                "en": "Bodo tribe of Assam",
+                "hi": "असम की बोडो जनजाति"
+            },
+            {
+                "en": "Khasi tribe of Meghalaya",
+                "hi": "मेघालय की खासी जनजाति"
+            },
+            {
+                "en": "Kuki tribe of Manipur",
+                "hi": "मणिपुर की कुकी जनजाति"
+            }
         ],
         "answerIndex": 0,
         "hint": {
@@ -826,10 +1234,22 @@ DAY_6 = [
             "hi": "क्रिकेट में 'डकवर्थ-लुईस-स्टर्न' (DLS) पद्धति का क्या उद्देश्य होता है?"
         },
         "options": [
-            {"en": "To select the Man of the Match", "hi": "मैन ऑफ द मैच का चयन करना"},
-            {"en": "To calculate a revised target score in rain-interrupted limited-overs matches", "hi": "बारिश से बाधित सीमित ओवरों के मैचों में संशोधित लक्ष्य स्कोर निर्धारित करना"},
-            {"en": "To calculate bowler economy rates", "hi": "गेंदबाजों की इकोनॉमी दर निकालना"},
-            {"en": "To track ICC world test championship points", "hi": "विश्व टेस्ट चैंपियनशिप अंक निर्धारित करना"}
+            {
+                "en": "To select the Man of the Match",
+                "hi": "मैन ऑफ द मैच का चयन करना"
+            },
+            {
+                "en": "To calculate a revised target score in rain-interrupted limited-overs matches",
+                "hi": "बारिश से बाधित सीमित ओवरों के मैचों में संशोधित लक्ष्य स्कोर निर्धारित करना"
+            },
+            {
+                "en": "To calculate bowler economy rates",
+                "hi": "गेंदबाजों की इकोनॉमी दर निकालना"
+            },
+            {
+                "en": "To track ICC world test championship points",
+                "hi": "विश्व टेस्ट चैंपियनशिप अंक निर्धारित करना"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -850,10 +1270,22 @@ DAY_6 = [
             "hi": "तैराकी में 'फ्लिप टर्न' (Flip Turn / Tumble Turn) का क्या अर्थ होता है?"
         },
         "options": [
-            {"en": "Diving into the pool from the starting block", "hi": "शुरुआती ब्लॉक से पानी में छलांग लगाना"},
-            {"en": "An underwater somersault executed at the wall to quickly reverse swimming direction", "hi": "पूल की दीवार पर पहुंचकर गति बनाए रखते हुए पानी के अंदर कलाबाजी (सोमरसॉल्ट) लेकर विपरीत दिशा में मुड़ना"},
-            {"en": "Switching strokes mid-lap", "hi": "दौड़ के बीच में स्ट्रोक बदलना"},
-            {"en": "Floating on the back to rest", "hi": "विश्राम के लिए पीठ के बल तैरना"}
+            {
+                "en": "Diving into the pool from the starting block",
+                "hi": "शुरुआती ब्लॉक से पानी में छलांग लगाना"
+            },
+            {
+                "en": "An underwater somersault executed at the wall to quickly reverse swimming direction",
+                "hi": "पूल की दीवार पर पहुंचकर गति बनाए रखते हुए पानी के अंदर कलाबाजी (सोमरसॉल्ट) लेकर विपरीत दिशा में मुड़ना"
+            },
+            {
+                "en": "Switching strokes mid-lap",
+                "hi": "दौड़ के बीच में स्ट्रोक बदलना"
+            },
+            {
+                "en": "Floating on the back to rest",
+                "hi": "विश्राम के लिए पीठ के बल तैरना"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -874,10 +1306,22 @@ DAY_6 = [
             "hi": "रिले रेस में किसी एक धावक द्वारा दौड़े जाने वाले निर्दिष्ट भाग को क्या कहा जाता है?"
         },
         "options": [
-            {"en": "A lap", "hi": "लैप (Lap)"},
-            {"en": "A leg", "hi": "लेग (Leg)"},
-            {"en": "A split", "hi": "स्प्लिट (Split)"},
-            {"en": "A stint", "hi": "स्टिंट (Stint)"}
+            {
+                "en": "A lap",
+                "hi": "लैप"
+            },
+            {
+                "en": "A leg",
+                "hi": "लेग"
+            },
+            {
+                "en": "A split",
+                "hi": "स्प्लिट"
+            },
+            {
+                "en": "A stint",
+                "hi": "स्टिंट"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -898,10 +1342,22 @@ DAY_6 = [
             "hi": "कम दूरी की स्प्रिंट दौड़ में 'बंच स्टार्ट' (बुलेट स्टार्ट) के दौरान शुरुआती ब्लॉकों के बीच की दूरी लगभग कितनी होती है?"
         },
         "options": [
-            {"en": "8 to 11 inches", "hi": "8 से 11 इंच"},
-            {"en": "16 to 19 inches", "hi": "16 से 19 इंच (16 to 19 inches)"},
-            {"en": "26 to 29 inches", "hi": "26 से 29 इंच"},
-            {"en": "36 to 40 inches", "hi": "36 से 40 इंच"}
+            {
+                "en": "8 to 11 inches",
+                "hi": "8 से 11 इंच"
+            },
+            {
+                "en": "16 to 19 inches",
+                "hi": "16 से 19 इंच"
+            },
+            {
+                "en": "26 to 29 inches",
+                "hi": "26 से 29 इंच"
+            },
+            {
+                "en": "36 to 40 inches",
+                "hi": "36 से 40 इंच"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -922,10 +1378,22 @@ DAY_6 = [
             "hi": "जूडो (Judo) में रेफरी द्वारा मुकाबले को शुरू करने या फिर से शुरू करने के लिए किस जापानी शब्द का प्रयोग किया जाता है?"
         },
         "options": [
-            {"en": "Mate", "hi": "माटे (Mate - रुको)"},
-            {"en": "Hajime", "hi": "हाजिमे (Hajime - शुरू करो)"},
-            {"en": "Sore-made", "hi": "सोरे-माडे (समय समाप्त)"},
-            {"en": "Osaekomi", "hi": "ओसाए-कोमी"}
+            {
+                "en": "Mate",
+                "hi": "माटे (रुको)"
+            },
+            {
+                "en": "Hajime",
+                "hi": "हाजिमे (शुरू करो)"
+            },
+            {
+                "en": "Sore-made",
+                "hi": "सोरे-माडे (समय समाप्त)"
+            },
+            {
+                "en": "Osaekomi",
+                "hi": "ओसाए-कोमी"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -946,10 +1414,22 @@ DAY_6 = [
             "hi": "ऊंची कूद की वह कौन-सी क्रांतिकारी तकनीक है जिसमें एथलीट बार के ऊपर से पीठ के बल सिर की तरफ से झुकते हुए छलांग लगाता है?"
         },
         "options": [
-            {"en": "Straddle Technique", "hi": "स्ट्रैडल तकनीक"},
-            {"en": "Fosbury Flop", "hi": "फॉसबरी फ्लॉप (Fosbury Flop)"},
-            {"en": "Scissors Jump", "hi": "सिज़र्स जंप"},
-            {"en": "Western Roll", "hi": "वेस्टर्न रोल"}
+            {
+                "en": "Straddle Technique",
+                "hi": "स्ट्रैडल तकनीक"
+            },
+            {
+                "en": "Fosbury Flop",
+                "hi": "फॉसबरी फ्लॉप"
+            },
+            {
+                "en": "Scissors Jump",
+                "hi": "सिज़र्स जंप"
+            },
+            {
+                "en": "Western Roll",
+                "hi": "वेस्टर्न रोल"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -970,10 +1450,22 @@ DAY_6 = [
             "hi": "खो-खो (Kho-Kho) के खेल में 12 सदस्यों की टीम में से कितने खिलाड़ी सक्रिय रूप से मैदान पर चेज़िंग (पीछा करने) के लिए उतरते हैं?"
         },
         "options": [
-            {"en": "7 players", "hi": "7 खिलाड़ी"},
-            {"en": "8 players", "hi": "8 खिलाड़ी"},
-            {"en": "9 players", "hi": "9 खिलाड़ी (9 players)"},
-            {"en": "11 players", "hi": "11 खिलाड़ी"}
+            {
+                "en": "7 players",
+                "hi": "7 खिलाड़ी"
+            },
+            {
+                "en": "8 players",
+                "hi": "8 खिलाड़ी"
+            },
+            {
+                "en": "9 players",
+                "hi": "9 खिलाड़ी"
+            },
+            {
+                "en": "11 players",
+                "hi": "11 खिलाड़ी"
+            }
         ],
         "answerIndex": 2,
         "hint": {
@@ -994,10 +1486,22 @@ DAY_6 = [
             "hi": "2022 में राष्ट्रीय रक्षा अकादमी (NDA), खड़कवासला में शामिल होने वाले ऐतिहासिक पहले महिला बैच में कितनी महिला कैडेट थीं?"
         },
         "options": [
-            {"en": "15 female cadets", "hi": "15 महिला कैडेट"},
-            {"en": "19 female cadets", "hi": "19 महिला कैडेट (19 female cadets)"},
-            {"en": "25 female cadets", "hi": "25 महिला कैडेट"},
-            {"en": "30 female cadets", "hi": "30 महिला कैडेट"}
+            {
+                "en": "15 female cadets",
+                "hi": "15 महिला कैडेट"
+            },
+            {
+                "en": "19 female cadets",
+                "hi": "19 महिला कैडेट"
+            },
+            {
+                "en": "25 female cadets",
+                "hi": "25 महिला कैडेट"
+            },
+            {
+                "en": "30 female cadets",
+                "hi": "30 महिला कैडेट"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -1018,10 +1522,22 @@ DAY_6 = [
             "hi": "जूडो में 'इप्पोन' (Ippon) मिलने का क्या अर्थ होता है?"
         },
         "options": [
-            {"en": "Half point (Waza-ari)", "hi": "आधा अंक (वाजा-अरी)"},
-            {"en": "Immediate and decisive victory", "hi": "मैच की तत्काल और निर्णायक विजय (Immediate victory)"},
-            {"en": "Minor penalty (Shido)", "hi": "मामूली चेतावनी"},
-            {"en": "Start of extra time", "hi": "अतिरिक्त समय की शुरुआत"}
+            {
+                "en": "Half point (Waza-ari)",
+                "hi": "आधा अंक (वाजा-अरी)"
+            },
+            {
+                "en": "Immediate and decisive victory",
+                "hi": "मैच की तत्काल और निर्णायक विजय"
+            },
+            {
+                "en": "Minor penalty (Shido)",
+                "hi": "मामूली चेतावनी"
+            },
+            {
+                "en": "Start of extra time",
+                "hi": "अतिरिक्त समय की शुरुआत"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -1042,10 +1558,22 @@ DAY_6 = [
             "hi": "विंबलडन चैंपियनशिप में सर्वाधिक 8 बार पुरुष एकल खिताब जीतने का ऐतिहासिक रिकॉर्ड किसके नाम है?"
         },
         "options": [
-            {"en": "Rafael Nadal", "hi": "राफेल नडाल"},
-            {"en": "Roger Federer", "hi": "रोजर फेडरर (Roger Federer)"},
-            {"en": "Novak Djokovic", "hi": "नोवाक जोकोविच"},
-            {"en": "Pete Sampras", "hi": "पीट सम्प्रास"}
+            {
+                "en": "Rafael Nadal",
+                "hi": "राफेल नडाल"
+            },
+            {
+                "en": "Roger Federer",
+                "hi": "रोजर फेडरर"
+            },
+            {
+                "en": "Novak Djokovic",
+                "hi": "नोवाक जोकोविच"
+            },
+            {
+                "en": "Pete Sampras",
+                "hi": "पीट सम्प्रास"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -1066,10 +1594,22 @@ DAY_6 = [
             "hi": "इंपीरियल बैंक ऑफ इंडिया किस वर्ष भारतीय स्टेट बैंक (SBI) में परिवर्तित हुआ था?"
         },
         "options": [
-            {"en": "1949", "hi": "1949"},
-            {"en": "1955", "hi": "1955 (1955)"},
-            {"en": "1960", "hi": "1960"},
-            {"en": "1969", "hi": "1969"}
+            {
+                "en": "1949",
+                "hi": "1949"
+            },
+            {
+                "en": "1955",
+                "hi": "1955"
+            },
+            {
+                "en": "1960",
+                "hi": "1960"
+            },
+            {
+                "en": "1969",
+                "hi": "1969"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -1090,10 +1630,22 @@ DAY_6 = [
             "hi": "दाढ़ी बनाने (shaving) या दंत चिकित्सकों द्वारा किस दर्पण का उपयोग किया जाता है?"
         },
         "options": [
-            {"en": "Convex mirror", "hi": "उत्तल दर्पण"},
-            {"en": "Concave mirror", "hi": "अवतल दर्पण (Concave mirror)"},
-            {"en": "Plane mirror", "hi": "समतल दर्पण"},
-            {"en": "Parabolic convex mirror", "hi": "परवलयाकार उत्तल दर्पण"}
+            {
+                "en": "Convex mirror",
+                "hi": "उत्तल दर्पण"
+            },
+            {
+                "en": "Concave mirror",
+                "hi": "अवतल दर्पण"
+            },
+            {
+                "en": "Plane mirror",
+                "hi": "समतल दर्पण"
+            },
+            {
+                "en": "Parabolic convex mirror",
+                "hi": "परवलयाकार उत्तल दर्पण"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -1114,10 +1666,22 @@ DAY_6 = [
             "hi": "सूर्य की परिक्रमा करते समय धूमकेतु (पुच्छल तारे) की पूंछ हमेशा किस दिशा में इंगित करती है?"
         },
         "options": [
-            {"en": "Directly towards the Sun", "hi": "सीधे सूर्य की ओर"},
-            {"en": "Always pointing away from the Sun", "hi": "हमेशा सूर्य से दूर विपरीत दिशा में (Away from the Sun)"},
-            {"en": "Parallel to the orbital plane", "hi": "कक्षीय तल के समानांतर"},
-            {"en": "Towards the Earth", "hi": "पृथ्वी की दिशा में"}
+            {
+                "en": "Directly towards the Sun",
+                "hi": "सीधे सूर्य की ओर"
+            },
+            {
+                "en": "Always pointing away from the Sun",
+                "hi": "हमेशा सूर्य से दूर विपरीत दिशा में"
+            },
+            {
+                "en": "Parallel to the orbital plane",
+                "hi": "कक्षीय तल के समानांतर"
+            },
+            {
+                "en": "Towards the Earth",
+                "hi": "पृथ्वी की दिशा में"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -1138,10 +1702,22 @@ DAY_6 = [
             "hi": "भूमध्य रेखा (विषुवतीय रेखा) से ध्रुवों की ओर जाने पर गुरुत्वीय त्वरण ('g') के मान में क्या परिवर्तन होता है?"
         },
         "options": [
-            {"en": "It remains constant", "hi": "यह स्थिर रहता है"},
-            {"en": "It decreases", "hi": "यह घटता है"},
-            {"en": "It increases", "hi": "यह बढ़ता है (It increases)"},
-            {"en": "It reduces to zero", "hi": "यह शून्य हो जाता है"}
+            {
+                "en": "It remains constant",
+                "hi": "यह स्थिर रहता है"
+            },
+            {
+                "en": "It decreases",
+                "hi": "यह घटता है"
+            },
+            {
+                "en": "It increases",
+                "hi": "यह बढ़ता है"
+            },
+            {
+                "en": "It reduces to zero",
+                "hi": "यह शून्य हो जाता है"
+            }
         ],
         "answerIndex": 2,
         "hint": {
@@ -1162,10 +1738,22 @@ DAY_6 = [
             "hi": "मनुष्य में कितने द्विवारदंती (दूध के) दांत होते हैं जो बाद में स्थायी दांतों से प्रतिस्थापित होते हैं?"
         },
         "options": [
-            {"en": "16 teeth", "hi": "16 दाँत"},
-            {"en": "20 teeth", "hi": "20 दाँत (20 teeth)"},
-            {"en": "28 teeth", "hi": "28 दाँत"},
-            {"en": "32 teeth", "hi": "32 दाँत"}
+            {
+                "en": "16 teeth",
+                "hi": "16 दाँत"
+            },
+            {
+                "en": "20 teeth",
+                "hi": "20 दाँत"
+            },
+            {
+                "en": "28 teeth",
+                "hi": "28 दाँत"
+            },
+            {
+                "en": "32 teeth",
+                "hi": "32 दाँत"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -1186,10 +1774,22 @@ DAY_6 = [
             "hi": "विश्व में किस देश के पास सर्वाधिक यूनेस्को विश्व धरोहर स्थल (60 से अधिक) होने का गौरव प्राप्त है?"
         },
         "options": [
-            {"en": "China", "hi": "चीन"},
-            {"en": "Italy", "hi": "इटली (Italy)"},
-            {"en": "Spain", "hi": "स्पेन"},
-            {"en": "Germany", "hi": "जर्मनी"}
+            {
+                "en": "China",
+                "hi": "चीन"
+            },
+            {
+                "en": "Italy",
+                "hi": "इटली"
+            },
+            {
+                "en": "Spain",
+                "hi": "स्पेन"
+            },
+            {
+                "en": "Germany",
+                "hi": "जर्मनी"
+            }
         ],
         "answerIndex": 1,
         "hint": {

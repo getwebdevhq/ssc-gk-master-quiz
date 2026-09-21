@@ -9,10 +9,22 @@ DAY_2 = [
             "hi": "पानी में प्रकाश की गति कितनी होती है?"
         },
         "options": [
-            {"en": "3.00 × 10⁸ m/s", "hi": "3.00 × 10⁸ मीटर/सेकंड"},
-            {"en": "2.25 × 10⁸ m/s", "hi": "2.25 × 10⁸ मीटर/सेकंड"},
-            {"en": "2.00 × 10⁸ m/s", "hi": "2.00 × 10⁸ मीटर/सेकंड"},
-            {"en": "1.96 × 10⁸ m/s", "hi": "1.96 × 10⁸ मीटर/सेकंड"}
+            {
+                "en": "3.00 × 10⁸ m/s",
+                "hi": "3.00 × 10⁸ मीटर/सेकंड"
+            },
+            {
+                "en": "2.25 × 10⁸ m/s",
+                "hi": "2.25 × 10⁸ मीटर/सेकंड"
+            },
+            {
+                "en": "2.00 × 10⁸ m/s",
+                "hi": "2.00 × 10⁸ मीटर/सेकंड"
+            },
+            {
+                "en": "1.96 × 10⁸ m/s",
+                "hi": "1.96 × 10⁸ मीटर/सेकंड"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -32,10 +44,22 @@ DAY_2 = [
             "hi": "नायलॉन में प्रकाश की गति कितनी होती है?"
         },
         "options": [
-            {"en": "2.25 × 10⁸ m/s", "hi": "2.25 × 10⁸ मीटर/सेकंड"},
-            {"en": "2.00 × 10⁸ m/s", "hi": "2.00 × 10⁸ मीटर/सेकंड"},
-            {"en": "1.96 × 10⁸ m/s", "hi": "1.96 × 10⁸ मीटर/सेकंड"},
-            {"en": "1.50 × 10⁸ m/s", "hi": "1.50 × 10⁸ मीटर/सेकंड"}
+            {
+                "en": "2.25 × 10⁸ m/s",
+                "hi": "2.25 × 10⁸ मीटर/सेकंड"
+            },
+            {
+                "en": "2.00 × 10⁸ m/s",
+                "hi": "2.00 × 10⁸ मीटर/सेकंड"
+            },
+            {
+                "en": "1.96 × 10⁸ m/s",
+                "hi": "1.96 × 10⁸ मीटर/सेकंड"
+            },
+            {
+                "en": "1.50 × 10⁸ m/s",
+                "hi": "1.50 × 10⁸ मीटर/सेकंड"
+            }
         ],
         "answerIndex": 2,
         "hint": {
@@ -55,10 +79,22 @@ DAY_2 = [
             "hi": "SEBI, CAPART और स्पीड पोस्ट की स्थापना किस पंचवर्षीय योजना में हुई थी?"
         },
         "options": [
-            {"en": "5th Five-Year Plan", "hi": "पाँचवीं पंचवर्षीय योजना"},
-            {"en": "6th Five-Year Plan", "hi": "छठी पंचवर्षीय योजना"},
-            {"en": "7th Five-Year Plan", "hi": "सातवीं पंचवर्षीय योजना"},
-            {"en": "8th Five-Year Plan", "hi": "आठवीं पंचवर्षीय योजना"}
+            {
+                "en": "5th Five-Year Plan",
+                "hi": "पाँचवीं पंचवर्षीय योजना"
+            },
+            {
+                "en": "6th Five-Year Plan",
+                "hi": "छठी पंचवर्षीय योजना"
+            },
+            {
+                "en": "7th Five-Year Plan",
+                "hi": "सातवीं पंचवर्षीय योजना"
+            },
+            {
+                "en": "8th Five-Year Plan",
+                "hi": "आठवीं पंचवर्षीय योजना"
+            }
         ],
         "answerIndex": 2,
         "hint": {
@@ -78,10 +114,22 @@ DAY_2 = [
             "hi": "किस प्राकृतिक क्षेत्र को 'प्राकृतिक प्राणी उद्यान' (Natural Zoological Park) कहा जाता है?"
         },
         "options": [
-            {"en": "Savanna", "hi": "सवाना (Savanna)"},
-            {"en": "Steppes", "hi": "स्टेपी"},
-            {"en": "Taiga", "hi": "टैगा"},
-            {"en": "Selvas", "hi": "सेल्वास"}
+            {
+                "en": "Savanna",
+                "hi": "सवाना"
+            },
+            {
+                "en": "Steppes",
+                "hi": "स्टेपी"
+            },
+            {
+                "en": "Taiga",
+                "hi": "टैगा"
+            },
+            {
+                "en": "Selvas",
+                "hi": "सेल्वास"
+            }
         ],
         "answerIndex": 0,
         "hint": {
@@ -101,10 +149,22 @@ DAY_2 = [
             "hi": "ऑक्सफोर्ड शहर को किस उपनाम से जाना जाता है?"
         },
         "options": [
-            {"en": "City of Canals", "hi": "नहरों का शहर"},
-            {"en": "City of Dreaming Spires", "hi": "सपनों की मीनारों का शहर (City of Dreaming Spires)"},
-            {"en": "City of Seven Hills", "hi": "सात पहाड़ियों का शहर"},
-            {"en": "Eternal City", "hi": "शाश्वत शहर"}
+            {
+                "en": "City of Canals",
+                "hi": "नहरों का शहर"
+            },
+            {
+                "en": "City of Dreaming Spires",
+                "hi": "सपनों की मीनारों का शहर"
+            },
+            {
+                "en": "City of Seven Hills",
+                "hi": "सात पहाड़ियों का शहर"
+            },
+            {
+                "en": "Eternal City",
+                "hi": "शाश्वत शहर"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -124,10 +184,22 @@ DAY_2 = [
             "hi": "किस क्षेत्र को 'गार्डन ऑफ इंग्लैंड' (Garden of England) कहा जाता है?"
         },
         "options": [
-            {"en": "Yorkshire", "hi": "यॉर्कशायर"},
-            {"en": "Kent", "hi": "केंट (Kent)"},
-            {"en": "Cornwall", "hi": "कॉर्नवाल"},
-            {"en": "Surrey", "hi": "सरे"}
+            {
+                "en": "Yorkshire",
+                "hi": "यॉर्कशायर"
+            },
+            {
+                "en": "Kent",
+                "hi": "केंट"
+            },
+            {
+                "en": "Cornwall",
+                "hi": "कॉर्नवाल"
+            },
+            {
+                "en": "Surrey",
+                "hi": "सरे"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -147,10 +219,22 @@ DAY_2 = [
             "hi": "किस शहर को 'गगनचुंबी इमारतों का शहर' (City of Skyscrapers) कहा जाता है?"
         },
         "options": [
-            {"en": "Dubai", "hi": "दुबई"},
-            {"en": "New York", "hi": "न्यूयॉर्क"},
-            {"en": "Tokyo", "hi": "टोक्यो"},
-            {"en": "Chicago", "hi": "शिकागो"}
+            {
+                "en": "Dubai",
+                "hi": "दुबई"
+            },
+            {
+                "en": "New York",
+                "hi": "न्यूयॉर्क"
+            },
+            {
+                "en": "Tokyo",
+                "hi": "टोक्यो"
+            },
+            {
+                "en": "Chicago",
+                "hi": "शिकागो"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -170,10 +254,22 @@ DAY_2 = [
             "hi": "सिगफ्रीड लाइन (Siegfried Line) किन दो देशों की सीमा से संबंधित है?"
         },
         "options": [
-            {"en": "Germany and Poland", "hi": "जर्मनी और पोलैंड"},
-            {"en": "Germany and France", "hi": "जर्मनी और फ्रांस"},
-            {"en": "France and Belgium", "hi": "फ्रांस और बेल्जियम"},
-            {"en": "Russia and Finland", "hi": "रूस और फिनलैंड"}
+            {
+                "en": "Germany and Poland",
+                "hi": "जर्मनी और पोलैंड"
+            },
+            {
+                "en": "Germany and France",
+                "hi": "जर्मनी और फ्रांस"
+            },
+            {
+                "en": "France and Belgium",
+                "hi": "फ्रांस और बेल्जियम"
+            },
+            {
+                "en": "Russia and Finland",
+                "hi": "रूस और फिनलैंड"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -193,10 +289,22 @@ DAY_2 = [
             "hi": "अंतर्राष्ट्रीय लोकतंत्र दिवस कब मनाया जाता है?"
         },
         "options": [
-            {"en": "12 August", "hi": "12 अगस्त"},
-            {"en": "15 September", "hi": "15 सितंबर"},
-            {"en": "2 October", "hi": "2 अक्टूबर"},
-            {"en": "10 December", "hi": "10 दिसंबर"}
+            {
+                "en": "12 August",
+                "hi": "12 अगस्त"
+            },
+            {
+                "en": "15 September",
+                "hi": "15 सितंबर"
+            },
+            {
+                "en": "2 October",
+                "hi": "2 अक्टूबर"
+            },
+            {
+                "en": "10 December",
+                "hi": "10 दिसंबर"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -216,10 +324,22 @@ DAY_2 = [
             "hi": "सिंधी भाषा को संविधान की आठवीं अनुसूची में किस संशोधन द्वारा जोड़ा गया?"
         },
         "options": [
-            {"en": "21st Amendment (1967)", "hi": "21वाँ संविधान संशोधन (1967)"},
-            {"en": "42nd Amendment (1976)", "hi": "42वाँ संविधान संशोधन (1976)"},
-            {"en": "71st Amendment (1992)", "hi": "71वाँ संविधान संशोधन (1992)"},
-            {"en": "92nd Amendment (2003)", "hi": "92वाँ संविधान संशोधन (2003)"}
+            {
+                "en": "21st Amendment (1967)",
+                "hi": "21वाँ संविधान संशोधन"
+            },
+            {
+                "en": "42nd Amendment (1976)",
+                "hi": "42वाँ संविधान संशोधन"
+            },
+            {
+                "en": "71st Amendment (1992)",
+                "hi": "71वाँ संविधान संशोधन"
+            },
+            {
+                "en": "92nd Amendment (2003)",
+                "hi": "92वाँ संविधान संशोधन"
+            }
         ],
         "answerIndex": 0,
         "hint": {
@@ -239,10 +359,22 @@ DAY_2 = [
             "hi": "71वें संविधान संशोधन द्वारा कौन-सी तीन भाषाएँ आठवीं अनुसूची में जोड़ी गईं?"
         },
         "options": [
-            {"en": "Bodo, Dogri, and Maithili", "hi": "बोडो, डोगरी और मैथिली"},
-            {"en": "Nepali, Konkani, and Manipuri", "hi": "नेपाली, कोंकणी और मणिपुरी"},
-            {"en": "Sindhi, Santhali, and Dogri", "hi": "सिंधी, संथाली और डोगरी"},
-            {"en": "Urdu, Sanskrit, and Kashmiri", "hi": "उर्दू, संस्कृत और कश्मीरी"}
+            {
+                "en": "Bodo, Dogri, and Maithili",
+                "hi": "बोडो, डोगरी और मैथिली"
+            },
+            {
+                "en": "Nepali, Konkani, and Manipuri",
+                "hi": "नेपाली, कोंकणी और मणिपुरी"
+            },
+            {
+                "en": "Sindhi, Santhali, and Dogri",
+                "hi": "सिंधी, संथाली और डोगरी"
+            },
+            {
+                "en": "Urdu, Sanskrit, and Kashmiri",
+                "hi": "उर्दू, संस्कृत और कश्मीरी"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -262,10 +394,22 @@ DAY_2 = [
             "hi": "बायोगैस मुख्य रूप से किन दो गैसों का मिश्रण है?"
         },
         "options": [
-            {"en": "Methane and Oxygen", "hi": "मीथेन और ऑक्सीजन"},
-            {"en": "Methane and Carbon Dioxide", "hi": "मीथेन और कार्बन डाइऑक्साइड"},
-            {"en": "Propane and Butane", "hi": "प्रोपेन और ब्यूटेन"},
-            {"en": "Carbon Monoxide and Hydrogen", "hi": "कार्बन मोनोऑक्साइड और हाइड्रोजन"}
+            {
+                "en": "Methane and Oxygen",
+                "hi": "मीथेन और ऑक्सीजन"
+            },
+            {
+                "en": "Methane and Carbon Dioxide",
+                "hi": "मीथेन और कार्बन डाइऑक्साइड"
+            },
+            {
+                "en": "Propane and Butane",
+                "hi": "प्रोपेन और ब्यूटेन"
+            },
+            {
+                "en": "Carbon Monoxide and Hydrogen",
+                "hi": "कार्बन मोनोऑक्साइड और हाइड्रोजन"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -285,10 +429,22 @@ DAY_2 = [
             "hi": "पूर्ण रूप से जैविक खेती अपनाने वाला भारत का पहला राज्य कौन-सा है?"
         },
         "options": [
-            {"en": "Himachal Pradesh", "hi": "हिमाचल प्रदेश"},
-            {"en": "Sikkim", "hi": "सिक्किम"},
-            {"en": "Kerala", "hi": "केरल"},
-            {"en": "Uttarakhand", "hi": "उत्तराखंड"}
+            {
+                "en": "Himachal Pradesh",
+                "hi": "हिमाचल प्रदेश"
+            },
+            {
+                "en": "Sikkim",
+                "hi": "सिक्किम"
+            },
+            {
+                "en": "Kerala",
+                "hi": "केरल"
+            },
+            {
+                "en": "Uttarakhand",
+                "hi": "उत्तराखंड"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -308,10 +464,22 @@ DAY_2 = [
             "hi": "भारत का 'सिल्वर सिटी (Silver City)' किस शहर को कहा जाता है?"
         },
         "options": [
-            {"en": "Bhubaneswar", "hi": "भुवनेश्वर"},
-            {"en": "Cuttack", "hi": "कटक (Cuttack)"},
-            {"en": "Rourkela", "hi": "राउरकेला"},
-            {"en": "Puri", "hi": "पुरी"}
+            {
+                "en": "Bhubaneswar",
+                "hi": "भुवनेश्वर"
+            },
+            {
+                "en": "Cuttack",
+                "hi": "कटक"
+            },
+            {
+                "en": "Rourkela",
+                "hi": "राउरकेला"
+            },
+            {
+                "en": "Puri",
+                "hi": "पुरी"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -331,10 +499,22 @@ DAY_2 = [
             "hi": "कौन-सा हड़प्पा नगर तीन भागों (गढ़, मध्य नगर और निचला नगर) में विभाजित था?"
         },
         "options": [
-            {"en": "Lothal", "hi": "लोथल"},
-            {"en": "Kalibangan", "hi": "कालीबंगन"},
-            {"en": "Dholavira", "hi": "धोलावीरा (Dholavira)"},
-            {"en": "Rakhigarhi", "hi": "राखीगढ़ी"}
+            {
+                "en": "Lothal",
+                "hi": "लोथल"
+            },
+            {
+                "en": "Kalibangan",
+                "hi": "कालीबंगन"
+            },
+            {
+                "en": "Dholavira",
+                "hi": "धोलावीरा"
+            },
+            {
+                "en": "Rakhigarhi",
+                "hi": "राखीगढ़ी"
+            }
         ],
         "answerIndex": 2,
         "hint": {
@@ -354,10 +534,22 @@ DAY_2 = [
             "hi": "भारत की आकस्मिक निधि (Contingency Fund of India) का प्रावधान संविधान के किस अनुच्छेद में है?"
         },
         "options": [
-            {"en": "Article 266", "hi": "अनुच्छेद 266"},
-            {"en": "Article 267", "hi": "अनुच्छेद 267"},
-            {"en": "Article 275", "hi": "अनुच्छेद 275"},
-            {"en": "Article 280", "hi": "अनुच्छेद 280"}
+            {
+                "en": "Article 266",
+                "hi": "अनुच्छेद 266"
+            },
+            {
+                "en": "Article 267",
+                "hi": "अनुच्छेद 267"
+            },
+            {
+                "en": "Article 275",
+                "hi": "अनुच्छेद 275"
+            },
+            {
+                "en": "Article 280",
+                "hi": "अनुच्छेद 280"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -377,10 +569,22 @@ DAY_2 = [
             "hi": "भारतीय संविधान की प्रारूप समिति (Drafting Committee) के अध्यक्ष कौन थे?"
         },
         "options": [
-            {"en": "Dr. Rajendra Prasad", "hi": "डॉ. राजेन्द्र प्रसाद"},
-            {"en": "Dr. B. R. Ambedkar", "hi": "डॉ. भीमराव अंबेडकर"},
-            {"en": "Alladi Krishnaswamy Iyer", "hi": "अल्लादि कृष्णास्वामी अय्यर"},
-            {"en": "K. M. Munshi", "hi": "के. एम. मुंशी"}
+            {
+                "en": "Dr. Rajendra Prasad",
+                "hi": "डॉ. राजेन्द्र प्रसाद"
+            },
+            {
+                "en": "Dr. B. R. Ambedkar",
+                "hi": "डॉ. भीमराव अंबेडकर"
+            },
+            {
+                "en": "Alladi Krishnaswamy Iyer",
+                "hi": "अल्लादि कृष्णास्वामी अय्यर"
+            },
+            {
+                "en": "K. M. Munshi",
+                "hi": "के. एम. मुंशी"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -400,10 +604,22 @@ DAY_2 = [
             "hi": "एकल नागरिकता (Single Citizenship) की अवधारणा भारत ने किस देश से अपनाई?"
         },
         "options": [
-            {"en": "USA", "hi": "संयुक्त राज्य अमेरिका (USA)"},
-            {"en": "England (United Kingdom)", "hi": "इंग्लैंड (यूनाइटेड किंगडम)"},
-            {"en": "Canada", "hi": "कनाडा"},
-            {"en": "Australia", "hi": "ऑस्ट्रेलिया"}
+            {
+                "en": "USA",
+                "hi": "संयुक्त राज्य अमेरिका"
+            },
+            {
+                "en": "England (United Kingdom)",
+                "hi": "इंग्लैंड (यूनाइटेड किंगडम)"
+            },
+            {
+                "en": "Canada",
+                "hi": "कनाडा"
+            },
+            {
+                "en": "Australia",
+                "hi": "ऑस्ट्रेलिया"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -423,10 +639,22 @@ DAY_2 = [
             "hi": "वार्षिक वित्तीय विवरण (बजट) संविधान के किस अनुच्छेद में वर्णित है?"
         },
         "options": [
-            {"en": "Article 110", "hi": "अनुच्छेद 110"},
-            {"en": "Article 112", "hi": "अनुच्छेद 112"},
-            {"en": "Article 117", "hi": "अनुच्छेद 117"},
-            {"en": "Article 123", "hi": "अनुच्छेद 123"}
+            {
+                "en": "Article 110",
+                "hi": "अनुच्छेद 110"
+            },
+            {
+                "en": "Article 112",
+                "hi": "अनुच्छेद 112"
+            },
+            {
+                "en": "Article 117",
+                "hi": "अनुच्छेद 117"
+            },
+            {
+                "en": "Article 123",
+                "hi": "अनुच्छेद 123"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -446,10 +674,22 @@ DAY_2 = [
             "hi": "कार्बन डाइऑक्साइड के एक मोल में कितने अणु होते हैं?"
         },
         "options": [
-            {"en": "6.022 × 10²³", "hi": "6.022 × 10²³"},
-            {"en": "3.011 × 10²³", "hi": "3.011 × 10²³"},
-            {"en": "6.022 × 10²²", "hi": "6.022 × 10²²"},
-            {"en": "9.109 × 10⁻³¹", "hi": "9.109 × 10⁻³¹"}
+            {
+                "en": "6.022 × 10²³",
+                "hi": "6.022 × 10²³"
+            },
+            {
+                "en": "3.011 × 10²³",
+                "hi": "3.011 × 10²³"
+            },
+            {
+                "en": "6.022 × 10²²",
+                "hi": "6.022 × 10²²"
+            },
+            {
+                "en": "9.109 × 10⁻³¹",
+                "hi": "9.109 × 10⁻³¹"
+            }
         ],
         "answerIndex": 0,
         "hint": {
@@ -469,10 +709,22 @@ DAY_2 = [
             "hi": "नई सात विश्व आश्चर्यों की सूची में लोकप्रिय मान्यता के बावजूद कौन-सा स्मारक शामिल नहीं है?"
         },
         "options": [
-            {"en": "Colosseum (Rome)", "hi": "कोलोसियम (रोम)"},
-            {"en": "Petra (Jordan)", "hi": "पेट्रा (जॉर्डन)"},
-            {"en": "Leaning Tower of Pisa", "hi": "पीसा की झुकी मीनार (Leaning Tower of Pisa)"},
-            {"en": "Machu Picchu (Peru)", "hi": "माचू पिच्चू (पेरू)"}
+            {
+                "en": "Colosseum (Rome)",
+                "hi": "कोलोसियम (रोम)"
+            },
+            {
+                "en": "Petra (Jordan)",
+                "hi": "पेट्रा (जॉर्डन)"
+            },
+            {
+                "en": "Leaning Tower of Pisa",
+                "hi": "पीसा की झुकी मीनार"
+            },
+            {
+                "en": "Machu Picchu (Peru)",
+                "hi": "माचू पिच्चू (पेरू)"
+            }
         ],
         "answerIndex": 2,
         "hint": {
@@ -492,10 +744,22 @@ DAY_2 = [
             "hi": "'क्राइस्ट द रिडीमर' प्रतिमा कहाँ स्थित है?"
         },
         "options": [
-            {"en": "Argentina", "hi": "अर्जेंटीना"},
-            {"en": "Brazil", "hi": "ब्राज़ील"},
-            {"en": "Mexico", "hi": "मेक्सिको"},
-            {"en": "Portugal", "hi": "पुर्तगाल"}
+            {
+                "en": "Argentina",
+                "hi": "अर्जेंटीना"
+            },
+            {
+                "en": "Brazil",
+                "hi": "ब्राज़ील"
+            },
+            {
+                "en": "Mexico",
+                "hi": "मेक्सिको"
+            },
+            {
+                "en": "Portugal",
+                "hi": "पुर्तगाल"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -515,10 +779,22 @@ DAY_2 = [
             "hi": "नदियों के वैज्ञानिक अध्ययन को क्या कहा जाता है?"
         },
         "options": [
-            {"en": "Limnology", "hi": "लिम्नोलॉजी (Limnology)"},
-            {"en": "Potamology", "hi": "पोटामोलॉजी (Potamology)"},
-            {"en": "Hydrology", "hi": "हाइड्रोलॉजी (Hydrology)"},
-            {"en": "Speleology", "hi": "स्पीलियोलॉजी (Speleology)"}
+            {
+                "en": "Limnology",
+                "hi": "लिम्नोलॉजी"
+            },
+            {
+                "en": "Potamology",
+                "hi": "पोटामोलॉजी"
+            },
+            {
+                "en": "Hydrology",
+                "hi": "हाइड्रोलॉजी"
+            },
+            {
+                "en": "Speleology",
+                "hi": "स्पीलियोलॉजी"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -538,10 +814,22 @@ DAY_2 = [
             "hi": "टमाटर महोत्सव (La Tomatina) किस देश में मनाया जाता है?"
         },
         "options": [
-            {"en": "Italy", "hi": "इटली"},
-            {"en": "Spain", "hi": "स्पेन"},
-            {"en": "Portugal", "hi": "पुर्तगाल"},
-            {"en": "Mexico", "hi": "मेक्सिको"}
+            {
+                "en": "Italy",
+                "hi": "इटली"
+            },
+            {
+                "en": "Spain",
+                "hi": "स्पेन"
+            },
+            {
+                "en": "Portugal",
+                "hi": "पुर्तगाल"
+            },
+            {
+                "en": "Mexico",
+                "hi": "मेक्सिको"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -561,10 +849,22 @@ DAY_2 = [
             "hi": "प्रच्छन्न बेरोज़गारी (Disguised Unemployment) सबसे अधिक किस क्षेत्र में पाई जाती है?"
         },
         "options": [
-            {"en": "Industrial sector", "hi": "औद्योगिक क्षेत्र"},
-            {"en": "Agriculture sector", "hi": "कृषि क्षेत्र"},
-            {"en": "Service sector", "hi": "सेवा क्षेत्र"},
-            {"en": "IT and Telecom", "hi": "आईटी और दूरसंचार"}
+            {
+                "en": "Industrial sector",
+                "hi": "औद्योगिक क्षेत्र"
+            },
+            {
+                "en": "Agriculture sector",
+                "hi": "कृषि क्षेत्र"
+            },
+            {
+                "en": "Service sector",
+                "hi": "सेवा क्षेत्र"
+            },
+            {
+                "en": "IT and Telecom",
+                "hi": "आईटी और दूरसंचार"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -584,10 +884,22 @@ DAY_2 = [
             "hi": "डिफू दर्रा (Diphu Pass) भारत के किस राज्य में स्थित है?"
         },
         "options": [
-            {"en": "Sikkim", "hi": "सिक्किम"},
-            {"en": "Arunachal Pradesh", "hi": "अरुणाचल प्रदेश"},
-            {"en": "Nagaland", "hi": "नागालैंड"},
-            {"en": "Manipur", "hi": "मणिपुर"}
+            {
+                "en": "Sikkim",
+                "hi": "सिक्किम"
+            },
+            {
+                "en": "Arunachal Pradesh",
+                "hi": "अरुणाचल प्रदेश"
+            },
+            {
+                "en": "Nagaland",
+                "hi": "नागालैंड"
+            },
+            {
+                "en": "Manipur",
+                "hi": "मणिपुर"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -607,10 +919,22 @@ DAY_2 = [
             "hi": "विश्व में कॉफी का सबसे बड़ा उत्पादक देश कौन-सा है?"
         },
         "options": [
-            {"en": "Vietnam", "hi": "वियतनाम"},
-            {"en": "Colombia", "hi": "कोलंबिया"},
-            {"en": "Brazil", "hi": "ब्राज़ील"},
-            {"en": "Ethiopia", "hi": "इथियोपिया"}
+            {
+                "en": "Vietnam",
+                "hi": "वियतनाम"
+            },
+            {
+                "en": "Colombia",
+                "hi": "कोलंबिया"
+            },
+            {
+                "en": "Brazil",
+                "hi": "ब्राज़ील"
+            },
+            {
+                "en": "Ethiopia",
+                "hi": "इथियोपिया"
+            }
         ],
         "answerIndex": 2,
         "hint": {
@@ -630,10 +954,22 @@ DAY_2 = [
             "hi": "दक्षिण अफ्रीका का जोहान्सबर्ग किस खनिज के खनन के लिए प्रसिद्ध है?"
         },
         "options": [
-            {"en": "Coal", "hi": "कोयला"},
-            {"en": "Gold", "hi": "सोना (Gold)"},
-            {"en": "Diamond", "hi": "हीरा (Diamond)"},
-            {"en": "Copper", "hi": "तांबा"}
+            {
+                "en": "Coal",
+                "hi": "कोयला"
+            },
+            {
+                "en": "Gold",
+                "hi": "सोना"
+            },
+            {
+                "en": "Diamond",
+                "hi": "हीरा"
+            },
+            {
+                "en": "Copper",
+                "hi": "तांबा"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -653,10 +989,22 @@ DAY_2 = [
             "hi": "शनि ग्रह का सबसे बड़ा उपग्रह कौन-सा है?"
         },
         "options": [
-            {"en": "Enceladus", "hi": "एन्सेलाडस"},
-            {"en": "Titan", "hi": "टाइटन"},
-            {"en": "Rhea", "hi": "रिया"},
-            {"en": "Mimas", "hi": "मीमास"}
+            {
+                "en": "Enceladus",
+                "hi": "एन्सेलाडस"
+            },
+            {
+                "en": "Titan",
+                "hi": "टाइटन"
+            },
+            {
+                "en": "Rhea",
+                "hi": "रिया"
+            },
+            {
+                "en": "Mimas",
+                "hi": "मीमास"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -676,10 +1024,22 @@ DAY_2 = [
             "hi": "विश्व का कॉफी बाज़ार (Coffee Market) किस शहर को कहा जाता है?"
         },
         "options": [
-            {"en": "Santos", "hi": "सैंटोस"},
-            {"en": "Rio de Janeiro", "hi": "रियो डी जेनेरो"},
-            {"en": "Sao Paulo", "hi": "साओ पाउलो"},
-            {"en": "Buenos Aires", "hi": "ब्यूनस आयर्स"}
+            {
+                "en": "Santos",
+                "hi": "सैंटोस"
+            },
+            {
+                "en": "Rio de Janeiro",
+                "hi": "रियो डी जेनेरो"
+            },
+            {
+                "en": "Sao Paulo",
+                "hi": "साओ पाउलो"
+            },
+            {
+                "en": "Buenos Aires",
+                "hi": "ब्यूनस आयर्स"
+            }
         ],
         "answerIndex": 2,
         "hint": {
@@ -699,10 +1059,22 @@ DAY_2 = [
             "hi": "गैशरब्रुम पर्वत शिखर किस देश में स्थित है?"
         },
         "options": [
-            {"en": "Nepal", "hi": "नेपाल"},
-            {"en": "Pakistan (Karakoram)", "hi": "पाकिस्तान (काराकोरम)"},
-            {"en": "China", "hi": "चीन"},
-            {"en": "India", "hi": "भारत"}
+            {
+                "en": "Nepal",
+                "hi": "नेपाल"
+            },
+            {
+                "en": "Pakistan (Karakoram)",
+                "hi": "पाकिस्तान (काराकोरम)"
+            },
+            {
+                "en": "China",
+                "hi": "चीन"
+            },
+            {
+                "en": "India",
+                "hi": "भारत"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -722,10 +1094,22 @@ DAY_2 = [
             "hi": "'निषिद्ध शहर (Forbidden City)' किस शहर को कहा जाता है?"
         },
         "options": [
-            {"en": "Beijing", "hi": "बीजिंग"},
-            {"en": "Lhasa", "hi": "ल्हासा"},
-            {"en": "Ulaanbaatar", "hi": "उलानबटार"},
-            {"en": "Kyoto", "hi": "क्योटो"}
+            {
+                "en": "Beijing",
+                "hi": "बीजिंग"
+            },
+            {
+                "en": "Lhasa",
+                "hi": "ल्हासा"
+            },
+            {
+                "en": "Ulaanbaatar",
+                "hi": "उलानबटार"
+            },
+            {
+                "en": "Kyoto",
+                "hi": "क्योटो"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -745,10 +1129,22 @@ DAY_2 = [
             "hi": "नाथपा झाकड़ी जलविद्युत परियोजना किस नदी पर स्थित है?"
         },
         "options": [
-            {"en": "Chenab River", "hi": "चिनाब नदी"},
-            {"en": "Ravi River", "hi": "रावी नदी"},
-            {"en": "Sutlej River", "hi": "सतलुज नदी"},
-            {"en": "Beas River", "hi": "ब्यास नदी"}
+            {
+                "en": "Chenab River",
+                "hi": "चिनाब नदी"
+            },
+            {
+                "en": "Ravi River",
+                "hi": "रावी नदी"
+            },
+            {
+                "en": "Sutlej River",
+                "hi": "सतलुज नदी"
+            },
+            {
+                "en": "Beas River",
+                "hi": "ब्यास नदी"
+            }
         ],
         "answerIndex": 2,
         "hint": {
@@ -768,10 +1164,22 @@ DAY_2 = [
             "hi": "मसूरी, रानीखेत, अल्मोड़ा, डलहौज़ी और दार्जिलिंग किस हिमालयी श्रेणी में स्थित हैं?"
         },
         "options": [
-            {"en": "Greater Himalayas (Himadri)", "hi": "महान हिमालय (हिमाद्रि)"},
-            {"en": "Middle Himalayas (Himachal / Lesser Himalayas)", "hi": "मध्य हिमालय (लघु हिमालय / हिमाचल श्रेणी)"},
-            {"en": "Outer Himalayas (Shiwalik)", "hi": "बाह्य हिमालय (शिवालिक)"},
-            {"en": "Trans-Himalayas", "hi": "ट्रांस हिमालय"}
+            {
+                "en": "Greater Himalayas (Himadri)",
+                "hi": "महान हिमालय (हिमाद्रि)"
+            },
+            {
+                "en": "Middle Himalayas (Himachal / Lesser Himalayas)",
+                "hi": "मध्य हिमालय (लघु हिमालय / हिमाचल श्रेणी)"
+            },
+            {
+                "en": "Outer Himalayas (Shiwalik)",
+                "hi": "बाह्य हिमालय (शिवालिक)"
+            },
+            {
+                "en": "Trans-Himalayas",
+                "hi": "ट्रांस हिमालय"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -791,10 +1199,22 @@ DAY_2 = [
             "hi": "कूका विद्रोह किस राज्य में हुआ था?"
         },
         "options": [
-            {"en": "Punjab", "hi": "पंजाब"},
-            {"en": "Bengal", "hi": "बंगाल"},
-            {"en": "Maharashtra", "hi": "महाराष्ट्र"},
-            {"en": "Bihar", "hi": "बिहार"}
+            {
+                "en": "Punjab",
+                "hi": "पंजाब"
+            },
+            {
+                "en": "Bengal",
+                "hi": "बंगाल"
+            },
+            {
+                "en": "Maharashtra",
+                "hi": "महाराष्ट्र"
+            },
+            {
+                "en": "Bihar",
+                "hi": "बिहार"
+            }
         ],
         "answerIndex": 0,
         "hint": {
@@ -814,10 +1234,22 @@ DAY_2 = [
             "hi": "पबना विद्रोह किस क्षेत्र में हुआ था?"
         },
         "options": [
-            {"en": "Bengal", "hi": "बंगाल"},
-            {"en": "Orissa", "hi": "ओडिशा"},
-            {"en": "Assam", "hi": "असम"},
-            {"en": "Madras", "hi": "मद्रास"}
+            {
+                "en": "Bengal",
+                "hi": "बंगाल"
+            },
+            {
+                "en": "Orissa",
+                "hi": "ओडिशा"
+            },
+            {
+                "en": "Assam",
+                "hi": "असम"
+            },
+            {
+                "en": "Madras",
+                "hi": "मद्रास"
+            }
         ],
         "answerIndex": 0,
         "hint": {
@@ -837,10 +1269,22 @@ DAY_2 = [
             "hi": "गदर पार्टी के प्रथम अध्यक्ष कौन थे?"
         },
         "options": [
-            {"en": "Lala Hardayal", "hi": "लाला हरदयाल"},
-            {"en": "Sohan Singh Bhakna", "hi": "सोहन सिंह भकना"},
-            {"en": "Kartar Singh Sarabha", "hi": "करतार सिंह सराभा"},
-            {"en": "Rash Behari Bose", "hi": "रास बिहारी बोस"}
+            {
+                "en": "Lala Hardayal",
+                "hi": "लाला हरदयाल"
+            },
+            {
+                "en": "Sohan Singh Bhakna",
+                "hi": "सोहन सिंह भकना"
+            },
+            {
+                "en": "Kartar Singh Sarabha",
+                "hi": "करतार सिंह सराभा"
+            },
+            {
+                "en": "Rash Behari Bose",
+                "hi": "रास बिहारी बोस"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -860,10 +1304,22 @@ DAY_2 = [
             "hi": "भारत में प्रथम परिसीमन आयोग (Delimitation Commission) का गठन किस वर्ष हुआ था?"
         },
         "options": [
-            {"en": "1950", "hi": "1950"},
-            {"en": "1952", "hi": "1952"},
-            {"en": "1955", "hi": "1955"},
-            {"en": "1962", "hi": "1962"}
+            {
+                "en": "1950",
+                "hi": "1950"
+            },
+            {
+                "en": "1952",
+                "hi": "1952"
+            },
+            {
+                "en": "1955",
+                "hi": "1955"
+            },
+            {
+                "en": "1962",
+                "hi": "1962"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -883,10 +1339,22 @@ DAY_2 = [
             "hi": "संविधान में राजभाषा संबंधी प्रावधान किस भाग में दिए गए हैं?"
         },
         "options": [
-            {"en": "Part 15", "hi": "भाग 15"},
-            {"en": "Part 17", "hi": "भाग 17"},
-            {"en": "Part 18", "hi": "भाग 18"},
-            {"en": "Part 20", "hi": "भाग 20"}
+            {
+                "en": "Part 15",
+                "hi": "भाग 15"
+            },
+            {
+                "en": "Part 17",
+                "hi": "भाग 17"
+            },
+            {
+                "en": "Part 18",
+                "hi": "भाग 18"
+            },
+            {
+                "en": "Part 20",
+                "hi": "भाग 20"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -906,10 +1374,22 @@ DAY_2 = [
             "hi": "राष्ट्रीय स्टार्टअप दिवस कब मनाया जाता है?"
         },
         "options": [
-            {"en": "9 January", "hi": "9 जनवरी"},
-            {"en": "12 January", "hi": "12 जनवरी"},
-            {"en": "16 January", "hi": "16 जनवरी"},
-            {"en": "24 January", "hi": "24 जनवरी"}
+            {
+                "en": "9 January",
+                "hi": "9 जनवरी"
+            },
+            {
+                "en": "12 January",
+                "hi": "12 जनवरी"
+            },
+            {
+                "en": "16 January",
+                "hi": "16 जनवरी"
+            },
+            {
+                "en": "24 January",
+                "hi": "24 जनवरी"
+            }
         ],
         "answerIndex": 2,
         "hint": {
@@ -929,10 +1409,22 @@ DAY_2 = [
             "hi": "राइडर कप किस खेल से संबंधित है?"
         },
         "options": [
-            {"en": "Tennis", "hi": "टेनिस"},
-            {"en": "Golf", "hi": "गोल्फ"},
-            {"en": "Polo", "hi": "पोलो"},
-            {"en": "Badminton", "hi": "बैडमिंटन"}
+            {
+                "en": "Tennis",
+                "hi": "टेनिस"
+            },
+            {
+                "en": "Golf",
+                "hi": "गोल्फ"
+            },
+            {
+                "en": "Polo",
+                "hi": "पोलो"
+            },
+            {
+                "en": "Badminton",
+                "hi": "बैडमिंटन"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -952,10 +1444,22 @@ DAY_2 = [
             "hi": "सेंटेनियल कप किस खेल से संबंधित है?"
         },
         "options": [
-            {"en": "Basketball", "hi": "बास्केटबॉल"},
-            {"en": "Volleyball", "hi": "वॉलीबॉल"},
-            {"en": "Hockey", "hi": "हॉकी"},
-            {"en": "Handball", "hi": "हैंडबॉल"}
+            {
+                "en": "Basketball",
+                "hi": "बास्केटबॉल"
+            },
+            {
+                "en": "Volleyball",
+                "hi": "वॉलीबॉल"
+            },
+            {
+                "en": "Hockey",
+                "hi": "हॉकी"
+            },
+            {
+                "en": "Handball",
+                "hi": "हैंडबॉल"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -975,10 +1479,22 @@ DAY_2 = [
             "hi": "भारतीय राष्ट्रीय कांग्रेस का दूसरा विभाजन किस वर्ष हुआ था?"
         },
         "options": [
-            {"en": "1907", "hi": "1907"},
-            {"en": "1916", "hi": "1916"},
-            {"en": "1918", "hi": "1918"},
-            {"en": "1923", "hi": "1923"}
+            {
+                "en": "1907",
+                "hi": "1907"
+            },
+            {
+                "en": "1916",
+                "hi": "1916"
+            },
+            {
+                "en": "1918",
+                "hi": "1918"
+            },
+            {
+                "en": "1923",
+                "hi": "1923"
+            }
         ],
         "answerIndex": 2,
         "hint": {
@@ -998,10 +1514,22 @@ DAY_2 = [
             "hi": "Four Stars of Destiny पुस्तक के लेखक कौन हैं?"
         },
         "options": [
-            {"en": "General Bipin Rawat", "hi": "जनरल बिपिन रावत"},
-            {"en": "General M. M. Naravane", "hi": "जनरल एम. एम. नरवणे"},
-            {"en": "General Manoj Pande", "hi": "जनरल मनोज पांडे"},
-            {"en": "General V. K. Singh", "hi": "जनरल वी. के. सिंह"}
+            {
+                "en": "General Bipin Rawat",
+                "hi": "जनरल बिपिन रावत"
+            },
+            {
+                "en": "General M. M. Naravane",
+                "hi": "जनरल एम. एम. नरवणे"
+            },
+            {
+                "en": "General Manoj Pande",
+                "hi": "जनरल मनोज पांडे"
+            },
+            {
+                "en": "General V. K. Singh",
+                "hi": "जनरल वी. के. सिंह"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -1021,10 +1549,22 @@ DAY_2 = [
             "hi": "ओज़ोन परत की सुरक्षा से संबंधित अंतरराष्ट्रीय प्रोटोकॉल कौन-सा है?"
         },
         "options": [
-            {"en": "Kyoto Protocol", "hi": "क्योटो प्रोटोकॉल"},
-            {"en": "Montreal Protocol", "hi": "मॉन्ट्रियल प्रोटोकॉल"},
-            {"en": "Cartagena Protocol", "hi": "कार्टाजेना प्रोटोकॉल"},
-            {"en": "Nagoya Protocol", "hi": "नागोया प्रोटोकॉल"}
+            {
+                "en": "Kyoto Protocol",
+                "hi": "क्योटो प्रोटोकॉल"
+            },
+            {
+                "en": "Montreal Protocol",
+                "hi": "मॉन्ट्रियल प्रोटोकॉल"
+            },
+            {
+                "en": "Cartagena Protocol",
+                "hi": "कार्टाजेना प्रोटोकॉल"
+            },
+            {
+                "en": "Nagoya Protocol",
+                "hi": "नागोया प्रोटोकॉल"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -1044,10 +1584,22 @@ DAY_2 = [
             "hi": "किसी तारे का दिखाई देने वाला रंग किसका संकेत देता है?"
         },
         "options": [
-            {"en": "Its mass", "hi": "उसका द्रव्यमान"},
-            {"en": "Its surface temperature", "hi": "उसका पृष्ठीय तापमान"},
-            {"en": "Its distance from Earth", "hi": "पृथ्वी से उसकी दूरी"},
-            {"en": "Its age", "hi": "उसकी आयु"}
+            {
+                "en": "Its mass",
+                "hi": "उसका द्रव्यमान"
+            },
+            {
+                "en": "Its surface temperature",
+                "hi": "उसका पृष्ठीय तापमान"
+            },
+            {
+                "en": "Its distance from Earth",
+                "hi": "पृथ्वी से उसकी दूरी"
+            },
+            {
+                "en": "Its age",
+                "hi": "उसकी आयु"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -1067,10 +1619,22 @@ DAY_2 = [
             "hi": "हीरे की चमक किस प्रकाशीय घटना का उदाहरण है?"
         },
         "options": [
-            {"en": "Diffraction of light", "hi": "प्रकाश का विवर्तन"},
-            {"en": "Interference of light", "hi": "प्रकाश का व्यतिकरण"},
-            {"en": "Total Internal Reflection", "hi": "पूर्ण आंतरिक परावर्तन (Total Internal Reflection)"},
-            {"en": "Scattering of light", "hi": "प्रकाश का प्रकीर्णन"}
+            {
+                "en": "Diffraction of light",
+                "hi": "प्रकाश का विवर्तन"
+            },
+            {
+                "en": "Interference of light",
+                "hi": "प्रकाश का व्यतिकरण"
+            },
+            {
+                "en": "Total Internal Reflection",
+                "hi": "पूर्ण आंतरिक परावर्तन"
+            },
+            {
+                "en": "Scattering of light",
+                "hi": "प्रकाश का प्रकीर्णन"
+            }
         ],
         "answerIndex": 2,
         "hint": {
@@ -1087,13 +1651,25 @@ DAY_2 = [
         "category": "General Science - Biology",
         "q": {
             "en": "How many primary (milk/deciduous) teeth are present in humans?",
-            "hi": "मनुष्य में कितने दुग्ध (प्राथमिक) दाँत होते हैं?",
+            "hi": "मनुष्य में कितने दुग्ध (प्राथमिक) दाँत होते हैं?"
         },
         "options": [
-            {"en": "16 teeth", "hi": "16 दाँत"},
-            {"en": "20 teeth", "hi": "20 दाँत"},
-            {"en": "24 teeth", "hi": "24 दाँत"},
-            {"en": "28 teeth", "hi": "28 दाँत"}
+            {
+                "en": "16 teeth",
+                "hi": "16 दाँत"
+            },
+            {
+                "en": "20 teeth",
+                "hi": "20 दाँत"
+            },
+            {
+                "en": "24 teeth",
+                "hi": "24 दाँत"
+            },
+            {
+                "en": "28 teeth",
+                "hi": "28 दाँत"
+            }
         ],
         "answerIndex": 1,
         "hint": {
@@ -1113,10 +1689,22 @@ DAY_2 = [
             "hi": "मेनिन्जाइटिस रोग मुख्य रूप से शरीर के किस अंग को प्रभावित करता है?"
         },
         "options": [
-            {"en": "Lungs", "hi": "फेफड़े"},
-            {"en": "Liver", "hi": "यकृत"},
-            {"en": "Brain and Spinal Cord", "hi": "मस्तिष्क और रीढ़ की हड्डी (Brain & Meninges)"},
-            {"en": "Kidneys", "hi": "वृक्क (किडनी)"}
+            {
+                "en": "Lungs",
+                "hi": "फेफड़े"
+            },
+            {
+                "en": "Liver",
+                "hi": "यकृत"
+            },
+            {
+                "en": "Brain and Spinal Cord",
+                "hi": "मस्तिष्क और रीढ़ की हड्डी"
+            },
+            {
+                "en": "Kidneys",
+                "hi": "वृक्क (किडनी)"
+            }
         ],
         "answerIndex": 2,
         "hint": {
@@ -1136,10 +1724,22 @@ DAY_2 = [
             "hi": "सतलुज नदी भारत में किस दर्रे से प्रवेश करती है?"
         },
         "options": [
-            {"en": "Nathu La Pass", "hi": "नाथू ला दर्रा"},
-            {"en": "Shipki La Pass", "hi": "शिपकी ला दर्रा (Shipki La Pass)"},
-            {"en": "Lipulekh Pass", "hi": "लिपुलेख दर्रा"},
-            {"en": "Rohtang Pass", "hi": "रोहतांग दर्रा"}
+            {
+                "en": "Nathu La Pass",
+                "hi": "नाथू ला दर्रा"
+            },
+            {
+                "en": "Shipki La Pass",
+                "hi": "शिपकी ला दर्रा"
+            },
+            {
+                "en": "Lipulekh Pass",
+                "hi": "लिपुलेख दर्रा"
+            },
+            {
+                "en": "Rohtang Pass",
+                "hi": "रोहतांग दर्रा"
+            }
         ],
         "answerIndex": 1,
         "hint": {
