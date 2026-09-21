@@ -1,0 +1,18 @@
+{
+  "name": "ssc-gk-master-quiz",
+  "version": "1.0.0",
+  "description": "Bilingual SSC GK/GS 400 MCQs Quiz Application (Day 1 - Day 8)",
+  "scripts": {
+    "deploy": "wrangler deploy",
+    "pages:deploy": "wrangler pages deploy ."
+  },
+  "keywords": [
+    "ssc",
+    "gk",
+    "quiz",
+    "mcq",
+    "bilingual"
+  ],
+  "author": "getwebdevhq",
+  "license": "MIT"
+}
