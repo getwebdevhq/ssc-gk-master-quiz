@@ -1,0 +1,17 @@
+# System and OS files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+venv/
+.env
+
+# Node / Wrangler
+node_modules/
+.wrangler/
+dist/
+.cache/

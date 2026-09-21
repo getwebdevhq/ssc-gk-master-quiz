@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>SSC GK/GS Master Quiz | 400 Questions Bilingual (Day 1 - 8)</title>
+  <meta name="description" content="Comprehensive bilingual SSC GK/GS practice quiz featuring 400 high-yield questions across 8 days with researched 4 options, hints, and detailed explanations in English and Hindi.">
+  <meta name="keywords" content="SSC CGL, SSC CHSL, SSC MTS, SSC GK Quiz, GS MCQs, General Knowledge, Hindi English Quiz">
+  <meta name="theme-color" content="#5b32a3">
+
+  <!-- Google Fonts: Plus Jakarta Sans, Outfit, Poppins, Noto Sans Devanagari -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Devanagari:wght@400;500;600;700&family=Outfit:wght@400;500;600;700;800&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="style.css">
+</head>
+<body class="theme-dark lang-en">
+
+  <!-- Top App Navigation Bar -->
+  <header class="top-nav" id="topNav">
+    <div class="nav-container">
+      <div class="brand">
+        <div class="brand-badge">SSC</div>
+        <div class="brand-text">
+          <span class="brand-title">GK/GS Master Quiz</span>
+          <span class="brand-subtitle" id="navSubtitle">Day 1 to 8 • 400 Bilingual MCQs</span>
+        </div>
+      </div>
+
+      <!-- Quick Action Controls -->
+      <div class="nav-controls">
+        <!-- Day Selector Dropdown / Pills Trigger -->
+        <div class="day-dropdown-wrapper">
+          <button class="nav-btn day-select-btn" id="daySelectBtn" aria-label="Select Quiz Day">
+            <span class="btn-icon">📅</span>
+            <span class="btn-text" id="activeDayLabel">Day 1</span>
+            <span class="chevron-arrow">▼</span>
+          </button>
+          <div class="day-menu" id="dayMenu">
+            <div class="day-menu-header">Select Target Module</div>
+            <div class="day-menu-grid">
+              <button class="day-opt-btn active" data-day="1">Day 1 <small>(50 Qs)</small></button>
+              <button class="day-opt-btn" data-day="2">Day 2 <small>(50 Qs)</small></button>
+              <button class="day-opt-btn" data-day="3">Day 3 <small>(50 Qs)</small></button>
+              <button class="day-opt-btn" data-day="4">Day 4 <small>(50 Qs)</small></button>
+              <button class="day-opt-btn" data-day="5">Day 5 <small>(50 Qs)</small></button>
+              <button class="day-opt-btn" data-day="6">Day 6 <small>(50 Qs)</small></button>
+              <button class="day-opt-btn" data-day="7">Day 7 <small>(50 Qs)</small></button>
+              <button class="day-opt-btn" data-day="8">Day 8 <small>(50 Qs)</small></button>
+              <button class="day-opt-btn full-mock-btn" data-day="all">⚡ Full Mock <small>(400 Qs)</small></button>
+            </div>
+          </div>
+        </div>
+
+        <!-- Language Toggle: English / Hindi -->
+        <div class="lang-toggle-group" role="group" aria-label="Language Selector">
+          <button class="lang-btn active" id="langEnBtn" data-lang="en">EN</button>
+          <button class="lang-btn" id="langHiBtn" data-lang="hi">हिंदी</button>
+        </div>
+
+        <!-- Mode Toggle: Practice vs Exam -->
+        <button class="nav-btn mode-btn" id="modeToggleBtn" title="Toggle Practice or Exam Mode">
+          <span class="mode-indicator practice" id="modeIndicator">Practice</span>
+        </button>
+
+        <!-- Sound Toggle -->
+        <button class="icon-btn" id="soundToggleBtn" title="Toggle Sound Effects" aria-label="Toggle Sound">
+          <span id="soundIcon">🔊</span>
+        </button>
+
+        <!-- Search / Question Bank -->
+        <button class="icon-btn" id="searchBtn" title="Search all 400 questions" aria-label="Search Questions">
+          <span>🔍</span>
+        </button>
+
+        <!-- Phone Preview Toggle (Desktop only) -->
+        <button class="nav-btn preview-frame-btn desktop-only" id="previewFrameToggle" title="Toggle Mobile Phone Mockup Frame">
+          <span class="btn-icon">📱</span>
+          <span class="btn-text">Mobile View</span>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Container Layout -->
+  <main class="main-wrapper" id="mainWrapper">
+
+    <!-- Desktop Side Palette / Drawer -->
+    <aside class="side-palette" id="sidePalette">
+      <div class="palette-header">
+        <div class="palette-title-row">
+          <span class="palette-title">Question Grid</span>
+          <span class="palette-badge" id="paletteBadge">1 - 50</span>
+        </div>
+        <div class="palette-legend">
+          <span class="legend-item"><span class="dot dot-answered"></span> Correct</span>
+          <span class="legend-item"><span class="dot dot-wrong"></span> Incorrect</span>
+          <span class="legend-item"><span class="dot dot-bookmarked"></span> Bookmarked</span>
+          <span class="legend-item"><span class="dot dot-current"></span> Current</span>
+        </div>
+      </div>
+      <div class="palette-grid" id="paletteGrid">
+        <!-- Generated dynamically via JS -->
+      </div>
+      <div class="palette-footer">
+        <button class="palette-action-btn" id="filterBookmarkedBtn">
+          ⭐ Bookmarked (<span id="bookmarkCount">0</span>)
+        </button>
+        <button class="palette-action-btn submit-exam-btn" id="examSubmitBtn">
+          🏁 Submit Test
+        </button>
+      </div>
+    </aside>
+
+    <!-- Quiz Display Stage / Phone Frame Wrapper -->
+    <section class="quiz-stage" id="quizStage">
+      
+      <!-- The Mobile Device Mockup Frame (styled with iOS status bar & curved design) -->
+      <div class="device-frame" id="deviceFrame">
+        
+        <!-- Status Bar in Mockup -->
+        <div class="device-status-bar">
+          <span class="status-time" id="deviceTime">9:41</span>
+          <div class="status-notch"></div>
+          <div class="status-icons">
+            <span class="status-signal">
+              <svg width="18" height="12" viewBox="0 0 18 12" fill="currentColor">
+                <rect x="0" y="8" width="3" height="4" rx="1"/>
+                <rect x="5" y="5" width="3" height="7" rx="1"/>
+                <rect x="10" y="2" width="3" height="10" rx="1"/>
+                <rect x="15" y="0" width="3" height="12" rx="1"/>
+              </svg>
+            </span>
+            <span class="status-wifi">
+              <svg width="16" height="12" viewBox="0 0 16 12" fill="currentColor">
+                <path d="M8 9.5C8.83 9.5 9.5 10.17 9.5 11S8.83 12.5 8 12.5 6.5 11.83 6.5 11 7.17 9.5 8 9.5zm-4.24-2.83a6.002 6.002 0 018.48 0 .75.75 0 101.06-1.06 7.502 7.502 0 00-10.6 0 .75.75 0 001.06 1.06zm-2.83-2.83a10.003 10.003 0 0114.14 0 .75.75 0 101.06-1.06 11.503 11.503 0 00-16.26 0 .75.75 0 001.06 1.06z"/>
+              </svg>
+            </span>
+            <span class="status-battery">
+              <svg width="22" height="11" viewBox="0 0 22 11" fill="currentColor">
+                <rect x="0.5" y="0.5" width="18" height="10" rx="2.5" fill="none" stroke="currentColor"/>
+                <rect x="2" y="2" width="13" height="7" rx="1.5"/>
+                <path d="M20 3.5C20.55 3.5 21 3.95 21 4.5V6.5C21 7.05 20.55 7.5 20 7.5V3.5Z"/>
+              </svg>
+            </span>
+          </div>
+        </div>
+
+        <!-- Upper Curved Header (Purple gradient per reference image) -->
+        <div class="curved-header">
+          <div class="header-top-row">
+            <!-- Left Pill: Question Counter (👤 02 of 40) -->
+            <div class="header-pill left-pill" id="questionCounterPill">
+              <span class="pill-icon">👤</span>
+              <span class="pill-text" id="counterText">01 of 50</span>
+            </div>
+
+            <!-- Middle Progress Bar Track -->
+            <div class="header-progress-track">
+              <div class="header-progress-bar" id="progressBar" style="width: 2%;"></div>
+            </div>
+
+            <!-- Right Pill: Score / Puzzle Badge (🧩 02 of 40) -->
+            <div class="header-pill right-pill" id="scorePill">
+              <span class="pill-icon">🧩</span>
+              <span class="pill-text" id="scorePillText">00 of 50</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Floating Circular Countdown Timer Badge -->
+        <div class="timer-badge-container">
+          <div class="circular-timer" id="timerBadge">
+            <svg class="timer-svg" width="68" height="68" viewBox="0 0 68 68">
+              <circle class="timer-circle-bg" cx="34" cy="34" r="28" />
+              <circle class="timer-circle-progress" id="timerCircle" cx="34" cy="34" r="28" />
+            </svg>
+            <div class="timer-text" id="timerSeconds">20</div>
+          </div>
+        </div>
+
+        <!-- Main Body Content Area -->
+        <div class="quiz-body-content">
+          
+          <!-- Dark Question Card (matching mockup #1D1E30) -->
+          <div class="question-card" id="questionCard">
+            
+            <div class="card-top-bar">
+              <!-- Hint Button -->
+              <button class="hint-badge-btn" id="hintBtn" aria-label="Show Hint">
+                <span class="hint-icon">💡</span>
+                <span class="hint-label" id="hintLabel">Hint</span>
+              </button>
+
+              <!-- Bookmark Toggle Button -->
+              <button class="card-bookmark-btn" id="bookmarkBtn" aria-label="Bookmark this question">
+                <span class="bm-icon" id="bookmarkIcon">☆</span>
+              </button>
+            </div>
+
+            <!-- Hint Popover Box -->
+            <div class="hint-box" id="hintBox">
+              <div class="hint-header">
+                <span>💡 Clue / संकेत:</span>
+                <button class="hint-close-btn" id="hintCloseBtn">✕</button>
+              </div>
+              <p class="hint-content" id="hintContent">Hint content here...</p>
+            </div>
+
+            <!-- Question Number Heading (e.g. Question 01 with orange highlight) -->
+            <h2 class="question-title">
+              <span id="questionPrefix">Question</span> <span class="q-num-highlight" id="qNumDisplay">01</span>
+            </h2>
+
+            <!-- Category / Sub-subject Tag -->
+            <div class="question-category" id="questionCategory">
+              Science & Technology
+            </div>
+
+            <div class="question-divider"></div>
+
+            <!-- Quoted Question Text -->
+            <div class="question-text-wrapper">
+              <p class="question-text" id="questionText">
+                "Which planet is known as the Red Planet?"
+              </p>
+            </div>
+          </div>
+
+          <!-- Options Container -->
+          <div class="options-container" id="optionsContainer">
+            <!-- 4 Options dynamically injected by JS -->
+          </div>
+
+          <!-- Explanation / Fact Box (reveals on answer in practice mode) -->
+          <div class="explanation-box" id="explanationBox">
+            <div class="explanation-header">
+              <span class="exp-icon">📖</span>
+              <span class="exp-title" id="expTitle">Detailed SSC Analysis & Key Facts</span>
+            </div>
+            <p class="explanation-text" id="explanationText">
+              Explanation will appear here after selecting an answer.
+            </p>
+          </div>
+
+          <!-- Action Buttons Bar -->
+          <div class="action-bar">
+            <button class="prev-btn" id="prevBtn" title="Previous Question" disabled>
+              <span>←</span>
+            </button>
+            <button class="next-btn" id="nextBtn">
+              <span id="nextBtnText">Next</span>
+              <span class="next-arrow">→</span>
+            </button>
+          </div>
+
+        </div>
+
+      </div>
+
+    </section>
+
+  </main>
+
+  <!-- Search Modal -->
+  <div class="modal-backdrop" id="searchModal">
+    <div class="modal-dialog search-modal-dialog">
+      <div class="modal-header">
+        <div class="modal-title">🔍 Search Question Bank (400 MCQs)</div>
+        <button class="modal-close" id="searchModalClose">✕</button>
+      </div>
+      <div class="search-input-wrapper">
+        <input type="text" id="searchInput" placeholder="Search by keyword, topic, river, article, author, etc... (EN / हिंदी)" autocomplete="off">
+        <span class="search-count" id="searchResultCount">Type to search</span>
+      </div>
+      <div class="search-results-list" id="searchResultsList">
+        <!-- Search items dynamically populated -->
+      </div>
+    </div>
+  </div>
+
+  <!-- Scorecard / Results Modal -->
+  <div class="modal-backdrop" id="resultsModal">
+    <div class="modal-dialog results-modal-dialog">
+      <div class="modal-header">
+        <div class="modal-title">🎉 Quiz Performance Summary</div>
+        <button class="modal-close" id="resultsModalClose">✕</button>
+      </div>
+      <div class="results-body">
+        <div class="score-circle-wrapper">
+          <div class="score-radial">
+            <span class="score-big" id="resScore">42</span>
+            <span class="score-denom" id="resTotal">/ 50</span>
+          </div>
+          <div class="score-grade" id="resGrade">Excellent Performance!</div>
+        </div>
+
+        <div class="stats-grid">
+          <div class="stat-card correct-card">
+            <span class="stat-val" id="resCorrect">42</span>
+            <span class="stat-lbl">Correct (+2)</span>
+          </div>
+          <div class="stat-card wrong-card">
+            <span class="stat-val" id="resWrong">5</span>
+            <span class="stat-lbl">Incorrect (-0.5)</span>
+          </div>
+          <div class="stat-card skipped-card">
+            <span class="stat-val" id="resSkipped">3</span>
+            <span class="stat-lbl">Skipped</span>
+          </div>
+          <div class="stat-card accuracy-card">
+            <span class="stat-val" id="resAccuracy">89.4%</span>
+            <span class="stat-lbl">Accuracy</span>
+          </div>
+        </div>
+
+        <div class="results-actions">
+          <button class="btn-primary" id="restartQuizBtn">🔄 Retake Module</button>
+          <button class="btn-secondary" id="reviewMistakesBtn">❌ Review Mistakes</button>
+          <button class="btn-secondary" id="nextDayBtn">➡️ Next Day Module</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Load Data and Main Script -->
+  <script src="questions_data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
